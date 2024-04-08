@@ -1,0 +1,457 @@
+---
+title: How to Delete iCloud Account From Apple iPhone 11 Pro without Password?
+date: 2024-04-07T20:56:48.804Z
+updated: 2024-04-08T20:56:48.804Z
+tags: 
+  - unlock
+  - remove apple account
+categories:
+  - ios
+  - iphone
+description: This article describes How to Delete iCloud Account From Apple iPhone 11 Pro without Password?
+excerpt: This article describes How to Delete iCloud Account From Apple iPhone 11 Pro without Password?
+keywords: apple id locked for security reasons,how to fix apple account disabled,remove device from icloud,how to remove a device from apple id,how to remove airtag from apple id,unlock apple id without phone number,tips to unlock apple id,reset security question of apple id,how to disconnect iphone from icloud,how to unlock apple id without security questions,how do i find my apple id,remove apple two factor authentication,your account has been disabled in the app store and itunes,how to remove an apple id from an iphone,how recover forgot apple id password from icloud itunes and app store,how to delete icloud account,how to fix apple account locked,how to erase a iphone without apple id,how to unlock ipad without apple id,how to unlink iPhone,how to get apple id verification code,update credit card information on apple id and apple pay,iphone locked to owner,how to fix locked apple id from iphone,create apple developer account
+thumbnail: https://www.lifewire.com/thmb/aqzoJvuc7HUCTQdUzpa5GXlHCac=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Mini-Splash-ef002ffe8db643d2a2b4de772ff46790.jpg
+---
+
+## How to Delete iCloud Account On Apple iPhone 11 Pro without Password?
+
+If you own various Apple products, you must be familiar with the significance of iCloud service. iCloud is a cloud storage service that allows Apple users to sync their data and access it across different Apple devices, be it iPhone, iPad, or Macbook.
+
+Now, there are several situations where a user might want to delete their iCloud account, especially when one has created too many iCloud accounts and don’t remember the passwords to all of them.
+
+So, in this guide, we’re going to share some insight into how to delete iCloud account without password so that you can get rid of all the unnecessary accounts and use a single one across all your iDevices.
+
+## Part 1: How to delete iCloud account without password on iPhone?
+
+If you have an iPhone at the moment, here are three different ways to delete an iCloud account using your phone itself.
+
+### 1.1 Remove iCloud from settings on iPhone
+
+Follow these instructions to delete the iCloud account from the “Settings” menu on your Apple iPhone 11 Pro.
+
+**Step 1:** Open “Settings” and scroll down to click on “iCloud”.
+
+**Step 2:** You’ll be asked to enter your password. Here enter any random number and click “Done”.
+
+![enter random password](https://images.wondershare.com/drfone/article/2020/05/enter-random-password.jpg)
+
+**Step 3:** iCloud will tell you the password is incorrect. Tap “Ok” and you’ll be prompted back to the iCloud screen.
+
+**Step 4:** Now, click on “Account” and erase everything from “Description”. Click “Done” and you’ll again go back to the iCloud screen. This will disable the “Find My iPhone” feature and you’ll be able to [remove the iCloud account](https://drfone.wondershare.com/icloud/how-to-remove-icloud-account.html) easily.
+
+![erase description](https://images.wondershare.com/drfone/article/2020/05/erase-description.jpg)
+
+**Step 5:** Again, tap on iCloud and scroll down till the end. Tap “Delete Account” and again click “Delete” to confirm your action.
+
+![select delete account](https://images.wondershare.com/drfone/article/2020/05/select-delete-account.jpg)
+
+That’s how to delete iCloud account without password directly from “Settings” on your Apple iPhone 11 Pro.
+
+### 1.2 Delete iCloud account via iTunes
+
+Another convenient way to delete the iCloud account is to use iTunes on your Apple iPhone 11 Pro. Let’s walk you through the process of deleting an iCloud account using iTunes.
+
+**Step 1:** First of all, make sure to disable the “Find My iPhone” feature. Navigate to “Settings” > “iCloud” > “Find My iPhone” and toggle the switch off to turn off the feature.
+
+![disable find my iphone](https://images.wondershare.com/drfone/article/2020/05/disable-find-my-iphone.jpg)
+
+**Step 2:** Now, go back to the “Settings” window and click “iTunes & App Store”.
+
+![itunes and app store](https://images.wondershare.com/drfone/article/2020/05/itunes-and-app-store.jpg)
+
+**Step 3:** Tap on your “Account” at the top. A pop-up will appear on your screen. Here, click “Sign Out” and the iCloud account will be removed from your iDevice.
+
+![apple id itunes](https://images.wondershare.com/drfone/article/2020/05/apple-id-itunes.jpg)
+
+### 1.3 Create a new password
+
+If you have enabled two-way verification on your Apple iPhone 11 Pro, you can also delete the iCloud account by resetting the password. In this case, however, you’ll have to visit the [Apple ID Account Page](https://appleid.apple.com/) and use it to reset the password.
+
+Here’s how to delete iCloud account without password by creating a new password.
+
+**Step 1:** Visit the Apple ID Account page and select “Forgot Apple ID or Password”.
+
+![forgot apple id or password](https://images.wondershare.com/drfone/article/2020/05/forgot-apple-id-or-password.jpg)
+
+**Step 2:** Now, enter your Apple ID and tap “Continue”. Select “I Need to Reset My Password” to initiate the password resetting process.
+
+**Step 3:** You’ll be prompted to a new window where you’ll have to enter the “Recover Key”. This key is an exclusive that’s generated when a user enables two-way verification for their iCloud account.
+
+**Step 4:** Enter the recovery key and tap “Continue”. Now, select a trusted device where you want to receive the verification code. Enter this verification code to continue with the process.
+
+![enter recovery key](https://images.wondershare.com/drfone/article/2020/05/enter-recovery-key.jpg)
+
+**Step 5:** In the next window, you can reset the password. Simply, add the new password and click the “Reset Password” button.
+
+Once the password is changed, you can easily delete your iCloud account by going to “Settings” > “iCloud” > “Delete Account”. Enter the new password and your iCloud account will be deleted permanently.
+
+In case you haven’t enabled two-way verification for your iCloud account, there’s still a way to reset the password. However, you must remember the security questions that you answered or the recovery e-mail you had added while setting up your iCloud account.
+
+**Step 1:** Open the Apple ID Account page and tap “Forgot Apple ID or Password”. Enter your Apple ID and select “I need to reset my password”.
+
+**Step 2:** You’ll be redirected to a new window displaying two different methods, i.e., “Answer Security Questions” an “Get an Email.” Choose a suitable method and follow the further steps to reset your password.
+
+![recovery email](https://images.wondershare.com/drfone/article/2020/05/recovery-email.jpg)
+
+## Part 2: How to delete iCloud account without password on computer using Dr.Fone - Screen Unlock (iOS)?
+
+If you find all the above methods slightly challenging, we have a simpler solution for you. [Wondershare Dr.Fone Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an exclusive tool for iOS users that’ll help them remove screen locks and delete iCloud accounts from an iDevice, even if you don’t remember the password or even if the “Find My iPhone” feature is enabled.
+
+Thanks to its user-friendly interface, it’ll become a hassle-free task to delete the iCloud account using Dr.Fone Screen Unlock. Since the software is available for Windows as well as Mac, one can easily use it to bypass Apple ID sign-in, irrespective of the OS one’s using on their PC.
+
+So, let’s quickly discuss how to delete iCloud account without password using Dr.Fone Screen Unlock.
+
+**Note:** Before moving further, make sure to back up the entire data as this will erase everything from your Apple iPhone 11 Pro.
+
+**Step 1: Launch Dr.Fone Screen Unlock**
+
+Install Dr.Fone Screen Unlock on your PC and double-tap its icon to launch the software. Now, connect your iDevice to the computer using a USB cable.
+
+**Step 2: Select Screen Unlock**
+
+Now, in the main interface of Dr. Fone Screen Unlock, select “Screen Unlock”.
+
+![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+**Step 3: Choose the Option**
+
+In the next window, you’ll see three different options. Select “Remove Apple ID” as we want to delete the iCloud account.
+
+![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+**Step 4: Trust the Apple iPhone 11 Pro device**
+
+Now, to successfully establish the connection between the two devices, enter the passcode on your iDevice and tap the “Trust” button to confirm the connection.
+
+![trust computer](https://images.wondershare.com/drfone/drfone/trust-computer.jpg)
+
+**Step 5: Reset Your Apple iPhone 11 Pro**
+
+Once the two devices are successfully connected, tap “Unlock Now” on your computer screen. This will trigger a warning message. Click “Unlock” to continue with the process.
+
+![attention](https://images.wondershare.com/drfone/drfone/attention.jpg)
+
+At this point, you’ll be asked to enter recovery mode. You can follow the on-screen instructions to successfully enter recovery mode.
+
+![interface](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
+
+**Step 6: Unlock Apple ID**
+
+After entering the recovery mode, Dr.Fone will automatically initiate the unlocking process. Do not disconnect the iDevice from your computer as this can cause damage to the Apple iPhone 11 Pro device itself.
+
+![process of unlocking](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
+
+As soon as your Apple ID gets unlocked, a confirmation message will pop up on your screen. Simply reboot your smartphone and you’ll be able to sign in with a new Apple ID without any hassle.
+
+![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
+
+It doesn’t matter if you’re using Windows or Mac, Dr.Fone – Screen Unlock for iOS will make it extremely easy to delete the iCloud account without the password. So, if you are looking for a reliable and convenient way to remove an iCloud account, make sure to use Dr.Fone – Screen Unlock.
+
+
+## Conclusion
+
+That’s the entire guide on how to delete iCloud account without password. Even though iCloud is an exceptional feature, one is likely to forget the password to his iCloud account. If you’re stuck in a similar situation and want to create a new iCloud account, make sure to use the above tactics to delete the previous iCloud account, even if you don’t remember the password.
+
+## How to Sign Out of Apple ID On Apple iPhone 11 Pro without Password?
+
+_"Why can't I sign out of my iPhone?"_
+
+It’s no secret that all Apple products have one common USP, i.e., security. Whether you’re using an iPhone or an iPad, creating an Apple ID online is needed. It is practically impossible for someone else to access your device without your permission. However, this factor can also become a severe headache, especially if you have [forgotten the password](https://drfone.wondershare.com/icloud/forgot-icloud-password.html) to your Apple ID.
+
+Without the password, you can’t even sign out of your Apple ID, let alone use different services on the iDevice. If you’re also stuck in a similar situation, we’re here to help. In this guide, we’ve compiled a list of effective tactics on **how to sign out of Apple ID without password**. These methods will help you [remove your Apple ID](https://drfone.wondershare.com/apple-account/how-to-remove-an-apple-id-from-an-iphone.html) from your iDevice, even if you don’t remember the password.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jmU_WBObOEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+
+## Part 1: Sign Out of Apple ID with Password
+
+Before delving into methods for signing out of your Apple ID without a password, it's essential to outline the conventional procedure of signing out with your password. Follow these steps to successfully sign out of your Apple ID on your iOS device:
+
+**Step 1:** Open the "Settings" app on your device and tap on your name at the top of the Settings menu. Following this, tap on "Sign Out" at the bottom of the Apple ID settings page.
+
+**Step 2:** Enter your Apple ID password when prompted. Choose the data you want to keep a copy of on your device and tap "Sign Out."
+
+![choose the sign out option](https://images.wondershare.com/drfone/article/2023/11/sign-out-apple-id-1.jpg)
+
+## Part 2: Sign out of Apple ID without Password by Apple ID Unlocker
+
+If you have forgotten the password of your Apple ID and don't have a way to recover it, there is no need to panic. You can easily remove passwords from your iOS device using Wondershare [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). Its "[Remove Apple ID](https://drfone.wondershare.com/solutions/forgot-apple-id.html)" feature can effectively assist you in signing out of your Apple ID without requiring a password. This method provides a smooth solution for users facing issues related to forgotten passwords.
+
+
+
+### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+
+One click to Sign Out of Apple ID without Password.
+
+- Simple, click-through, process.
+- Unlock screen passwords or Apple ID from all iPhones and iPads.
+- No tech knowledge is required, everybody can handle it.
+- Supports almost all iPhones and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+
+**4,395,216** people have downloaded it
+
+Dr.Fone's iPhone unlocking tool can permanently bypass the Apple ID lock. It works even if the Find My/Find My iPhone feature is active on the Apple iPhone 11 Pro device. This tool helps restore access to all your iCloud services and Apple ID features by signing in with a new account. Following are the steps to remove the Apple ID from your iOS Device:
+
+**Step 1: Access Remove Apple ID in Wondershare Dr.Fone**
+
+To begin, open Wondershare Dr.Fone on your computer. Then, navigate to “Toolbox,” tap “Screen Unlock,” and define “iOS" as the Apple iPhone 11 Pro device type. It will give you access to the iOS screen unlock menu, where you need to choose “Remove Apple ID.” Now, you need to connect your iDevice to the computer.
+
+![ tap on remove apple id feature](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
+
+**Step 2: Enable Lock Screen and 2FA**
+
+When your iDevice is connected to your computer, you'll notice a connectivity status displayed on the following screen. Proceed by clicking the “Unlock Now” button. Dr.Fone will now ask if you have the screen lock and 2FA enabled on your device. The answer to these questions needs to be affirmative, and if you don't have the option enabled, you will need to do it before proceeding.
+
+![ press the unlock now button](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
+
+**Step 3: Enable Recovery Mode on Your iOS Device**
+
+Once you've confirmed these options, you'll be directed to a screen that presents on-screen guidelines for placing your iDevice in Recovery Mode. Adhere to the instructions that correspond to your specific iOS model. After initiating Recovery Mode on the Apple iPhone 11 Pro device, the subsequent screen will present its details.
+
+![enable the iphone recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
+
+**Step 4: Complete the Apple ID Removal Process**
+
+Upon the identification of the Apple iPhone 11 Pro device Model, you will simply be prompted to choose the “System Version” and initiate the process by clicking on “Start.” Now, wait for the firmware to download, and once it is downloaded, click "Unlock Now." A confirmation window promptly emerges on the screen, prompting you to input a code for further progress. Enter the code and select “Unlock” to begin the process.
+
+![hit the start button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+
+## Part 3: Sign Out of Apple ID Without Password by Resetting Your Apple ID Password
+
+If you find yourself unable to recall your Apple ID password, you can reset it through a simple process. Here's how to sign out of your Apple ID without a password by resetting your Apple ID password:
+
+**Step 1:** Access the Settings menu and select your name. Then, navigate to the Sign-In & Security section and choose the option labeled "Change Password.”
+
+![tap on change password option](https://images.wondershare.com/drfone/article/2023/11/sign-out-apple-id-6.jpg)
+
+**Step 2:** Simply follow the on-screen instructions to complete the password reset process. You can also perform these steps on a trusted iPad or Apple Watch.
+
+## Part 4: Sign Out of Apple ID without Password on Apple Web
+
+Another convenient way how to sign out of Apple ID without the password is to reset the password of your Apple ID by tapping the “**Forgot Password**” option. In this case, however, you must remember all the security questions to reset your password successfully. If you don’t remember the security questions, you can also reset the recovery password using the registered e-mail ID.
+
+Follow these instructions to reset your password and then sign out of the Apple ID.
+
+**Step 1:** Go to the [Apple ID Account Page](https://appleid.apple.com/) and click “**Forgot Apple ID or Password**”.
+
+![forgot apple id or password](https://images.wondershare.com/drfone/article/2020/05/forgot-apple-id-or-password.jpg)
+
+**Step 2:** Enter your Apple ID and click “**Continue**”. In the next window, select “**I Need to Reset My Password**”.
+
+**Step 3:** Now, select the method using which you want to reset the password. Here are the three possible options.
+
+- If you’ve set up security questions while creating your Apple ID, you can choose “**Answer Security Questions**”. This method will only work if you remember all the answers to every security question. Once you select this method, you’ll be prompted to a new window, with all security questions. Answer these questions and follow the further instructions to reset your password.
+- If you’ve added a recovery e-mail while creating your Apple ID, you can also use it to reset the password. In this case, select “**Get an E-mail**”. You’ll receive a password reset e-mail on your registered email.
+
+    ![recovery email](https://images.wondershare.com/drfone/article/2020/05/recovery-email.jpg)
+
+- Whichever recovery method you choose, make sure to follow the on-screen instructions carefully. Once your password reset process completes, you’ll have to individually update the password in every iCloud service, be it iTunes or iMessage.
+
+In case you have enabled two-way verification on your Apple iPhone 11 Pro, you’ll receive a different screen after clicking “Forgot Apple ID or Password”. In this case, you’ll have to follow a different approach to reset your Apple ID password.
+
+**Step 1:** Go to the Apple ID Account page and click “**Forgot ID or Password**”.
+
+**Step 2:** Enter your Apple ID and select the “**Reset Password**” option.
+
+**Step 3:** In the next window, you’ll be asked to enter the “**Recovery Key**”. This is a unique key that is provided when a user enables two-way verification for their iCloud account. Enter the recovery key and click “**Continue**”.
+
+![enter recovery key](https://images.wondershare.com/drfone/article/2020/05/enter-recovery-key.jpg)
+
+**Step 4:** Choose a trusted device to receive the verification code. Now, enter this verification code and click “**Continue**”.
+
+**Step 5:** In the next window, enter a new password and tap “**Reset Password**”.
+
+Once you’ve reset the password, you can easily sign out of the Apple ID by navigating through Settings>Apple ID>Sign Out on your Apple iPhone 11 Pro.
+
+## Part 5: Sign Out of Apple ID without Password by Apple Support App
+
+If you're unable to reset your Apple ID password on your own, you can seek assistance from Apple's official Support app. It provides expert guidance and troubleshooting. Here's how to use the Apple Support app to sign out of your Apple ID without a password:
+
+**Step 1:** Access the Apple Support app on another Apple device. In case it's not available, you have the option to download the Apple Support app from the App Store. Scroll to the bottom until you find Support Tools, then select “Reset Password.” Here, opt for "A different Apple ID."
+
+![choose a different apple id](https://images.wondershare.com/drfone/article/2023/11/sign-out-apple-id-7.jpg)
+
+**Step 2:** Provide your Apple ID, and if your Apple ID slips your mind, you can attempt using your email address or phone number instead. Proceed by tapping “Next,” and adhere to the step-by-step guidelines on the screen to reset your password.
+
+![add the required details](https://images.wondershare.com/drfone/article/2023/11/sign-out-apple-id-8.jpg)
+
+## Conclusion
+
+That wraps up our tips on **how to sign out of Apple ID without password**. No doubt, Apple products are probably the most secure devices on the planet, but it can become extremely challenging to access the features of your iDevice when you’ve forgotten the password. If that’s the case, make sure to follow the above-mentioned tactics to [sign out of the previous Apple ID](https://drfone.wondershare.com/solutions/forgot-apple-id.html) and create a new one to regain control over your iDevice.
+
+## How to Fix when Apple Account Locked On Apple iPhone 11 Pro?
+
+You pick up your phone to perform a routine task, and your Apple iPhone 11 Pro gives you a surprise that you have gotten your Apple account locked. It will remain this way, and you will not be able to use the phone unless you follow the proper steps.
+
+Several Apple device users face this problem, and one of these messages might be on your screen:
+
+- “This Apple ID has been disabled for security reasons.”
+- “You can’t sign in because your account was disabled for security reasons.”
+- “This Apple ID has been locked for security reasons.”
+
+Getting your Apple account locked can be frustrating and might hinder the performance of your phone. In this article, we will discuss the various tips to solve the Apple account locked issue.
+
+![fix-when-apple-accunt-locked](https://images.wondershare.com/drfone/article/2020/11/apple-account-locked-0.jpg)
+
+## Part 1. Why is Apple Account Locked?
+
+Although annoying, Apple locks your Apple Account for a good reason. There might be various reasons, but the most common one is that your account’s integrity was in danger. Apple locks your account when it sees an “unusual activity” surrounding your account or device. It generally happens when some unauthorized person attempts to access your account.
+
+Your activity can also lock your account. If you fail to log in to your Apple ID several times, Apple might lock it. Moreover, your account can even get locked when you answer the security questions incorrectly more than once. Furthermore, Apple tries to keep your ID dedicated to a few devices. Besides, it could shut it down when you aimlessly try to open the account on multiple Apple devices.
+
+## Part 2. 3 Tips to Unlock Apple Account
+
+Well, now you know the reasons behind the Apple Account getting locked. The next step is to learn the best tips to unlock it. Here, we will share various tricks that will open the Apple account in no time. So let’s dive in!
+
+### Tip 1. Use Dr.Fone to Unlock Apple Account (without Password)
+
+Wondershare’s Dr.Fone comes with a complete set of tools to help with a range of different and challenging problems related to your Android or iPhone. The software has an intuitive interface, making unlocking Apple account a lot easier than its competitors. The application [Dr. Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) has robust versions for both Windows and macOS.
+
+![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+Some of the top and vital features of Dr.Fone are as follows:
+
+- It can repair the system of both Android and iOS devices.
+- It can backup data available on your device.
+- You can transfer WhatsApp, Line, and Kik chat history from one phone to another.
+
+Download the tool on your respective system, and follow the guidelines stated below to unlock Apple account without the password:
+
+**Step 1: Run the Application**
+
+Once the download is complete, get your USB cable and connect your Apple iPhone 11 Pro/iPad to your computer.
+
+Select the “Screen Unlock” tool, and a new interface will greet you. Select the “Unlock Apple ID” option to begin the process to unlock your Apple Account.
+
+![drfone-android-ios-unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+**Step 2: Reset your Apple iPhone 11 Pro using Dr.Fone**
+
+Dr.Fone will present you with detailed on-screen instructions that show precisely how to reset your Apple iPhone 11 Pro Settings. Dr.Fone must unlock your Apple iPhone 11 Pro/iPad.
+
+![interface](https://images.wondershare.com/drfone/drfone/interface.jpg)
+
+**Step 3: Unlock the Phone**
+
+When your Apple device has been reset, Dr.Fone will get to work and will give you your unlocked iPhone/iPad in a matter of seconds.
+
+When the process finishes, a pop-up message will notify you. It will point out that you can now unplug your Apple iPhone 11 Pro from the PC and check if the operation was successful.
+
+![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
+
+### Tip 2. Use iTunes to Unlock Apple Account
+
+Apple also offers the services of its built-in utilities such as iTunes to unlock Apple account. Here before doing anything else, you will need to get your Apple iPhone 11 Pro into recovery mode. For added convenience, we have listed how to get into recovery mode with iPhone so you can smoothly proceed with the process.
+
+**Step 1.** Power off your device.
+
+**Step 2.** Once it’s powered off, press the side button and keep holding it while connecting your Apple iPhone 11 Pro to your computer.
+
+**Step 3.** Once the recovery mode logo appears, leave the button.
+
+Now that you have entered into recovery mode, the next step is to restore the iPhone. The process is simple. You can learn it quickly by going through the steps listed below:
+
+**Step 1.** After successfully getting your Apple iPhone 11 Pro into recovery mode, select the Restore or Update option from iTunes.
+
+**Step 2.** iTunes will download the necessary files to restore your phone, which can take some time.
+
+**Step 3.** After the download, you can press shift while clicking restore, which will let you select the firmware file.
+
+**Step 4.** Wait for the firmware update to finish, and then you are done!
+
+**Step 5.** Access your Apple iPhone 11 Pro, and you will find that the Apple account will be disabled.
+
+![apple account locked 1](https://images.wondershare.com/drfone/article/2020/11/apple-account-locked-1.jpg)
+
+### Tip 3. Recover Your Apple ID via Apple (Reset Password)
+
+If you have forgotten your Apple device’s password, it’s recommended not to input your password more than one time. It would lead to a 24-hour shutdown. It cannot be lifted even if you know your password, so proceed wisely. The recommended solution instead is to reset your password.
+
+Here are the steps to reset the password for any of your Apple devices, provided they are in your trusted devices’ list.
+
+**Step 1.** Go to Settings on your Apple device and tap your name.
+
+**Step 2.** Now, go to Password & Security and then Change passcode.
+
+**Step 3.** If your Apple device is signed in to iCloud, you will be required to enter a password.
+
+**Step 4.** Enter the iCloud password and then set a new code for your device.
+
+![apple account locked 2](https://images.wondershare.com/drfone/article/2020/11/apple-account-locked-2.jpg)
+
+## Part 3. How to Change Apple ID on an iPhone?
+
+If you have purchased a refurbished iPhone and the previous owner’s Apple ID added to it, it is wise to change the Apple ID. You can add your own or add the ID of someone you know. Apple provides simple steps for you to change your account on iPhone.
+
+**Step 1.** Visit the relevant site of Apple to remove the ID and sign in with your account.
+
+**Step 2.** Navigate to the Account section and choose Edit. From there, you will see a new list of options.
+
+**Step 3.** Select Change Apple ID.
+
+**Step 4.** Update your email address and click continue.
+
+**Step 5.** That’s it!
+
+![apple account locked 3](https://images.wondershare.com/drfone/article/2020/11/apple-account-locked-3.jpg)
+
+## Conclusion
+
+Getting your Apple account can ruin your day and hinder your work. Luckily, there are suitable methods to fix the Apple Account Locked issue quickly and without any damage. Here, we have discussed the top techniques to unlock the Apple account. Hopefully, these tips have helped you can access the contents of your Apple iPhone 11 Pro.
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-iphone-13-pro-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By iPhone 13 Pro without the Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-apple-iphone-15-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On Apple iPhone 15? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-apple-iphone-13-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On Apple iPhone 13 in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-se-2020-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone SE (2020)?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-6s-plus-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone 6s Plus without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-13-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 13?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-iphone-se-2020-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock iPhone SE (2020) When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-iphone-6s-plus-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On iPhone 6s Plus Making It Possible</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-14-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 14 Pro Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-iphone-x-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect iPhone X and iPad</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-15-plus-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone 15 Plus? How to Fix</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-8-plus-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone 8 Plus without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-14-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your Apple iPhone 14?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-6s-plus-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone 6s Plus Apple ID on MacBook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-apple-iphone-15-pro-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your Apple iPhone 15 Pro without Security Questions?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-xs-max-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your Apple iPhone XS Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-7-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From iPhone 7</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-6-plus-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone 6 Plus without Security Questions?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-poco-x6-pro-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Poco X6 Pro Phone?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-max-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro Max to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-xs-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone XS Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-realme-gt-5-pro-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Realme GT 5 Pro</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-realme-c67-4g-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of Realme C67 4G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-vivo-y78plus-t1-edition-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Vivo Y78+ (T1) Edition Phone? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-vivo-y17s-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Vivo Y17s Phone Hassle-Free</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-infinix-hot-30-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Infinix Hot 30 5G</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-14-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 14 With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-oneplus-ace-2-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix OnePlus Ace 2 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-samsung-galaxy-s23-fe-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Samsung Galaxy S23 FE Device SIM</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-14-pro-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 14 Pro Prevention & Solution</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-zero-5g-2023-turbo-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Infinix Zero 5G 2023 Turbo Phone without PIN</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-honor-100-pro-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Honor 100 Pro Phone | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Realme 11 Pro+ | Dr.fone</u></a></li>
+</ul></div>

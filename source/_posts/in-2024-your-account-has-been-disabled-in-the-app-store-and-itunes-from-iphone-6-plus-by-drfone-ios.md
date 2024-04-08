@@ -1,0 +1,534 @@
+---
+title: In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone 6 Plus?
+date: 2024-04-07T20:56:46.414Z
+updated: 2024-04-08T20:56:46.414Z
+tags: 
+  - unlock
+  - remove apple account
+categories:
+  - ios
+  - iphone
+description: This article describes Your Account Has Been Disabled in the App Store and iTunes From iPhone 6 Plus?
+excerpt: This article describes Your Account Has Been Disabled in the App Store and iTunes From iPhone 6 Plus?
+keywords: how recover forgot apple id password from icloud itunes and app store,how to unlink iPhone,reset security question of apple id,iphone locked to owner,apple watch locked to owner,remove device from icloud,your account has been disabled in the app store and itunes,tips to unlock apple id,unlock apple id without phone number,how to delete icloud account,how to disconnect iphone from icloud,how to remove a device from apple id,how to fix locked apple id from iphone,change apple id on macbook,how to remove apple id from iphone without password
+thumbnail: https://www.lifewire.com/thmb/bJZjivkvkiXSPidjAhZPdQz2Xu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545995058-58ed21243df78cadab023f3c.jpg
+---
+
+## Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 6 Plus?
+
+You may see the error message, “**Your account has been disabled in the App Store and iTunes**” when you try to log in. This is often an indication that for some reason your Apple ID is not working as it should. When you consider that you will not be able to download or update apps or even make a purchase using Apple Pay without your Apple ID, it is easy to see why this error message can be a problem.
+
+Why is my account disabled in the App store? Here, we take a look at the reasons why you may see the error messages and what you can do to fix them.
+
+## Part 1. Why has my account been disabled in the App Store and iTunes?
+
+The following are some reasons why you may see this error message popup on your screen:
+
+- Entering the incorrect Apple ID and password multiple times
+- Not using your Apple ID for an extended period of time
+- Any billing issues such as unpaid iTunes and App Store orders
+- Safety and security reasons like when Apple suspects your account may be hacked
+- When there are charging disputes on your credit card
+
+## Part 2. How to fix “Your account has been disabled in App store and iTunes”?
+
+There are numerous methods to tackle this issue and regain access to your device. For a quick and concise understanding, you can watch our informative video tutorial. If you prefer a more in-depth, step-by-step explanation, continue reading this article for detailed instructions on each method.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6NNzJh7fyxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+
+_**Tips:** Did you forget your Apple ID password or are you struggling to remove your Apple ID account? Worry not, as [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is here to help you [remove your Apple ID without password](https://drfone.wondershare.com/apple-account/how-to-remove-apple-id-from-iphone-without-password.html) in a matter of seconds. By logging into a new account, you can fully restore access to all your iCloud services and Apple ID features, ensuring a seamless user experience._
+
+### Method 1. Wait 24 hours and Try Again
+
+This method will prove useful to you if you have entered the wrong password several times. If this is the reason your account has been disabled, leave it alone for about 24 hours. When the time has elapsed, try entering the correct password to see if this fixes the issue.
+
+If you just forget the password and cannot remember it, you can follow the steps below to reset the password on your own iOS device:
+
+- **Step 1:** Open Settings.
+- **Step 2:** Tap \[your name\] on top of the screen> Password & Security > Change Password.
+
+![reset password](https://images.wondershare.com/drfone/article/2022/04/settings-apple-id-password-security-change-password.jpg)
+
+- **Step 3:** Enter the passcode for your device.
+- **Step 4:** Follow the onscreen steps to reset your password.
+
+**If the above steps were unable to change or reset the password, follow the steps below:**
+
+- **Step 1:** Go to [https://iforgot.apple.com/](https://iforgot.apple.com/password/verify/appleid).
+- **Step 2:** Put your Apple ID (email) in the box and click “Continue”.
+
+![reset password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id.jpg)
+
+- **Step 3** Enter the phone number that you use with your Apple ID.
+
+![reset apple id password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id-2.jpg)
+
+- **Step 4:** Look for the notification on iPhone, Mac, or iPad and follow the instructions to reset the password.
+
+![reset password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id-3.jpg)
+
+Note that if you are changing your Apple ID password on an iPhone or iPad, you will need to enter your device's six-digit passcode, then reset a new password.
+
+Forgetting the password is particularly troublesome, but there is good news. That is, you can use [Password Manager](https://drfone.wondershare.com/iphone-password-manager.html) to find your passwords on your Apple iPhone 6 Plus/iPad without spending too much time remembering them!
+
+
+
+### [Dr.Fone - Password Manager (iOS)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+
+Recover and keep all your passwords in one place
+
+- Unlock and manage various passcodes, PINs, Face IDs, Apple ID, WhatsApp password reset, and touch ID without limitations.
+- To find your password on an iOS device, it effectively functions without harming or leaking your information.
+- Ease your job by finding any strong password across various platforms to manage multiple email accounts.
+- The installation of Dr.Fone on your device won't take much space, without any disturbing ads.
+
+**3981454** people have downloaded it
+
+### Method 2. View Your Payment Methods and Update Them
+
+If you think that your account has been disabled because of a payment issue, it is necessary to check your payment methods and update them. Follow these simple steps to do it:
+
+- **Step 1:** Open the Settings and then tap on your name at the top.
+- **Step 2:** Select “iTunes & App Store” and then choose your Apple ID.
+- **Step 3:** Tap “View Apple ID” and then select “Manage Payments”.
+- **Step 4:** Tap “Add Payment Method” to add a new payment method.
+
+![disabled in the app store and itunes 1](https://images.wondershare.com/drfone/article/2020/11/disabled-in-the-app-store-and-itunes-1.jpg)
+
+If the payment method was the issue, your account will be re-enabled after these steps.
+
+### Method 3. Settle Any Unpaid Charges
+
+Do you have any unpaid purchases or subscriptions?
+
+It is important to keep track of any purchases or subscriptions that you have signed up for and ensure that you pay for them on time. This not only helps you avoid late fees and penalties, but it also ensures that your account remains active and accessible. If you do have any unpaid charges, it is recommended that you settle them as soon as possible in order to reinstate your account and prevent any further issues. Keep a record of all your expenses and regularly review your bills to avoid missing any payments and keep your accounts in good standing.
+
+### Method 4. Sign Out and Sign in Again
+
+Signing out of your account and then signing back in may help if this issue is caused by a software glitch.
+
+- On your iOS device, go to Settings > \[Your Name\] > iTunes & App Store and Sign Out. Then sign in again.
+- On your Mac, open the App Store (Store > Sign Out) and iTunes (Account > Sign Out. Then sign in again.
+
+### Method 5. Try Contacting Apple Support Directly
+
+If you see a message that says, “Your account has been disabled in the App Store and iTunes,” contact Apple Support for help. You can follow these simple steps to contact Apple support:
+
+- **Step 1:** Go to [https://getsupport.apple.com/solutions](https://getsupport.apple.com/solutions).
+- **Step 2:** Then click “Start a chat” to chat with someone in Apple Support now.
+- **Step 3:** Or schedule a call with Apple Support, and they should be able to help you fix your account disabled in App store.
+
+![disabled in the app store and itunes 2](https://images.wondershare.com/drfone/article/2023/05/getsupport-apple.png)
+
+## Part 3. What does it influence when “Your account has been disabled in the App Store and iTunes”?
+
+When you see the error message “Your account has been disabled in the App Store and iTunes” it often means the following:
+
+- You cannot access Apple Books, App Store purchases, and even iTunes purchases.
+- You may not have access to your iCloud account or any of the data stored in the account until you fix the problem.
+- Furthermore, you may not be able to access Apple services and any Apple Store orders and repairs may need to be rescheduled.
+- Until you can fix the issue, you will not be able to receive iMessage, FaceTime, and iCloud Mail.
+
+## Part 4. Is “Your account has been disabled in the App Store and iTunes” the same as “Apple ID disabled”?
+
+No. The error message “Your account has been disabled in the App Store and iTunes” differs from “Apple ID disabled”. You will primarily see the “Your account has been disabled in the App Store and iTunes” when you try to access content in the App Store. On the other hand, you may see the message “Apple ID disabled” when you enter the Apple ID and password to [bypass the iCloud Activation Lock screen](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html).
+
+![apple id disabled](https://images.wondershare.com/drfone/article/2023/05/apple-id-disabled.jpg)
+
+After you see these errors, you will not be able to access some of the features and apps that require your Apple ID for access.
+
+## Part 5. How to fix Apple ID disabled by removing Apple ID?
+
+Sometimes the only way to [fix “Apple ID Disabled”](https://drfone.wondershare.com/apple-account/how-to-unlock-apple-id-disabled-activation-lock.html) is to remove the Apple ID from the Apple iPhone 6 Plus device. This may become a viable solution if you lost or forgot the Apple ID password or ID and you have no way to recover them. It is also one of the best solutions when you purchased a second-hand device, and you don’t know the Apple ID password for the account associated with the Apple iPhone 6 Plus device.
+
+One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This third-party unlocking software is designed to easily and effectively remove the Apple ID password from any device. The following are some things it can do;
+
+
+
+### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+
+Remove iCloud Account without Password in Minutes
+
+- Remove Apple ID/iCloud Account efficiently.
+- Save your Apple iPhone 6 Plus quickly from the disabled state.
+- Free your sim out of any carrier worldwide.
+- Bypass iCloud activation lock and enjoy all iCloud services.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+- Works for all models of iPhone, iPad, and iPod touch.
+
+**4,008,669** people have downloaded it
+
+Here’s how to use Dr.Fone Screen Unlock to remove the Apple ID from the Apple iPhone 6 Plus device;
+
+- **Step 1: Install the Program**
+
+To begin, download the Dr.Fone Toolkit from the program’s main website. Install the toolkit onto your computer. Open it after successful installation and then choose “Screen Unlock” from the main screen.
+
+- **Step 2: Choose to Remove Apple ID**
+
+On the next screen, you should see three options. Choose “Remove Apple ID” since we want to remove the Apple ID from the Apple iPhone 6 Plus device.
+
+![drfone android ios unlock](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
+
+- **Step 3: Connect the iOS Device**
+
+Connect the iOS device to the computer using its lightning cable. Then enter the Apple iPhone 6 Plus device’s passcode and, when prompted, tap “Trust” to allow the computer to detect the Apple iPhone 6 Plus device. The program should detect the Apple iPhone 6 Plus device and display information about it. Then click “Unlock Now”.
+
+![trust computer](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
+
+- **Step 4: Apple ID Removal will Begin**
+
+Dr.Fone will immediately begin removing the Apple ID from the Apple iPhone 6 Plus device. You should see a progress bar indicating how long the process will take. Ordinarily, the removal should take just a few seconds. When the process is complete, you will see a notification on the screen letting you know that the Apple ID has been removed.
+
+![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
+
+You should then be able to sign in to another Apple ID or create a new Apple ID and password to use on the Apple iPhone 6 Plus device.
+
+## Conclusion
+
+In conclusion, encountering a disabled Apple account in the App Store and iTunes can be a frustrating experience. However, by understanding the reasons behind it, following the recommended steps to resolve the issue, and considering the broader impact on your digital life, you can navigate this situation effectively. Remember, prompt action and patience are key to restoring your account and getting back to enjoying the Apple ecosystem hassle-free.
+
+## Apple ID Locked for Security Reasons On Apple iPhone 6 Plus? Find the Best Solution Here
+
+Apple ID is the main functional unit in the smooth and secure operation of Apple devices. This ID is the gateway towards many services, including iCloud, App Store, and more. In the context of these security concerns, Apple ID could get locked out for various reasons, like **Apple ID locked for security reasons**. This happens just because the security feature in the operating system detects some fictitious activity.
+
+However, you don't need to worry about **your Apple ID locked for security reasons** because solutions to these problems do exist. In this article, we will also provide one significant and effective solution to tackle such issues effortlessly.
+
+## Part 1. Exploring the Causes of Apple ID Locked Out for Security Purposes
+
+Has **your Apple ID been locked for security reasons**, and is this problem creating some tension for you? Before we move further towards its solutions, it's essential to know the reasons that lead to these problems. Some of them are explained below in a comprehensive manner:
+
+### 1\. Incorrect Attempts
+
+Apple locks your Apple ID mainly when you or someone else has entered the password incorrectly multiple times. This is one of the most common reasons, and mostly, this happens by the original users themselves unintentionally.
+
+### 2\. Preventing Fraudulence
+
+If there are unauthorized purchases or suspicious transactions on your ID, Apple may consider locking it to prevent that activity. It happens to protect the user's financial information and to avoid any fraudulent activity from being done on that Apple ID.
+
+### 3\. Using Third-Party Tools
+
+Sometimes, when using third-party tools based on open-source iCloud sources, the Apple ID could get locked. Developers can integrate iCloud features into their applications to provide users with improved accessibility to their iCloud data.
+
+### 4\. Security Breach Reasons
+
+The ID can also get locked when Apple senses a potential security breach, which could lead to the exposure of your credentials. It may occur when someone tries to hack your ID to get some information, especially when it is being used in multiple areas.
+
+### 5\. Incorrect Security Questions
+
+It may be due to the security questions you or someone else has entered incorrectly too many times. This is another common reason because, most often, the security questions are forgotten by the user. Ultimately, this leads to your Apple ID being locked for security reasons.
+
+## Part 2. Resolving the Apple ID Locked Out For Security Reasons by Resetting The Password
+
+The basic solution to the **Apple ID locked for security reasons** is to [<u>reset the ID's password</u>](https://drfone.wondershare.com/reset-iphone/how-to-reset-iphone-password.html). Apple also recommends adopting this method if you feel any suspicious activity. The password for your Apple ID can be reset from the iOS device itself or the Mac. We are providing a simple guide to reset your password either way.
+
+### Resetting Password From iOS Device
+
+**Instructions:** To reset your Apple ID password using your iOS device, open the "Settings" app and move ahead by tapping on your name in front of you. Then, continue to select the "Sign-In & Security" option and select "Change Password." Follow the prompts on the screen to complete the Apple ID password change process.
+
+![change the apple id password](https://images.wondershare.com/drfone/article/2023/11/fix-apple-id-locked-for-security-reasons-1.png)
+
+### Resetting Password From Mac
+
+**Instructions:** Start by tapping the Apple logo in the top left corner of your screen and choosing the option "System Settings." Upon completion of this step, you have to access your Apple ID settings and proceed by selecting the "Sign-In & Security" option. Subsequently, opt for the "Change Password" feature to modify your Apple ID password.
+
+![press the change password button](https://images.wondershare.com/drfone/article/2023/11/fix-apple-id-locked-for-security-reasons-2.jpg)
+
+## Part 3. Resolving the Apple ID Locked Out for Security Reasons by iForgot Website
+
+You have tried to resolve the problematic message indicating, "This Apple ID has been locked," but resetting the password is not helping. Then, you need to try iforgot.apple.com, which will help you tackle this issue quickly. Here is how to resolve **your Apple ID, which has been locked for security reasons**, using the iforgot.apple.com website.
+
+- **Step 1:** To begin with, you will have to browse the website iforgot.apple.com on your computer. Once the website has loaded, move ahead by pressing the “Reset Password” and selecting the “Continue” option after entering the Apple ID.
+
+![tap on reset password](https://images.wondershare.com/drfone/article/2023/11/fix-apple-id-locked-for-security-reasons-3.jpg)
+
+- **Step 2:** In the next stage, you need to reset your password, and for that, you need to go through a verification process sent to your trusted device. You can reset the Apple ID password by tapping the "Allow" button. Following this, you must provide the trusted device passcode to initiate the password reset process.
+
+![iphone to change apple id password](https://images.wondershare.com/drfone/article/2023/11/fix-apple-id-locked-for-security-reasons-4.jpg)
+
+## Part 4. Resolving the Apple ID Locked Out for Security Reasons by Apple Support App
+
+If your Apple ID is still inaccessible after implementing the methods, you can try the Apple Support app. This technique can be applied by arranging another device for downloading the Apple Support app. Users can regain access to their Apple ID and restore full device functionality through this app. The simple guide to perform this action is explained below step-wise:
+
+- **Step 1:** You need to download the Apple Support App on the borrowed device and proceed to open it. After that, navigate to the "Support Tools" section, find the "Reset Password" option, and tap on it.
+
+![proceed with reset password option](https://images.wondershare.com/drfone/article/2023/11/fix-apple-id-locked-for-security-reasons-5.jpg)
+
+- **Step 2:** Choose the "Help Someone Else" option to continue. Then, give your Apple ID and hit the "Continue" button. There, you have to follow the on-screen instructions to reset your password and get access to it.
+
+![press the continue button](https://images.wondershare.com/drfone/article/2023/11/fix-apple-id-locked-for-security-reasons-6.jpg)
+
+## Part 5. No Solution Yet? Try Wondershare Dr.Fone – Screen Unlock (iOS) To Unlock Locked Apple ID for Security Reasons
+
+When facing an Apple ID locked for security reasons, it becomes imperative to seek a reliable solution. All essential operations within iOS devices are intertwined with the functionality of the Apple ID. That's why a viable resolution is crucial for seamless device usability. In such situations, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) emerges as a highly effective option.
+
+It is specifically designed to tackle the intricacies of iOS device management. This tool offers a dedicated feature to unlock Apple IDs, making it the ultimate recourse. Additionally, it allows you to [<u>bypass the iCloud activation lock</u>](https://drfone.wondershare.com/ios-16/how-to-bypass-icloud-activation-lock-screen-on-ios-16.html) without requiring a password. This iOS screen unlock tool is fully compatible with the latest versions of iOS 17 and iPadOS 17.
+
+### Key Features of Wondershare Dr.Fone
+
+1. Using Wondershare Dr.Fone, you can also remove the Apple ID or screen lock from the latest iPhone 15 models.
+2. You can also manage your Apple iPhone 6 Plus data transfer or fix iDevice system issues with the help of Wondershare Dr.Fone.
+3. This tool can also help its users to remove the Screen Time Passcode and [<u>SIM lock</u>](https://drfone.wondershare.com/sim-unlock/sim-unlock-code.html).
+
+### How To Use Wondershare Dr.Fone To Unlock Locked Apple ID for Security Reasons
+
+Summarized below is the detailed step-by-step process of using Wondershare Dr.Fone to unlock your Apple ID:
+
+- Step 1: Navigate to the Remove Apple ID Feature
+
+With Wondershare Dr.Fone launched, move to the “Toolbox” tab and access “Screen Unlock.” Then choose "iOS" as your device type, and on the following screen, press “Remove Apple ID.” Now is the time to connect your Apple iPhone 6 Plus to the computer and let Wondershare Dr.Fone detect it.
+
+![continue with remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
+
+
+- Step 2: Enable 2FA on Your iOS Device
+
+To proceed further, it is imperative to have screen lock and 2FA enabled on your iOS device. If it already isn’t, do it and move to put your device in Recovery Mode. Dr.Fone will guide you through the process of enabling [<u>Recovery Mode</u>](https://drfone.wondershare.com/recovery-mode/iphone-stuck-in-recovery-mode.html) on your device. Once Wondershare Dr.Fone detects your device in Recovery Mode, it will display your device model.
+
+![activate the recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
+
+- Step 3: Complete the Apple ID Unlocking Process
+
+Now choose “System Version” and tap “Start” to let Dr.Fone download the firmware. Once it is downloaded and verified, tap “Unlock Now.” The last step involves putting the confirmation code in the confirmation prompt and pressing "Unlock." In a few moments, Wondershare Dr.Fone will unlock your Apple ID.
+
+![click on unlock now button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+## Final Words
+
+To conclude, there are scenarios that can lead to the **Apple ID being locked for security reasons** problem. Apple does this for your benefit. However, we have explained different methods to get you out of this situation. Although all of these methods possess the potential to resolve this problem, Wondershare Dr.Fone offers a powerful platform for more in-depth remedies.
+
+This robust iOS toolkit feature performs this recovery in seconds, saving you time. Also, it has a simple interface for its users with various technical exposure. In short, it is the best solution if your Apple ID has been locked for security reasons.
+
+## Apple ID Locked or Disabled On Apple iPhone 6 Plus? 7 Mehtods You Can't-Miss
+
+Apple ID refers to the authentication method available for the Apple iPhone 6 Plus device to compromise users' personal information and settings. The Apple iPhone 6 Plus Apple ID will allow you to store and control data available on the Apple iPhone 6 Plus device; however, you need to re-generate the Apple iPhone 6 Plus passcode if you have forgotten the Apple iPhone 6 Plus passcode. Suppose, if you have forgotten the passcode and entered the wrong passcode six times, your Apple iPhone 6 Plus gets locked or has been disabled. According to your settings, if you have entered the wrong passcode too much time could even make your Apple iPhone 6 Plus delete all the data available.
+
+This article will discuss how you can **unlock Apple ID** and remain secure. If you receive a message that you have entered the wrong passcode or forgotten your passcode, you have to follow some steps to regain access to your Apple Id.
+
+## Why Is Your Apple ID Locked or Disabled?
+
+![apple id locked](https://images.wondershare.com/drfone/article/2022/03/apple-id-locked.png)
+
+Some of the reasons causing your Apple ID locked or disabled are listed below:
+
+- If you have entered the wrong passcode or security question too many times in a row, Apple ID gets locked. ( Avoid entering the incorrect password more than 3 times)
+- If you haven't used your Apple ID for an extended period, possibly making your Apple ID disabled or locked. When Apple modifies the requirement for passcode and security questions, you have not updated the information.
+
+If you frequently change your Apple ID or passcode on the Apple iPhone 6 Plus device, Apple possibly considers that your Apple iPhone 6 Plus faces a security threat and might lock your Apple ID.
+
+## Method 1: Professional iPhone Apple ID Lock Removal Tool \[Recommended\]
+
+If you have forgotten your Apple ID password, you are suggested not to enter the wrong passcode in a row. That may lead to data loss. You can download the Dr.Fone– Screen Unlock, which is compatible with different lock screens and will **unlock Apple ID easily**. [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) helps remove almost all sorts of iPhone passwords without the requirement of technical knowledge.
+
+
+
+### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+
+Unlock iPhone ID.
+
+- Remove the screen password, face id, and Touch ID.
+- Don't need to have any technical knowledge.
+- Bypass the Apple ID and iCloud [activation lock](https://drfone.wondershare.com/unlock/4-ways-to-bypass-activation-lock.html) in a quick way.
+- Compatible with both [Android](https://tools.techidaily.com/wondershare/drfone/unlock-android-screen/) and iOS devices.
+
+**3981454** people have downloaded it
+
+**Steps to Follow:**
+
+**Step 1:**Click on the “Screen Unlock” module and a new interface will appear.
+
+![dr fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+To unlock your Apple ID, you have to click on the “Unlock Apple ID” option.
+
+![screen unlock home](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+**Step 2:** You must know the passcode of the Apple iPhone 6 Plus to unlock the phone screen, which trusts the computer system for scanning the data available in the phone.
+
+![trust this pc](https://images.wondershare.com/drfone/drfone/trust-computer.jpg)
+
+**Note:** This process determines that all data will be erased when you initiate to unlock the Apple ID. (If your device didn't activate dual authentication, then you can unlock Apple ID without data loss.) It is recommended to create a backup of your data before proceeding to the next step.
+
+![confirm action](https://images.wondershare.com/drfone/drfone/attention.jpg)
+
+**Step 3:** Before unlocking your Apple ID, you have to reset iPhone settings by following the instruction available on the screen. When you have reset all the settings, restart your device, and the process of unlocking will start automatically.
+
+![follow steps to reset](https://images.wondershare.com/drfone/drfone/interface.jpg)
+
+**Step 4:** Once the restart process gets completed, Dr. Fone will automatically kick off the unlocking process of Apple ID and get it ended in a few seconds.
+
+![unlock in progress](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
+
+**Step 5:** When the Apple ID is unlocked successfully, the following window will indicate that you have to check if your Apple ID gets unlocked.
+
+![unlock completed](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
+
+<iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/jmU_WBObOEA" frameborder="0"></iframe>
+
+## Method 2: Reset Password to Unlock Your Apple ID
+
+In order to [unlock iPhone](https://drfone.wondershare.com/unlock/unlock-disabled-iphone-without-itunes.html) 13 Apple ID, you can reset the password to your Apple ID. If you want to do this, you need to follow the below steps.
+
+**Step 1:** Head to the [Apple account recovery page](https://iforgot.apple.com/appleid#!&section=appleid) and enter the desired details like your first and last name. Also, enter your email address. When done, click on the “Continue” button.
+
+![find apple id](https://images.wondershare.com/drfone/article/2022/03/find-apple-id.png)
+
+**Step 2:** When the next screen appears, you will see two options to choose from. Whether you wish to receive a password through email or answer a security question, choose it. Click “Continue”.
+
+![reset apple id password](https://images.wondershare.com/drfone/article/2022/03/reset-apple-id-password.png)
+
+**Step 3:** Reset the password now. Write down the password and follow the prompts. Your password will be reset now!
+
+![reset apple id link](https://images.wondershare.com/drfone/article/2022/03/reset-apple-id-password2.png)
+
+## Method 3: Fix Apple ID Locked Via iforgot
+
+If your Apple ID is disabled, follow these simple steps listed below:
+
+**Step 1:** Enter “[https://iforgot.apple.com](https://iforgot.apple.com/)" in the web browser of your computer, iPhone or Tablet.
+
+![enter apple id](https://images.wondershare.com/drfone/article/2022/03/unlock-disabled-apple-id.png)
+
+**Step 2**: You have to enter the registered E-mail address in the box available on the screen.
+
+![confirm phone number](https://images.wondershare.com/drfone/article/2022/03/unlock-disabled-apple-id2.png)
+
+**Step 3**: Enter the captcha available on the screen and click on the “Continue “option to proceed further. (If you have set up the two-factor authentication, you will receive a code that you need to enter on your device.)
+
+**Step 4:** Enter the code you have received on your device and confirm it to unlock your account and allow resetting the password. (You will be asked to answer the security question to confirm your identity).
+
+![enter verification code](https://images.wondershare.com/drfone/article/2022/03/unlock-disabled-apple-id3.png)
+
+**Step 5**: Successfully, you have unlocked your Apple ID.
+
+## Method 4: Unlock Apple ID Using Two-Factor Authentication
+
+This next method only works if you've already enabled the Two-Factor Authentication before getting locked out of your Apple ID. In case you've already enabled it, follow the below-mentioned steps to unlock your Apple ID.
+
+**Step 1:** Launch the “Settings” App on your Apple iPhone 6 Plus and then hit “your name” at the top.
+
+**Step 2:** Now, select the "Password & Security" option, followed by tapping on "Change Password."
+
+![change password](https://images.wondershare.com/drfone/article/2022/03/two-factor-authenticatoin.png)
+
+**Step 3:** Then you need to follow the instructions displayed over your screen carefully.
+
+If you perform the instructions properly, you will eventually get your Apple ID unlocked.
+
+## Method 5: Remove Locked Apple ID Using Recovery Key
+
+There are high chances that you might have protected your Apple ID with a Two-Factor Authentication. In such a case, you need to use your Recovery Key to unlock your Apple ID. Here's how you can get it done.
+
+**Step 1:** You need to first visit iforgot.apple.com and then punch in your Apple ID in the text field provided.
+
+**Step 2:** You'll then be required to enter the Recovery Key, key it in and hit “Continue”.
+
+![enter recovery key](https://images.wondershare.com/drfone/article/2022/03/recovery-key-reset.png)
+
+**Note:** Recovery Key is a security code provided to you when the Two-Factor Authentication is first enabled.
+
+**Step 3:** Now, one of your trusted devices will receive a verification code. Enter it on your screen and hit “Next”.
+
+**Step 4:** Upon successful verification, you will be asked to create a new password. Please make a new password now and then make sure to remember it.
+
+That's it you can now make use of this new password to unlock your Apple ID.
+
+## Method 6: A Loophole: DNS Bypass
+
+If you want to unlock **iPhone 13 Apple ID** and don't remember the password**,** you can use this DNS bypass method. But to make use of this method, you need to first factory reset your device and gain access to the “Hello” screen. Here's how you can make use of this method.
+
+**Step 1:** Firstly, you need to reboot your device into Recovery Mode. Then, launch iTunes and plug it in the computer. Now, iTunes will detect your device in recovery mode. Hit on Restore iPhone and wait for the process to complete.
+
+**Step 2:** Your device will restart to the “Hello” screen upon completion. From the menu, choose language and country.
+
+**Step 3:** Tap on “Proceed” to get into the Wi-Fi settings page.
+
+**Step 4:** Now click on the “i” icon bonded by a circle next to Wi-Fi.
+
+![click i icon](https://images.wondershare.com/drfone/article/2022/03/dns-bypass-1.png)
+
+**Note:** In case, you are already connected to a Wi-Fi network, ensure to click on it first and then tap on “Forget This Network” to have the “i” icon visible.
+
+**Step 5:** Now, when you tap on the “i” icon next to any Wi-Fi network (not connected), you need to look for the “Configure DNS” server option. Click on it and then select “Manual”, then click “Add Server.”
+
+![configure dns server](https://images.wondershare.com/drfone/article/2022/03/dns-bypass-2.png)
+
+You have to select the DNS from the option available according to your region.
+
+- USA/North America: 104.154.51.7
+- Europe: 104.155.28.90
+- Asia: 104.155.220.58
+- Other areas: 78.109.17.60
+
+**Step 6:** Now, save the settings, return to the connection page and connect to your Wi-Fi.
+
+**Step 7:** You need to wait for your device to get connected with the iCloud DNS bypass server automatically.
+
+![iclouddnsbypass home](https://images.wondershare.com/drfone/article/2022/03/dns-bypass-3.png)
+
+**Step 8:** Once you are connected to the DNS server successfully, you can then use apps and features available on your Apple iPhone 6 Plus in an alternative way.
+
+![browse youtube](https://images.wondershare.com/drfone/article/2022/03/dns-bypass-4.png)
+
+**Note:** This method is just a hack to use your device without the need for Apple ID. This method doesn't unlock your Apple ID.
+
+## Method 7: Ask Apple Support
+
+We are positive that the solutions above will get your issue resolved. However, just in case, if you're still stuck with the same issue and are unable to unlock Apple ID on iPhone, then we would suggest you get in touch with Apple Customer Support to help you with the best. You can either directly walk into your nearest Apple Support Center or simply visit [https://support.apple.com/](https://support.apple.com/) to get in touch with one of the customer support executives.
+
+## Conclusion
+
+From this article, you can know how to unlock your Apple ID and reset your password. There are different ways available that will resolve your **unlock iPhone issue**. However, Dr.Fone is the most recommended tool as it provides a screen lock solution and recognizes it as a one-stop solution for all iPhone problems. You can also share the effective methods in this article with your families and friends.
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-iphone-14-pro-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For iPhone 14 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-6s-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 6s? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-12-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 12?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-apple-iphone-14-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On Apple iPhone 14 Pro Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-apple-iphone-8-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your Apple iPhone 8 Apple ID on MacBook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 13 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-iphone-xr-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From iPhone XR</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-apple-iphone-se-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On Apple iPhone SE</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-14-plus-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone 14 Plus without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-iphone-14-plus-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From iPhone 14 Plus in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-apple-iphone-x-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From Apple iPhone X? Find the Best Solution Here</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-8-plus-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 8 Plus? How to Fix</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-iphone-xs-max-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From iPhone XS Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-se-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone SE Apple ID on MacBook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-iphone-13-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On iPhone 13? Find the Best Solution Here</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-15-pro-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone 15 Pro?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-iphone-11-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On iPhone 11 Pro Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-iphone-6s-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From iPhone 6s Making It Possible</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-iphone-8-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On iPhone 8 Making It Possible</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-apple-iphone-xs-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On Apple iPhone XS</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-apple-iphone-12-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On Apple iPhone 12? 5 Tips You Must Know</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-6ipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 6/iPad Without Computer</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-y17s-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo Y17s to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-edge-40-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Edge 40 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-honor-play-7t-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor Play 7T working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-v27-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-12-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 12 in Lost Mode</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-motorola-moto-g34-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Motorola Moto G34 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo A2? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Infinix Note 30? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oppo-reno-10-proplus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo Reno 10 Pro+ 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-xiaomi-civi-3-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Xiaomi Civi 3 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-v29-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo V29 Screen | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-oppo-a79-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Oppo A79 5G for Parents | Dr.fone</u></a></li>
+</ul></div>
