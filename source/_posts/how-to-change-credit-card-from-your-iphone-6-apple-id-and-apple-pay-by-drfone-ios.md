@@ -1,7 +1,7 @@
 ---
 title: How to Change Credit Card from Your iPhone 6 Apple ID and Apple Pay
-date: 2024-04-07T20:56:46.245Z
-updated: 2024-04-08T20:56:46.245Z
+date: 2024-04-09T00:14:28.692Z
+updated: 2024-04-10T00:14:28.692Z
 tags: 
   - unlock
   - remove apple account

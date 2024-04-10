@@ -1,7 +1,7 @@
 ---
 title: How To Create an Apple Developer Account From iPhone 6
-date: 2024-04-07T20:56:46.238Z
-updated: 2024-04-08T20:56:46.238Z
+date: 2024-04-09T00:14:28.650Z
+updated: 2024-04-10T00:14:28.650Z
 tags: 
   - unlock
   - remove apple account

@@ -1,7 +1,7 @@
 ---
 title: How To Change Your Apple iPhone 6 Apple ID on MacBook
-date: 2024-04-07T20:56:46.193Z
-updated: 2024-04-08T20:56:46.193Z
+date: 2024-04-09T00:14:28.485Z
+updated: 2024-04-10T00:14:28.485Z
 tags: 
   - unlock
   - remove apple account

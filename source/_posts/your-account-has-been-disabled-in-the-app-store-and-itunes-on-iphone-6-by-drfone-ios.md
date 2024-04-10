@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes On iPhone 6?
-date: 2024-04-07T20:56:46.235Z
-updated: 2024-04-08T20:56:46.235Z
+date: 2024-04-09T00:14:28.643Z
+updated: 2024-04-10T00:14:28.643Z
 tags: 
   - unlock
   - remove apple account

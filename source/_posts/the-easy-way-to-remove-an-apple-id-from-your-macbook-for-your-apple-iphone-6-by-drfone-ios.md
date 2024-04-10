@@ -1,7 +1,7 @@
 ---
 title: The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 6
-date: 2024-04-07T20:56:46.207Z
-updated: 2024-04-08T20:56:46.207Z
+date: 2024-04-09T00:14:28.509Z
+updated: 2024-04-10T00:14:28.509Z
 tags: 
   - unlock
   - remove apple account

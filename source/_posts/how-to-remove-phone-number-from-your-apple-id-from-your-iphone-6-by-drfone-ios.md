@@ -1,7 +1,7 @@
 ---
 title: How To Remove Phone Number From Your Apple ID from Your iPhone 6?
-date: 2024-04-07T20:56:46.242Z
-updated: 2024-04-08T20:56:46.242Z
+date: 2024-04-09T00:14:28.663Z
+updated: 2024-04-10T00:14:28.663Z
 tags: 
   - unlock
   - remove apple account

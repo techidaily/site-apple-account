@@ -1,7 +1,7 @@
 ---
 title: How to Remove Apple ID from iPhone 6 without Password?
-date: 2024-04-07T20:56:46.230Z
-updated: 2024-04-08T20:56:46.230Z
+date: 2024-04-09T00:14:28.619Z
+updated: 2024-04-10T00:14:28.619Z
 tags: 
   - unlock
   - remove apple account

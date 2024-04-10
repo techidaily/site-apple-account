@@ -1,7 +1,7 @@
 ---
 title: In 2024, Apple ID is Greyed Out On Apple iPhone 6 How to Bypass?
-date: 2024-04-07T20:56:46.246Z
-updated: 2024-04-08T20:56:46.246Z
+date: 2024-04-09T00:14:28.695Z
+updated: 2024-04-10T00:14:28.695Z
 tags: 
   - unlock
   - remove apple account

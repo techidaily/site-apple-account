@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email On iPhone 6? Heres the Best Fixes
-date: 2024-04-07T20:56:46.232Z
-updated: 2024-04-08T20:56:46.232Z
+date: 2024-04-09T00:14:28.630Z
+updated: 2024-04-10T00:14:28.630Z
 tags: 
   - unlock
   - remove apple account

@@ -1,7 +1,7 @@
 ---
 title: How to Reset Apple ID and Apple Password On Apple iPhone 6
-date: 2024-04-07T20:56:46.194Z
-updated: 2024-04-08T20:56:46.194Z
+date: 2024-04-09T00:14:28.489Z
+updated: 2024-04-10T00:14:28.489Z
 tags: 
   - unlock
   - remove apple account

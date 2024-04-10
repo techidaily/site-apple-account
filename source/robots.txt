@@ -1,4 +1,4 @@
-Sitemap: https://apple-account.techidaily.com/sitemap.txt
+Sitemap: https://apple-account.techidaily.com/sitemap.xml
 User-agent: Googlebot
 Disallow:
 

@@ -1,7 +1,7 @@
 ---
 title: 3 Ways of How to Get Someones Apple ID Off iPhone 6 without Password
-date: 2024-04-07T20:56:46.228Z
-updated: 2024-04-08T20:56:46.228Z
+date: 2024-04-09T00:14:28.602Z
+updated: 2024-04-10T00:14:28.602Z
 tags: 
   - unlock
   - remove apple account

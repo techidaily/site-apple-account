@@ -1,7 +1,7 @@
 ---
 title: Why Apple Account Disabled On your Apple iPhone 6? How to Fix
-date: 2024-04-07T20:56:46.196Z
-updated: 2024-04-08T20:56:46.196Z
+date: 2024-04-09T00:14:28.496Z
+updated: 2024-04-10T00:14:28.496Z
 tags: 
   - unlock
   - remove apple account

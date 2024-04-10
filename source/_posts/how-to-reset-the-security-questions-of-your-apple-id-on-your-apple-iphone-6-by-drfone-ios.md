@@ -1,7 +1,7 @@
 ---
 title: How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 6
-date: 2024-04-07T20:56:46.210Z
-updated: 2024-04-08T20:56:46.210Z
+date: 2024-04-09T00:14:28.522Z
+updated: 2024-04-10T00:14:28.522Z
 tags: 
   - unlock
   - remove apple account
