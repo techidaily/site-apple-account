@@ -377,3 +377,4 @@ Having another Apple ID logged in doesn't mean that everything is long lost. Sev
 <li><a href="https://techidaily.com/how-to-soft-reset-infinix-smart-8-plus-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Smart 8 Plus phone? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-note-12-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi Note 12 5G without Losing Data | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone 6s?
-date: 2024-04-07T20:56:46.512Z
-updated: 2024-04-08T20:56:46.512Z
+date: 2024-04-30T15:32:34.503Z
+updated: 2024-05-01T15:32:34.503Z
 tags: 
   - unlock
   - remove apple account
@@ -492,3 +492,4 @@ You have learned proper techniques for removing devices from your Apple ID in th
 <li><a href="https://techidaily.com/recover-apple-iphone-xs-max-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone XS Max Data From iTunes Backup | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-c51-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco C51 to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
+

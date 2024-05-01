@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email On iPhone 6? Heres the Best Fixes
-date: 2024-04-11T23:46:42.004Z
-updated: 2024-04-12T23:46:42.004Z
+date: 2024-04-30T15:32:31.620Z
+updated: 2024-05-01T15:32:31.620Z
 tags: 
   - unlock
   - remove apple account
@@ -432,3 +432,4 @@ You need to follow few steps to change your Apple ID password.
 <li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Nokia C02 | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Itel P55+? | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 12 mini?
-date: 2024-04-07T20:56:49.430Z
-updated: 2024-04-08T20:56:49.430Z
+date: 2024-04-30T15:33:35.523Z
+updated: 2024-05-01T15:33:35.523Z
 tags: 
   - unlock
   - remove apple account
@@ -494,3 +494,4 @@ We recommend that users diligently follow the steps provided in each solution. S
 <li><a href="https://android-unlock.techidaily.com/in-2024-unlock-vivo-v29-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Vivo V29 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-poco-c55-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Poco C55 Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 11?
-date: 2024-04-07T20:56:48.267Z
-updated: 2024-04-08T20:56:48.267Z
+date: 2024-04-30T15:33:14.961Z
+updated: 2024-05-01T15:33:14.961Z
 tags: 
   - unlock
   - remove apple account
@@ -517,3 +517,4 @@ Should you ever find yourself locked out of your device, Wondershare Dr.Fone - S
 <li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-6s-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 6s and iPad Securely | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 12 mini?
-date: 2024-04-07T20:56:49.384Z
-updated: 2024-04-08T20:56:49.384Z
+date: 2024-04-30T15:33:33.655Z
+updated: 2024-05-01T15:33:33.655Z
 tags: 
   - unlock
   - remove apple account
@@ -459,3 +459,4 @@ That wraps up our tips on **how to sign out of Apple ID without password**. No d
 <li><a href="https://techidaily.com/sign-xlb-files-online-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign .xlb files Online for Free</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-plus-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 6 Plus Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
 </ul></div>
+

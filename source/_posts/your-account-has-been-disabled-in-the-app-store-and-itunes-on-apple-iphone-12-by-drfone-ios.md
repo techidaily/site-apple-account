@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 12?
-date: 2024-04-07T20:56:49.242Z
-updated: 2024-04-08T20:56:49.242Z
+date: 2024-04-30T15:33:29.721Z
+updated: 2024-05-01T15:33:29.721Z
 tags: 
   - unlock
   - remove apple account
@@ -454,3 +454,4 @@ Now you know how to remove the Apple ID from your old or new iPhone without havi
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-realme-narzo-60x-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Realme Narzo 60x 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo S18 Pro | Dr.fone</u></a></li>
 </ul></div>
+

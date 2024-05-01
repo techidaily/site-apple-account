@@ -1,7 +1,7 @@
 ---
 title: How to Fix Locked Apple ID on iPhone 6s
-date: 2024-04-11T23:46:49.362Z
-updated: 2024-04-12T23:46:49.362Z
+date: 2024-04-30T15:32:32.636Z
+updated: 2024-05-01T15:32:32.636Z
 tags: 
   - unlock
   - remove apple account
@@ -493,3 +493,4 @@ This is all you need to know about unlocking your Apple ID in some easy steps. I
 <li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-books-purchases-on-iphone-7-plus-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Books Purchases on iPhone 7 Plus</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-realme-gt-5-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Realme GT 5 Pro to iPad Easily | Dr.fone</u></a></li>
 </ul></div>
+

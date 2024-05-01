@@ -410,3 +410,4 @@ You need to follow few steps to change your Apple ID password.
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-pro-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 12 Pro Without Swiping Up? 6 Ways</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-vivo-t2x-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Vivo T2x 5G | Dr.fone</u></a></li>
 </ul></div>
+

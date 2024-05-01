@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email On iPhone XR? Heres the Best Fixes
-date: 2024-04-07T20:56:48.163Z
-updated: 2024-04-08T20:56:48.163Z
+date: 2024-04-30T15:33:11.532Z
+updated: 2024-05-01T15:33:11.532Z
 tags: 
   - unlock
   - remove apple account
@@ -413,3 +413,4 @@ Having another Apple ID logged in doesn't mean that everything is long lost. Sev
 <li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-poco-x6-pro-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Poco X6 Pro</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-poco-f5-5g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Poco F5 5G Pictures  An Easy Method Explained.</u></a></li>
 </ul></div>
+

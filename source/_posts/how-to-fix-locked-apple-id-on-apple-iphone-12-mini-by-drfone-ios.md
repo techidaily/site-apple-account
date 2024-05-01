@@ -1,7 +1,7 @@
 ---
 title: How to Fix Locked Apple ID on Apple iPhone 12 mini
-date: 2024-04-07T20:56:49.374Z
-updated: 2024-04-08T20:56:49.374Z
+date: 2024-04-30T15:33:33.260Z
+updated: 2024-05-01T15:33:33.260Z
 tags: 
   - unlock
   - remove apple account
@@ -432,3 +432,4 @@ You need to follow few steps to change your Apple ID password.
 <li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-samsung-galaxy-s24-ultra-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Samsung Galaxy S24 Ultra Phone | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/xiaomi-redmi-13c-5g-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi Redmi 13C 5G won’t play AVCHD .mts files</u></a></li>
 </ul></div>
+

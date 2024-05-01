@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email On Apple iPhone XS? Heres the Best Fixes
-date: 2024-04-07T20:56:47.761Z
-updated: 2024-04-08T20:56:47.761Z
+date: 2024-04-30T15:33:02.894Z
+updated: 2024-05-01T15:33:02.894Z
 tags: 
   - unlock
   - remove apple account
@@ -512,3 +512,4 @@ Additionally, for those who may encounter issues with their Apple ID due to forg
 <li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-narzo-60-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme Narzo 60 5G Device</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Fix Life360 Shows Wrong Location On Apple iPhone 6? | Dr.fone</u></a></li>
 </ul></div>
+

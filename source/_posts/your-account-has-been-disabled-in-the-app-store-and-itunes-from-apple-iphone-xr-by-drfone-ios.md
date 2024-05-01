@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone XR?
-date: 2024-04-07T20:56:48.152Z
-updated: 2024-04-08T20:56:48.152Z
+date: 2024-04-30T15:33:11.017Z
+updated: 2024-05-01T15:33:11.017Z
 tags: 
   - unlock
   - remove apple account
@@ -510,3 +510,4 @@ If you unfortunately encounter any challenges during the process, you can seek a
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-v30-pro-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo V30 Pro for Streaming | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Motorola Moto G24 | Dr.fone</u></a></li>
 </ul></div>
+

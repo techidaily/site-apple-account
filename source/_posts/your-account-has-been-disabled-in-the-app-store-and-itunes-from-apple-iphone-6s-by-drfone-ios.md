@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 6s?
-date: 2024-04-11T23:46:48.853Z
-updated: 2024-04-12T23:46:48.853Z
+date: 2024-04-30T15:32:32.599Z
+updated: 2024-05-01T15:32:32.599Z
 tags: 
   - unlock
   - remove apple account
@@ -507,3 +507,4 @@ However, consider using reliable third-party tools like Dr.Fone if all else fail
 <li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-6-plus-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 6 Plus Passcode not Working?</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-xiaomi-redmi-13c-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Xiaomi Redmi 13C Fingerprint Lock</u></a></li>
 </ul></div>
+

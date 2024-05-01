@@ -1,7 +1,7 @@
 ---
 title: In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone XR?
-date: 2024-04-07T20:56:48.189Z
-updated: 2024-04-08T20:56:48.189Z
+date: 2024-04-30T15:33:12.798Z
+updated: 2024-05-01T15:33:12.798Z
 tags: 
   - unlock
   - remove apple account
@@ -545,3 +545,4 @@ Whether you're reselling your device, switching Apple IDs, or facing security co
 <li><a href="https://techidaily.com/undelete-lost-contacts-from-oppo-reno-10-pro-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Oppo Reno 10 Pro 5G.</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-g22-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of G22?</u></a></li>
 </ul></div>
+

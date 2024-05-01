@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email On Apple iPhone 6? Heres the Best Fixes
-date: 2024-04-11T23:46:40.996Z
-updated: 2024-04-12T23:46:40.997Z
+date: 2024-04-30T15:32:31.514Z
+updated: 2024-05-01T15:32:31.514Z
 tags: 
   - unlock
   - remove apple account
@@ -493,3 +493,4 @@ That’s the entire guide on how to delete iCloud account without password. Even
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-poco-c55-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Poco C55?</u></a></li>
 </ul></div>
+

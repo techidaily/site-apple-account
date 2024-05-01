@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email On iPhone XS? Heres the Best Fixes
-date: 2024-04-07T20:56:47.796Z
-updated: 2024-04-08T20:56:47.796Z
+date: 2024-04-30T15:33:03.880Z
+updated: 2024-05-01T15:33:03.880Z
 tags: 
   - unlock
   - remove apple account
@@ -454,3 +454,4 @@ That wraps up our tips on **how to sign out of Apple ID without password**. No d
 <li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-mini-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 mini?</u></a></li>
 </ul></div>
+

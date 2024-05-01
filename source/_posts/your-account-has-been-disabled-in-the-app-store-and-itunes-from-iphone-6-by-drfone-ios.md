@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes From iPhone 6?
-date: 2024-04-11T23:46:42.494Z
-updated: 2024-04-12T23:46:42.494Z
+date: 2024-04-30T15:32:31.675Z
+updated: 2024-05-01T15:32:31.675Z
 tags: 
   - unlock
   - remove apple account
@@ -504,3 +504,4 @@ That wraps up our tips on **how to sign out of Apple ID without password**. No d
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-honor-x50i-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Honor X50i</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/5-ways-to-track-nokia-c12-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Nokia C12 without App | Dr.fone</u></a></li>
 </ul></div>
+

@@ -363,3 +363,4 @@ We discussed the various reasons why you might want to reset your Apple ID secur
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-smart-7-hd-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Smart 7 HD to Samsung Phone | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-infinix-smart-8-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Infinix Smart 8?</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email From Apple iPhone 6s Plus? Heres the Best Fixes
-date: 2024-04-07T20:56:46.546Z
-updated: 2024-04-08T20:56:46.546Z
+date: 2024-04-30T15:32:36.001Z
+updated: 2024-05-01T15:32:36.001Z
 tags: 
   - unlock
   - remove apple account
@@ -376,3 +376,4 @@ Removing the Apple ID with forgotten credentials is complex, but [Dr.Fone - Scre
 <li><a href="https://techidaily.com/undelete-lost-music-from-oppo-find-x7-by-fonelab-android-recover-music/"><u>Undelete lost music from Oppo Find X7</u></a></li>
 <li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo Y78 5G | Dr.fone</u></a></li>
 </ul></div>
+

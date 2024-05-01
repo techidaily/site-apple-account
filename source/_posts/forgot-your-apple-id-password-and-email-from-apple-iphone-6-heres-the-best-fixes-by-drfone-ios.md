@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email From Apple iPhone 6? Heres the Best Fixes
-date: 2024-04-11T23:46:41.386Z
-updated: 2024-04-12T23:46:41.386Z
+date: 2024-04-30T15:32:31.556Z
+updated: 2024-05-01T15:32:31.556Z
 tags: 
   - unlock
   - remove apple account
@@ -495,3 +495,4 @@ If the **Apple ID verification failed** error persists, reaching out to Apple Su
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-12-mini-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 12 mini to iPad | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Vivo V30? | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 12 Pro?
-date: 2024-04-07T20:56:49.741Z
-updated: 2024-04-08T20:56:49.741Z
+date: 2024-04-30T15:33:41.830Z
+updated: 2024-05-01T15:33:41.830Z
 tags: 
   - unlock
   - remove apple account
@@ -411,3 +411,4 @@ Moreover, if you have locked your Apple ID passcode, using Wondershare Dr.Fone t
 <li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-y78t-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo Y78t to PC- Detailed Steps | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Apple iPhone 6s? | Dr.fone</u></a></li>
 </ul></div>
+

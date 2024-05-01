@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes From iPhone 12 mini?
-date: 2024-04-07T20:56:49.416Z
-updated: 2024-04-08T20:56:49.416Z
+date: 2024-04-30T15:33:35.047Z
+updated: 2024-05-01T15:33:35.047Z
 tags: 
   - unlock
   - remove apple account
@@ -446,3 +446,4 @@ Removing the Apple ID with forgotten credentials is complex, but [Dr.Fone - Scre
 <li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Honor Magic 5 Pro | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-nokia-150-2023-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Nokia 150 (2023) Phone and Remove Locked Screen</u></a></li>
 </ul></div>
+

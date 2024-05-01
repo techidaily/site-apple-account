@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email From Apple iPhone 6 Plus? Heres the Best Fixes
-date: 2024-04-11T23:46:45.129Z
-updated: 2024-04-12T23:46:45.129Z
+date: 2024-04-30T15:32:32.056Z
+updated: 2024-05-01T15:32:32.056Z
 tags: 
   - unlock
   - remove apple account
@@ -443,3 +443,4 @@ Should you ever find yourself locked out of your device, Wondershare Dr.Fone - S
 <li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo V30 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-samsung-galaxy-a34-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Samsung Galaxy A34 5G</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email From iPhone 12 mini? Heres the Best Fixes
-date: 2024-04-07T20:56:49.413Z
-updated: 2024-04-08T20:56:49.413Z
+date: 2024-04-30T15:33:34.918Z
+updated: 2024-05-01T15:33:34.918Z
 tags: 
   - unlock
   - remove apple account
@@ -479,3 +479,4 @@ Whether you're reselling your device, switching Apple IDs, or facing security co
 <li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For OnePlus Nord N30 5G | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-nubia-red-magic-8s-pro-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Nubia Red Magic 8S Pro to Protect Your Individual Information</u></a></li>
 </ul></div>
+

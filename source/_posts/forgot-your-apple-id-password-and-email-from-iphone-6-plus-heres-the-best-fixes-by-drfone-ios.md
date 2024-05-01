@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email From iPhone 6 Plus? Heres the Best Fixes
-date: 2024-04-11T23:46:46.138Z
-updated: 2024-04-12T23:46:46.138Z
+date: 2024-04-30T15:32:32.176Z
+updated: 2024-05-01T15:32:32.176Z
 tags: 
   - unlock
   - remove apple account
@@ -441,3 +441,4 @@ Should you ever find yourself locked out of your device, Wondershare Dr.Fone - S
 <li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-lava-yuva-3-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Lava Yuva 3 Pro without App | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Lava Yuva 2 | Dr.fone</u></a></li>
 </ul></div>
+

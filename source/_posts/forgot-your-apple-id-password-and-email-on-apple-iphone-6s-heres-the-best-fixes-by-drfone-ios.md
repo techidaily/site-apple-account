@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email On Apple iPhone 6s? Heres the Best Fixes
-date: 2024-04-11T23:46:48.365Z
-updated: 2024-04-12T23:46:48.365Z
+date: 2024-04-30T15:32:32.532Z
+updated: 2024-05-01T15:32:32.532Z
 tags: 
   - unlock
   - remove apple account
@@ -480,3 +480,4 @@ This is all you need to know about unlocking your Apple ID in some easy steps. I
 <li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Samsung Galaxy F04 | Dr.fone</u></a></li>
 </ul></div>
+

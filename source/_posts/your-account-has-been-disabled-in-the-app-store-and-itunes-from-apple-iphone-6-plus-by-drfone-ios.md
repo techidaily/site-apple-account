@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 6 Plus?
-date: 2024-04-11T23:46:45.244Z
-updated: 2024-04-12T23:46:45.244Z
+date: 2024-04-30T15:32:32.069Z
+updated: 2024-05-01T15:32:32.069Z
 tags: 
   - unlock
   - remove apple account
@@ -529,3 +529,4 @@ From this article, you can know how to unlock your Apple ID and reset your passw
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-y36i-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo Y36i Through Google Earth?</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Samsung Galaxy A24? | Dr.fone</u></a></li>
 </ul></div>
+

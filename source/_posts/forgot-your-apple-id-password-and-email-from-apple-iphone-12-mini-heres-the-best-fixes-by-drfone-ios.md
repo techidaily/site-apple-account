@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email From Apple iPhone 12 mini? Heres the Best Fixes
-date: 2024-04-07T20:56:49.391Z
-updated: 2024-04-08T20:56:49.391Z
+date: 2024-04-30T15:33:33.926Z
+updated: 2024-05-01T15:33:33.926Z
 tags: 
   - unlock
   - remove apple account
@@ -482,3 +482,4 @@ From this article, you can know how to unlock your Apple ID and reset your passw
 <li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Oppo Find N3 Flip? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-xiaomi-redmi-note-12-pro-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Xiaomi Redmi Note 12 Pro 5G Phone? Unlock It Now</u></a></li>
 </ul></div>
+

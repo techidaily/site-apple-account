@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email On iPhone 6s? Heres the Best Fixes
-date: 2024-04-11T23:46:49.573Z
-updated: 2024-04-12T23:46:49.573Z
+date: 2024-04-30T15:32:32.687Z
+updated: 2024-05-01T15:32:32.687Z
 tags: 
   - unlock
   - remove apple account
@@ -554,3 +554,4 @@ That’s the entire guide on how to delete iCloud account without password. Even
 <li><a href="https://fake-location.techidaily.com/how-to-fix-my-xiaomi-redmi-note-13-proplus-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Xiaomi Redmi Note 13 Pro+ 5G Location Is Wrong | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-6-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 6 Swipe-Up? Try These 11 Solutions</u></a></li>
 </ul></div>
+

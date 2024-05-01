@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Apple iPhone 6s When We Dont Have Apple ID or Password?
-date: 2024-04-11T23:46:48.350Z
-updated: 2024-04-12T23:46:48.350Z
+date: 2024-04-30T15:32:32.531Z
+updated: 2024-05-01T15:32:32.531Z
 tags: 
   - unlock
   - remove apple account
@@ -480,3 +480,4 @@ In conclusion, encountering a disabled Apple account in the App Store and iTunes
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR Passcode without Computer?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-8-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 8 Plus Passcode Change Itself? Unlock It Now</u></a></li>
 </ul></div>
+

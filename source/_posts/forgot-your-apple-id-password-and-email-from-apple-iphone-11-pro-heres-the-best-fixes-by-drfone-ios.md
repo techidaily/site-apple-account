@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email From Apple iPhone 11 Pro? Heres the Best Fixes
-date: 2024-04-07T20:56:48.807Z
-updated: 2024-04-08T20:56:48.807Z
+date: 2024-04-30T15:33:22.398Z
+updated: 2024-05-01T15:33:22.398Z
 tags: 
   - unlock
   - remove apple account
@@ -506,3 +506,4 @@ The other included alternative approaches for scenarios like purchasing a second
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-google-pixel-7a-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Google Pixel 7a?</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Honor Magic 6? | Dr.fone</u></a></li>
 </ul></div>
+

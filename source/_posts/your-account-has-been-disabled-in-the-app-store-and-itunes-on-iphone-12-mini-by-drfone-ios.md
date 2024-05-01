@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes On iPhone 12 mini?
-date: 2024-04-07T20:56:49.408Z
-updated: 2024-04-08T20:56:49.408Z
+date: 2024-04-30T15:33:34.656Z
+updated: 2024-05-01T15:33:34.656Z
 tags: 
   - unlock
   - remove apple account
@@ -519,3 +519,4 @@ Additionally, for those who may encounter issues with their Apple ID due to forg
 <li><a href="https://howto.techidaily.com/authentication-error-occurred-on-poco-m6-pro-4g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Poco M6 Pro 4G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-honor-x9b-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Honor X9b Phone Screen?</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email On iPhone 8 Plus? Heres the Best Fixes
-date: 2024-04-07T20:56:47.469Z
-updated: 2024-04-08T20:56:47.469Z
+date: 2024-04-30T15:32:55.966Z
+updated: 2024-05-01T15:32:55.966Z
 tags: 
   - unlock
   - remove apple account
@@ -486,3 +486,4 @@ This is all you need to know about unlocking your Apple ID in some easy steps. I
 <li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xr-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone XR to Factory Settings? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-nubia-z50s-pro-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Nubia Z50S Pro Through Google Earth?</u></a></li>
 </ul></div>
+

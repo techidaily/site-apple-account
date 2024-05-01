@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes On iPhone XS Max?
-date: 2024-04-07T20:56:48.024Z
-updated: 2024-04-08T20:56:48.024Z
+date: 2024-04-30T15:33:07.910Z
+updated: 2024-05-01T15:33:07.910Z
 tags: 
   - unlock
   - remove apple account
@@ -520,3 +520,4 @@ That’s the entire guide on how to delete iCloud account without password. Even
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-12-pro-max-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 12 Pro Max without passcode</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-11-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 11</u></a></li>
 </ul></div>
+
