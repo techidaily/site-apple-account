@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email On iPhone 12 mini? Heres the Best Fixes
-date: 2024-04-30T15:33:34.536Z
-updated: 2024-05-01T15:33:34.536Z
+date: 2024-05-19T04:38:36.198Z
+updated: 2024-05-20T04:38:36.198Z
 tags: 
   - unlock
   - remove apple account
@@ -476,4 +476,5 @@ Getting your Apple account can ruin your day and hinder your work. Luckily, ther
 <li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-poco-m6-pro-4g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Poco M6 Pro 4G without App | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-t2-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo T2 Pro 5G to Other Android Devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

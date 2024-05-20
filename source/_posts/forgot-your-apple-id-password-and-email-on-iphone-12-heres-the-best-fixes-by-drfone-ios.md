@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email On iPhone 12? Heres the Best Fixes
-date: 2024-04-30T15:33:30.609Z
-updated: 2024-05-01T15:33:30.609Z
+date: 2024-05-19T04:38:31.856Z
+updated: 2024-05-20T04:38:31.856Z
 tags: 
   - unlock
   - remove apple account
@@ -487,4 +487,5 @@ The other included alternative approaches for scenarios like purchasing a second
 <li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy S24+? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Tecno Camon 20? | Dr.fone</u></a></li>
 </ul></div>
+
 

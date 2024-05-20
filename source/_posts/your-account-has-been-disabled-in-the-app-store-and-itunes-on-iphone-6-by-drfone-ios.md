@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes On iPhone 6?
-date: 2024-04-30T15:32:31.633Z
-updated: 2024-05-01T15:32:31.633Z
+date: 2024-05-19T04:37:17.629Z
+updated: 2024-05-20T04:37:17.629Z
 tags: 
   - unlock
   - remove apple account
@@ -515,4 +515,5 @@ As you have recognized the importance of iCloud backup across your device, there
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-poco-x5-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Poco X5 Pro Location on Skout | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-motorola-g24-power-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Motorola G24 Power | Dr.fone</u></a></li>
 </ul></div>
+
 

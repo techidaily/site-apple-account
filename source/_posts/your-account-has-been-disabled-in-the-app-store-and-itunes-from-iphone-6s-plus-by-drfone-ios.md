@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes From iPhone 6s Plus?
-date: 2024-04-30T15:32:37.359Z
-updated: 2024-05-01T15:32:37.359Z
+date: 2024-05-19T04:37:31.071Z
+updated: 2024-05-20T04:37:31.071Z
 tags: 
   - unlock
   - remove apple account
@@ -532,4 +532,5 @@ From this article, you can know how to unlock your Apple ID and reset your passw
 <li><a href="https://review-topics.techidaily.com/how-to-update-iphone-se-2022-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone SE (2022) to the Latest iOS Version? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-9-xiaomi-redmi-a2plus-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Xiaomi Redmi A2+ Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes On iPhone 8?
-date: 2024-04-30T15:32:59.973Z
-updated: 2024-05-01T15:32:59.973Z
+date: 2024-05-19T04:37:57.123Z
+updated: 2024-05-20T04:37:57.123Z
 tags: 
   - unlock
   - remove apple account
@@ -542,4 +542,5 @@ That’s the entire guide on how to delete iCloud account without password. Even
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-infinix-gt-10-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Infinix GT 10 Pro Phone?</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
 </ul></div>
+
 

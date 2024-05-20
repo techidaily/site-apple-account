@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes On iPhone XR?
-date: 2024-04-30T15:33:11.660Z
-updated: 2024-05-01T15:33:11.660Z
+date: 2024-05-19T04:38:10.119Z
+updated: 2024-05-20T04:38:10.119Z
 tags: 
   - unlock
   - remove apple account
@@ -572,4 +572,5 @@ You need to follow few steps to change your Apple ID password.
 <li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-a2-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi A2 | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Oppo Reno 11 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

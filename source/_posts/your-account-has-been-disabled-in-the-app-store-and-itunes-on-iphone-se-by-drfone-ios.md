@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes On iPhone SE?
-date: 2024-04-30T15:32:40.745Z
-updated: 2024-05-01T15:32:40.745Z
+date: 2024-05-19T04:37:35.102Z
+updated: 2024-05-20T04:37:35.102Z
 tags: 
   - unlock
   - remove apple account
@@ -491,4 +491,5 @@ Now you know how to remove the Apple ID from your old or new iPhone without havi
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-oneplus-ace-3-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on OnePlus Ace 3 Easily & Safely | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-motorola-defy-2-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Motorola Defy 2 to iPhone (13/14/15) | Dr.fone</u></a></li>
 </ul></div>
+
 

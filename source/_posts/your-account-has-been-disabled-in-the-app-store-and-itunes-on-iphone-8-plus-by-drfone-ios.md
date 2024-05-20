@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes On iPhone 8 Plus?
-date: 2024-04-30T15:32:56.106Z
-updated: 2024-05-01T15:32:56.106Z
+date: 2024-05-19T04:37:52.414Z
+updated: 2024-05-20T04:37:52.414Z
 tags: 
   - unlock
   - remove apple account
@@ -482,4 +482,5 @@ This article has provided you a detailed guide over the existing reasons that wo
 <li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-oppo-a78-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Oppo A78? Here Is the Answer | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-huawei-p60-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Huawei P60 to iPad | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email On iPhone 11? Heres the Best Fixes
-date: 2024-04-30T15:33:15.448Z
-updated: 2024-05-01T15:33:15.448Z
+date: 2024-05-19T04:38:14.251Z
+updated: 2024-05-20T04:38:14.251Z
 tags: 
   - unlock
   - remove apple account
@@ -420,4 +420,5 @@ Considering how much the Apple ID is pivotal to our Apple experience, it can be 
 <li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-realme-10t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Realme 10T 5G | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-xperia-1-v-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Xperia 1 V</u></a></li>
 </ul></div>
+
 

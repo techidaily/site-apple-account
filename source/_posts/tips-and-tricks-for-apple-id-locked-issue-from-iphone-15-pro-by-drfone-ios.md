@@ -539,3 +539,4 @@ With these options at your disposal, you can tailor your data to meet your speci
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Lava Blaze Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -531,3 +531,4 @@ If you get permanently locked out of your Apple or iCloud accounts, you could al
 <li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-y36-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo Y36 Phone Now with These Tips</u></a></li>
 </ul></div>
 
+

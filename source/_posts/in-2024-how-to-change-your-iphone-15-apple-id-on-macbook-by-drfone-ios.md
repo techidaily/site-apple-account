@@ -431,3 +431,4 @@ Having another Apple ID logged in doesn't mean that everything is long lost. Sev
 <li><a href="https://techidaily.com/unlock-a-disable-iphone-12-mini-using-itunes-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 12 mini using itunes</u></a></li>
 </ul></div>
 
+

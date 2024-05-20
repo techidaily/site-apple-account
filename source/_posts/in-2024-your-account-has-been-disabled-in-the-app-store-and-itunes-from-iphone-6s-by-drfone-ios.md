@@ -1,7 +1,7 @@
 ---
 title: In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone 6s?
-date: 2024-04-30T15:32:34.882Z
-updated: 2024-05-01T15:32:34.882Z
+date: 2024-05-19T04:37:28.942Z
+updated: 2024-05-20T04:37:28.942Z
 tags: 
   - unlock
   - remove apple account
@@ -467,4 +467,5 @@ Considering how much the Apple ID is pivotal to our Apple experience, it can be 
 <li><a href="https://easy-unlock-android.techidaily.com/unlock-realme-c51-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Realme C51 Phone Password Without Factory Reset Full Guide Here</u></a></li>
 <li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Realme 11 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

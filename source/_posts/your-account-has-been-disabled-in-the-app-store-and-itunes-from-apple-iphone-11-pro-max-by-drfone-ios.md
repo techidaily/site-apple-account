@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 11 Pro Max?
-date: 2024-04-30T15:33:18.737Z
-updated: 2024-05-01T15:33:18.737Z
+date: 2024-05-19T04:38:17.957Z
+updated: 2024-05-20T04:38:17.957Z
 tags: 
   - unlock
   - remove apple account
@@ -528,4 +528,5 @@ Should you ever find yourself locked out of your device, Wondershare Dr.Fone - S
 <li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-realme-11x-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Realme 11X 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For OnePlus Nord N30 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Your Apple ID Password and Email On iPhone 11? Heres the Best Fixes
-date: 2024-04-30T15:33:17.092Z
-updated: 2024-05-01T15:33:17.092Z
+date: 2024-05-19T04:38:16.311Z
+updated: 2024-05-20T04:38:16.311Z
 tags: 
   - unlock
   - remove apple account
@@ -384,4 +384,5 @@ Removing the Apple ID with forgotten credentials is complex, but [Dr.Fone - Scre
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-samsung-galaxy-xcover-6-pro-tactical-edition-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Samsung Galaxy XCover 6 Pro Tactical Edition to Protect Your Individual Information</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Realme 11 Pro+ | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email On Apple iPhone 11 Pro? Heres the Best Fixes
-date: 2024-04-30T15:33:21.997Z
-updated: 2024-05-01T15:33:21.997Z
+date: 2024-05-19T04:38:21.812Z
+updated: 2024-05-20T04:38:21.812Z
 tags: 
   - unlock
   - remove apple account
@@ -484,4 +484,5 @@ This article has provided you a detailed guide over the existing reasons that wo
 <li><a href="https://android-location-track.techidaily.com/top-9-realme-c67-4g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Realme C67 4G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-realme-narzo-n53-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Realme Narzo N53 to iPhone Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

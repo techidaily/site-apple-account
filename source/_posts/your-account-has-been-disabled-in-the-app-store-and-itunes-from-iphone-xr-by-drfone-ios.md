@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes From iPhone XR?
-date: 2024-04-30T15:33:12.017Z
-updated: 2024-05-01T15:33:12.017Z
+date: 2024-05-19T04:38:10.549Z
+updated: 2024-05-20T04:38:10.549Z
 tags: 
   - unlock
   - remove apple account
@@ -510,4 +510,5 @@ If you get permanently locked out of your Apple or iCloud accounts, you could al
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Tecno Pop 7 Pro | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo S17 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes On iPhone 12?
-date: 2024-04-30T15:33:30.730Z
-updated: 2024-05-01T15:33:30.730Z
+date: 2024-05-19T04:38:32.027Z
+updated: 2024-05-20T04:38:32.027Z
 tags: 
   - unlock
   - remove apple account
@@ -415,4 +415,5 @@ Moreover, if you have locked your Apple ID passcode, using Wondershare Dr.Fone t
 <li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-samsung-galaxy-a23-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Samsung Galaxy A23 5G Device</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-apple-iphone-se-by-drfone-ios/"><u>How To Factory Unlock Your Telstra Apple iPhone SE</u></a></li>
 </ul></div>
+
 

@@ -407,3 +407,4 @@ This article has provided you a detailed guide over the existing reasons that wo
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Lava Storm 5G | Dr.fone</u></a></li>
 </ul></div>
 
+

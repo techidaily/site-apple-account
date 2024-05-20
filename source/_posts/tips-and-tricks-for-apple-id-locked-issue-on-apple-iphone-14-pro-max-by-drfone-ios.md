@@ -512,3 +512,4 @@ We discussed the various reasons why you might want to reset your Apple ID secur
 <li><a href="https://techidaily.com/how-to-factory-reset-infinix-smart-8-hd-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Smart 8 HD If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 </ul></div>
 
+

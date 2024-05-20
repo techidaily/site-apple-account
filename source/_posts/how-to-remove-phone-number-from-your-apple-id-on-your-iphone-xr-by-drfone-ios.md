@@ -1,7 +1,7 @@
 ---
 title: How To Remove Phone Number From Your Apple ID on Your iPhone XR?
-date: 2024-04-30T15:33:11.466Z
-updated: 2024-05-01T15:33:11.466Z
+date: 2024-05-19T04:38:09.866Z
+updated: 2024-05-20T04:38:09.866Z
 tags: 
   - unlock
   - remove apple account
@@ -546,4 +546,5 @@ So, explore Dr.Fone - Screen Unlock and make your Apple experience hassle-free. 
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-honor-x50-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Honor X50 to Other Android devices | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-xr-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone XR with a Broken Screen? | Dr.fone</u></a></li>
 </ul></div>
+
 

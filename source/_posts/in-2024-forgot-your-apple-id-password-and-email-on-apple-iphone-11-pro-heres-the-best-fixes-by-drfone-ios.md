@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Your Apple ID Password and Email On Apple iPhone 11 Pro? Heres the Best Fixes
-date: 2024-04-30T15:33:24.096Z
-updated: 2024-05-01T15:33:24.096Z
+date: 2024-05-19T04:38:24.128Z
+updated: 2024-05-20T04:38:24.128Z
 tags: 
   - unlock
   - remove apple account
@@ -523,4 +523,5 @@ If you get permanently locked out of your Apple or iCloud accounts, you could al
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-gt-10-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix GT 10 Pro to Any iOS Devices | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/different-methods-for-resetting-vivo-y36-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo Y36 Phones with Screen Locked and Not | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -451,3 +451,4 @@ With these options at your disposal, you can tailor your data to meet your speci
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y78plus-t1-edition-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y78+ (T1) Edition to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: How to Fix when Apple Account Locked On iPhone 11?
-date: 2024-04-30T15:33:15.181Z
-updated: 2024-05-01T15:33:15.181Z
+date: 2024-05-19T04:38:14.052Z
+updated: 2024-05-20T04:38:14.052Z
 tags: 
   - unlock
   - remove apple account
@@ -414,4 +414,5 @@ Removing the Apple ID with forgotten credentials is complex, but [Dr.Fone - Scre
 <li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a14-4g-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Samsung Galaxy A14 4G support AVCHD video?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-oppo-reno-8t-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Oppo Reno 8T 5G to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

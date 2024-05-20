@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email From iPhone 11? Heres the Best Fixes
-date: 2024-04-30T15:33:15.829Z
-updated: 2024-05-01T15:33:15.829Z
+date: 2024-05-19T04:38:14.711Z
+updated: 2024-05-20T04:38:14.711Z
 tags: 
   - unlock
   - remove apple account
@@ -430,4 +430,5 @@ This article has provided you a detailed guide over the existing reasons that wo
 <li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-huawei-nova-y71-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Huawei Nova Y71? Fixed | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-honor-90-lite-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Honor 90 Lite</u></a></li>
 </ul></div>
+
 

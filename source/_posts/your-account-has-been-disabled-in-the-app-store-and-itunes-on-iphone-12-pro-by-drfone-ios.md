@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes On iPhone 12 Pro?
-date: 2024-04-30T15:33:42.833Z
-updated: 2024-05-01T15:33:42.833Z
+date: 2024-05-19T04:38:45.164Z
+updated: 2024-05-20T04:38:45.164Z
 tags: 
   - unlock
   - remove apple account
@@ -474,4 +474,5 @@ Now you know how to remove the Apple ID from your old or new iPhone without havi
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-honor-x7b-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Honor X7b Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Honor Magic 6 | Dr.fone</u></a></li>
 </ul></div>
+
 

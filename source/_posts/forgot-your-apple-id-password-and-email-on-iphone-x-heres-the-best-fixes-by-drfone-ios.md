@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email On iPhone X? Heres the Best Fixes
-date: 2024-04-30T15:32:52.077Z
-updated: 2024-05-01T15:32:52.077Z
+date: 2024-05-19T04:37:47.967Z
+updated: 2024-05-20T04:37:47.967Z
 tags: 
   - unlock
   - remove apple account
@@ -435,4 +435,5 @@ However, consider using reliable third-party tools like Dr.Fone if all else fail
 <li><a href="https://howto.techidaily.com/app-wont-open-on-your-zte-axon-40-lite-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your ZTE Axon 40 Lite? Here Are All Fixes | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-asus-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Asus Phones</u></a></li>
 </ul></div>
+
 

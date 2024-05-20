@@ -549,3 +549,4 @@ From this article, you can know how to unlock your Apple ID and reset your passw
 <li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-12-mini-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 12 mini to iPhone Including iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
 
+

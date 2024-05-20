@@ -552,3 +552,4 @@ This article has provided you a detailed guide over the existing reasons that wo
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-infinix-note-30-to-mac-drfone-by-drfone-android/"><u>How to Mirror Infinix Note 30 to Mac? | Dr.fone</u></a></li>
 </ul></div>
 
+

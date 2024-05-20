@@ -480,3 +480,4 @@ Having another Apple ID logged in doesn't mean that everything is long lost. Sev
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 To Other iPhone? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email On iPhone 6s Plus? Heres the Best Fixes
-date: 2024-04-30T15:32:36.611Z
-updated: 2024-05-01T15:32:36.611Z
+date: 2024-05-19T04:37:30.436Z
+updated: 2024-05-20T04:37:30.436Z
 tags: 
   - unlock
   - remove apple account
@@ -462,4 +462,5 @@ The other included alternative approaches for scenarios like purchasing a second
 <li><a href="https://blog-min.techidaily.com/how-to-realme-11-pro-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Realme 11 Pro Get Deleted photos Back with Ease and Safety?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/disabled-iphone-12-how-to-unlock-a-disabled-iphone-12-by-drfone-ios/"><u>Disabled iPhone 12 How to Unlock a Disabled iPhone 12?</u></a></li>
 </ul></div>
+
 

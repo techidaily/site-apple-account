@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email From iPhone 6? Heres the Best Fixes
-date: 2024-04-30T15:32:31.664Z
-updated: 2024-05-01T15:32:31.664Z
+date: 2024-05-19T04:37:17.926Z
+updated: 2024-05-20T04:37:17.926Z
 tags: 
   - unlock
   - remove apple account
@@ -465,4 +465,5 @@ You have learned proper techniques for removing devices from your Apple ID in th
 <li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Realme GT 5 Pro | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-poco-x5-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Poco X5 | Dr.fone</u></a></li>
 </ul></div>
+
 

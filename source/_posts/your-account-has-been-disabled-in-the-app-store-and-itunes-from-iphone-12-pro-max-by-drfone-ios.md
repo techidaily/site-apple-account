@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes From iPhone 12 Pro Max?
-date: 2024-04-30T15:33:38.998Z
-updated: 2024-05-01T15:33:38.999Z
+date: 2024-05-19T04:38:41.216Z
+updated: 2024-05-20T04:38:41.216Z
 tags: 
   - unlock
   - remove apple account
@@ -453,4 +453,5 @@ Now you know how to remove the Apple ID from your old or new iPhone without havi
 <li><a href="https://review-topics.techidaily.com/does-vivo-y100-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo Y100 5G Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/bypass-reset-realme-12-pro-5g-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Realme 12 Pro 5G Phone Screen Passcode/Pattern/Pin</u></a></li>
 </ul></div>
+
 

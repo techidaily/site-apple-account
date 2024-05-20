@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes From iPhone XS Max?
-date: 2024-04-30T15:33:08.267Z
-updated: 2024-05-01T15:33:08.267Z
+date: 2024-05-19T04:38:06.240Z
+updated: 2024-05-20T04:38:06.240Z
 tags: 
   - unlock
   - remove apple account
@@ -443,4 +443,5 @@ Now you know how to remove the Apple ID from your old or new iPhone without havi
 <li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Vivo Y02T | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Realme GT 3 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -456,3 +456,4 @@ Should you ever find yourself locked out of your device, Wondershare Dr.Fone - S
 <li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-infinix-smart-8-hd-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Infinix Smart 8 HD? Tips, Tricks and Helpful Advice</u></a></li>
 </ul></div>
 
+

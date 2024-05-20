@@ -505,3 +505,4 @@ Moreover, if you have locked your Apple ID passcode, using Wondershare Dr.Fone t
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Infinix Smart 7 | Dr.fone</u></a></li>
 </ul></div>
 
+

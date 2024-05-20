@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email On Apple iPhone 12 mini? Heres the Best Fixes
-date: 2024-04-30T15:33:33.499Z
-updated: 2024-05-01T15:33:33.499Z
+date: 2024-05-19T04:38:35.133Z
+updated: 2024-05-20T04:38:35.133Z
 tags: 
   - unlock
   - remove apple account
@@ -432,4 +432,5 @@ Removing the Apple ID with forgotten credentials is complex, but [Dr.Fone - Scre
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Poco X6 Pro | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-nubia-red-magic-9-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Nubia Red Magic 9 Pro Phone and Remove Locked Screen</u></a></li>
 </ul></div>
+
 

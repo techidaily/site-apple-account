@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone XR?
-date: 2024-04-30T15:33:10.634Z
-updated: 2024-05-01T15:33:10.634Z
+date: 2024-05-19T04:38:09.006Z
+updated: 2024-05-20T04:38:09.006Z
 tags: 
   - unlock
   - remove apple account
@@ -493,4 +493,5 @@ From this article, you can know how to unlock your Apple ID and reset your passw
 <li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy A05? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-infinix-note-30-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Infinix Note 30 Pro Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
+
 

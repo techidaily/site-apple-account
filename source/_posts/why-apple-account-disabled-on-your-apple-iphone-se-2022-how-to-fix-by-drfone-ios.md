@@ -531,3 +531,4 @@ The provided solutions cater to most scenarios. Yet, for users encountering pers
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Itel S23+ | Dr.fone</u></a></li>
 </ul></div>
 
+
