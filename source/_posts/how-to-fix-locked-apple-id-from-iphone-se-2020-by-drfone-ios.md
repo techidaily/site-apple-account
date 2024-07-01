@@ -1,7 +1,7 @@
 ---
 title: How to Fix Locked Apple ID from iPhone SE (2020)
-date: 2024-05-19T04:38:27.686Z
-updated: 2024-05-20T04:38:27.686Z
+date: 2024-06-30T23:36:29.814Z
+updated: 2024-07-01T23:36:29.814Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Fix Locked Apple ID from iPhone SE (2020)
 excerpt: This article describes How to Fix Locked Apple ID from iPhone SE (2020)
 keywords: remove device from icloud,how recover forgot apple id password from icloud itunes and app store,change apple id on macbook,how to delete icloud account without password,apple id unlock,how to remove apple id from an ipad,turning off two factor authentication apple,remove apple two factor authentication,how to sign out of apple id without password,how to unlock ipad without apple id,how to fix apple account disabled,your account has been disabled in the app store and itunes,how to disconnect iphone from icloud,update credit card information on apple id and apple pay,apple id password rules,how to remove apple id from iphone without password,how to delete icloud account,how to erase a iphone without apple id
-thumbnail: https://www.lifewire.com/thmb/SIEabDwKl-JixCOGX637UhqGVC0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/title-b16094ee6f3340328084b9e5cc01426f.jpg
+thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f37966420d7b78cb492b551351d.jpg
 ---
 
 ## How to Fix Locked Apple ID on Apple iPhone SE (2020)
@@ -62,7 +62,7 @@ Step 2: Key in your Apple ID and proceed.
 
 Step 3: Confirm your mobile number associated with the Apple ID.
 
-![apple id iforgot support ](https://images.wondershare.com/drfone/article/2021/10/unlock-apple-id-on-iphone-13-6.jpg)
+![apple id iforgot support](https://images.wondershare.com/drfone/article/2021/10/unlock-apple-id-on-iphone-13-6.jpg)
 
 If you have another device associated with the Apple ID and it is a trusted device, you can now receive instructions to proceed with a two-factor code on that device.
 

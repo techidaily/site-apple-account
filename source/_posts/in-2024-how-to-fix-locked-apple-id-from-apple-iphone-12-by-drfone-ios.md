@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix Locked Apple ID from Apple iPhone 12
-date: 2024-05-19T04:38:33.268Z
-updated: 2024-05-20T04:38:33.268Z
+date: 2024-06-30T23:36:32.564Z
+updated: 2024-07-01T23:36:32.564Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Fix Locked Apple ID from Apple iPhone 12
 excerpt: This article describes How to Fix Locked Apple ID from Apple iPhone 12
 keywords: how to remove apple id from your mac,reset security question of apple id,turning off two factor authentication apple,how to remove apple id from an ipad,your account has been disabled in the app store and itunes,how to fix locked apple id from iphone,how to remove airtag from apple id,apple id locked or disabled,how do i find my apple id,unlock apple id without phone number
-thumbnail: https://www.lifewire.com/thmb/XTn22vUEhR1g5hO3UkHHYfR8z14=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tesla-bot-f6353f76ae214924916445da1da620ca.png
+thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea776763c2dea469f5e646eb4f7.png
 ---
 
 ## How to Fix Locked Apple ID on Apple iPhone 12
@@ -62,7 +62,7 @@ Step 2: Key in your Apple ID and proceed.
 
 Step 3: Confirm your mobile number associated with the Apple ID.
 
-![apple id iforgot support ](https://images.wondershare.com/drfone/article/2021/10/unlock-apple-id-on-iphone-13-6.jpg)
+![apple id iforgot support](https://images.wondershare.com/drfone/article/2021/10/unlock-apple-id-on-iphone-13-6.jpg)
 
 If you have another device associated with the Apple ID and it is a trusted device, you can now receive instructions to proceed with a two-factor code on that device.
 

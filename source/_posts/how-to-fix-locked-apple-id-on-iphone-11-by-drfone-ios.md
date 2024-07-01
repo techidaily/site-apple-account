@@ -1,7 +1,7 @@
 ---
 title: How to Fix Locked Apple ID on iPhone 11
-date: 2024-05-19T04:38:14.080Z
-updated: 2024-05-20T04:38:14.080Z
+date: 2024-06-30T23:36:24.391Z
+updated: 2024-07-01T23:36:24.391Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Fix Locked Apple ID on iPhone 11
 excerpt: This article describes How to Fix Locked Apple ID on iPhone 11
 keywords: how to fix apple id disabled,how to unlock ipad without apple id,how to remove airtag from apple id,create apple developer account,how to fix locked apple id from iphone,change apple id on macbook,reset security question of apple id,how to delete icloud account,how to unlock apple id without security questions,how to sign out of apple id without password,update credit card information on apple id and apple pay,apple id verification code not working,how do i find my apple id,how to delete icloud account without password,i forgot my apple id password and email,tips to unlock apple id,how to remove phone number from apple id,apple id locked for security reasons,how to erase a iphone without apple id,how to fix apple account locked,how recover forgot apple id password from icloud itunes and app store,apple id unlock
-thumbnail: https://www.lifewire.com/thmb/iVAserBnC6bUM-CQ2W6IX-_Wms0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-watch-taylor-swift-movies-in-order-a8e26851d3d94bf183a144766801c16c.jpg
+thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde0166f66e5a57d5c818d2809aa.jpg
 ---
 
 ## How to Fix Locked Apple ID on Apple iPhone 11
@@ -62,7 +62,7 @@ Step 2: Key in your Apple ID and proceed.
 
 Step 3: Confirm your mobile number associated with the Apple ID.
 
-![apple id iforgot support ](https://images.wondershare.com/drfone/article/2021/10/unlock-apple-id-on-iphone-13-6.jpg)
+![apple id iforgot support](https://images.wondershare.com/drfone/article/2021/10/unlock-apple-id-on-iphone-13-6.jpg)
 
 If you have another device associated with the Apple ID and it is a trusted device, you can now receive instructions to proceed with a two-factor code on that device.
 
