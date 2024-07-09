@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix Locked Apple ID on Apple iPhone 11
-date: 2024-05-19T04:38:15.089Z
-updated: 2024-05-20T04:38:15.089Z
+date: 2024-07-08T04:46:25.664Z
+updated: 2024-07-09T04:46:25.664Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Fix Locked Apple ID on Apple iPhone 11
 excerpt: This article describes How to Fix Locked Apple ID on Apple iPhone 11
 keywords: apple id locked or disabled,how to remove apple id from your mac,how to erase iphone without apple id,apple watch locked to owner,how to fix apple account locked,how to remove phone number from apple id,apple id unlock,how to delete icloud account without password,i forgot my apple id password and email,how to delete icloud account,how to sign out of apple id without password,how do i find my apple id,how to remove a device from apple id,how to disconnect iphone from icloud,how to fix locked apple id from iphone,your account has been disabled in the app store and itunes,apple id verification code not working,how to unlink apple id from iphone,tips to unlock apple id,how to remove airtag from apple id
-thumbnail: https://www.lifewire.com/thmb/aqzoJvuc7HUCTQdUzpa5GXlHCac=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Mini-Splash-ef002ffe8db643d2a2b4de772ff46790.jpg
+thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425a670680d043fc15ab445500.jpg
 ---
 
 ## How to Fix Locked Apple ID on Apple iPhone 11
@@ -62,7 +62,7 @@ Step 2: Key in your Apple ID and proceed.
 
 Step 3: Confirm your mobile number associated with the Apple ID.
 
-![apple id iforgot support ](https://images.wondershare.com/drfone/article/2021/10/unlock-apple-id-on-iphone-13-6.jpg)
+![apple id iforgot support](https://images.wondershare.com/drfone/article/2021/10/unlock-apple-id-on-iphone-13-6.jpg)
 
 If you have another device associated with the Apple ID and it is a trusted device, you can now receive instructions to proceed with a two-factor code on that device.
 
