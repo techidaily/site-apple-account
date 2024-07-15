@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes From iPhone 8 Plus?
-date: 2024-05-19T04:37:52.877Z
-updated: 2024-05-20T04:37:52.877Z
+date: 2024-07-14T12:32:13.407Z
+updated: 2024-07-15T12:32:13.407Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes Your Account Has Been Disabled in the App Store and iTunes From iPhone 8 Plus?
 excerpt: This article describes Your Account Has Been Disabled in the App Store and iTunes From iPhone 8 Plus?
 keywords: i forgot my apple id password and email,your account has been disabled in the app store and itunes,reset security question of apple id,how to unlock ipad without apple id,how to remove apple id from an ipad,how to delete icloud account without password,how to get apple id verification code,how to remove phone number from apple id,apple id greyed out,update credit card information on apple id and apple pay,apple id locked or disabled,there was an error connecting to the apple id server,change apple id on macbook,apple id locked for security reasons,how to unlink apple id from iphone,how to erase a iphone without apple id,turning off two factor authentication apple,remove apple two factor authentication,how to unlock apple id without security questions,how to remove apple id from your mac,how to fix apple account locked,unlock apple id without phone number,how to remove airtag from apple id,apple id unlock,how recover forgot apple id password from icloud itunes and app store,how to delete icloud account,how to disconnect iphone from icloud
-thumbnail: https://www.lifewire.com/thmb/jYmIoXAzWYI6-krphnPX46os0Yg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tablets-vs-laptops-832333-93961eb085ff44d99d3836a0d0fa486a.png
+thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d3949b489b0214f6877268e346.png
 ---
 
 ## Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 8 Plus?
@@ -57,6 +57,9 @@ If you just forget the password and cannot remember it, you can follow the steps
 - **Step 1:** Go to [https://iforgot.apple.com/](https://iforgot.apple.com/password/verify/appleid).
 - **Step 2:** Put your Apple ID (email) in the box and click “Continue”.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id.jpg)
 
 - **Step 3** Enter the phone number that you use with your Apple ID.
@@ -73,7 +76,7 @@ Forgetting the password is particularly troublesome, but there is good news. Tha
 
 
 
-### [Dr.Fone - Password Manager (iOS)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Password Manager (iOS)
 
 Recover and keep all your passwords in one place
 
@@ -103,6 +106,9 @@ Do you have any unpaid purchases or subscriptions?
 
 It is important to keep track of any purchases or subscriptions that you have signed up for and ensure that you pay for them on time. This not only helps you avoid late fees and penalties, but it also ensures that your account remains active and accessible. If you do have any unpaid charges, it is recommended that you settle them as soon as possible in order to reinstate your account and prevent any further issues. Keep a record of all your expenses and regularly review your bills to avoid missing any payments and keep your accounts in good standing.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 4. Sign Out and Sign in Again
 
 Signing out of your account and then signing back in may help if this issue is caused by a software glitch.
@@ -110,6 +116,9 @@ Signing out of your account and then signing back in may help if this issue is c
 - On your iOS device, go to Settings > \[Your Name\] > iTunes & App Store and Sign Out. Then sign in again.
 - On your Mac, open the App Store (Store > Sign Out) and iTunes (Account > Sign Out. Then sign in again.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 5. Try Contacting Apple Support Directly
 
 If you see a message that says, “Your account has been disabled in the App Store and iTunes,” contact Apple Support for help. You can follow these simple steps to contact Apple support:
@@ -145,7 +154,7 @@ One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fon
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iCloud Account without Password in Minutes
 
@@ -203,6 +212,9 @@ A locked Apple ID usually happens when the user has forgotten their password to 
 
 In short, Apple ID Lock is about a user's account with Apple, akin to how Google Account works on Android devices. Apple ID Lock locks a user's account with Apple while retaining complete usage of the Apple iPhone 8 Plus device whereas Activation Lock locks the Apple iPhone 8 Plus device and prevents anyone from using it until the correct credentials are entered. This is about verifying the ownership of the Apple iPhone 8 Plus device and works to deter theft of Apple devices.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part II: Checking If Your Apple ID Is Locked
 
 ![the message of apple id locked](https://images.wondershare.com/drfone/article/2021/10/unlock-apple-id-on-iphone-13-4.jpg)
@@ -235,7 +247,7 @@ Step 2: Key in your Apple ID and proceed.
 
 Step 3: Confirm your mobile number associated with the Apple ID.
 
-![apple id iforgot support ](https://images.wondershare.com/drfone/article/2021/10/unlock-apple-id-on-iphone-13-6.jpg)
+![apple id iforgot support](https://images.wondershare.com/drfone/article/2021/10/unlock-apple-id-on-iphone-13-6.jpg)
 
 If you have another device associated with the Apple ID and it is a trusted device, you can now receive instructions to proceed with a two-factor code on that device.
 
@@ -429,6 +441,9 @@ It's important to note that Dr.Fone - Screen Unlock is a trusted solution that p
 
 While this guide has covered the basics of finding your Apple ID and using Dr.Fone - Screen Unlock, there are some common issues that Apple users might encounter. Here are some tips and troubleshooting solutions to help you navigate these problems:
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apple id tips and troubleshooting](https://images.wondershare.com/drfone/article/2023/11/finding-your-apple-id-18.jpg)
 
 ### Forgotten Apple ID Password
@@ -494,3 +509,45 @@ So, explore Dr.Fone - Screen Unlock and make your Apple experience hassle-free. 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-iphone-x-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your iPhone X Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-iphone-x-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From iPhone X? 5 Tips You Must Know</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-8-plus-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By Apple iPhone 8 Plus without the Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-iphone-x-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From iPhone X</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-x-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From iPhone X</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-8-plus-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 8 Plus without Password?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/expressive-authenticity-learning-to-alter-voice-on-ig/"><u>Expressive Authenticity  Learning to Alter Voice on IG</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-ending-automatic-video-captures-in-qt-player/"><u>[Updated] 2024 Approved  Ending Automatic Video Captures in QT Player</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-navigating-the-world-of-instagram-posts-large-imagevideo-uploads/"><u>[New] In 2024, Navigating the World of Instagram Posts  Large Image/Video Uploads</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-fb-sounds-unlimited-grab-and-go/"><u>2024 Approved  FB Sounds Unlimited  Grab & Go</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-apple-iphone-8-plus-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-get-steady-a-comprehensive-guide-to-the-best-free-online-video-stabilizers-for-2024/"><u>Updated Get Steady A Comprehensive Guide to the Best Free Online Video Stabilizers for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-apple-iphone-8-plus-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On Apple iPhone 8 Plus How to Bypass?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bunny-up-your-video-editing-game-easter-sale-on-filmora-software/"><u>Bunny Up Your Video Editing Game Easter Sale on Filmora Software</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-iphone-x-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From iPhone X</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-x-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your iPhone X</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-apple-iphone-8-plus-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On Apple iPhone 8 Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-book-trailers-a-curated-list-of-5/"><u>In 2024, Best Book Trailers  A Curated List of 5</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-top-6-online-audio-extractors/"><u>Updated In 2024, Top 6 Online Audio Extractors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-put-iphone-or-ipad-on-recovery-mode-step-by-step-tutorial-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Put iPhone or iPad on Recovery mode? (Step by Step Tutorial) | Stellar</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-essential-steps-for-seamless-youtube-video-loops/"><u>2024 Approved  Essential Steps for Seamless YouTube Video Loops</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-steering-soft-sound-cessation-with-audacity/"><u>[Updated] Steering Soft Sound Cessation with Audacity</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-8-plus-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone 8 Plus? How to Fix it?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-step-by-step-guide-to-video-editing-filters-on-computers-and-phones/"><u>In 2024, A Step-by-Step Guide to Video Editing Filters on Computers & Phones</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/5-smart-ways-to-save-your-roblox-gaming-on-apple-computers/"><u>5 Smart Ways to Save Your Roblox Gaming on Apple Computers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-8-plus-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-8-plus-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone 8 Plus Apple ID on MacBook</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-8-plus-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/transform-your-channels-income-the-monetization-magic-with-500plus-fans/"><u>Transform Your Channel's Income  The Monetization Magic with 500+ Fans</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-apple-iphone-8-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On Apple iPhone 8 Plus? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-8-plus-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-illuminate-a-guide-to-great-vlog-images-for-2024/"><u>[New] How to Illuminate  A Guide to Great Vlog Images for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-8-plus-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-x-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone X?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-apple-iphone-8-plus-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-iphone-x-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From iPhone X</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-ultimate-guide-prime-video-stabilizers/"><u>[Updated] Ultimate Guide  Prime Video Stabilizers</u></a></li>
+</ul></div>

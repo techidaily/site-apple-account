@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email On iPhone 12 mini? Heres the Best Fixes
-date: 2024-05-19T04:38:36.198Z
-updated: 2024-05-20T04:38:36.198Z
+date: 2024-07-14T13:29:38.270Z
+updated: 2024-07-15T13:29:38.270Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes Forgot Your Apple ID Password and Email On iPhone 12 mini? Heres the Best Fixes
 excerpt: This article describes Forgot Your Apple ID Password and Email On iPhone 12 mini? Heres the Best Fixes
 keywords: how recover forgot apple id password from icloud itunes and app store,remove device from icloud,apple id locked or disabled,how to remove apple id from your mac,how to delete icloud account,how to get apple id verification code,your account has been disabled in the app store and itunes,how to remove an apple id from an iphone,remove apple two factor authentication,how to unlink iPhone,how to remove phone number from apple id,apple id locked for security reasons
-thumbnail: https://www.lifewire.com/thmb/hlshSPtDf3zsXAhW4UAOkuNWyQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-Macys-59e6c3699abed500118af858.jpg
+thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f433cd32ec9f580258b7206c.jpg
 ---
 
 ## Forgot Your Apple ID Password and Email On Apple iPhone 12 mini? Here's the Best Fixes
@@ -86,6 +86,9 @@ You are in luck if you have added an account recovery contact before losing your
 
 - **Step 1:** Start by accessing "System Settings" using the Finder and click on your name from the top left corner. Following this, access the "Sign-In & Security" settings and tap "Account Recovery."
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![proceed with system settings](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-11.jpg)
 
 - **Step 2:** Select the contact who has asked you for help recovering their account. Then, tap "Get Recovery Code" to receive a code that you need to share with the targeted person.
@@ -110,7 +113,7 @@ That's why it's necessary to recover your Apple ID as soon as possible. [<u>Wond
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -148,6 +151,9 @@ When your Apple iPhone 12 mini has entered [<u>Recovery Mode</u>](https://drfone
 
 ![tap sign in and security](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 In summary, the Apple ID serves as the fundamental key to unlocking a world of apps and services. Yet, the experience of forgetting the Apple ID password and email can be frustrating as it restricts users' access to their cherished accounts and services. Throughout this guide, we have explored a range of solutions on **how to retrieve the Apple ID**.
@@ -180,6 +186,9 @@ The first method involves updating your payment information directly from your A
 
 ![remove the apple id card](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Way 2: Change Credit Card on Mac
 
 Now, we shift our focus to those who prefer managing their payment information on their Mac. Changing your credit card details from Mac's settings is a straightforward and easy process. Therefore, using the following steps, you can learn **how to change your credit card on Apple ID** without any errors:
@@ -198,6 +207,9 @@ Now, we shift our focus to those who prefer managing their payment information o
 
 - **Step 4:** If you want to remove the old method linked to your Apple ID, click “Delete” in front of it. Now, tap "Delete” to remove this payment method from your Apple account.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click the delete button](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-7.jpg)
 
 ### Way 3: Update the Credit Card Details on Windows PC
@@ -224,7 +236,7 @@ The solution is [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wonder
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -235,6 +247,9 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 **4,395,218** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Features of Wondershare Dr.Fone
 
 - Unlock iPhone, iPad, and iPod touch by removing various types of lock screens, ensuring access to your device.
@@ -445,3 +460,50 @@ Getting your Apple account can ruin your day and hinder your work. Luckily, ther
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-tips-that-show-anyone-on-youtube-to-mp3-converter-review/"><u>In 2024, Tips That Show Anyone on Youtube to Mp3 Converter Review</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-must-see-vr-platforms-and-places/"><u>[Updated] 2024 Approved  Must-See VR Platforms and Places</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-iphone-13-mini-without-password-by-drfone-ios/"><u>How to Remove Apple ID from iPhone 13 mini without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-13-mini-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 13 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-13-mini-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone 13 mini without Password?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-enchanting-your-audience-podcast-opener-scripts-for-2024/"><u>[Updated] Enchanting Your Audience  Podcast Opener Scripts for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/media-mosaic-maker-for-2024/"><u>Media Mosaic Maker for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-13-mini-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone 13 mini in the Best Ways</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-beginners-blueprint-to-free-youtube-audio-to-text-for-2024/"><u>The Beginner's Blueprint to Free YouTube Audio to Text for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-pulsepundit-critique-of-live-performances/"><u>[New] In 2024, PulsePundit  Critique of Live Performances</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-iphone-13-mini-by-drfone-ios/"><u>Guide on How To Remove Apple ID From iPhone 13 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-13-mini-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 13 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-13-mini-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 13 mini Making It Possible</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-13-mini-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone 13 mini without Password?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-crafting-crystal-clear-soundscapes-for-home-video-filmmakers-what-you-need-to-know/"><u>2024 Approved Crafting Crystal Clear Soundscapes for Home Video Filmmakers (What You Need to Know )</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-13-mini-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone 13 mini?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-13-mini-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your iPhone 13 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-13-mini-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone 13 mini Apple ID on MacBook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-laying-the-groundwork-15-basic-shots-every-director-needs/"><u>[Updated] Laying the Groundwork  15 Basic Shots Every Director Needs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-audiovisual-excellence-the-premier-video-formats-for-youtube/"><u>[New] 2024 Approved  Audiovisual Excellence  The Premier Video Formats for YouTube</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-iphone-13-mini-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your iPhone 13 mini? How to Fix</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-taking-your-filmed-artistry-on-a-journey-with-imovie-and-youtube/"><u>In 2024, Taking Your Filmed Artistry on a Journey with iMovie & YouTube</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-4-best-video-resume-makers/"><u>Updated In 2024, 4 Best Video Resume Makers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-iphone-13-mini-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect iPhone 13 mini and iPad</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-13-mini-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone 13 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-13-mini-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 13 mini</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhancing-narratives-a-guide-to-using-b-roll/"><u>Enhancing Narratives  A Guide to Using B-Roll</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-13-mini-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 13 mini</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/turning-tides-in-visuals-mastering-the-art-of-angles-and-rotations-on-insta/"><u>Turning Tides in Visuals  Mastering the Art of Angles and Rotations on Insta</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-iphone-13-mini-by-drfone-ios/"><u>How to Fix when Apple Account Locked On iPhone 13 mini?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-iphone-13-mini-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off iPhone 13 mini without Password</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-poco-x6-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Poco X6 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oppo-f23-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Oppo F23 5G Phone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-blend-into-black-premiere-pro-trick/"><u>[New] In 2024, Blend Into Black  Premiere Pro Trick</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-tecno-camon-20-premier-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Tecno Camon 20 Premier 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-13-mini-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone 13 mini without Apple ID?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-13-mini-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 13 mini?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-iphone-13-mini-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From iPhone 13 mini</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-innovators-intertwining-video-with-melodious-images/"><u>2024 Approved  Innovators Intertwining Video with Melodious Images</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-the-a-list-of-audio-harvesters-10-indispensable-tools-to-master-your-sound-design/"><u>2024 Approved The A-List of Audio Harvesters 10 Indispensable Tools to Master Your Sound Design</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-13-mini-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone 13 mini Without Apple ID Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-13-mini-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone 13 mini</u></a></li>
+</ul></div>

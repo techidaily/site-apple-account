@@ -1,7 +1,7 @@
 ---
 title: In 2024, Why Apple Account Disabled From your iPhone 12 mini? How to Fix
-date: 2024-05-19T04:38:38.858Z
-updated: 2024-05-20T04:38:38.859Z
+date: 2024-07-14T13:32:57.124Z
+updated: 2024-07-15T13:32:57.124Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes Why Apple Account Disabled From your iPhone 12 mini? How to Fix
 excerpt: This article describes Why Apple Account Disabled From your iPhone 12 mini? How to Fix
 keywords: how to delete icloud account without password,update credit card information on apple id and apple pay,unlock apple id without phone number,how recover forgot apple id password from icloud itunes and app store,how to remove apple id from iphone without password,how to fix apple id disabled,how to remove an apple id from an iphone,apple id verification code not working,create apple developer account,how to disconnect iphone from icloud,apple id unlock,how to sign out of apple id without password,apple id password rules,i forgot my apple id password and email,how to unlock ipad without apple id,change apple id on macbook,how to unlock apple id without security questions
-thumbnail: https://www.lifewire.com/thmb/NJLgSOS-_Qq21qgfdWY713OPYzI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527803604-ad6f389c89ff4be1b953a3c2cdc64c09.jpg
+thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d2518f12f424f4610cd1ffe517b.jpg
 ---
 
 ## Why Apple Account Disabled On your Apple iPhone 12 mini? How to Fix
@@ -236,6 +236,9 @@ The first thing to do is download and install the Dr.Fone – Screen Unlock (iOS
 
 After the installation is done completely, launch the tool and select the “Screen Unlock” option on the software’s home interface. A new screen interface will appear, you will have three different options. You need to select the “Unlock iOS Screen” option and, this will start the entire process of unlocking.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 3: Boot your device into Recovery/DFU Mode**
@@ -254,6 +257,9 @@ After a successful reboot into Recovery mode, the tool will automatically detect
 
 Once the download is complete, you can get started with erasing an iPhone without an Apple ID password. Hit the “Unlock Now” button, and voila! In no time, you’ve successfully erased an iPhone without an Apple ID password.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ios unlock 4](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 ## Part 2. Erase an iPhone without Apple ID via iTunes
@@ -266,6 +272,9 @@ Sometimes your phone might ask for an Apple ID and password to confirm your auth
 
 In iPhone 8 or later: Tap the Volume Up, then quickly tap Volume Down and hold down the Power key afterward.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase a iphone without apple id 1](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-1.jpg)
 
 In the case of iPhone 7/7Plus: Press the “Sleep/Power” and “Volume Down” keys together.
@@ -276,6 +285,9 @@ Hold down the keys until you see the message on your iTunes screen about “your
 
 ![erase a iphone without apple id 2](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. How to erase an iPhone without Apple ID via Settings
 
 Erasing an iPhone without Apple ID becomes necessary when we happen to use a second-hand phone or when we share a phone with someone. It is indeed a hard task to overcome these issues as we constantly strive to change our phone or replace it with a second-hand one. We have jotted a few steps that can help you erase an iPhone without Apple ID via settings for your ease.
@@ -326,6 +338,9 @@ Now let’s get started with erasing an Apple ID via Apple’s Data and Privacy 
 
 **Step 6:** This submission will give you your access code which you can later use for clarification and, now you can click on the “Delete Account” option
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase a iphone without apple id 7](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-7.jpg)
 
 ## Conclusion
@@ -349,3 +364,54 @@ Coming towards the end of the topic, we now are fully sure that you fully unders
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-7-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone 7</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-magic5-ultimate-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-7-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone 7?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-15-plus-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 15 Plus Passcode Easily Video Inside</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-7-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone 7? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-7-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 7</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-apple-iphone-7-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From Apple iPhone 7</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-apple-iphone-7-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On Apple iPhone 7? 5 Tips You Must Know</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-incredible-free-designer-software-for-discord-images/"><u>[New] In 2024, Incredible Free Designer Software for Discord Images</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-7-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 7? Find the Best Solution Here</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-xiaomi-14-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Xiaomi 14 Pro</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-art-of-slow-motion-top-video-editing-software-for-professionals/"><u>In 2024, The Art of Slow Motion Top Video Editing Software for Professionals</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-apple-iphone-7-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From Apple iPhone 7 without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-7-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone 7 How to Bypass?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-7-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone 7 Making It Possible</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-7-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 7</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-7-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone 7? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-7-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 7</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unveiling-the-hidden-gems-of-tiktok-elements-for-creators/"><u>[Updated] Unveiling the Hidden Gems of TikTok Elements for Creators</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-apple-iphone-7-by-drfone-ios/"><u>How To Create an Apple Developer Account From Apple iPhone 7</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-share-apple-iphone-se-screen-with-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Share Apple iPhone SE Screen with PC | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-7-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 7? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-7-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From Apple iPhone 7?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-7-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 7?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-apple-iphone-7-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your Apple iPhone 7 Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-7-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 7</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-apple-iphone-7-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From Apple iPhone 7 in the Best Ways</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-from-amateur-soundscape-to-professional-masterpiece-a-guide-to-choosing-an-expert-audio-engineer/"><u>In 2024, From Amateur Soundscape to Professional Masterpiece A Guide to Choosing an Expert Audio Engineer</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-10-best-podcast-recording-software/"><u>Updated 10 Best Podcast Recording Software</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-7-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone 7? How to Fix</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-7-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone 7?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-m14-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy M14 5G FRP Locks</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-7-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 7</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-7-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone 7</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-discovering-the-immersive-world-of-lg-27ud68/"><u>2024 Approved  Discovering the Immersive World of LG 27UD68</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-7-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 7</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/oing-pro-with-gs-effects-exclusive-free-lessons-from-4-premier-video-channels/"><u>[New] Going Pro with GS Effects  Exclusive Free Lessons From 4 Premier Video Channels</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-tv-essentials-step-by-step-upload-guide/"><u>2024 Approved  Instagram TV Essentials  Step-by-Step Upload Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-videopad-video-editor-review-features-performance-and-value-for-money-for-2024/"><u>New Videopad Video Editor Review Features, Performance, and Value for Money for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-cracking-the-code-twitter-video-aspect-ratio-requirements/"><u>New 2024 Approved Cracking the Code Twitter Video Aspect Ratio Requirements</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-7-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 7</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sound-capture-and-archive-iphone-2024/"><u>Sound Capture & Archive  IPhone, 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-7-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From Apple iPhone 7</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-apple-iphone-7-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your Apple iPhone 7 without Security Questions?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-7-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone 7 without Password?</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone 6 When We Dont Have Apple ID or Password?
-date: 2024-05-19T04:37:18.698Z
-updated: 2024-05-20T04:37:18.698Z
+date: 2024-07-14T11:46:18.753Z
+updated: 2024-07-15T11:46:18.753Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock Apple iPhone 6 When We Dont Have Apple ID or Password?
 excerpt: This article describes How to Unlock Apple iPhone 6 When We Dont Have Apple ID or Password?
 keywords: change apple id on macbook,your account has been disabled in the app store and itunes,how to remove a device from apple id,how to disconnect iphone from icloud,turning off two factor authentication apple,update credit card information on apple id and apple pay,apple id unlock,unlock apple id without phone number,how to unlink iPhone,how to fix locked apple id from iphone,iphone locked to owner,tips to unlock apple id,apple id password rules,how to unlink apple id from iphone,reset security question of apple id,how do i find my apple id,how to erase a iphone without apple id,how to remove phone number from apple id,how to remove an apple id from an iphone,how to delete icloud account,how to erase iphone without apple id,how to remove airtag from apple id,how to remove apple id from an ipad,there was an error connecting to the apple id server,how to get someones apple id off iphone without password,apple watch locked to owner,i forgot my apple id password and email
-thumbnail: https://www.lifewire.com/thmb/he26hNDyU2vpo9vDwma05qKk-R8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/espnplus-6d79c347f2df42d7a38cdb0ba9a2472b.jpg
+thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d750526e3d62954932be609de318.jpg
 ---
 
 ## How to Unlock Apple iPhone 6 When We Don't Have Apple ID or Password?
@@ -168,8 +168,11 @@ The first way the previous owner can remove the Apple ID from your MacBook is by
 
 ![access the apple id settings](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-3.jpg)
 
-- **Step 2:**Scroll down on the screen to devices that are connected with the Apple ID. Tap on the MacBook and use the "Remove from Account” option to[<u>remove Apple ID</u>](https://drfone.wondershare.com/apple-account/how-to-remove-phone-number-from-apple-id.html)from MacBook.
+- **Step 2:**Scroll down on the screen to devices that are connected with the Apple ID. Tap on the MacBook and use the "Remove from Account” option to [<u>remove Apple ID</u>](https://drfone.wondershare.com/apple-account/how-to-remove-phone-number-from-apple-id.html) from MacBook.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose remove from account option](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-4.jpg)
 
 ### Way 2: Using Find My App
@@ -218,7 +221,7 @@ You will need to check the official Apple System Status page at [<u>https://www.
 
 ![check the apple server status](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-9.jpg)
 
-[<u>Forgetting a password to your Apple ID</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html)is a nightmare for Apple users. Considering the pivotal role of Apple ID in the Apple ecosystem, it's not surprising that forgetting your Apple ID password can be a concern. Nevertheless, the real question is how to proceed if you find yourself in this predicament. While it may initially appear impossible, rest assured there are solutions available. Where there's determination, there's a path forward.
+[<u>Forgetting a password to your Apple ID</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) is a nightmare for Apple users. Considering the pivotal role of Apple ID in the Apple ecosystem, it's not surprising that forgetting your Apple ID password can be a concern. Nevertheless, the real question is how to proceed if you find yourself in this predicament. While it may initially appear impossible, rest assured there are solutions available. Where there's determination, there's a path forward.
 
 If it is an iOS device where your Apple ID is locked, we have the best tool for you in the form of [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This tool enables you to remove Apple ID from the Apple iPhone 6 device without needing a password. Dr.Fone's iPhone unlocker has the capability to bypass the Apple ID lock permanently. It even works when the Find My/Find My iPhone feature is active on the Apple iPhone 6 device.
 
@@ -228,6 +231,9 @@ You can fully restore access to all your iCloud services and Apple ID features b
 
 Click "Toolbox" from the left sidebar after launching Wondershare Dr.Fone. From the available options on the screen, choose "Screen Unlock" and select "iPhone" as your device type. Now connect your Apple iPhone 6 to the computer using a USB cable and click "[<u>Remove Apple ID</u>](https://drfone.wondershare.com/unlock/how-to-get-someones-apple-id-off-iphone-without-password.html)" in Dr.Fone.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
 
@@ -258,6 +264,14 @@ Now, there are several situations where a user might want to delete their iCloud
 
 So, in this guide, we’re going to share some insight into how to delete iCloud account without password so that you can get rid of all the unnecessary accounts and use a single one across all your iDevices.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to delete iCloud account without password on iPhone?
 
 If you have an iPhone at the moment, here are three different ways to delete an iCloud account using your phone itself.
@@ -276,6 +290,9 @@ Follow these instructions to delete the iCloud account from the “Settings” m
 
 **Step 4:** Now, click on “Account” and erase everything from “Description”. Click “Done” and you’ll again go back to the iCloud screen. This will disable the “Find My iPhone” feature and you’ll be able to [remove the iCloud account](https://drfone.wondershare.com/icloud/how-to-remove-icloud-account.html) easily.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase description](https://images.wondershare.com/drfone/article/2020/05/erase-description.jpg)
 
 **Step 5:** Again, tap on iCloud and scroll down till the end. Tap “Delete Account” and again click “Delete” to confirm your action.
@@ -366,6 +383,9 @@ Now, to successfully establish the connection between the two devices, enter the
 
 Once the two devices are successfully connected, tap “Unlock Now” on your computer screen. This will trigger a warning message. Click “Unlock” to continue with the process.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![attention](https://images.wondershare.com/drfone/drfone/attention.jpg)
 
 At this point, you’ll be asked to enter recovery mode. You can follow the on-screen instructions to successfully enter recovery mode.
@@ -406,3 +426,56 @@ That’s the entire guide on how to delete iCloud account without password. Even
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-12-mini-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone 12 mini Making It Possible</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-picks-hilarity-driven-ringtones-for-laughter-lovers/"><u>Top Picks  Hilarity-Driven Ringtones for Laughter Lovers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-12-mini-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From Apple iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-12-mini-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 12 mini? Find the Best Solution Here</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oppo-f23-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-apple-iphone-12-mini-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your Apple iPhone 12 mini Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-12-mini-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone 12 mini? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-12-mini-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-12-mini-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-12-mini-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone 12 mini? How to Fix it?</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/harmonizing-soundscape-and-aesthetics-showcasing-audio-signals-in-visual-forms-and-animating-them-for-cinematic-vision-in-adobe-audition-pro-master-for-2024/"><u>Harmonizing Soundscape and Aesthetics Showcasing Audio Signals in Visual Forms & Animating Them for Cinematic Vision in Adobe Audition Pro Master. For 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-iphone-12-mini-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On iPhone 12 mini How to Bypass?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-12-mini-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone 12 mini?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-12-mini-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-12-mini-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-12-mini-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone 12 mini without Password?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphone-photography-101-simple-strategies/"><u>2024 Approved  IPhone Photography 101  Simple Strategies</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-master-the-archive-navigating-social-media-live-recordings/"><u>[Updated] In 2024, Master the Archive  Navigating Social Media Live Recordings</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-12-mini-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-apple-iphone-12-mini-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From Apple iPhone 12 mini</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-ultimate-ratio-breakdown-for-youtube-content-formats-for-2024/"><u>[Updated] Ultimate Ratio Breakdown for YouTube Content Formats for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-apple-iphone-12-mini-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your Apple iPhone 12 mini Apple ID and Apple Pay</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-converting-gifs-how-to-create-cool-stickers-in-discord-and-whatsapp-for-2024/"><u>The Art of Converting GIFs  How to Create Cool Stickers in Discord & WhatsApp for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-top-11-premium-mobile-apps-for-enhancing-sound-quality-for-2024/"><u>Updated Top 11 Premium Mobile Apps for Enhancing Sound Quality for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-using-track-matte-and-tracking-in-adobe-after-effects-reviewing-all-possibilities/"><u>Updated In 2024, Using Track Matte and Tracking in Adobe After Effects Reviewing All Possibilities</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-apple-iphone-12-mini-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On Apple iPhone 12 mini? 5 Tips You Must Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-potential-steps-for-successful-optional-components-integration/"><u>Unlocking Windows 11 Potential: Steps for Successful Optional Components Integration</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-12-mini-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From Apple iPhone 12 mini?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-12-mini-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone 12 mini How to Bypass?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-12-mini-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-12-mini-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone 12 mini?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-12-mini-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone 12 mini? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-virtual-venues-clash-obstwitch-live/"><u>2024 Approved  Virtual Venues Clash  OBS/Twitch Live</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/strategies-for-enthralling-vlog-content-flow/"><u>Strategies for Enthralling Vlog Content Flow</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-12-mini-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 12 mini?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-apple-iphone-12-mini-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From Apple iPhone 12 mini without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-12-mini-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-apple-iphone-12-mini-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From Apple iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-apple-iphone-12-mini-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From Apple iPhone 12 mini? 5 Tips You Must Know</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-12-mini-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-apple-iphone-12-mini-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your Apple iPhone 12 mini without Security Questions?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-12-mini-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 12 mini? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-12-mini-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-12-mini-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone 12 mini? How to Fix</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-12-mini-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-apple-iphone-12-mini-by-drfone-ios/"><u>How To Create an Apple Developer Account From Apple iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-apple-iphone-12-mini-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From Apple iPhone 12 mini in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-12-mini-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 12 mini?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-iphone-12-mini-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On iPhone 12 mini? Find the Best Solution Here</u></a></li>
+</ul></div>

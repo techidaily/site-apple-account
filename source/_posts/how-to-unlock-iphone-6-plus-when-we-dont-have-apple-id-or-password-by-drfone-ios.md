@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 6 Plus When We Dont Have Apple ID or Password?
-date: 2024-05-19T04:37:21.739Z
-updated: 2024-05-20T04:37:21.739Z
+date: 2024-07-14T11:50:38.058Z
+updated: 2024-07-15T11:50:38.058Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone 6 Plus When We Dont Have Apple ID or Password?
 excerpt: This article describes How to Unlock iPhone 6 Plus When We Dont Have Apple ID or Password?
 keywords: apple id unlock,how to fix locked apple id from iphone,your account has been disabled in the app store and itunes,how to delete icloud account,i forgot my apple id password and email,apple id greyed out,unlock apple id without phone number,how to remove an apple id from an iphone,how to remove apple id from your mac,how to erase iphone without apple id,how to remove a device from apple id,turning off two factor authentication apple,how to fix apple id disabled,how to fix apple account locked,apple id locked or disabled,apple id password rules,create apple developer account,how to get apple id verification code,how to remove airtag from apple id,how to disconnect iphone from icloud,how to unlink iPhone,remove apple two factor authentication,how to remove phone number from apple id,how recover forgot apple id password from icloud itunes and app store,how to erase a iphone without apple id,how to remove apple id from an ipad,reset security question of apple id,how to remove apple id from iphone without password
-thumbnail: https://www.lifewire.com/thmb/Gmap6LeMRtADZthm_PJ2lXNY4cM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/copilot-b197f8dd690845d5bf8ebbc082c89c20.jpg
+thumbnail: https://thmb.techidaily.com/e1a2efe9bf1f732226416442fb362e8363cdb8595c634b883b7def7759d3266e.jpg
 ---
 
 ## How to Unlock Apple iPhone 6 Plus When We Don't Have Apple ID or Password?
@@ -22,6 +22,9 @@ Unlocking the iPad without Macintosh ID implies that you have to reset it and re
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/KpG7icSR2-8"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4 Easy Ways to Unlock iPad without Apple ID or Password
 
 ### Method 1. Resetting Apple Account
@@ -41,6 +44,9 @@ This method is good for you if you are fortunate to have another iOS device, lik
 - Go to the Settings app and tap your name. Then go to the "Password and Security" tab and click the "Change Password" option.
 - When asked, enter your Apple iPhone 6 Plus password. Then, at that point, you can reset your Apple ID password.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![id on iphone](https://images.wondershare.com/drfone/article/2022/10/unlock-ipad-without-apple-id-password-2.jpg)
 
 ### Method 2. Enter Recovery Mode and Use iTunes
@@ -57,6 +63,9 @@ You can change this technique and unlock an iPad you haven't recently connected 
 - Hold down the side button until you actuate Recovery mode.
 - Open the iTunes program on your PC and pick your Apple iPhone 6 Plus.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open itunes](https://images.wondershare.com/drfone/article/2022/10/unlock-ipad-without-apple-id-password-3.jpg)
 
 - Press “Restore”.
@@ -219,6 +228,9 @@ In the next window, you’ll see three different options. Select “Remove Apple
 
 Now, to successfully establish the connection between the two devices, enter the passcode on your iDevice and tap the “Trust” button to confirm the connection.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![trust computer](https://images.wondershare.com/drfone/drfone/trust-computer.jpg)
 
 **Step 5: Reset Your Apple iPhone 6 Plus**
@@ -322,6 +334,9 @@ You would use the Find My Devices utility of the service to remove the ID. Here 
 
 That’s it! Once you complete the steps mentioned above, the account will be removed from the iPhone, and you can sign in with your own Apple ID.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remove apple id from iphone 2](https://images.wondershare.com/drfone/article/2020/11/remove-apple-id-from-iphone-2.jpg)
 
 ## Part 3. Remove Apple ID by Restoring the Apple iPhone 6 Plus in iTunes
@@ -365,3 +380,52 @@ Now you know how to remove the Apple ID from your old or new iPhone without havi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-iphone-7-plus-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your iPhone 7 Plus From Your Apple ID</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-iphone-7-plus-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect iPhone 7 Plus and iPad</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-7-plus-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone 7 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-7-plus-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone 7 Plus?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-iphone-7-plus-by-drfone-ios/"><u>How to Fix when Apple Account Locked On iPhone 7 Plus?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-7-plus-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 7 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-7-plus-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone 7 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-7-plus-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone 7 Plus without Apple ID?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-7-plus-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 7 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-7-plus-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 7 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-iphone-7-plus-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From iPhone 7 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-7-plus-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone 7 Plus without Security Questions?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-perfecting-presentations-through-adobe-captivates-tools/"><u>2024 Approved  Perfecting Presentations Through Adobe Captivate's Tools</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-tiktok-sensation-round-up-twitters-buzzing-top-ten/"><u>2024 Approved  TikTok Sensation Round-Up  Twitter's Buzzing Top Ten</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-iphone-7-plus-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On iPhone 7 Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-7-plus-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your iPhone 7 Plus</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prepare-for-the-metaverse-the-7-indispensable-tools/"><u>[Updated] Prepare for the Metaverse - The 7 Indispensable Tools</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-7-plus-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 7 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-7-plus-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 7 Plus Making It Possible</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-iphone-7-plus-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On iPhone 7 Plus How to Bypass?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-7-plus-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone 7 Plus without the Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-7-plus-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone 7 Plus? How to Fix it?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-personalizing-teams-windows-for-effective-calls/"><u>[New] In 2024, Personalizing Teams Windows for Effective Calls</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-iphone-7-plus-by-drfone-ios/"><u>Guide on How To Remove Apple ID From iPhone 7 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-7-plus-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone 7 Plus Without Apple ID Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-7-plus-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone 7 Plus Apple ID on MacBook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-iphone-7-plus-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off iPhone 7 Plus without Password</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oneplus-open-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-7-plus-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone 7 Plus without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-7-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone 7 Plus? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-7-plus-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 7 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-7-plus-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone 7 Plus in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-iphone-7-plus-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your iPhone 7 Plus? How to Fix</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-essential-tools-to-upgrade-your-tiktok-creations-top-10-free/"><u>[New] In 2024, Essential Tools to Upgrade Your TikTok Creations (Top 10 Free)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-step-by-step-guide-to-upgrading-your-mac-to-11-big-sur/"><u>In 2024, A Step-by-Step Guide to Upgrading Your Mac to 11 Big Sur</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-foodies-favorites-the-15-most-captivating-tiktok-recipe-videos/"><u>[New] 2024 Approved  Foodies' Favorites  The 15 Most Captivating TikTok Recipe Videos</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-7-plus-by-drfone-ios/"><u>How To Unlink Apple ID From iPhone 7 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-7-plus-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 7 Plus?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-7-plus-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone 7 Plus without Password?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-brighten-up-your-gameplay-tips-to-fix-a-black-screen-on-obs/"><u>[Updated] Brighten Up Your Gameplay  Tips to Fix a Black Screen on OBS</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-7-plus-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 7 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-7-plus-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 7 Plus?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-make-a-youtube-subscribe-link-easy/"><u>In 2024, How to Make a YouTube Subscribe Link - Easy</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-iphone-7-plus-without-password-by-drfone-ios/"><u>How to Remove Apple ID from iPhone 7 Plus without Password?</u></a></li>
+</ul></div>

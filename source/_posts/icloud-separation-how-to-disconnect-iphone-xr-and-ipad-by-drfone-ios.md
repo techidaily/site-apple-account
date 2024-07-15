@@ -1,7 +1,7 @@
 ---
 title: iCloud Separation How To Disconnect iPhone XR and iPad
-date: 2024-05-19T04:38:09.679Z
-updated: 2024-05-20T04:38:09.679Z
+date: 2024-07-14T12:54:16.579Z
+updated: 2024-07-15T12:54:16.579Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes iCloud Separation How To Disconnect iPhone XR and iPad
 excerpt: This article describes iCloud Separation How To Disconnect iPhone XR and iPad
 keywords: how to delete icloud account without password,apple watch locked to owner,tips to unlock apple id,how to erase a iphone without apple id,how to remove phone number from apple id,how recover forgot apple id password from icloud itunes and app store,remove device from icloud,unlock apple id without phone number,how to fix apple id disabled,how to get someones apple id off iphone without password,your account has been disabled in the app store and itunes,apple id password rules,i forgot my apple id password and email,create apple developer account,how to fix apple account disabled,remove apple two factor authentication,how to delete icloud account,how to sign out of apple id without password,apple id locked or disabled,turning off two factor authentication apple,how to remove a device from apple id,how to unlink apple id from iphone,apple id greyed out,how to unlock apple id without security questions,iphone locked to owner,reset security question of apple id,how to get apple id verification code,how to unlock ipad without apple id,how to erase iphone without apple id,how to fix locked apple id from iphone,how to disconnect iphone from icloud,how to remove apple id from iphone without password,how to unlink iPhone,change apple id on macbook,how do i find my apple id
-thumbnail: https://www.lifewire.com/thmb/wAMAGSxPA1Fx2QobaiyABiSggJ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-753288077-5bb0f9b2cff47e00261aa8fc.jpg
+thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a5594338591ba06831ec971383.jpg
 ---
 
 ## iCloud Separation: How To Disconnect Apple iPhone XR and iPad
@@ -32,6 +32,9 @@ iCloud is one of the most integral parts of the Apple ecosystem. It syncs your d
 
 Privacy is an important concern in today’s digital age. Disconnecting from iCloud can provide a layer of security. It prevents sensitive information like photos, contacts, and documents from being stored in the cloud. This is important if you prefer to maintain complete control over your data.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Selling or Giving Away Your Device
 
 When you decide to sell or give away your Apple iPhone XR or iPad, it’s essential to disconnect it from iCloud. Failing to do so could allow the new owner access to your data. Disconnecting ensures your device is wiped clean of your iCloud information, protecting your privacy.
@@ -42,7 +45,7 @@ Apple offers a limited amount of free iCloud storage. If you’ve reached or exc
 
 ### Changing Apple ID
 
-If you decide to [<u>change your Apple ID</u>](https://drfone.wondershare.com/reset-iphone/reset-iphone-without-apple-id.html)for any reason, disconnecting from iCloud is necessary. This operation allows you to reconnect your old ID to a new one if necessary. It ensures that all purchases, app downloads, and data are linked to the new ID.
+If you decide to [<u>change your Apple ID</u>](https://drfone.wondershare.com/reset-iphone/reset-iphone-without-apple-id.html) for any reason, disconnecting from iCloud is necessary. This operation allows you to reconnect your old ID to a new one if necessary. It ensures that all purchases, app downloads, and data are linked to the new ID.
 
 The benefits of disconnecting from iCloud include enhanced security and privacy. Disconnecting your iCloud account can also lead to reduced usage. It’s great for users who want more control over their data or prefer to keep their devices offline.
 
@@ -50,6 +53,9 @@ The benefits of disconnecting from iCloud include enhanced security and privacy.
 
 Learning **how to disconnect aniPhone or iPad from iCloud**can be necessary for various reasons. To guide you through the process, here are six methods to do so.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Use Settings To Access iCloud
 
 - **Step 1**: Open the **Settings** app on your Apple iPhone XR/iPad. Next, tap your name at the top, where your Apple ID is listed.
@@ -70,7 +76,7 @@ You can also remove your iCloud account on your Apple iPhone XR/iPad by visiting
 
 ### Factory Reset
 
-[<u>Performing a factory reset</u>](https://drfone.wondershare.com/reset-iphone/factory-reset-iphone-without-itunes.html)can cause all data on your device erased, effectively disconnecting it from iCloud. Here’s how.
+[<u>Performing a factory reset</u>](https://drfone.wondershare.com/reset-iphone/factory-reset-iphone-without-itunes.html) can cause all data on your device erased, effectively disconnecting it from iCloud. Here’s how.
 
 - **Step 1:**Go to your device’s **Settings**. Next, tap on **General**\> **Reset**. Choose**Erase All Content and Settings**.
 
@@ -103,7 +109,7 @@ If you’ve tried all the options and even contacted Apple support but still fac
 
 ## Part 3. Steps To Remove iCloud From iPhone/iPad With a Flexible Alternative-Wondershare Dr.Fone
 
-Dr.Fone is a flexible alternative tool that can remove iCloud from your Apple iPhone XR or iPad. Your Apple iPhone XR or iPad will most likely trigger [<u>iCloud’s Activation Lock</u>](https://drfone.wondershare.com/icloud/unlock-icloud-activation.html)if all the steps above do not solve your issue. In that case, Dr.Fone - Screen Unlock can help you bypass it, allowing you to regain control of your device. The steps below show you **how to disconnect from iCloud**in 3 simple steps.
+Dr.Fone is a flexible alternative tool that can remove iCloud from your Apple iPhone XR or iPad. Your Apple iPhone XR or iPad will most likely trigger [<u>iCloud’s Activation Lock</u>](https://drfone.wondershare.com/icloud/unlock-icloud-activation.html) if all the steps above do not solve your issue. In that case, Dr.Fone - Screen Unlock can help you bypass it, allowing you to regain control of your device. The steps below show you **how to disconnect from iCloud**in 3 simple steps.
 
 - **Step 1**: Start by downloading and installing Dr.Fone on your computer. Once installed, launch the program. Click **Toolbox**\> **ScreenUnlock**\> **iOS**to move on to the next process.
 
@@ -129,14 +135,14 @@ Dr.Fone goes beyond [<u>bypassing the iCloud activation lock</u>](https://drfone
 ![other dr.fone capabilities](https://images.wondershare.com/drfone/guide/bypass-activation-lock-2.png)
 
 - **Unlock Apple ID without a Password**. Dr.Fone allows you to unlock your Apple ID without needing a password. The feature is helpful if you’ve been locked out of your account or face authentication issues.
-- **Remove SIM Lock/Phone Carrier.**The tool can also [<u>remove SIM locks</u>](https://drfone.wondershare.com/sim-unlock/android-sim-unlock-code-generator.html)and phone carrier restrictions. This feature allows you to use your device with any carrier or SIM card.
+- **Remove SIM Lock/Phone Carrier.**The tool can also [<u>remove SIM locks</u>](https://drfone.wondershare.com/sim-unlock/android-sim-unlock-code-generator.html) and phone carrier restrictions. This feature allows you to use your device with any carrier or SIM card.
 - **No Data Loss.**A crucial advantage of Dr.Fone is its ability to perform all these operations without causing data loss. Your precious data, apps, and settings remain intact throughout the process.
 
 Apart from its iCloud-related capabilities, Dr.Fone offers a comprehensive set of tools for managing your iOS device.
 
 **Data Recovery**
 
-Dr.Fone can help you[<u>recover lost or deleted data</u>](https://drfone.wondershare.com/recovery-mode/how-to-recover-data-from-iphone-in-recovery-mode.html). Retrieve your messages, photos, videos, contacts, and more. The feature is a lifesaver when accidental data loss occurs.
+Dr.Fone can help you [<u>recover lost or deleted data</u>](https://drfone.wondershare.com/recovery-mode/how-to-recover-data-from-iphone-in-recovery-mode.html). Retrieve your messages, photos, videos, contacts, and more. The feature is a lifesaver when accidental data loss occurs.
 
 **Phone Manager**
 
@@ -207,6 +213,9 @@ Dr. Fone – Screen Unlock (iOS) makes it easy for the users to control and remo
 
 You need to connect your Apple device with the desktop and launch Dr. Fone across the computer. Tap on the "Screen Unlock" tool present on the home window and proceed with the removal of two-factor authentication.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Access Appropriate Option**
@@ -247,6 +256,9 @@ The Apple Developer Account or Apple Developer ID is the gateway to the Apple ec
 
 It is also essential for companies and organizations to develop their software solutions. By obtaining an Apple Developer Account, you unlock many valuable resources. These include the essential SDKs, tools, and documentation. Moreover, it grants you entry into the Apple Developer Program. It is the premium tier of developer membership that offers exclusive benefits. Some benefits are [<u>beta software access</u>](https://drfone.wondershare.com/ios-upgrade/install-ios-17-developer-beta-official-version.html), advanced app capabilities, and the ability to distribute apps.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: What Items Are Included in Apple Developer Account
 
 If you are wondering what this membership encompasses, your Apple Developer account isn't just a card that grants you entry. It is a comprehensive toolkit you need to succeed in the Apple ecosystem. Following are some of the benefits you get after learning **how to get an Apple Developer Account**:
@@ -315,6 +327,9 @@ After completing all the requirements, let’s start the process of **how to get
 
 - **Step 2.** A new page will appear, from which you need to choose the "Enroll Today" button and choose the "Continue enrollment on the web" option if you are using a web browser. This will take you to the form where you need to fill in the basic information such as your legal name, phone number, address, Zip code, and other details.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![click on enroll today](https://images.wondershare.com/drfone/article/2023/10/apple-developer-program-3.jpg)
 
 - **Step 3.** After filling in the basic information, click the "Continue" button. A new page will appear where you can choose whether to proceed as an individual or an organization. Once the selection is made, follow the on-screen instructions to proceed. In the end, you will be asked to complete the purchase of an Apple Developer Program subscription, which is $99 for 1 year.
@@ -329,7 +344,7 @@ Thus, in such situations, when the user finds no option to [<u>unlock their Appl
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -398,3 +413,55 @@ Additionally, for those who may encounter issues with their Apple ID due to forg
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-iphone-se-2020-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On iPhone SE (2020)? Find the Best Solution Here</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-se-2020-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone SE (2020)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-se-2020-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone SE (2020)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-se-2020-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone SE (2020) without Password?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unbiased-take-on-recordcast-efficacy/"><u>Unbiased Take on RecordCast Efficacy</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-iphone-se-2020-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect iPhone SE (2020) and iPad</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-se-2020-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone SE (2020)?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-se-2020-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone SE (2020)?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-se-2020-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone SE (2020) without the Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-iphone-se-2020-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From iPhone SE (2020)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-se-2020-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone SE (2020) without Apple ID?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-iphone-se-2020-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On iPhone SE (2020) How to Bypass?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-se-2020-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone SE (2020)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-se-2020-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone SE (2020)</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/blueprint-for-broadcasting-breaks/"><u>Blueprint for Broadcasting Breaks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-most-advanced-screen-recording-tools-on-mac-excluding-bandicam-for-2024/"><u>[Updated] The Most Advanced Screen Recording Tools on Mac (Excluding Bandicam) for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-apple-iphone-se-2020-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-iphone-se-2020-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your iPhone SE (2020) From Your Apple ID</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-se-2020-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone SE (2020)? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-se-2020-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone SE (2020) Making It Possible</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-discovering-the-leading-skype-recorders-of-the-year/"><u>[Updated] In 2024, Discovering the Leading Skype Recorders of the Year</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-se-2020-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone SE (2020)? How to Fix it?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-nubia-red-magic-9-pro-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Nubia Red Magic 9 Pro for Streaming | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-stylish-spectacles-trending-insta-filters-list/"><u>[Updated] 2024 Approved  Stylish Spectacles  Trending Insta Filters List</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-se-2020-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone SE (2020)?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-iphone-se-2020-by-drfone-ios/"><u>Guide on How To Remove Apple ID From iPhone SE (2020)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-iphone-se-2020-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off iPhone SE (2020) without Password</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-gentle-grooves-a-selection-of-chill-country-songs-for-relaxing-dancing-tiktok/"><u>[New] 2024 Approved  Gentle Grooves  A Selection of Chill Country Songs for Relaxing Dancing (TikTok)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-se-2020-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone SE (2020)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-se-2020-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone SE (2020)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-apple-iphone-se-2020-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your Apple iPhone SE (2020) Apple ID and Apple Pay</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-lava-yuva-3-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Yuva 3 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-unlock-your-potential-tiktok-money-making-techniques-explained/"><u>[New] In 2024, Unlock Your Potential  TikTok Money-Making Techniques Explained</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-se-2020-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone SE (2020)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-iphone-se-2020-without-password-by-drfone-ios/"><u>How to Remove Apple ID from iPhone SE (2020) without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-se-2020-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone SE (2020) Apple ID on MacBook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-se-2020-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone SE (2020) Without Apple ID Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-se-2020-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your iPhone SE (2020)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-understanding-picture-in-picture-how-to-use-it-for-youtube/"><u>[Updated] Understanding Picture In Picture  How to Use It for YouTube</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-iphone-se-2020-by-drfone-ios/"><u>How to Fix when Apple Account Locked On iPhone SE (2020)?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-se-2020-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone SE (2020) in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-iphone-se-2020-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your iPhone SE (2020)? How to Fix</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-bypassing-costs-your-step-by-step-to-fcp/"><u>2024 Approved  Bypassing Costs  Your Step-by-Step to FCP</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-se-2020-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone SE (2020) without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-se-2020-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone SE (2020)</u></a></li>
+<li><a href="https://facebook.techidaily.com/distilling-key-events-that-defined-googles-2022/"><u>Distilling Key Events That Defined Google's 2022</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-together-a-list-of-engaging-metaverse-games/"><u>[Updated] Explore Together  A List of Engaging Metaverse Games</u></a></li>
+</ul></div>

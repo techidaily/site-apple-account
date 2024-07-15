@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes From iPhone 6?
-date: 2024-05-19T04:37:18.065Z
-updated: 2024-05-20T04:37:18.065Z
+date: 2024-07-14T11:45:40.150Z
+updated: 2024-07-15T11:45:40.150Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes Your Account Has Been Disabled in the App Store and iTunes From iPhone 6?
 excerpt: This article describes Your Account Has Been Disabled in the App Store and iTunes From iPhone 6?
 keywords: change apple id on macbook,apple id locked for security reasons,there was an error connecting to the apple id server,tips to unlock apple id,your account has been disabled in the app store and itunes,reset security question of apple id,how to unlink apple id from iphone,how to remove apple id from an ipad,create apple developer account,how to remove apple id from your mac,how do i find my apple id,how recover forgot apple id password from icloud itunes and app store,apple id verification code not working,how to remove a device from apple id
-thumbnail: https://www.lifewire.com/thmb/YDOkX4KOrU-1Gfk6Kj7DPlg333E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows11contextmenu-f4d6ebb14db4444d851b4338aa553e21.png
+thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b903378f876b3f4cc7ee4fa520.png
 ---
 
 ## Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 6?
@@ -73,7 +73,7 @@ Forgetting the password is particularly troublesome, but there is good news. Tha
 
 
 
-### [Dr.Fone - Password Manager (iOS)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Password Manager (iOS)
 
 Recover and keep all your passwords in one place
 
@@ -145,7 +145,7 @@ One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fon
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iCloud Account without Password in Minutes
 
@@ -247,6 +247,9 @@ If the Apple iPhone 6 was previously used or gifted, try contacting the previous
 
 ![couple sharing an iphone](https://images.wondershare.com/drfone/article/2023/11/remove-apple-id-from-iphone-06.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Apple's Account Recovery
 
 Apple offers an account recovery process if you forget your Apple ID password. It involves verifying your identity and resetting your password. It can indirectly help in removing the Apple ID from your device. Here's how:
@@ -257,6 +260,9 @@ Apple offers an account recovery process if you forget your Apple ID password. I
 
 - **Step 2:** Enter your Apple ID and click **Continue**. You'll be presented with two options: **Email** **authentication** or **Answer** **security** **questions**. Choose the method you prefer or the one you have set up.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apple id email authentication page](https://images.wondershare.com/drfone/article/2023/11/remove-apple-id-from-iphone-08.jpg)
 
 - **Step 3:** Follow the on-screen instructions to verify your identity. The step might involve answering security questions, providing a recovery email, or using [<u>two-factor authentication </u>](https://drfone.wondershare.com/remove-apple-account/remove-apple-two-factor-authentication.html) if set up.
@@ -333,7 +339,7 @@ If you have forgotten the password of your Apple ID and don't have a way to reco
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 One click to Sign Out of Apple ID without Password.
 
@@ -350,18 +356,21 @@ Dr.Fone's iPhone unlocking tool can permanently bypass the Apple ID lock. It wor
 
 To begin, open Wondershare Dr.Fone on your computer. Then, navigate to “Toolbox,” tap “Screen Unlock,” and define “iOS" as the Apple iPhone 6 device type. It will give you access to the iOS screen unlock menu, where you need to choose “Remove Apple ID.” Now, you need to connect your iDevice to the computer.
 
-![ tap on remove apple id feature](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
+![tap on remove apple id feature](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
 **Step 2: Enable Lock Screen and 2FA**
 
 When your iDevice is connected to your computer, you'll notice a connectivity status displayed on the following screen. Proceed by clicking the “Unlock Now” button. Dr.Fone will now ask if you have the screen lock and 2FA enabled on your device. The answer to these questions needs to be affirmative, and if you don't have the option enabled, you will need to do it before proceeding.
 
-![ press the unlock now button](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
+![press the unlock now button](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
 **Step 3: Enable Recovery Mode on Your iOS Device**
 
 Once you've confirmed these options, you'll be directed to a screen that presents on-screen guidelines for placing your iDevice in Recovery Mode. Adhere to the instructions that correspond to your specific iOS model. After initiating Recovery Mode on the Apple iPhone 6 device, the subsequent screen will present its details.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enable the iphone recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
 **Step 4: Complete the Apple ID Removal Process**
@@ -389,6 +398,9 @@ Follow these instructions to reset your password and then sign out of the Apple 
 
 **Step 1:** Go to the [Apple ID Account Page](https://appleid.apple.com/) and click “**Forgot Apple ID or Password**”.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![forgot apple id or password](https://images.wondershare.com/drfone/article/2020/05/forgot-apple-id-or-password.jpg)
 
 **Step 2:** Enter your Apple ID and click “**Continue**”. In the next window, select “**I Need to Reset My Password**”.
@@ -410,6 +422,9 @@ In case you have enabled two-way verification on your Apple iPhone 6, you’ll r
 
 **Step 3:** In the next window, you’ll be asked to enter the “**Recovery Key**”. This is a unique key that is provided when a user enables two-way verification for their iCloud account. Enter the recovery key and click “**Continue**”.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter recovery key](https://images.wondershare.com/drfone/article/2020/05/enter-recovery-key.jpg)
 
 **Step 4:** Choose a trusted device to receive the verification code. Now, enter this verification code and click “**Continue**”.
@@ -451,3 +466,43 @@ That wraps up our tips on **how to sign out of Apple ID without password**. No d
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-apple-iphone-11-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your Apple iPhone 11 Pro Max Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-iphone-11-pro-max-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On iPhone 11 Pro Max? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mystic-mastery-in-minimalist-photo-manipulations/"><u>[Updated] Mystic Mastery in Minimalist Photo Manipulations</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-apple-iphone-11-pro-max-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From Apple iPhone 11 Pro Max? 5 Tips You Must Know</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-how-to-add-audio-effects-to-your-video-with-ease/"><u>New In 2024, How to Add Audio Effects to Your Video with Ease</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-iphone-11-pro-max-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On iPhone 11 Pro Max? Find the Best Solution Here</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-diving-into-tiktoks-anime-universe-rhythmic-dance-melodic-jingles-and-iconic-images-for-2024/"><u>[Updated] Diving Into TikTok’s Anime Universe  Rhythmic Dance, Melodic Jingles and Iconic Images for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-12-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 12 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-netflix-subtitle-translation-methods-comprehensive-guide/"><u>2024 Approved Netflix Subtitle Translation Methods Comprehensive Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-11-pro-max-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone 11 Pro Max How to Bypass?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-dual-approaches-to-audio-fades-in-final-cut-pro/"><u>Updated In 2024, Dual Approaches to Audio Fades in Final Cut Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-11-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 11 Pro Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/amazon-prime-hits-twitters-trendiest-watchers-and-lovers-for-2024/"><u>Amazon Prime Hits  Twitter's Trendiest Watchers & Lovers for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-apple-iphone-11-pro-max-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your Apple iPhone 11 Pro Max without Security Questions?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-11-pro-max-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone 11 Pro Max? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-know-how-to-add-a-vhs-effect-premiere-look-you-can-easily-apply-the-vhs-effect-to-your-videos-using-adobe-premiere-pro/"><u>Do You Want to Know How to Add a VHS Effect Premiere Look? You Can Easily Apply the VHS Effect to Your Videos Using Adobe Premiere Pro</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-zte-by-drfone-android/"><u>How to Bypass FRP on ZTE?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-elevate-your-video-editing-game-top-premiere-pro-transition-plugins/"><u>New 2024 Approved Elevate Your Video Editing Game Top Premiere Pro Transition Plugins</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boost-your-auditory-signature-master-sound-modification-for-zero-cost/"><u>Boost Your Auditory Signature  Master Sound Modification for Zero Cost</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/capcut-lenta-template-how-it-benefits-slow-motion-video-for-2024/"><u>CapCut Lenta Template How It Benefits Slow Motion Video for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-simplified-srt-transformation-from-ttml-xml-and-ssa/"><u>In 2024, Simplified SRT Transformation From TTML, XML & SSA</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-iphone-11-pro-max-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By iPhone 11 Pro Max without the Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-iphone-11-pro-max-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your iPhone 11 Pro Max Apple ID on MacBook</u></a></li>
+<li><a href="https://review-topics.techidaily.com/lava-data-retrieval-tool-restore-lost-data-from-lava-blaze-2-5g-by-fonelab-android-recover-data/"><u>Lava Data Retrieval tool – restore lost data from Lava Blaze 2 5G</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On iPhone 11 Pro Max</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/live-streaming-software-vs-hardware-which-is-better/"><u>Live Streaming Software Vs Hardware  Which Is Better</u></a></li>
+</ul></div>

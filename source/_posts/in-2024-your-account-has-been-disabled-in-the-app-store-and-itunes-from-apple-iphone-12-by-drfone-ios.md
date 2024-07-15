@@ -1,7 +1,7 @@
 ---
 title: In 2024, Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 12?
-date: 2024-05-19T04:38:33.503Z
-updated: 2024-05-20T04:38:33.503Z
+date: 2024-07-14T13:26:04.409Z
+updated: 2024-07-15T13:26:04.409Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 12?
 excerpt: This article describes Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 12?
 keywords: how to remove apple id from an ipad,how to remove an apple id from an iphone,how to delete icloud account without password,there was an error connecting to the apple id server,how to unlock apple id without security questions,how to unlink iPhone,how to remove apple id from iphone without password,how to unlock ipad without apple id,how to fix apple account disabled,apple watch locked to owner,how do i find my apple id,how to sign out of apple id without password,update credit card information on apple id and apple pay,change apple id on macbook,how to delete icloud account,how to get apple id verification code,remove device from icloud,your account has been disabled in the app store and itunes,i forgot my apple id password and email,apple id password rules,how to get someones apple id off iphone without password,how to fix locked apple id from iphone,how to erase iphone without apple id
-thumbnail: https://www.lifewire.com/thmb/bJZjivkvkiXSPidjAhZPdQz2Xu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545995058-58ed21243df78cadab023f3c.jpg
+thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3680cebd2f9e48a956c136d3.jpg
 ---
 
 ## Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 12?
@@ -65,6 +65,9 @@ If you just forget the password and cannot remember it, you can follow the steps
 
 - **Step 4:** Look for the notification on iPhone, Mac, or iPad and follow the instructions to reset the password.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![reset password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id-3.jpg)
 
 Note that if you are changing your Apple ID password on an iPhone or iPad, you will need to enter your device's six-digit passcode, then reset a new password.
@@ -73,7 +76,7 @@ Forgetting the password is particularly troublesome, but there is good news. Tha
 
 
 
-### [Dr.Fone - Password Manager (iOS)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Password Manager (iOS)
 
 Recover and keep all your passwords in one place
 
@@ -110,6 +113,9 @@ Signing out of your account and then signing back in may help if this issue is c
 - On your iOS device, go to Settings > \[Your Name\] > iTunes & App Store and Sign Out. Then sign in again.
 - On your Mac, open the App Store (Store > Sign Out) and iTunes (Account > Sign Out. Then sign in again.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 5. Try Contacting Apple Support Directly
 
 If you see a message that says, “Your account has been disabled in the App Store and iTunes,” contact Apple Support for help. You can follow these simple steps to contact Apple support:
@@ -118,6 +124,9 @@ If you see a message that says, “Your account has been disabled in the App Sto
 - **Step 2:** Then click “Start a chat” to chat with someone in Apple Support now.
 - **Step 3:** Or schedule a call with Apple Support, and they should be able to help you fix your account disabled in App store.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disabled in the app store and itunes 2](https://images.wondershare.com/drfone/article/2023/05/getsupport-apple.png)
 
 ## Part 3. What does it influence when “Your account has been disabled in the App Store and iTunes”?
@@ -145,7 +154,7 @@ One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fon
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iCloud Account without Password in Minutes
 
@@ -227,6 +236,9 @@ After adding the AirTag to any object, it instantly syncs with the Apple ID of t
 
 **Step 5:** Following this, select and press the Remove button. Repeat for confirmation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Version 2: Removing AirTag on iPad
 
 **Step 1**: Access the Find My app from the home screen on your iPad device.
@@ -243,6 +255,9 @@ After adding the AirTag to any object, it instantly syncs with the Apple ID of t
 
 ![click remove](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-airtag-from-apple-id-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. Bonus Tips: How to Unlock an Apple ID That's Locked?
 
 Typically, it is impossible to use a PC or Mac to access and **remove AirTag from Apple ID**. One has to use the Apple iPhone 12 or iPad device only. But what if the smartphone screen or Apple ID is locked?
@@ -446,3 +461,45 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-se-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From Apple iPhone SE?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-se-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone SE? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-se-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone SE Making It Possible</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastermind-knowledge-capture-via-mematics-app/"><u>In 2024, Mastermind Knowledge Capture via Mematic's App</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfected-pixel-panache-packages/"><u>In 2024, Perfected Pixel Panache Packages</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-se-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone SE</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-se-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone SE</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-se-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone SE without Password?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleash-your-creative-potential-with-full-length-vivacut-review-24/"><u>[New] Unleash Your Creative Potential with Full-Length VivaCut Review '24</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-lava-agni-2-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Lava Agni 2 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-11-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 11 and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/video-constructor-suite-for-2024/"><u>Video Constructor Suite for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-se-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone SE? How to Fix</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-srt-conversion-compendium-for-media-professionals/"><u>[New] SRT Conversion Compendium for Media Professionals</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/streamline-your-workflow-best-light-video-editors/"><u>Streamline Your Workflow Best Light Video Editors</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-se-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone SE</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-se-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone SE How to Bypass?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-se-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone SE?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-apple-iphone-se-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your Apple iPhone SE Apple ID and Apple Pay</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Oppo A58 4G? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-se-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone SE? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-se-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From Apple iPhone SE</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-apple-iphone-se-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From Apple iPhone SE in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-apple-iphone-se-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From Apple iPhone SE</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-14-pro-max-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 14 Pro Max Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/spark-your-audience-with-best-video-content-ideas-for-2024/"><u>Spark Your Audience with Best Video Content Ideas for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/top-tactics-for-captivating-audienes-in-instagram-reels-for-2024/"><u>Top Tactics for Captivating Audienes in Instagram Reels for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-apple-iphone-se-by-drfone-ios/"><u>How To Create an Apple Developer Account From Apple iPhone SE</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-se-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone SE?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-se-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone SE?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-easy-steps-to-share-your-screen-via-google-meet/"><u>[New] Easy Steps to Share Your Screen via Google Meet</u></a></li>
+<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-itel-p55-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/channel-growth-essential-steps-for-youtube-backlink-creation/"><u>Channel Growth  Essential Steps for YouTube Backlink Creation</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-cut-the-red-tape-simplify-xboxfb-broadcasting/"><u>[Updated] Cut the Red Tape  Simplify Xbox/FB Broadcasting</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-se-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone SE</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-se-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone SE? Find the Best Solution Here</u></a></li>
+</ul></div>

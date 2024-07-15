@@ -1,7 +1,7 @@
 ---
 title: Apple ID Unlock On Apple iPhone XS? How to Fix it?
-date: 2024-05-19T04:37:59.852Z
-updated: 2024-05-20T04:37:59.852Z
+date: 2024-07-14T12:41:01.936Z
+updated: 2024-07-15T12:41:01.936Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes Apple ID Unlock On Apple iPhone XS? How to Fix it?
 excerpt: This article describes Apple ID Unlock On Apple iPhone XS? How to Fix it?
 keywords: how to get someones apple id off iphone without password,how to unlink iPhone,remove apple two factor authentication,how to fix apple account disabled,how to remove an apple id from an iphone,how to unlock apple id without security questions,how to remove apple id from your mac,apple id greyed out,how to fix apple id disabled,apple id password rules,i forgot my apple id password and email,how to disconnect iphone from icloud,how to remove a device from apple id,how to delete icloud account,how to delete icloud account without password,apple id locked or disabled,apple id unlock,reset security question of apple id,how to unlink apple id from iphone,how to erase iphone without apple id,how to sign out of apple id without password,how to remove apple id from iphone without password,iphone locked to owner,apple id locked for security reasons,apple id verification code not working,how to remove airtag from apple id,update credit card information on apple id and apple pay,how to erase a iphone without apple id,unlock apple id without phone number,how recover forgot apple id password from icloud itunes and app store,remove device from icloud
-thumbnail: https://www.lifewire.com/thmb/U882-EUGEoQajhN4rEvQp6D4miQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/are-you-really-getting-dolby-atmos-sound-135ec4330d004250883e2acab9423191.jpg
+thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04e77596617ba912c21778696.jpg
 ---
 
 ## Apple ID Unlock On Apple iPhone XS? How to Fix it?
@@ -41,6 +41,9 @@ Apple support can help you Apple id unlock on any of your Apple device. You have
 - Show them the receipt if you are the owner of the phone. This will let them know that you are authentic.
 - If you are not the original user, show them your ownership transfer certificate. This will help them determine your authenticity and original ownership.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3) Ask the Owner to Remove Activation Lock
 
 If you are not the original owner, you can reach out to the old owner. This will let you download the files from old owner or you can ask them to provide the OTP sent on their email. You have to follow a few steps to unlock is from iCloud –
@@ -84,6 +87,9 @@ On the new screen, click on “Unlock Apple ID” to get started.
 
 After that step, you will be asked to unlock your Apple iPhone XS. Once you do it, a new pop up message will appear. Click on “trust” and move on to the next step. With accepting, your data on your phone will be removed permanently.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![trust computer](https://images.wondershare.com/drfone/drfone/trust-computer.jpg)
 
 **Step 3: Reset Settings and Reboot your Device**
@@ -128,6 +134,9 @@ However, you can always look out for the Apple ID using the first and last name 
 
 **Step 2:** Enter your Apple ID to log in or you can also look for Apple ID if you don’t remember it from the homepage. Use the first or last name of the owner to look up for Apple ID.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apple id unlock how to fix it 2](https://images.wondershare.com/drfone/article/2020/11/apple-id-unlock-how-to-fix-it-2.jpg)
 
 **Step 3:** Click on “Continue” after solving the CAPTCHA code.
@@ -255,6 +264,9 @@ Another convenient way to delete the iCloud account is to use iTunes on your App
 
 **Step 1:** First of all, make sure to disable the “Find My iPhone” feature. Navigate to “Settings” > “iCloud” > “Find My iPhone” and toggle the switch off to turn off the feature.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable find my iphone](https://images.wondershare.com/drfone/article/2020/05/disable-find-my-iphone.jpg)
 
 **Step 2:** Now, go back to the “Settings” window and click “iTunes & App Store”.
@@ -319,6 +331,9 @@ Now, in the main interface of Dr. Fone Screen Unlock, select “Screen Unlock”
 
 In the next window, you’ll see three different options. Select “Remove Apple ID” as we want to delete the iCloud account.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 4: Trust the Apple iPhone XS device**
@@ -373,3 +388,58 @@ That’s the entire guide on how to delete iCloud account without password. Even
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-iphone-12-mini-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From iPhone 12 mini? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-iphone-12-mini-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your iPhone 12 mini without Security Questions?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-12-mini-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an Apple iPhone 12 mini Without Apple ID Password?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/how-to-download-discord-videos-for-free-on-desktop-and-mobile/"><u>How to Download Discord Videos for Free on Desktop & Mobile?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-iphone-12-mini-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From iPhone 12 mini? 5 Tips You Must Know</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-light-shadow-and-subtlety-in-film-coloring/"><u>2024 Approved  Light, Shadow & Subtlety in Film Coloring</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On Apple iPhone 12 mini</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-12-pro-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 12 Pro to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-12-mini-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-12-mini-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your iPhone 12 mini Apple ID and Apple Pay</u></a></li>
+<li><a href="https://network-issues.techidaily.com/plain-fix-advice-no-current-gfx-with-nvidia/"><u>Plain Fix Advice: No Current GFX with NVIDIA</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-90-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-12-mini-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For Apple iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-apple-iphone-12-mini-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your Apple iPhone 12 mini? How to Fix</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-12-mini-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By Apple iPhone 12 mini without the Previous Owner?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-to-premium-gopro-case-selection/"><u>[Updated] Ultimate Guide to Premium GoPro Case Selection</u></a></li>
+<li><a href="https://extra-information.techidaily.com/creative-edge-essential-afx-templates-without-investment/"><u>Creative Edge  Essential AFX Templates Without Investment</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-apple-iphone-12-mini-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your Apple iPhone 12 mini Apple ID on MacBook</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/maximize-fun-the-finest-ios-apps-for-loading-fb-videos/"><u>Maximize Fun  The Finest iOS Apps for Loading FB Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-ultimate-list-of-kung-fu-video-games/"><u>[New] 2024 Approved  The Ultimate List of Kung Fu Video Games</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-nubia-red-magic-9-pro-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-12-mini-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone 12 mini and iPad</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-12-mini-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone 12 mini?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-apple-iphone-12-mini-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On Apple iPhone 12 mini? How to Fix it?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/2024-approved-mac-video-editing-for-dummies-picking-the-perfect-movie-maker-software/"><u>2024 Approved Mac Video Editing for Dummies Picking the Perfect Movie Maker Software</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-tecno-pop-7-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Tecno Pop 7 Pro – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-iphone-12-mini-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 12 mini</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-modeling-software-for-animation-professionals/"><u>[Updated] Ideal Modeling Software for Animation Professionals</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On Apple iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-12-mini-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone 12 mini without Apple ID?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-expert-picks-the-best-pcmac-screencasters/"><u>[New] Expert Picks  The Best PC/Mac Screencasters</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-apple-iphone-12-mini-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On Apple iPhone 12 mini How to Bypass?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-fine-tuning-sound-from-afar-a-comprehensive-guide-to-changing-volume-speed-and-timbre-over-the-web/"><u>Updated In 2024, Fine-Tuning Sound From Afar A Comprehensive Guide to Changing Volume, Speed & Timbre Over the Web</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-apple-iphone-12-mini-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On Apple iPhone 12 mini Making It Possible</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-nokia-c210-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Nokia C210</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On Apple iPhone 12 mini?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-iphone-12-mini-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-apple-iphone-12-mini-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On Apple iPhone 12 mini without Password?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-bring-life-to-your-instagram-posts-with-branded-graphics-and-icons/"><u>[Updated] Bring Life to Your Instagram Posts with Branded Graphics & Icons</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-iphone-12-mini-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From iPhone 12 mini without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-apple-iphone-12-mini-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On Apple iPhone 12 mini? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-correcting-code-0x0000004e-in-os/"><u>Techniques for Correcting Code 0X0000004E in OS</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-apple-iphone-12-mini-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On Apple iPhone 12 mini? Find the Best Solution Here</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone 12 mini</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-best-4-video-resume-makers-free-templates-included/"><u>2024 Approved Best 4 Video Resume Makers Free Templates Included</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-depth-review-of-ivona-text-to-speech-converter-for-2024/"><u>Updated In-Depth Review of Ivona Text to Speech Converter for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-iphone-12-mini-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your iPhone 12 mini?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-iphone-12-mini-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From iPhone 12 mini</u></a></li>
+</ul></div>

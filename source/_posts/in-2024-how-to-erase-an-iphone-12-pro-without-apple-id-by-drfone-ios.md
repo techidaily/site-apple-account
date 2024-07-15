@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Erase an iPhone 12 Pro without Apple ID?
-date: 2024-04-07T20:56:49.820Z
-updated: 2024-04-08T20:56:49.820Z
+date: 2024-07-14T13:43:31.973Z
+updated: 2024-07-15T13:43:31.973Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Erase an iPhone 12 Pro without Apple ID?
 excerpt: This article describes How to Erase an iPhone 12 Pro without Apple ID?
 keywords: how to remove apple id from your mac,remove apple two factor authentication,how to fix apple account disabled,change apple id on macbook,how to remove phone number from apple id,your account has been disabled in the app store and itunes,create apple developer account,how to fix apple account locked,how to remove a device from apple id,how to remove an apple id from an iphone,how do i find my apple id,how to fix apple id disabled,apple id password rules,remove device from icloud,unlock apple id without phone number,how to fix locked apple id from iphone,how to unlock ipad without apple id,how to remove apple id from iphone without password
-thumbnail: https://www.lifewire.com/thmb/cnbU86cA88gNmLB_6vGsp1ZnxFM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asian-woman-talking-into-microphone-722208887-5b2a989730371300373a0447.jpg
+thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed3226ebe1d118a70909568e6.jpg
 ---
 
 ## How to Erase an Apple iPhone 12 Pro without Apple ID?
@@ -20,6 +20,9 @@ Our generation is all about high-performance gadgets and, a phone is one of the 
 
 We often end up buying second-hand iPhones/iPads or sell our old version of the phones/pads to an unknown person and buy a new version of other brands, like Samsung S22. At times, be it after-sale/purchase or old iPhone, or if you may have yourself forgotten the password to your Apple ID, we often come across a big challenge, and that is how to erase an iPhone without an Apple ID password. Well, if that’s the case with you, then you’ve reached the right place. We’re about to discuss the most effective ways to erase an iPhone without an Apple ID password. Let’s discover them.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. How to erase an iPhone without Apple ID and iTunes
 
 When it comes to taking care of all your Apple iPhone 12 Pro recovery solutions, Dr. Fone has effectively managed to make a mark in the field. Especially when it comes to erasing an iPhone without an Apple ID password, the Dr.Fone – Screen Unlock (iOS) can help you get it done without a hitch. Not only can you erase an iPhone without an Apple ID password, but you can also get the Apple ID/iCloud lock removed too with much ease. With over 5 million-plus users, the tool is the most recommended in the market, serving every customer to their content.
@@ -127,6 +130,9 @@ Now let’s get started with erasing an Apple ID via Apple’s Data and Privacy 
 
 **Step 3:** Once you click on the “Get started” prompt on the screen, you will get a tab to “Delete your account.” This will prompt you with an Apple message indicating the information regarding the deletion process time.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase a iphone without apple id 6](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-6.jpg)
 
 **Step 4:** Before everything, make sure you back up your data and follow the instructions steps prompted by Apple’s website. This will lead you to choose a reason for deletion from the click-down option and click “Continue.”
@@ -179,6 +185,9 @@ Now, we shift our focus to those who prefer managing their payment information o
 
 - **Step 2:** Locate the "Apple ID Summary" section in the "Account Settings" menu and select the "Manage Payments" option next to it. After this, introduce a fresh payment method by opting for the "Add Payment" option.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![press the add payment button](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-5.jpg)
 
 - **Step 3:** This action will prompt you to input the details of your new payment method, including credit card information. After you've provided the required information, select "Done" to save your newly added payment method.
@@ -213,7 +222,7 @@ The solution is [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wonder
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -279,6 +288,9 @@ Whether you prefer using your iPad for managing your payment methods or you're o
 
 **Instructions:** Navigate to Settings on your iPad and move to "Wallet & Apple Pay." Here, scroll down to "Transaction Defaults" and press "Default Card." Then, choose a card from the list to set it as your default card.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose the default card option](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-16.jpg)
 
 ### Method 3: Use Apple Watch to Change Default Card
@@ -287,6 +299,9 @@ The last stop on our journey to manage your default credit card on Apple Pay is 
 
 **Instructions:** Access and launch the Apple Watch app on your Apple iPhone 12 Pro and navigate the "My Watch" tab. There, tap on "Wallet & Apple Pay" within My Watch tab and scroll down in it to find the section labeled "Transaction Defaults." In this section, you'll find the "Default Card" option. Simply tap on it to select the card you wish to set as the default.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on the default card](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-17.jpg)
 
 ## Conclusion
@@ -453,3 +468,58 @@ That’s the entire guide on how to delete iCloud account without password. Even
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-iphone-13-pro-max-by-drfone-ios/"><u>How to Fix when Apple Account Locked On iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-13-pro-max-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-13-pro-max-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 13 Pro Max Making It Possible</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-13-pro-max-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/master-plan-elevating-your-fb-video-advertising-game-for-2024/"><u>Master Plan  Elevating Your FB Video Advertising Game for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-13-pro-max-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone 13 Pro Max without the Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-iphone-13-pro-max-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From iPhone 13 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-13-pro-max-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 13 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-13-pro-max-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone 13 Pro Max? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-13-pro-max-by-drfone-ios/"><u>How To Unlink Apple ID From iPhone 13 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-iphone-13-pro-max-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect iPhone 13 Pro Max and iPad</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-iphone-13-pro-max-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off iPhone 13 Pro Max without Password</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-13-pro-max-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone 13 Pro Max Without Apple ID Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-13-pro-max-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone 13 Pro Max without Apple ID?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quickly-transform-sluggish-videos-on-android/"><u>Quickly Transform Sluggish Videos on Android</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-vivo-t2x-5g-by-drfone-android/"><u>Universal Unlock Pattern for Vivo T2x 5G</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-turn-up-the-volume-a-guide-to-personalizing-ringtone-and-sound-settings-on-android-devices-for-2024/"><u>[Updated] Turn Up the Volume  A Guide to Personalizing Ringtone & Sound Settings on Android Devices for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-13-pro-max-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone 13 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-13-pro-max-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-iphone-13-pro-max-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On iPhone 13 Pro Max? Find the Best Solution Here</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-13-pro-max-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone 13 Pro Max without Password?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-ringtune-guide-downloading-and-cutting-tamil-melodies-for-2024/"><u>[Updated] RingTune Guide  Downloading and Cutting Tamil Melodies for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-enhancing-inshot-cut-quality-and-smoothness/"><u>2024 Approved  Enhancing Inshot Cut Quality and Smoothness</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-iphone-13-pro-max-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your iPhone 13 Pro Max? How to Fix</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-13-pro-max-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone 13 Pro Max without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-13-pro-max-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-13-pro-max-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone 13 Pro Max without Security Questions?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-iphone-13-pro-max-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Max When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-13-pro-max-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 13 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-iphone-13-pro-max-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On iPhone 13 Pro Max How to Bypass?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-guide-to-producing-polished-professional-looking-videos/"><u>New The Ultimate Guide to Producing Polished, Professional-Looking Videos</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-xs-max-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-13-pro-max-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 13 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-13-pro-max-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone 13 Pro Max? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-iphone-13-pro-max-without-password-by-drfone-ios/"><u>How to Remove Apple ID from iPhone 13 Pro Max without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-apple-iphone-13-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your Apple iPhone 13 Pro Max Apple ID and Apple Pay</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-ultimate-step-by-step-on-instagram-filter-usage-2023/"><u>2024 Approved  The Ultimate Step-by-Step on Instagram Filter Usage 2023</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-capturing-the-joy-of-nintendo-switch-gaming/"><u>[New] In 2024, Capturing the Joy of Nintendo Switch Gaming</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/hit-tiktok-recipes-viral-culinary-delights/"><u>Hit TikTok Recipes  Viral Culinary Delights</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-13-pro-max-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-13-pro-max-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone 13 Pro Max Apple ID on MacBook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-iphone-13-pro-max-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your iPhone 13 Pro Max From Your Apple ID</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-13-pro-max-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone 13 Pro Max in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-iphone-13-pro-max-by-drfone-ios/"><u>Guide on How To Remove Apple ID From iPhone 13 Pro Max</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-detailed-steps-to-rotate-videos-in-lightworks/"><u>Updated In 2024, Detailed Steps to Rotate Videos in Lightworks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-vivo-s17-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Vivo S17 on Windows??</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-13-pro-max-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone 13 Pro Max</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-7-plus-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 7 Plus to PC | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/make-your-videos-pop-top-text-animation-apps-for-android-and-ios-for-2024/"><u>Make Your Videos Pop Top Text Animation Apps for Android and iOS for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-13-pro-max-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 13 Pro Max</u></a></li>
+</ul></div>

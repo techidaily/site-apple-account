@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Error Connecting to the Apple ID Server On iPhone 7
-date: 2024-05-19T04:37:39.328Z
-updated: 2024-05-20T04:37:39.328Z
+date: 2024-07-14T12:14:06.200Z
+updated: 2024-07-15T12:14:06.200Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes Troubleshooting Error Connecting to the Apple ID Server On iPhone 7
 excerpt: This article describes Troubleshooting Error Connecting to the Apple ID Server On iPhone 7
 keywords: how to get apple id verification code,apple watch locked to owner,remove device from icloud,how to remove apple id from iphone without password,reset security question of apple id,remove apple two factor authentication,apple id locked for security reasons,how to fix apple account disabled,iphone locked to owner,apple id password rules,how to unlock ipad without apple id,how to unlink apple id from iphone,how recover forgot apple id password from icloud itunes and app store,how to remove apple id from an ipad,how to sign out of apple id without password,apple id locked or disabled,turning off two factor authentication apple,change apple id on macbook,how to unlock apple id without security questions,how to fix apple account locked,unlock apple id without phone number,there was an error connecting to the apple id server,how to get someones apple id off iphone without password,how to remove a device from apple id,tips to unlock apple id,how to unlink iPhone,how to fix locked apple id from iphone,create apple developer account,how to delete icloud account without password,how do i find my apple id,how to erase iphone without apple id,how to remove apple id from your mac,how to remove phone number from apple id
-thumbnail: https://www.lifewire.com/thmb/5TQ2qNutxP1-2d0Nqc32lnx5qyc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-16-best-shows-to-watch-on-discovery-plus-right-now-5116795-b17411d87cfd4bd690fda5be50ea188c.jpg
+thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4f9c2a1611133710cbbaabe1.jpg
 ---
 
 ## Troubleshooting 'Error Connecting to the Apple ID Server' On Apple iPhone 7
@@ -111,7 +111,7 @@ If you use a Virtual Private Network (VPN), consider temporarily disabling it. V
 
 Inaccurate date and time settings on your device can lead to authentication failures. Ensure your device's date and time are accurate and set to update automatically. This prevents synchronization issues with the Apple ID server.
 
-![ date and time settings](https://images.wondershare.com/drfone/article/2023/11/error-connecting-to-apple-id-08.jpg)
+![date and time settings](https://images.wondershare.com/drfone/article/2023/11/error-connecting-to-apple-id-08.jpg)
 
 If you've tried all the above and you're still getting the error connecting to the Apple ID server, you may want to consider using [<u>Wondershare Dr.Fone - Screen Unlock</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). It is a powerful tool that can help you bypass the Apple ID lock screen on your Apple iPhone 7, iPad, or iPod touch.
 
@@ -123,7 +123,7 @@ Wondershare Dr.Fone is renowned for its versatile features. The platform's Scree
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -188,6 +188,9 @@ You can find a lot of new features to break in an Apple ID. This will help you u
 
 Well, DNS can be used to unlock a few features on your Apple iPhone 7 or iPad. DNS basically stands for Domain Name Service and it can help bypass the iCloud on temporary basis. By doing the DNS method you will be doing a tweak with the Apple iPhone 7 settings making it believe that it is connected with the fake activation server. This can be done by simply choosing the Wi-Fi network while you setup your device. You need to manually change the DNS server.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2) Ask Apple to Remove Lock
 
 Apple support can help you Apple id unlock on any of your Apple device. You have to follow as few guidelines and steps in order to get your phone back. Here is what you have to do –
@@ -258,6 +261,9 @@ After this process, you will come across a new popup showing you the screen as m
 
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Apple ID unlock by iTunes
 
 Whenever your ID gets locked in your Apple iPhone 7 or iPad, you can also unlock it using iTunes. You will need to restore your device with iTunes and this will unlock an Apple ID. Here are the steps you need to follow to get your apple id to unlock.
@@ -316,6 +322,9 @@ Multiple [<u>failed attempts at entering the Apple ID password</u>](https://drfo
 
 Fluctuating or unstable network connections can also contribute to the Apple ID greying out. When the Apple iPhone 7 device is unable to establish a stable connection with Apple's servers, it may manifest as an unresponsive or greyed-out Apple ID. Thus restricting access to various Apple services and features.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Software Glitches or Bugs
 
 Software inconsistencies within the Apple iPhone 7 device's operating system can lead to temporary malfunctions. That results in the greying out of the Apple ID. Such glitches can arise due to software updates or incomplete installations. It can also happen due to conflicts between different applications.
@@ -370,6 +379,9 @@ Performing a simple restart on your iOS device can resolve various software-rela
 
 ![turn off your iphone](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution 5: Checking Internet Connectivity Status on Device
 
 Ensuring a consistent and reliable internet connection is crucial for the optimal performance of your Apple ID. If you're utilizing Wi-Fi, be sure to connect to a dependable network to guarantee seamless functionality. When utilizing cellular data, [<u>verify your signal strength</u>](https://drfone.wondershare.com/device-diagnostics/check-mobile-signal-stength.html) and confirm the availability of an active data plan. A stable internet connection is of utmost importance for the effective operation of your Apple ID.
@@ -404,7 +416,7 @@ Dr.Fone does this resolving procedure through its powerful Screen Time Passcode 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -440,6 +452,9 @@ You will find yourself in a list of options from where you need to continue with
 
 After the connection, select the "Unlock Now" button to unlock your screen time passcode, and turn off the "Find My iPhone" feature by following the on-screen instructions. Completion of the screen time passcode unlocking process will start to display after clicking the "OK" button. Finally, after the completion message, hit "Done" to end the entire operation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![press the unlock now button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-2.png)
 
 ## Final Words
@@ -465,3 +480,69 @@ We recommend that users diligently follow the steps provided in each solution. S
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/neuroprotective-agents-in-dementia-the-potential-role-of-cannabinoids/"><u>Neuroprotective Agents in Dementia: The Potential Role of Cannabinoids</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-12-pro-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 12 Pro without Password?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-top-tips-for-quick-and-reliable-recording-of-presentations/"><u>[Updated] 2024 Approved  Top Tips for Quick and Reliable Recording of Presentations</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-6s-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 6s Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-apple-iphone-12-pro-by-drfone-ios/"><u>How to Fix when Apple Account Locked On Apple iPhone 12 Pro?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-12-pro-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off Apple iPhone 12 Pro without Password</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-dynamic-slideshows-embedding-youtube-content/"><u>In 2024, Dynamic Slideshows  Embedding YouTube Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-offline-viewing-of-full-hd-fb-content/"><u>[Updated] In 2024, Offline Viewing of Full-HD FB Content</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-12-pro-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 12 Pro?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-vr-beyond-imagination-top-peripherals-and-tech/"><u>[New] 2024 Approved  VR Beyond Imagination - Top Peripherals & Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-vistas-for-digital-viewership/"><u>2024 Approved  Superior Vistas for Digital Viewership</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-get-noticed-a-step-by-step-guide-to-perfect-social-media-image-sizes/"><u>Updated In 2024, Get Noticed A Step-by-Step Guide to Perfect Social Media Image Sizes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-apple-iphone-12-pro-by-drfone-ios/"><u>How to Fix Locked Apple ID on Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-ace-your-videos-essential-editors-for-youtube/"><u>[New] 2024 Approved  Ace Your Videos  Essential Editors for YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-foremost-picks-superior-ringtone-developers/"><u>2024 Approved  Foremost Picks  Superior Ringtone Developers</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-decoding-youtube-analytics-insights-for-every-content-creator/"><u>[New] Decoding YouTube Analytics  Insights for Every Content Creator</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-itunes-to-listen-to-podcasts/"><u>[Updated] Navigating iTunes to Listen to Podcasts</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-12-pro-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-12-pro-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Life360 Learn How Everything Works On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-12-pro-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone 12 Pro without Apple ID?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/beatback-bungalow-recordings-downloads-and-reviews/"><u>Beatback Bungalow  Recordings Downloads & Reviews</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-12-pro-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-12-pro-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-facebook-images-a-download-guide/"><u>Mastering Facebook Images: A Download Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-12-pro-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone 12 Pro Making It Possible</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/curating-youtube-music-experiences-for-2024/"><u>Curating YouTube Music Experiences for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-vigor-in-voice-assessment-version-8-for-2024/"><u>[Updated] Vigor in Voice  Assessment Version 8 for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-12-pro-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-12-pro-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-apple-iphone-12-pro-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On Apple iPhone 12 Pro? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-12-pro-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 12 Pro From Your Apple ID</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-apple-iphone-12-pro-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect Apple iPhone 12 Pro and iPad</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-itel-p40-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Itel P40 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-art-of-concluding-videos-crafting-impactful-vimeo-ends/"><u>[New] In 2024, The Art of Concluding Videos  Crafting Impactful Vimeo Ends</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-apple-iphone-12-pro-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On Apple iPhone 12 Pro in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-12-pro-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/bring-your-videos-to-life-border-magic-on-ig/"><u>Bring Your Videos to Life  Border Magic on IG</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-12-pro-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-maximizing-reach-sharing-twitters-vids-via-snapchat/"><u>[Updated] 2024 Approved  Maximizing Reach  Sharing Twitters' Vids via Snapchat</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-apple-iphone-12-pro-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing Apple iPhone 12 Pro Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-apple-iphone-12-pro-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your Apple iPhone 12 Pro Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-12-pro-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-apple-iphone-12-pro-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your Apple iPhone 12 Pro? How to Fix</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-12-pro-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone 12 Pro without Password?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-free-open-source-video-capture-tools-rated/"><u>[New] 2024 Approved  Free, Open-Source Video Capture Tools Rated</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-cutting-edge-strategies-for-recording-online-classes-for-2024/"><u>[New] Cutting-Edge Strategies for Recording Online Classes for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1715860524124-2024-approved-internal-recorder-usage-for-capturing-screens-on-mate-series-and-p-series-mate-1020-p2010/"><u>2024 Approved  Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10).</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-12-pro-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone 12 Pro without Security Questions?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-apple-iphone-12-pro-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On Apple iPhone 12 Pro? 5 Tips You Must Know</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-12-pro-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone 12 Pro?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-iphone-12-pro-device-from-icloud-by-drfone-ios/"><u>How to Remove Apple iPhone 12 Pro Device from iCloud</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-12-pro-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone 12 Pro without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-12-pro-without-apple-id-password-by-drfone-ios/"><u>How To Erase an Apple iPhone 12 Pro Without Apple ID Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-12-pro-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-14-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-14-pro-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone 14 Pro Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-12-pro-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone 12 Pro?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-apple-iphone-12-pro-by-drfone-ios/"><u>How To Unlink Apple ID From Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-iphone-12-pro-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/dive-deep-into-tiktok-filmmaking-essential-camera-skills-and-techniques/"><u>Dive Deep Into TikTok Filmmaking  Essential Camera Skills and Techniques</u></a></li>
+</ul></div>

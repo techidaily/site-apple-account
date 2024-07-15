@@ -1,7 +1,7 @@
 ---
 title: In 2024, Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone XR?
-date: 2024-05-19T04:38:11.620Z
-updated: 2024-05-20T04:38:11.620Z
+date: 2024-07-14T12:56:54.682Z
+updated: 2024-07-15T12:56:54.682Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone XR?
 excerpt: This article describes Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone XR?
 keywords: apple id greyed out,update credit card information on apple id and apple pay,apple id password rules,your account has been disabled in the app store and itunes,unlock apple id without phone number,how to remove an apple id from an iphone,how to remove phone number from apple id,how to remove apple id from your mac,remove device from icloud,how to unlink iPhone,how to unlock ipad without apple id,how to fix apple account disabled,how to remove airtag from apple id,apple id unlock,iphone locked to owner,how to erase iphone without apple id,apple watch locked to owner,tips to unlock apple id,how to unlink apple id from iphone,how to disconnect iphone from icloud,apple id locked or disabled,remove apple two factor authentication,how to unlock apple id without security questions,how do i find my apple id,how to remove apple id from an ipad,how to erase a iphone without apple id,create apple developer account,apple id verification code not working,how to sign out of apple id without password,how to delete icloud account without password,how to remove a device from apple id
-thumbnail: https://www.lifewire.com/thmb/ODtsQJBMUj58crtQiyrVENYFqnk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nintendo-switch-vs-nintendo-switch-lite-01-61592395e9e44fc78403c7e99105de84.jpg
+thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962afe3131815c9477f19cbcf4.jpg
 ---
 
 ## Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone XR?
@@ -20,6 +20,9 @@ You may see the error message, “**Your account has been disabled in the App St
 
 Why is my account disabled in the App store? Here, we take a look at the reasons why you may see the error messages and what you can do to fix them.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. Why has my account been disabled in the App Store and iTunes?
 
 The following are some reasons why you may see this error message popup on your screen:
@@ -47,6 +50,9 @@ If you just forget the password and cannot remember it, you can follow the steps
 - **Step 1:** Open Settings.
 - **Step 2:** Tap \[your name\] on top of the screen> Password & Security > Change Password.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset password](https://images.wondershare.com/drfone/article/2022/04/settings-apple-id-password-security-change-password.jpg)
 
 - **Step 3:** Enter the passcode for your device.
@@ -61,6 +67,9 @@ If you just forget the password and cannot remember it, you can follow the steps
 
 - **Step 3** Enter the phone number that you use with your Apple ID.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset apple id password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id-2.jpg)
 
 - **Step 4:** Look for the notification on iPhone, Mac, or iPad and follow the instructions to reset the password.
@@ -73,7 +82,7 @@ Forgetting the password is particularly troublesome, but there is good news. Tha
 
 
 
-### [Dr.Fone - Password Manager (iOS)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Password Manager (iOS)
 
 Recover and keep all your passwords in one place
 
@@ -145,7 +154,7 @@ One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fon
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iCloud Account without Password in Minutes
 
@@ -386,6 +395,9 @@ This process can also be performed using the Apple ID account page from the web 
 
 **Step 1:** As you access the webpage and log into it with your Apple ID, continue to the homepage. Lead to the "Devices" section on the left panel to open a new screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on the Apple iPhone XR devices option](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-a-device-from-apple-id-8.jpg)
 
 **Step 2:** Following this, select the Apple iPhone XR device that you want to remove from the Apple ID. As a new window opens, select "Remove from Account" and continue to execute this process.
@@ -431,6 +443,9 @@ We will now shift to knowing more about how to bypass Apple ID from a device who
 
 To start the process, it is best to download and install the latest version of Wondershare Dr.Fone on your computer. As it launches, continue to select "Screen Unlock" from the options.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Proceed to Remove the Apple ID**
@@ -495,3 +510,40 @@ You have learned proper techniques for removing devices from your Apple ID in th
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-from-casual-gamer-to-pro-elevating-your-minecraft-recordings-with-a-mac/"><u>[New] From Casual Gamer to Pro  Elevating Your Minecraft Recordings with a Mac</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-best-10-free-ai-voice-generators-to-use-in-daily-life-for-2024/"><u>Updated Best 10 Free AI Voice Generators to Use in Daily Life for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-14-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On Apple iPhone 14</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/instagram-melodies-compliance-and-policies-for-2024/"><u>Instagram Melodies  Compliance and Policies for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-honor-play-8t-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Honor Play 8T FRP?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-14-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone 14</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-apple-iphone-14-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From Apple iPhone 14? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-14-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone 14 Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-maximizing-impact-a-guide-to-creating-winning-videos-on-devices/"><u>[Updated] Maximizing Impact  A Guide to Creating Winning Videos on Devices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-apple-iphone-14-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your Apple iPhone 14 without Security Questions?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-apple-iphone-14-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On Apple iPhone 14</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-realme-c67-4g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Realme C67 4G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-stream-freedom-on-the-go-download-your-favorite-youtube-tracks-ios/"><u>In 2024, Stream Freedom on the Go  Download Your Favorite YouTube Tracks iOS</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-top-15-non-copyrighted-music-for-montage-videos/"><u>In 2024, Top 15 Non-Copyrighted Music for Montage Videos</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-apple-iphone-14-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On Apple iPhone 14 without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-iphone-14-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 14 Device from iCloud</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-apple-iphone-14-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your Apple iPhone 14 Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-14-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 14</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-windows-10-dvd-playback-made-easy-top-10-free-players/"><u>2024 Approved Windows 10 DVD Playback Made Easy Top 10 Free Players</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-apple-iphone-14-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From Apple iPhone 14 How to Bypass?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-apple-iphone-14-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On Apple iPhone 14? 5 Tips You Must Know</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-apple-iphone-14-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On Apple iPhone 14? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-14-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 14</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-chortle-chamber-ideas-for-7-amusing-online-sessions/"><u>[New] 2024 Approved  Chortle Chamber  Ideas for 7 Amusing Online Sessions</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-14-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 14?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-14-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your Apple iPhone 14?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-apple-iphone-14-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From Apple iPhone 14? Find the Best Solution Here</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-apple-iphone-14-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your Apple iPhone 14 From Your Apple ID</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-full-potential-saving-and-playing-gifs-on-iphones/"><u>[Updated] Unlocking Full Potential  Saving & Playing GIFs on iPhones</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-apple-iphone-14-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On Apple iPhone 14</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/master-class-appletv-facebook-and-you-for-2024/"><u>Master Class  AppleTV, Facebook & You for 2024</u></a></li>
+</ul></div>

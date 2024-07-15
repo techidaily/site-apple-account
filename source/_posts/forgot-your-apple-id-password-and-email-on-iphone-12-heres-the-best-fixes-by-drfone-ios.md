@@ -1,7 +1,7 @@
 ---
 title: Forgot Your Apple ID Password and Email On iPhone 12? Heres the Best Fixes
-date: 2024-05-19T04:38:31.856Z
-updated: 2024-05-20T04:38:31.856Z
+date: 2024-07-14T13:23:52.641Z
+updated: 2024-07-15T13:23:52.641Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes Forgot Your Apple ID Password and Email On iPhone 12? Heres the Best Fixes
 excerpt: This article describes Forgot Your Apple ID Password and Email On iPhone 12? Heres the Best Fixes
 keywords: update credit card information on apple id and apple pay,tips to unlock apple id,turning off two factor authentication apple,how to fix apple account locked,apple watch locked to owner,how to unlock ipad without apple id,how to delete icloud account without password,how to unlink iPhone,apple id locked for security reasons,remove device from icloud,apple id locked or disabled,how to remove airtag from apple id,how to erase a iphone without apple id,reset security question of apple id
-thumbnail: https://www.lifewire.com/thmb/xDM-B4zVSXt5n027L2C5oNwTDN8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AIrendering_CROPPED_Guillaume_GettyImages-1418477818-d0a9c5ce09584a1099f21a5f1f690a88.jpg
+thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304ad9ab12b451e3ff69d2619e.jpg
 ---
 
 ## Forgot Your Apple ID Password and Email On Apple iPhone 12? Here's the Best Fixes
@@ -32,6 +32,9 @@ One of the quickest remedies for a misplaced Apple ID password involves starting
 
 - **Step 2.** Opt for "Change Password," input your current iDevice password, and enter your new Apple ID password. Confirm the new password and finalize the process by tapping "Change Password."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose the change password option](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-2.jpg)
 
 ### For MacBook
@@ -50,10 +53,16 @@ Have resetting the Apple ID password from the settings on your iOS device or Mac
 
 - **Step 1.** To begin, launch a web browser and navigate to iforgot.apple.com. Afterward, opt for the "Reset Password" option, leading you to the page dedicated to changing your Apple ID password. Provide your Apple ID, usually the email address linked to your Apple account, and proceed by clicking "Continue."
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on the reset password button](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-5.jpg)
 
 - **Step 2.** You will receive a confirmation code on one of your trusted Apple devices by proceeding to the next screen. Tap “Allow” on the confirmation pop-up, and you will be redirected to enter your trusted Apple device passcode. This will allow you to set a new password for your Apple ID.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter idevice old password](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-6.jpg)
 
 ## Way 3: Reset Apple ID Password Using the Apple Support App
@@ -110,7 +119,7 @@ That's why it's necessary to recover your Apple ID as soon as possible. [<u>Wond
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -258,6 +267,9 @@ Now, in the main interface of Dr. Fone Screen Unlock, select “Screen Unlock”
 
 In the next window, you’ll see three different options. Select “Remove Apple ID” as we want to delete the iCloud account.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 4: Trust the Apple iPhone 12 device**
@@ -352,7 +364,7 @@ The first way the previous owner can remove the Apple ID from your MacBook is by
 
 ![access the apple id settings](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-3.jpg)
 
-- **Step 2:**Scroll down on the screen to devices that are connected with the Apple ID. Tap on the MacBook and use the "Remove from Account” option to[<u>remove Apple ID</u>](https://drfone.wondershare.com/apple-account/how-to-remove-phone-number-from-apple-id.html)from MacBook.
+- **Step 2:**Scroll down on the screen to devices that are connected with the Apple ID. Tap on the MacBook and use the "Remove from Account” option to [<u>remove Apple ID</u>](https://drfone.wondershare.com/apple-account/how-to-remove-phone-number-from-apple-id.html) from MacBook.
 
 ![choose remove from account option](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-4.jpg)
 
@@ -368,6 +380,9 @@ Another way to remove the Apple ID is by asking the previous owner to use the Fi
 
 ![press the continue button](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus Part: How To Fix Unable To Logout (Change) the Old Apple ID on Mac
 
 Although changing your Apple ID on your Mac is usually a swift procedure, there may be instances where you find it challenging. It's essential to resolve this matter promptly. The reason is that many essential procedures and services are directly linked to your Apple ID. Here are some common reasons why you might face difficulty logging out of the old Apple ID and their solutions:
@@ -402,7 +417,7 @@ You will need to check the official Apple System Status page at [<u>https://www.
 
 ![check the apple server status](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-9.jpg)
 
-[<u>Forgetting a password to your Apple ID</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html)is a nightmare for Apple users. Considering the pivotal role of Apple ID in the Apple ecosystem, it's not surprising that forgetting your Apple ID password can be a concern. Nevertheless, the real question is how to proceed if you find yourself in this predicament. While it may initially appear impossible, rest assured there are solutions available. Where there's determination, there's a path forward.
+[<u>Forgetting a password to your Apple ID</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) is a nightmare for Apple users. Considering the pivotal role of Apple ID in the Apple ecosystem, it's not surprising that forgetting your Apple ID password can be a concern. Nevertheless, the real question is how to proceed if you find yourself in this predicament. While it may initially appear impossible, rest assured there are solutions available. Where there's determination, there's a path forward.
 
 If it is an iOS device where your Apple ID is locked, we have the best tool for you in the form of [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This tool enables you to remove Apple ID from the Apple iPhone 12 device without needing a password. Dr.Fone's iPhone unlocker has the capability to bypass the Apple ID lock permanently. It even works when the Find My/Find My iPhone feature is active on the Apple iPhone 12 device.
 
@@ -451,3 +466,54 @@ The other included alternative approaches for scenarios like purchasing a second
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-iphone-14-pro-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off iPhone 14 Pro without Password</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-14-pro-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone 14 Pro Without Apple ID Password?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-path-to-proficiency-with-streamlabs-obs-mastery/"><u>[Updated] In 2024, The Path to Proficiency with Streamlabs OBS Mastery</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-14-pro-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 14 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-14-pro-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone 14 Pro without Password?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/discovering-the-basics-of-streaming-via-discord/"><u>Discovering the Basics of Streaming via Discord</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-iphone-14-pro-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-channel-title-genius-ideas-for-your-video-hub/"><u>[Updated] Channel Title Genius  Ideas for Your Video Hub</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-revving-into-excellence-winning-10-srt-converter-titles/"><u>[New] Revving Into Excellence  Winning 10 SRT Converter Titles</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-10-proven-techniques-for-skyrocketing-social-media-supporters/"><u>[New] 2024 Approved  10 Proven Techniques for Skyrocketing Social Media Supporters</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-14-pro-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone 14 Pro without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-14-pro-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing iPhone 14 Pro Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-14-pro-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On iPhone 14 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-14-pro-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone 14 Pro without Apple ID?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-14-pro-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 14 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-14-pro-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 14 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-14-pro-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 14 Pro?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-iphone-14-pro-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect iPhone 14 Pro and iPad</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-iphone-14-pro-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On iPhone 14 Pro</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fix-the-facebook-message-shows-its-you-in-this-video/"><u>[Updated] Fix the Facebook Message Shows It's You in This Video</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-iphone-14-pro-device-from-icloud-by-drfone-ios/"><u>How to Remove iPhone 14 Pro Device from iCloud</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-14-pro-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone 14 Pro without Security Questions?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/evaluating-dailymotion-vs-youtube-profitability/"><u>Evaluating Dailymotion vs YouTube Profitability</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-14-pro-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone 14 Pro Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-14-pro-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 14 Pro Making It Possible</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-iphone-14-pro-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On iPhone 14 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-14-pro-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone 14 Pro?</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-s23-tactical-edition-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy S23 Tactical Edition Location Settings | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-screenstreaming-mastery-capturing-high-quality-content-on-your-mac/"><u>[Updated] ScreenStreaming Mastery  Capturing High-Quality Content on Your Mac</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-step-by-step-walkthrough-of-instagram-story-screening/"><u>2024 Approved  Step-by-Step Walkthrough of Instagram Story Screening</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-iphone-14-pro-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From iPhone 14 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-iphone-14-pro-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your iPhone 14 Pro? How to Fix</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-simple-guide-sharing-tweets-with-imagesvideos-directly-to-twitter-for-2024/"><u>[Updated] Simple Guide  Sharing Tweets with Images/Videos Directly to Twitter for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-expert-tips-on-producing-high-quality-facebook-video/"><u>[Updated] Expert Tips on Producing High-Quality Facebook Video</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-14-pro-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your iPhone 14 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-14-pro-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone 14 Pro in the Best Ways</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-supercharge-your-windows-pcs-sound-output-with-these-top-10-volumetric-enhancers/"><u>Updated 2024 Approved Supercharge Your Windows PCs Sound Output with These Top 10 Volumetric Enhancers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-iphone-14-pro-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your iPhone 14 Pro From Your Apple ID</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-14-pro-by-drfone-ios/"><u>How To Unlink Apple ID From iPhone 14 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-14-pro-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 14 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-iphone-14-pro-without-password-by-drfone-ios/"><u>How to Remove Apple ID from iPhone 14 Pro without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-iphone-14-pro-by-drfone-ios/"><u>Guide on How To Remove Apple ID From iPhone 14 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-iphone-14-pro-by-drfone-ios/"><u>How to Fix when Apple Account Locked On iPhone 14 Pro?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-iphone-14-pro-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On iPhone 14 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-iphone-14-pro-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On iPhone 14 Pro? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-14-pro-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 14 Pro? 5 Tips You Must Know</u></a></li>
+</ul></div>

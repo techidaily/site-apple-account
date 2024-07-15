@@ -1,7 +1,7 @@
 ---
 title: How to Fix Locked Apple ID on iPhone 6s Plus
-date: 2024-05-19T04:37:30.216Z
-updated: 2024-05-20T04:37:30.216Z
+date: 2024-07-14T12:02:03.744Z
+updated: 2024-07-15T12:02:03.744Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Fix Locked Apple ID on iPhone 6s Plus
 excerpt: This article describes How to Fix Locked Apple ID on iPhone 6s Plus
 keywords: how to remove apple id from your mac,how to unlock ipad without apple id,remove device from icloud,how to remove a device from apple id,apple id locked for security reasons,unlock apple id without phone number,apple id password rules,apple id verification code not working,how to unlink apple id from iphone,how to fix locked apple id from iphone,how to remove an apple id from an iphone,apple id locked or disabled,create apple developer account,i forgot my apple id password and email,tips to unlock apple id,how to fix apple account locked,how to remove apple id from iphone without password,how to remove airtag from apple id,how recover forgot apple id password from icloud itunes and app store,how to get someones apple id off iphone without password,iphone locked to owner,apple id unlock,turning off two factor authentication apple,reset security question of apple id,apple id greyed out,how to delete icloud account,how to erase iphone without apple id,update credit card information on apple id and apple pay,change apple id on macbook,apple watch locked to owner,remove apple two factor authentication
-thumbnail: https://www.lifewire.com/thmb/X0NLJA7wZWOmsgBrRlyzzPD7H5A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1065028028-8e770c58918e4cf8b0852e81cff60ed6.jpg
+thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff463421241eb49561be7ce4c.jpg
 ---
 
 ## How to Fix Locked Apple ID on Apple iPhone 6s Plus
@@ -36,6 +36,9 @@ In short, Apple ID Lock is about a user's account with Apple, akin to how Google
 
 A locked Apple ID is rather unmistakable. Your device would keep telling you that your Apple ID is locked for your security. Your Apple ID could be locked or disabled altogether if someone has tried to gain access to your account (and, obviously, failed). Apple would disable access to the Apple ID unless you are able to prove rightful ownership and reset the password successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part III: Reasons for Locked Apple ID
 
 There can be a few reasons why your Apple ID is locked. You forgot the password and now it is locked since you entered the wrong password too many times. A scarier prospect, albeit a real one, is that some malicious actor attempted to login into your Apple ID account but failed. Had they succeeded, you would have gotten a message that 'your Apple ID is being used on another device' now.
@@ -50,19 +53,25 @@ All of these will result in a locked Apple ID that users will have to reset thei
 
 It is unfortunate you are facing a locked Apple ID. Apple tries its best to make users aware of safety protocols they need to follow to minimize and mitigate such unfortunate occurrences, such as using two-factor authentication, trusted devices, trusted phone numbers, passwords, passcodes, etc. that serve as deterrents to prevent unauthorized access to devices and accounts. Yet, when the unfortunate happens, what to do?
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### IV.I: Unlock Apple ID Via Two-Factor Authentication
 
 Apple implemented two-factor authentication a long time ago to prevent unauthorized access to Apple ID accounts. If you have it enabled, you would be able to use two-factor authentication to unlock your Apple ID again.
 
 Step 1: Go to **<https://iforgot.apple.com>**.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apple id iforgot support page](https://images.wondershare.com/drfone/article/2021/10/unlock-apple-id-on-iphone-13-5.jpg)
 
 Step 2: Key in your Apple ID and proceed.
 
 Step 3: Confirm your mobile number associated with the Apple ID.
 
-![apple id iforgot support ](https://images.wondershare.com/drfone/article/2021/10/unlock-apple-id-on-iphone-13-6.jpg)
+![apple id iforgot support](https://images.wondershare.com/drfone/article/2021/10/unlock-apple-id-on-iphone-13-6.jpg)
 
 If you have another device associated with the Apple ID and it is a trusted device, you can now receive instructions to proceed with a two-factor code on that device.
 
@@ -218,7 +227,7 @@ There are many prompt notifications you would receive when trying to log into th
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Log out iPhone's Apple ID without Password
 
@@ -262,6 +271,9 @@ Signing out of the Apple ID on your Apple iPhone 6s Plus is very easy if you are
 - The associated person needs to sign themselves into icloud.com and the Apple iPhone 6s Plus from their account. After signing in, they can easily access the Apple iPhone 6s Plus by hitting "Find iPhone."
 - After successfully finding the iPhone, they need to click "All Devices," followed by the Apple iPhone 6s Plus from which the account is to be removed and select "Erase iPhone."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2nd Method
 
 There is another alternative method available to check if the previous owner has considerable trust in you. They would have to share their Apple ID credentials, which then can be easily removed by following the steps while using the same iPhone.
@@ -274,6 +286,18 @@ There is another alternative method available to check if the previous owner has
 - The screen on the Apple iPhone 6s Plus should be black. Following this, a message would appear on the desktop screen showing an iPhone in recovery mode.
 - By clicking "Ok," the restoration of the Apple iPhone 6s Plus shall start.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to get rid of someone’s Apple ID off iPhone on the App Store?
 
 There might be a case where your subordinates or relative might have downloaded an app on your Apple iPhone 6s Plus from the App Store by using their IDs and would have forgotten to sign themselves out of it. For understanding the method on how to sign out of the Apple ID without passwords and credentials, users need to follow a few simple steps.
@@ -299,3 +323,69 @@ Having another Apple ID logged in doesn't mean that everything is long lost. Sev
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-oppo-find-n3-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Oppo Find N3 Phone Screen?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-14-plus-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-14-plus-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-14-plus-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 14 Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-apple-iphone-14-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your Apple iPhone 14 Plus Apple ID and Apple Pay</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-list-of-no-cost-sound-sites-for-filmmakers/"><u>[Updated] The Ultimate List of No-Cost Sound Sites for Filmmakers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-14-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone 14 Plus? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-video-editing-mastery-top-picks-for-apple-users/"><u>2024 Approved Video Editing Mastery Top Picks for Apple Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-facetime-call-history-on-iphone-13-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover FaceTime Call History on iPhone 13 Pro | Stellar</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-14-plus-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone 14 Plus?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-apple-iphone-14-plus-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing Apple iPhone 14 Plus Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-crafting-colorful-snaps-embrace-snapchats-anime-filters/"><u>[New] In 2024, Crafting Colorful Snaps  Embrace Snapchat's Anime Filters</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-streamlining-vimeo-uploads-from-moviemaker-projects/"><u>[New] Streamlining Vimeo Uploads From Moviemaker Projects</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-graphics-not-functional-on-windows-1011/"><u>Laptop Graphics Not Functional on Windows 10/11?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-comprehensive-guide-to-embedding-multiple-youtube-playlists-in-websites-for-2024/"><u>[New] Comprehensive Guide to Embedding Multiple YouTube Playlists in Websites for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-enjoy-every-frame-best-free-download-apps-for-mobile-devices/"><u>[New] In 2024, Enjoy Every Frame  Best Free Download Apps for Mobile Devices</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-master-the-art-of-podcast-writing-with-expert-guidance/"><u>2024 Approved  Master the Art of Podcast Writing with Expert Guidance</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/captioning-videos-efficiently-on-vimeo-platform-for-2024/"><u>Captioning Videos Efficiently on Vimeo Platform for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-14-plus-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-apple-iphone-14-plus-by-drfone-ios/"><u>How To Create an Apple Developer Account From Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-14-plus-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone 14 Plus without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-14-plus-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-revival-of-an-iconic-social-app-in-the-digital-age/"><u>The Revival of an Iconic Social App in the Digital Age</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-14-plus-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone 14 Plus Making It Possible</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-14-plus-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone 14 Plus without Security Questions?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtube-video-aspect-ratio-guide-optimal-upload-sizes-for-2024/"><u>[Updated] YouTube Video Aspect Ratio Guide  Optimal Upload Sizes for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-missing-canon-pixma-mp620-printer-not-finding-win10/"><u>[Driver Missing] Canon Pixma MP620 Printer Not Finding WIN10</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-14-plus-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-14-plus-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-apple-iphone-14-plus-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-launch-your-stream-top-8-youtube-revenue-tactics/"><u>2024 Approved  Launch Your Stream  Top 8 YouTube Revenue Tactics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sharpening-the-sight-on-minecraft-structures/"><u>In 2024, Sharpening the Sight on Minecraft Structures</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-digital-sound-shaping-at-no-charge-the-best-free-online-trimming-experience/"><u>Updated In 2024, Digital Sound Shaping at No Charge The Best Free Online Trimming Experience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-secrets-revealed-mastering-chapter-integration-in-youtube-videos/"><u>2024 Approved  Secrets Revealed  Mastering Chapter Integration in YouTube Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-creating-costless-webinars-on-youtube-a-handbook/"><u>[Updated] In 2024, Creating Costless Webinars on YouTube  A Handbook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-iphone-14-plus-device-from-icloud-by-drfone-ios/"><u>How to Remove Apple iPhone 14 Plus Device from iCloud</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-14-plus-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone 14 Plus How to Bypass?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-list-5-free-video-stabilizer-apps-for-android-users-for-2024/"><u>New The Ultimate List 5 Free Video Stabilizer Apps for Android Users for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-apple-iphone-14-plus-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On Apple iPhone 14 Plus? 5 Tips You Must Know</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-14-plus-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone 14 Plus?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/combine-power-tweeting-and-snapping-with-snapchat/"><u>Combine Power  Tweeting and Snapping with Snapchat</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-14-plus-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-apple-iphone-14-plus-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On Apple iPhone 14 Plus? Heres the Best Fixes</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-the-most-efficient-analytics-instruments-for-your-tiktok-success/"><u>[Updated] 2024 Approved  The Most Efficient Analytics Instruments for Your TikTok Success</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-apple-iphone-14-plus-by-drfone-ios/"><u>How To Unlink Apple ID From Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-iphone-14-plus-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Plus When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-14-plus-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone 14 Plus? How to Fix</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-14-plus-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 14 Plus?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-14-plus-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone 14 Plus without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-apple-iphone-14-plus-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From Apple iPhone 14 Plus in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-14-plus-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 14 Plus From Your Apple ID</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-setup-the-top-quality-4k-dslr-mounts-guide/"><u>2024 Approved  Premium Setup  The Top-Quality 4K DSLR Mounts Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-14-plus-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-14-plus-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-max-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Max Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-14-plus-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone 14 Plus? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-14-plus-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-14-plus-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-top-fixes-to-resolve-issues-with-premiere-pro-slow-playback/"><u>Updated 2024 Approved Top Fixes to Resolve Issues with Premiere Pro Slow Playback</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-14-plus-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone 14 Plus without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-14-plus-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-free-fast-skype-to-mp3-guide-for-call-recorders/"><u>[New] 2024 Approved  Free, Fast  Skype to MP3 Guide for Call Recorders</u></a></li>
+</ul></div>

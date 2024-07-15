@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 12?
-date: 2024-05-19T04:38:31.419Z
-updated: 2024-05-20T04:38:31.419Z
+date: 2024-07-14T13:23:11.941Z
+updated: 2024-07-15T13:23:11.941Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 12?
 excerpt: This article describes Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 12?
 keywords: remove device from icloud,your account has been disabled in the app store and itunes,how to remove a device from apple id,how to unlock apple id without security questions,how to disconnect iphone from icloud,how to fix locked apple id from iphone,i forgot my apple id password and email,how to fix apple account disabled,how to remove an apple id from an iphone,create apple developer account,how to delete icloud account,tips to unlock apple id,how to fix apple account locked,how to remove phone number from apple id,how recover forgot apple id password from icloud itunes and app store,change apple id on macbook,iphone locked to owner,remove apple two factor authentication,apple id verification code not working,how to remove apple id from an ipad,apple id locked for security reasons,how to erase a iphone without apple id,how to get apple id verification code,apple id greyed out,how to remove apple id from iphone without password,there was an error connecting to the apple id server,turning off two factor authentication apple,unlock apple id without phone number,apple id unlock,apple id locked or disabled,how to erase iphone without apple id,update credit card information on apple id and apple pay,how to remove airtag from apple id,reset security question of apple id
-thumbnail: https://www.lifewire.com/thmb/9RF2k5zJ8slFGgduRb1qj6IFxoo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-77744394-e5f79596e54a4ba6a914eed31be7efc4.jpg
+thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f2452ed4f5c2e0bd34aa16b628.jpg
 ---
 
 ## Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 12?
@@ -73,7 +73,7 @@ Forgetting the password is particularly troublesome, but there is good news. Tha
 
 
 
-### [Dr.Fone - Password Manager (iOS)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Password Manager (iOS)
 
 Recover and keep all your passwords in one place
 
@@ -84,6 +84,9 @@ Recover and keep all your passwords in one place
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2. View Your Payment Methods and Update Them
 
 If you think that your account has been disabled because of a payment issue, it is necessary to check your payment methods and update them. Follow these simple steps to do it:
@@ -103,6 +106,9 @@ Do you have any unpaid purchases or subscriptions?
 
 It is important to keep track of any purchases or subscriptions that you have signed up for and ensure that you pay for them on time. This not only helps you avoid late fees and penalties, but it also ensures that your account remains active and accessible. If you do have any unpaid charges, it is recommended that you settle them as soon as possible in order to reinstate your account and prevent any further issues. Keep a record of all your expenses and regularly review your bills to avoid missing any payments and keep your accounts in good standing.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 4. Sign Out and Sign in Again
 
 Signing out of your account and then signing back in may help if this issue is caused by a software glitch.
@@ -110,6 +116,9 @@ Signing out of your account and then signing back in may help if this issue is c
 - On your iOS device, go to Settings > \[Your Name\] > iTunes & App Store and Sign Out. Then sign in again.
 - On your Mac, open the App Store (Store > Sign Out) and iTunes (Account > Sign Out. Then sign in again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 5. Try Contacting Apple Support Directly
 
 If you see a message that says, “Your account has been disabled in the App Store and iTunes,” contact Apple Support for help. You can follow these simple steps to contact Apple support:
@@ -145,7 +154,7 @@ One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fon
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iCloud Account without Password in Minutes
 
@@ -215,7 +224,7 @@ Apple offers a limited amount of free iCloud storage. If you’ve reached or exc
 
 ### Changing Apple ID
 
-If you decide to [<u>change your Apple ID</u>](https://drfone.wondershare.com/reset-iphone/reset-iphone-without-apple-id.html)for any reason, disconnecting from iCloud is necessary. This operation allows you to reconnect your old ID to a new one if necessary. It ensures that all purchases, app downloads, and data are linked to the new ID.
+If you decide to [<u>change your Apple ID</u>](https://drfone.wondershare.com/reset-iphone/reset-iphone-without-apple-id.html) for any reason, disconnecting from iCloud is necessary. This operation allows you to reconnect your old ID to a new one if necessary. It ensures that all purchases, app downloads, and data are linked to the new ID.
 
 The benefits of disconnecting from iCloud include enhanced security and privacy. Disconnecting your iCloud account can also lead to reduced usage. It’s great for users who want more control over their data or prefer to keep their devices offline.
 
@@ -243,7 +252,7 @@ You can also remove your iCloud account on your Apple iPhone 12/iPad by visiting
 
 ### Factory Reset
 
-[<u>Performing a factory reset</u>](https://drfone.wondershare.com/reset-iphone/factory-reset-iphone-without-itunes.html)can cause all data on your device erased, effectively disconnecting it from iCloud. Here’s how.
+[<u>Performing a factory reset</u>](https://drfone.wondershare.com/reset-iphone/factory-reset-iphone-without-itunes.html) can cause all data on your device erased, effectively disconnecting it from iCloud. Here’s how.
 
 - **Step 1:**Go to your device’s **Settings**. Next, tap on **General**\> **Reset**. Choose**Erase All Content and Settings**.
 
@@ -276,7 +285,7 @@ If you’ve tried all the options and even contacted Apple support but still fac
 
 ## Part 3. Steps To Remove iCloud From iPhone/iPad With a Flexible Alternative-Wondershare Dr.Fone
 
-Dr.Fone is a flexible alternative tool that can remove iCloud from your Apple iPhone 12 or iPad. Your Apple iPhone 12 or iPad will most likely trigger [<u>iCloud’s Activation Lock</u>](https://drfone.wondershare.com/icloud/unlock-icloud-activation.html)if all the steps above do not solve your issue. In that case, Dr.Fone - Screen Unlock can help you bypass it, allowing you to regain control of your device. The steps below show you **how to disconnect from iCloud**in 3 simple steps.
+Dr.Fone is a flexible alternative tool that can remove iCloud from your Apple iPhone 12 or iPad. Your Apple iPhone 12 or iPad will most likely trigger [<u>iCloud’s Activation Lock</u>](https://drfone.wondershare.com/icloud/unlock-icloud-activation.html) if all the steps above do not solve your issue. In that case, Dr.Fone - Screen Unlock can help you bypass it, allowing you to regain control of your device. The steps below show you **how to disconnect from iCloud**in 3 simple steps.
 
 - **Step 1**: Start by downloading and installing Dr.Fone on your computer. Once installed, launch the program. Click **Toolbox**\> **ScreenUnlock**\> **iOS**to move on to the next process.
 
@@ -302,14 +311,14 @@ Dr.Fone goes beyond [<u>bypassing the iCloud activation lock</u>](https://drfone
 ![other dr.fone capabilities](https://images.wondershare.com/drfone/guide/bypass-activation-lock-2.png)
 
 - **Unlock Apple ID without a Password**. Dr.Fone allows you to unlock your Apple ID without needing a password. The feature is helpful if you’ve been locked out of your account or face authentication issues.
-- **Remove SIM Lock/Phone Carrier.**The tool can also [<u>remove SIM locks</u>](https://drfone.wondershare.com/sim-unlock/android-sim-unlock-code-generator.html)and phone carrier restrictions. This feature allows you to use your device with any carrier or SIM card.
+- **Remove SIM Lock/Phone Carrier.**The tool can also [<u>remove SIM locks</u>](https://drfone.wondershare.com/sim-unlock/android-sim-unlock-code-generator.html) and phone carrier restrictions. This feature allows you to use your device with any carrier or SIM card.
 - **No Data Loss.**A crucial advantage of Dr.Fone is its ability to perform all these operations without causing data loss. Your precious data, apps, and settings remain intact throughout the process.
 
 Apart from its iCloud-related capabilities, Dr.Fone offers a comprehensive set of tools for managing your iOS device.
 
 **Data Recovery**
 
-Dr.Fone can help you[<u>recover lost or deleted data</u>](https://drfone.wondershare.com/recovery-mode/how-to-recover-data-from-iphone-in-recovery-mode.html). Retrieve your messages, photos, videos, contacts, and more. The feature is a lifesaver when accidental data loss occurs.
+Dr.Fone can help you [<u>recover lost or deleted data</u>](https://drfone.wondershare.com/recovery-mode/how-to-recover-data-from-iphone-in-recovery-mode.html). Retrieve your messages, photos, videos, contacts, and more. The feature is a lifesaver when accidental data loss occurs.
 
 **Phone Manager**
 
@@ -331,12 +340,18 @@ Your digital identity serves as a vital safeguard for your personal information.
 
 Whether you've been an Apple user for years or are just starting out in the ecosystem, grasping the process of obtaining this code is essential. This article will take you through the importance of **how to get an Apple ID verification code**and discover the most effective methods to acquire it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How Verification Code Helps Apple Users Keeping Their Devices and Account Safe
 
 Apple has maintained a leading position in technological innovation. It also encompasses a steadfast commitment to security. This commitment is reinforced by the implementation of rigorous security protocols and encryption measures. It understands the critical need to fortify the security of its devices and accounts. One pivotal aspect of Apple's safety is the use of verification codes. These codes serve as an extra level of protection.
 
 The basic idea behind verification codes is to require users to provide a temporary code in addition to their regular password. This code is commonly dispatched to a trusted device, such as an iPhone. This is to introduce an additional layer of security that proves challenging for hackers to bypass. Apple users have several methods that will help them in **how to get the Apple ID verification code** scenario**.**
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. SMS or Text Messages
 
 Apple can provide you with a verification code through SMS or text message on a trusted phone number. This offers a hassle-free option for users who wish to avoid using extra applications or devices.
@@ -401,7 +416,7 @@ It provides a wide range of mobile management solutions for iOS devices. One of 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -416,7 +431,7 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 - It empowers you to resolve carrier SIM problems in many situations, including issues like SIM Not Supported, SIM Not Valid, SIM Locked, etc.
 - If you forgot your iTunes encrypted backup password, Wondershare Dr.Fone can remove the encryption without damaging your data.
-- Wondershare Dr.Fone allows you to [<u>remove MDM profiles</u>](https://drfone.wondershare.com/unlock/remove-mdm.html)from your device without the risk of data loss or jailbreaking.
+- Wondershare Dr.Fone allows you to [<u>remove MDM profiles</u>](https://drfone.wondershare.com/unlock/remove-mdm.html) from your device without the risk of data loss or jailbreaking.
 
 #### Steps To Unlock Apple ID From Your Apple iPhone 12/iPad via Wondershare Dr.Fone
 
@@ -466,3 +481,46 @@ We've also delved into the importance of having a reliable tool like Wondershare
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-iphone-13-pro-max-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Max When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/simplify-multitasking-with-picture-in-picture-feature-ios/"><u>Simplify Multitasking with Picture in Picture Feature (iOS)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pause-autoplay-on-youtube-suggested-videos-for-2024/"><u>Pause Autoplay on YouTube Suggested Videos for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-audiences-choice-prime-action-recorder-for-2024/"><u>[Updated] Audience's Choice  Prime Action Recorder for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-13-pro-max-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone 13 Pro Max without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://facebook.techidaily.com/master-the-art-of-data-analysis-with-8-crowdflower-features/"><u>Master the Art of Data Analysis with 8 CrowdFlower Features</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-stop-motion-handbook-studio-alternatives-and-more/"><u>Updated 2024 Approved The Ultimate Stop Motion Handbook Studio, Alternatives, and More</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-apple-iphone-13-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On Apple iPhone 13 Pro Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-w7-system-sounds-through-new-audio-drivers/"><u>Improve W7 System Sounds Through New Audio Drivers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-13-pro-max-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 13 Pro Max From Your Apple ID</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-boosting-windows-file-audit-with-precision/"><u>2024 Approved  Boosting Windows File Audit with Precision</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-apple-iphone-13-pro-max-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing Apple iPhone 13 Pro Max Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-apple-iphone-13-pro-max-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On Apple iPhone 13 Pro Max? 5 Tips You Must Know</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-icy-acceleration-olympics-best-from-2022-short-tracks/"><u>[Updated] In 2024, Icy Acceleration  Olympics' Best From 2022 Short Tracks</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-experience-the-future-of-video-top-4k-samples/"><u>New 2024 Approved Experience the Future of Video Top 4K Samples</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-13-pro-max-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone 13 Pro Max without Security Questions?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hasty-techniques-for-photo-composition-on-mac/"><u>[Updated] Hasty Techniques for Photo Composition on Mac</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-screen-spectaculum-hitting-720p-with-twitter-vids/"><u>2024 Approved  Screen Spectaculum  Hitting 720P with Twitter Vids</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-simplifying-the-complexities-of-vr-devices/"><u>[Updated] Simplifying the Complexities of VR Devices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>How To Unlink Apple ID From Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-iphone-13-pro-max-device-from-icloud-by-drfone-ios/"><u>How to Remove Apple iPhone 13 Pro Max Device from iCloud</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-blueprint-to-surge-in-youtubers-popularity/"><u>In 2024, The Blueprint to Surge in Youtubers' Popularity</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-step-by-step-integrating-tunes-into-kinemaster/"><u>2024 Approved Step-by-Step Integrating Tunes Into KineMaster</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-the-maze-of-personal-style-and-business-identity/"><u>2024 Approved  Navigating the Maze of Personal Style & Business Identity</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-13-pro-max-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone 13 Pro Max without Password?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-14-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi 14 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-grasping-social-media-success-basic-facebook-statistics/"><u>[Updated] Grasping Social Media Success  Basic Facebook Statistics</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-7-essential-software-for-creating-stunning-animation-drawings/"><u>New In 2024, 7 Essential Software for Creating Stunning Animation Drawings</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-amplify-audience-connection-best-creative-reacting-techniques/"><u>[New] 2024 Approved  Amplify Audience Connection  Best Creative Reacting Techniques</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone X?
-date: 2024-06-23T22:14:14.556Z
-updated: 2024-06-24T22:14:14.556Z
+date: 2024-07-14T12:28:46.422Z
+updated: 2024-07-15T12:28:46.422Z
 tags: 
   - unlock
   - remove apple account
@@ -20,6 +20,9 @@ You may see the error message, “**Your account has been disabled in the App St
 
 Why is my account disabled in the App store? Here, we take a look at the reasons why you may see the error messages and what you can do to fix them.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. Why has my account been disabled in the App Store and iTunes?
 
 The following are some reasons why you may see this error message popup on your screen:
@@ -57,6 +60,9 @@ If you just forget the password and cannot remember it, you can follow the steps
 - **Step 1:** Go to [https://iforgot.apple.com/](https://iforgot.apple.com/password/verify/appleid).
 - **Step 2:** Put your Apple ID (email) in the box and click “Continue”.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id.jpg)
 
 - **Step 3** Enter the phone number that you use with your Apple ID.
@@ -93,6 +99,18 @@ If you think that your account has been disabled because of a payment issue, it 
 - **Step 3:** Tap “View Apple ID” and then select “Manage Payments”.
 - **Step 4:** Tap “Add Payment Method” to add a new payment method.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disabled in the app store and itunes 1](https://images.wondershare.com/drfone/article/2020/11/disabled-in-the-app-store-and-itunes-1.jpg)
 
 If the payment method was the issue, your account will be re-enabled after these steps.
@@ -247,6 +265,9 @@ Here is a step by step guide to solve the issue of your locked apple id using Dr
 
 Open the application and connect your Apple iPhone X using a USB cable. Once you’ve connected it, click on the “Screen Unlock” option from Wondershare Dr. Fone beforehand.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 On the new screen, click on “Unlock Apple ID” to get started.
@@ -329,6 +350,9 @@ Apple users can attach the AirTag to different objects like backpacks or keychai
 
 Users can add their AirTag to one Apple ID account, so you cannot access this from the Find My app via other accounts. In case of loss, you must remove the AirTag from your device entirely.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![airtag model](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-airtag-from-apple-id-2.jpg)
 
 ## Part 2. How to Remove an AirTag from Your Apple ID onApple iPhone X & iPad?
@@ -443,3 +467,41 @@ The added AirTag stays connected with one Apple ID account until you reset it. S
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-apple-iphone-se-2022-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your Apple iPhone SE (2022) Apple ID and Apple Pay</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-tecno-spark-10-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Tecno Spark 10 Pro Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-free-mkv-trimming-software-top-10-picks/"><u>Updated In 2024, Free MKV Trimming Software Top 10 Picks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-earn-big-stay-safe-top-5-income-boosting-posts/"><u>[Updated] 2024 Approved  Earn Big, Stay Safe  Top 5 Income Boosting Posts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-exclusive-insight-into-low-cost-footage-websites/"><u>[Updated] Exclusive Insight Into Low-Cost Footage Websites</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-watermark-free-tiktok-get-content-directly/"><u>[Updated] Watermark-Free TikTok  Get Content Directly</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-se-2022-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone SE (2022) How to Bypass?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-se-2022-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone SE (2022) without Security Questions?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-se-2022-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-se-2022-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone SE (2022) From Your Apple ID</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-se-2022-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone SE (2022) without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-apple-iphone-se-2022-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On Apple iPhone SE (2022)? 5 Tips You Must Know</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-poco-f5-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Poco F5 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-se-2022-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-se-2022-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-se-2022-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone SE (2022)?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-se-2022-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone SE (2022)?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-iphone-se-2022-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2022) When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-se-2022-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-apple-iphone-se-2022-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On Apple iPhone SE (2022)? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-se-2022-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-future-virtual-frontiers-in-depth-comparison-of-meta-and-omniverse-worlds/"><u>2024 Approved  Future Virtual Frontiers  In-Depth Comparison of Meta & Omniverse Worlds</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-iphone-se-2022-device-from-icloud-by-drfone-ios/"><u>How to Remove Apple iPhone SE (2022) Device from iCloud</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-se-2022-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-se-2022-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-se-2022-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone SE (2022) without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-se-2022-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/freeplayvid-seamless-recording-for-the-avid-player/"><u>FreePlayVid  Seamless Recording for the Avid Player</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/next-gen-virtual-reality-top-8-metaverse-tech-for-2024/"><u>Next-Gen Virtual Reality  Top 8 Metaverse Tech for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-se-2022-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-definitive-list-of-tools-for-computer-and-microphone-capture/"><u>2024 Approved  The Definitive List of Tools for Computer & Microphone Capture</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-apple-iphone-se-2022-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing Apple iPhone SE (2022) Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-se-2022-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone SE (2022)?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-apple-iphone-se-2022-by-drfone-ios/"><u>How To Unlink Apple ID From Apple iPhone SE (2022)</u></a></li>
+</ul></div>

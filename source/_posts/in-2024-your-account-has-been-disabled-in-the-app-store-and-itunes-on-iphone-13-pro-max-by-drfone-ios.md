@@ -1,7 +1,7 @@
 ---
 title: In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone 13 Pro Max?
-date: 2024-04-07T20:56:50.275Z
-updated: 2024-04-08T20:56:50.275Z
+date: 2024-07-14T14:06:57.843Z
+updated: 2024-07-15T14:06:57.843Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes Your Account Has Been Disabled in the App Store and iTunes On iPhone 13 Pro Max?
 excerpt: This article describes Your Account Has Been Disabled in the App Store and iTunes On iPhone 13 Pro Max?
 keywords: how to fix locked apple id from iphone,how to remove apple id from your mac,create apple developer account,how to erase a iphone without apple id,apple id verification code not working,apple id password rules,remove device from icloud,how recover forgot apple id password from icloud itunes and app store,how to remove a device from apple id,your account has been disabled in the app store and itunes,how to remove an apple id from an iphone,how to delete icloud account,how to get someones apple id off iphone without password,how to delete icloud account without password,how to remove phone number from apple id,how do i find my apple id,i forgot my apple id password and email
-thumbnail: https://www.lifewire.com/thmb/15bm4Bz9ubVpUvwkdmj9lzc-OUM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-un65nu7100fxza-aaa-5b3bf3f1c9e77c00370afe54.jpg
+thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f971400d44a0a7430d69515d.jpg
 ---
 
 ## Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 13 Pro Max?
@@ -20,6 +20,9 @@ You may see the error message, “**Your account has been disabled in the App St
 
 Why is my account disabled in the App store? Here, we take a look at the reasons why you may see the error messages and what you can do to fix them.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. Why has my account been disabled in the App Store and iTunes?
 
 The following are some reasons why you may see this error message popup on your screen:
@@ -73,7 +76,7 @@ Forgetting the password is particularly troublesome, but there is good news. Tha
 
 
 
-### [Dr.Fone - Password Manager (iOS)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Password Manager (iOS)
 
 Recover and keep all your passwords in one place
 
@@ -145,7 +148,7 @@ One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fon
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iCloud Account without Password in Minutes
 
@@ -167,6 +170,9 @@ To begin, download the Dr.Fone Toolkit from the program’s main website. Instal
 
 On the next screen, you should see three options. Choose “Remove Apple ID” since we want to remove the Apple ID from the Apple iPhone 13 Pro Max device.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
 - **Step 3: Connect the iOS Device**
@@ -261,6 +267,9 @@ Apple offers an account recovery process if you forget your Apple ID password. I
 
 Once your identity is verified, you can set a new Apple ID password. After resetting the password, use the new password to sign in on your Apple iPhone 13 Pro Max. This process indirectly helps in removing the Apple ID from the Apple iPhone 13 Pro Max device.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Local Apple Store for In-Store Assistance
 
 You can visit a local Apple Store for in-person assistance. They may help with Apple ID issues and guide you through removal.
@@ -417,7 +426,7 @@ Dr.Fone does this resolving procedure through its powerful Screen Time Passcode 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -440,6 +449,9 @@ Wondershare Dr.Fone is an easy-to-use software with a simple guide to fix your A
 
 You need to start the process by opening Wondershare Dr.Fone and moving towards the “Toolbox” section. At that location, select “Screen Unlock” from the options provided. Then, select the “iOS” option from the window to define the type of your device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![choose the screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 
@@ -447,6 +459,9 @@ You need to start the process by opening Wondershare Dr.Fone and moving towards 
 
 You will find yourself in a list of options from where you need to continue with the "Unlock Screen Time Passcode" option. Next, connect your iOS device to the computer via a USB cable. Then, wait for Wondershare Dr.Fone to detect your Apple iPhone 13 Pro Max.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap unlock screen time passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-1.png)
 
 - Step 3: Unlock Your iDevice and Toggle off Find My Feature
@@ -480,3 +495,58 @@ We recommend that users diligently follow the steps provided in each solution. S
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-x-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your iPhone X</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-iphone-x-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your iPhone X? How to Fix</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-iphone-x-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From iPhone X? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-cinematic-look-a-comprehensive-guide-to-fcpx-video-editing-for-2024/"><u>Updated The Cinematic Look A Comprehensive Guide to FCPX Video Editing for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-x-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From iPhone X</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-x-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone X</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-broadcast-power-play-which-livestream-tool-should-you-use-for-2024/"><u>[New] Broadcast Power Play  Which Livestream Tool Should You Use for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-iphone-x-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From iPhone X</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-x-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone X? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-x-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone X</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-apple-iphone-8-plus-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On Apple iPhone 8 Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-from-fast-paced-footage-to-staggeringly-slow-motion-videos-a-comprehensive-ig-reel-guide/"><u>2024 Approved  From Fast-Paced Footage to Staggeringly Slow Motion Videos  A Comprehensive IG Reel Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/step-by-step-guide-to-create-engaging-thumbnails-for-your-videos-on-youtube-for-2024/"><u>Step-by-Step Guide to Create Engaging Thumbnails for Your Videos on YouTube for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-iphone-x-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From iPhone X without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-iphone-x-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From iPhone X in the Best Ways</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-from-flat-to-fabulous-converting-videos-to-vr-with-ease/"><u>New In 2024, From Flat to Fabulous Converting Videos to VR with Ease</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-navigating-the-landscape-of-snapchat-for-enterprise/"><u>[New] 2024 Approved  Navigating the Landscape of Snapchat for Enterprise</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-avs-video-editor-review-a-closer-look-at-its-capabilities-and-limitations/"><u>New In 2024, AVS Video Editor Review A Closer Look at Its Capabilities and Limitations</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-x-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From iPhone X?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-navigating-the-world-of-tiktok-promotion-methodologies-and-outstanding-examples-for-2024/"><u>[Updated] Navigating the World of TikTok Promotion  Methodologies and Outstanding Examples for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-x-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone X Making It Possible</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-driving-engagement-and-sales-a-step-by-step-guide-to-influencer-marketing/"><u>[New] In 2024, Driving Engagement and Sales  A Step-by-Step Guide to Influencer Marketing</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-best-free-neon-text-generators-for-instant-results/"><u>New In 2024, The Best Free Neon Text Generators for Instant Results</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-iphone-x-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From iPhone X without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-iphone-x-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your iPhone X without Security Questions?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-iphone-x-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your iPhone X?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-iphone-x-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From iPhone X? Heres the Best Fixes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensive-analysis-updated-s3700-bd-player/"><u>In 2024, Comprehensive Analysis  Updated S3700 BD Player</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-make-your-linkedin-profile-professional/"><u>2024 Approved  How To Make Your LinkedIn Profile Professional</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-iphone-x-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From iPhone X?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-5-effective-ways-of-resizing-your-igtv-videos/"><u>[Updated] 2024 Approved  5 Effective Ways of Resizing Your IGTV Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-imovie-skills-producing-engaging-and-profitable-square-video-feeds-for-2024/"><u>[Updated] IMovie Skills  Producing Engaging and Profitable Square Video Feeds for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-iphone-x-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your iPhone X Apple ID and Apple Pay</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-journeying-through-yesteryears-facebook-posts-on-mobilelaptop-for-2024/"><u>[Updated] Journeying Through Yesteryear's Facebook Posts on Mobile/Laptop for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-iphone-x-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From iPhone X</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-iphone-x-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From iPhone X</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-a-guide-to-unlock-descript-text-to-speech-features-in-detail/"><u>New A Guide to Unlock Descript Text-to-Speech Features in Detail</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-experts-recommendations-for-image-watermarking/"><u>2024 Approved  Expert's Recommendations for Image Watermarking</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-apple-iphone-8-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On Apple iPhone 8 Plus? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-x-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone X?</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-the-ultimate-list-of-avi-video-cutters-16-best-options-for-windows-mac-and-android-users/"><u>2024 Approved The Ultimate List of AVI Video Cutters 16 Best Options for Windows, MAC, and Android Users</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-x-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your iPhone X</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-iphoneandroid-photo-background-subtraction/"><u>[Updated] Best iPhone/Android Photo Background Subtraction</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-x-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone X</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-iphone-x-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from iPhone X</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-iphone-x-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From iPhone X</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/fbx-recorder-alternatives-the-new-era-of-gaming-capture-for-2024/"><u>FBX Recorder Alternatives  The New Era of Gaming Capture for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-apple-iphone-8-plus-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On Apple iPhone 8 Plus How to Bypass?</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-poco-c55-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Poco C55 Phone | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-pano-way-to-online-visibility-posting-360-photos-through-mobile-apps/"><u>[Updated] In 2024, The Pano-Way to Online Visibility  Posting 360 Photos Through Mobile Apps</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-iphone-x-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From iPhone X? 5 Tips You Must Know</u></a></li>
+</ul></div>

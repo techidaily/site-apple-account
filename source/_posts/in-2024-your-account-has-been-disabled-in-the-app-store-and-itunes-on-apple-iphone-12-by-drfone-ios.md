@@ -1,7 +1,7 @@
 ---
 title: In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 12?
-date: 2024-05-19T04:38:33.052Z
-updated: 2024-05-20T04:38:33.052Z
+date: 2024-07-14T13:25:31.337Z
+updated: 2024-07-15T13:25:31.337Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 12?
 excerpt: This article describes Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 12?
 keywords: apple id locked or disabled,apple watch locked to owner,update credit card information on apple id and apple pay,how to sign out of apple id without password,how do i find my apple id,there was an error connecting to the apple id server,iphone locked to owner,how to remove an apple id from an iphone,how to erase iphone without apple id,reset security question of apple id,how to fix apple account locked,i forgot my apple id password and email,how to delete icloud account without password,apple id unlock,how to disconnect iphone from icloud,remove device from icloud,create apple developer account,change apple id on macbook,how to fix locked apple id from iphone,how to get apple id verification code,tips to unlock apple id,apple id locked for security reasons,how to fix apple account disabled,how to fix apple id disabled,your account has been disabled in the app store and itunes
-thumbnail: https://www.lifewire.com/thmb/DHxaJkZu-_13cCciVcRs3Mq0nj4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012_how-to-make-video-call-on-android-bd93ab594aa648c7977f4c1ecf42c85b.jpg
+thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388aae8627911832c708fd7626.jpg
 ---
 
 ## Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 12?
@@ -65,6 +65,9 @@ If you just forget the password and cannot remember it, you can follow the steps
 
 - **Step 4:** Look for the notification on iPhone, Mac, or iPad and follow the instructions to reset the password.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id-3.jpg)
 
 Note that if you are changing your Apple ID password on an iPhone or iPad, you will need to enter your device's six-digit passcode, then reset a new password.
@@ -73,7 +76,7 @@ Forgetting the password is particularly troublesome, but there is good news. Tha
 
 
 
-### [Dr.Fone - Password Manager (iOS)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Password Manager (iOS)
 
 Recover and keep all your passwords in one place
 
@@ -145,7 +148,7 @@ One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fon
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iCloud Account without Password in Minutes
 
@@ -241,6 +244,9 @@ Creating a new admin user account can serve as a strategic move for macOS users.
 
 - **Step 2:** Click the lock icon and enter your admin password. Click the **+** or **Add User…** button to add a new user, selecting **Administrator** as the account type. Log in to the new account and check if the issue persists.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Update Your iOS or macOS Software
 
 Outdated operating systems often contribute to connectivity issues. Ensure your iOS or macOS software is up to date by [<u>checking for available updates</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html). Here's how.
@@ -256,6 +262,18 @@ Download and install any available updates.
 
 Booting your Mac in [<u> Safe Mode</u>](https://drfone.wondershare.com/android-tips/safe-mode-in-android.html) is another approach to troubleshooting. The mode disables unnecessary processes, allowing you to identify and resolve potential conflicts causing the connection error. To put your Mac into safe mode, restart it and hold down the **Shift** key. Release it when the Apple logo appears.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![safe mode on mac](https://images.wondershare.com/drfone/article/2023/11/error-connecting-to-apple-id-06.jpg)
 
 ### Restart Your Apple Device
@@ -284,7 +302,7 @@ If you use a Virtual Private Network (VPN), consider temporarily disabling it. V
 
 Inaccurate date and time settings on your device can lead to authentication failures. Ensure your device's date and time are accurate and set to update automatically. This prevents synchronization issues with the Apple ID server.
 
-![ date and time settings](https://images.wondershare.com/drfone/article/2023/11/error-connecting-to-apple-id-08.jpg)
+![date and time settings](https://images.wondershare.com/drfone/article/2023/11/error-connecting-to-apple-id-08.jpg)
 
 If you've tried all the above and you're still getting the error connecting to the Apple ID server, you may want to consider using [<u>Wondershare Dr.Fone - Screen Unlock</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). It is a powerful tool that can help you bypass the Apple ID lock screen on your Apple iPhone 12, iPad, or iPod touch.
 
@@ -296,7 +314,7 @@ Wondershare Dr.Fone is renowned for its versatile features. The platform's Scree
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -323,6 +341,9 @@ Below are the steps to use Dr.Fone - Screen Unlock.
 
 - **Step 2:** From the main interface, choose the **Screen** **Unlock** option. Next, connect your iOS device to the computer using a USB cable. Click on **iCloud Activation Lock Removal** to initiate the process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone screen unlock options](https://images.wondershare.com/drfone/guide/bypass-activation-lock-1.png)
 
 - **Step 3:** Follow the on-screen instructions and wait for Dr.Fone to detect your device information automatically. From there, the software will provide the necessary firmware package. Click **Unlock** **Now** to initiate the process.
@@ -404,6 +425,9 @@ On the next screen that opens, you are required to select “Unlock Apple ID” 
 
 Open the Apple iPhone 12 device and tap on “Trust” over the prompt that appears on the screen. Following this, you need to navigate to the Settings of your device to initiate a reboot.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![trust computer](https://images.wondershare.com/drfone/drfone/trust-computer.jpg)
 
 **Step 4: Execution of Process**
@@ -435,3 +459,68 @@ The article has presented a very detailed comparison of the Two Factor Verificat
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-expedite-content-indexing-with-these-7-free-youtube-tag-extractors/"><u>[New] In 2024, Expedite Content Indexing with These 7 FREE YouTube Tag Extractors</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-zte-nubia-flip-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock ZTE Nubia Flip 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-vivo-v30-lite-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-6-plus-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 6 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-6-plus-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 6 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-iphone-6-plus-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On iPhone 6 Plus? Heres the Best Fixes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-depth-analysis-the-finesse-of-obs-recording/"><u>In-Depth Analysis  The Finesse of OBS Recording</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-top-20-hits-must-watch-tiktok-rappers-and-their-tracks/"><u>In 2024, Top 20 Hits  Must-Watch TikTok Rappers & Their Tracks</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-6-plus-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone 6 Plus without Apple ID?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-iphone-6-plus-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect iPhone 6 Plus and iPad</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-6-plus-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone 6 Plus without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-6-plus-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone 6 Plus Apple ID on MacBook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-understanding-igs-evolution-reels-vs-stories/"><u>[Updated] Understanding IG's Evolution  Reels vs Stories</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-ninja-jump-effect-with-filmora/"><u>Updated How To Make Ninja Jump Effect with Filmora</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-6-plus-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone 6 Plus? How to Fix it?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-achieve-complete-volume-on-fb-media-shows-for-2024/"><u>[New] How to Achieve Complete Volume on Fb Media Shows for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-capturing-clarity-powerpoint-and-webcam-synergy/"><u>2024 Approved  Capturing Clarity  PowerPoint and Webcam Synergy</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-6-plus-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone 6 Plus?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-picks-non-intrusive-android-recorders/"><u>In 2024, Top Picks  Non-Intrusive Android Recorders</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-iphone-6-plus-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From iPhone 6 Plus</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-navigating-twitter-archives-a-comprehensive-guide/"><u>In 2024, Navigating Twitter Archives  A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-picart-technique-for-clean-images/"><u>2024 Approved  The Ultimate PicArt Technique for Clean Images</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-6-plus-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone 6 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-6-plus-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 6 Plus?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mycam-reviewed-does-it-deliver-on-performance-promises-for-2024/"><u>[Updated] MyCam Reviewed  Does It Deliver on Performance Promises for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-6-plus-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone 6 Plus without Security Questions?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-iphone-6-plus-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off iPhone 6 Plus without Password</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-easy-steps-to-record-your-vlc-videos-effectively/"><u>[New] Easy Steps to Record Your VLC Videos Effectively</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-honor-100-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Honor 100 to iPod | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-best-zero-cost-video-editors-for-newcomers-desktop-online-mobile/"><u>In 2024, The Best Zero-Cost Video Editors for Newcomers Desktop, Online, Mobile</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-10-best-picture-organizers-for-striking-grids/"><u>[New] 10 Best Picture Organizers for Striking Grids</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-6-plus-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 6 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-6-plus-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 6 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-6-plus-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone 6 Plus without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-6-plus-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing iPhone 6 Plus Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-iphone-6-plus-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your iPhone 6 Plus? How to Fix</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-iphone-6-plus-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-complete-guide-to-help-you-convert-srt-to-xml-ssa-ttml-and-othe-for-2024/"><u>The Complete Guide to Help You Convert SRT to XML, SSA, TTML, and Othe for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-iphone-6-plus-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your iPhone 6 Plus From Your Apple ID</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-6-plus-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone 6 Plus in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-6-plus-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 6 Plus</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-expanding-your-instagram-video-footprint-practical-tips/"><u>[Updated] 2024 Approved  Expanding Your Instagram Video Footprint  Practical Tips</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-6-plus-by-drfone-ios/"><u>How To Unlink Apple ID From iPhone 6 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-iphone-6-plus-without-password-by-drfone-ios/"><u>How to Remove Apple ID from iPhone 6 Plus without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-iphone-6-plus-by-drfone-ios/"><u>How to Fix when Apple Account Locked On iPhone 6 Plus?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-on-apple-iphone-15-pro-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud on Apple iPhone 15 Pro Safe and Legal</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-6-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone 6 Plus? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-from-bland-to-breathtaking-craft-captivating-content-on-tiktok-quickly/"><u>[Updated] 2024 Approved  From Bland to Breathtaking  Craft Captivating Content on TikTok Quickly</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-6-plus-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone 6 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-6-plus-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your iPhone 6 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-6-plus-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 6 Plus Making It Possible</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-6-plus-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone 6 Plus Without Apple ID Password?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-backward-playbook-youtubes-video-flip/"><u>The Backward Playbook  YouTube's Video Flip</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-6-plus-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone 6 Plus without the Previous Owner?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-avian-melodies-audio-download/"><u>New Avian Melodies Audio Download</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-6-plus-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 6 Plus</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/expert-tips-to-download-and-save-instagram-media-from-your-computer/"><u>Expert Tips to Download and Save Instagram Media From Your Computer</u></a></li>
+<li><a href="https://facebook.techidaily.com/enable-the-nocturnal-look-in-facebook-settings/"><u>Enable the Nocturnal Look in Facebook Settings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-remedying-an-inactive-connection-to-your-obs-cam/"><u>[New] Remedying an Inactive Connection to Your OBS Cam</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-iphone-6-plus-by-drfone-ios/"><u>Guide on How To Remove Apple ID From iPhone 6 Plus</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repair-printer-driver-glitches-on-win10-pc/"><u>Repair Printer Driver Glitches on WIN10 PC</u></a></li>
+</ul></div>

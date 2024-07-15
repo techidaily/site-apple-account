@@ -1,7 +1,7 @@
 ---
 title: In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone XS?
-date: 2024-05-19T04:38:04.103Z
-updated: 2024-05-20T04:38:04.103Z
+date: 2024-07-14T12:46:44.080Z
+updated: 2024-07-15T12:46:44.080Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes Your Account Has Been Disabled in the App Store and iTunes From iPhone XS?
 excerpt: This article describes Your Account Has Been Disabled in the App Store and iTunes From iPhone XS?
 keywords: iphone locked to owner,how to remove phone number from apple id,tips to unlock apple id,how to sign out of apple id without password,how to fix apple account locked,how to delete icloud account without password,how do i find my apple id,apple id verification code not working,how to disconnect iphone from icloud,remove apple two factor authentication,how to remove an apple id from an iphone,how to erase a iphone without apple id,how to delete icloud account,remove device from icloud,turning off two factor authentication apple
-thumbnail: https://www.lifewire.com/thmb/Z0ZdjJb5nz4Ek2qcGOTaqnhoZ04=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1164718779-aa87dac78cd44ad7b71e76c27adc7e9a.jpg
+thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7f00706449676a59eeb923d9.jpg
 ---
 
 ## Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone XS?
@@ -47,6 +47,18 @@ If you just forget the password and cannot remember it, you can follow the steps
 - **Step 1:** Open Settings.
 - **Step 2:** Tap \[your name\] on top of the screen> Password & Security > Change Password.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset password](https://images.wondershare.com/drfone/article/2022/04/settings-apple-id-password-security-change-password.jpg)
 
 - **Step 3:** Enter the passcode for your device.
@@ -73,7 +85,7 @@ Forgetting the password is particularly troublesome, but there is good news. Tha
 
 
 
-### [Dr.Fone - Password Manager (iOS)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Password Manager (iOS)
 
 Recover and keep all your passwords in one place
 
@@ -103,6 +115,9 @@ Do you have any unpaid purchases or subscriptions?
 
 It is important to keep track of any purchases or subscriptions that you have signed up for and ensure that you pay for them on time. This not only helps you avoid late fees and penalties, but it also ensures that your account remains active and accessible. If you do have any unpaid charges, it is recommended that you settle them as soon as possible in order to reinstate your account and prevent any further issues. Keep a record of all your expenses and regularly review your bills to avoid missing any payments and keep your accounts in good standing.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 4. Sign Out and Sign in Again
 
 Signing out of your account and then signing back in may help if this issue is caused by a software glitch.
@@ -120,6 +135,9 @@ If you see a message that says, “Your account has been disabled in the App Sto
 
 ![disabled in the app store and itunes 2](https://images.wondershare.com/drfone/article/2023/05/getsupport-apple.png)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. What does it influence when “Your account has been disabled in the App Store and iTunes”?
 
 When you see the error message “Your account has been disabled in the App Store and iTunes” it often means the following:
@@ -145,7 +163,7 @@ One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fon
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iCloud Account without Password in Minutes
 
@@ -236,6 +254,9 @@ It is worth highlighting that Apple employs verification codes in numerous funda
 
 Many users rely heavily on our trusted iPhones or iPads to receive Apple ID verification codes. Nonetheless, there may be situations in which you could be without your main device. Whether it's due to misplacement or setting up a new one, Apple offers alternative methods to assist you. Here, we will explore two methods for **how to get an Apple ID verification code without a phone**:
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Way 1: Take Help of Apple Watch
 
 The Apple Watch serves as a versatile partner to complement your Apple iPhone XS. It offers a range of integrated features. One of its lesser-known capabilities is assisting you in situations where you need to receive an Apple ID verification code. Here is how you can use your Apple Watch for this purpose:
@@ -265,7 +286,7 @@ It provides a wide range of mobile management solutions for iOS devices. One of 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -280,7 +301,7 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 - It empowers you to resolve carrier SIM problems in many situations, including issues like SIM Not Supported, SIM Not Valid, SIM Locked, etc.
 - If you forgot your iTunes encrypted backup password, Wondershare Dr.Fone can remove the encryption without damaging your data.
-- Wondershare Dr.Fone allows you to [<u>remove MDM profiles</u>](https://drfone.wondershare.com/unlock/remove-mdm.html)from your device without the risk of data loss or jailbreaking.
+- Wondershare Dr.Fone allows you to [<u>remove MDM profiles</u>](https://drfone.wondershare.com/unlock/remove-mdm.html) from your device without the risk of data loss or jailbreaking.
 
 #### Steps To Unlock Apple ID From Your Apple iPhone XS/iPad via Wondershare Dr.Fone
 
@@ -311,6 +332,9 @@ In this comprehensive guide, we've explored the significance of Apple ID verific
 
 We've also delved into the importance of having a reliable tool like Wondershare Dr.Fone - iOS Screen Unlock at your disposal. This powerful mobile management solution aids in unlocking your Apple ID without a passcode. It also offers a wide array of features to address various iOS-related issues. Whether dealing with a forgotten password, managing a shared device, or inheriting one, Dr.Fone simplifies the process.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Reset the Security Questions of Your Apple ID On Your Apple iPhone XS
 
 Your Apple ID serves as the gateway to a multitude of Apple services, encompassing the likes of the App Store, iCloud, iTunes, and beyond. To fortify the safeguarding of your Apple ID, Apple kindly requests that you establish security questions.
@@ -454,3 +478,63 @@ We discussed the various reasons why you might want to reset your Apple ID secur
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-evenings-reassessment-alternate-vision/"><u>[Updated] Evening's Reassessment  Alternate Vision</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-iphone-xr-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your iPhone XR without Security Questions?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/op-10-guides-for-crafting-stellar-music-reactions-on-youtube/"><u>[New] Top 10 Guides for Crafting Stellar Music Reactions on YouTube</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-iphone-xr-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From iPhone XR in the Best Ways</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/navigating-through-the-top-10-historical-content-hubs-for-2024/"><u>Navigating Through the Top 10 Historical Content Hubs for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-iphone-xr-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From iPhone XR?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-iphone-xr-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From iPhone XR? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-xr-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone XR?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-realme-gt-3-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Realme GT 3</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-iphone-xr-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove iPhone XR Device from iCloud</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/superior-sounds-top-gpodc-recommendations/"><u>Superior Sounds  Top GPodC Recommendations</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-iphone-xr-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From iPhone XR</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-infinix-smart-7-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Infinix Smart 7 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-iphone-xr-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your iPhone XR without Security Questions?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-iphone-xr-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On iPhone XR? 5 Tips You Must Know</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-iphone-xr-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From iPhone XR without Password?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-video-editing-software-showdown-virtualdub-vs-the-best-free-alternatives/"><u>New 2024 Approved Video Editing Software Showdown Virtualdub Vs. The Best Free Alternatives</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-iphone-xr-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On iPhone XR</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-essential-tiktok-analytics-for-account-growth/"><u>[Updated] In 2024, Essential TikTok Analytics for Account Growth</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-note-30-vip-racing-edition-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Infinix Note 30 VIP Racing Edition Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-iphone-xr-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your iPhone XR From Your Apple ID</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-xr-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone XR</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-iphone-xr-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from iPhone XR</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-iphone-xr-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From iPhone XR How to Bypass?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-iphone-xr-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From iPhone XR</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-science-of-hashtags-how-they-drive-instagram-success/"><u>[Updated] The Science of Hashtags  How They Drive Instagram Success</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-iphone-xr-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On iPhone XR? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-xr-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone XR Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-iphone-xr-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From iPhone XR</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-xr-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone XR Making It Possible</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-iphone-xr-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From iPhone XR? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-xr-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone XR</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-xr-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From iPhone XR?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-from-video-to-live-photo-expert-recommended-apps-and-guides/"><u>New In 2024, From Video to Live Photo Expert-Recommended Apps and Guides</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-xr-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-xr-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone XR</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-xr-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone XR</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-iphone-xr-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On iPhone XR</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-xr-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On iPhone XR</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-iphone-xr-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your iPhone XR? How to Fix</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-iphone-xr-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your iPhone XR?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-hidden-potential-how-to-use-video-filters-on-zoom-for-2024/"><u>Unlocking Hidden Potential  How To Use Video Filters on Zoom for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974219233-solved-apex-legends-crash-quickly-and-easily/"><u>[Solved] Apex Legends Crash | Quickly & Easily!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-from-the-best-youtubes-top-green-screen-techniques-for-2024/"><u>Learn From The Best  Youtube’s Top Green Screen Techniques for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-iphone-xr-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On iPhone XR without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-xr-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your iPhone XR</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-iphone-xr-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From iPhone XR without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-xr-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone XR? How to Fix it?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-x100-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Vivo X100 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-iphone-xr-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From iPhone XR? Find the Best Solution Here</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-iphone-xr-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your iPhone XR?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-xr-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your iPhone XR</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-mastering-the-art-of-editing-with-final-cut-pro/"><u>[New] 2024 Approved  Mastering the Art of Editing with Final Cut Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleash-creative-potential-effortless-backdrop-elimination-on-canvas/"><u>[New] Unleash Creative Potential  Effortless Backdrop Elimination on Canvas</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-xr-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your iPhone XR</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-iphone-xr-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing iPhone XR Activation Lock without Previous Owner?</u></a></li>
+</ul></div>

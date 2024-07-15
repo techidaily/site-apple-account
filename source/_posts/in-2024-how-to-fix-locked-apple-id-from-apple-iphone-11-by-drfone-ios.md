@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix Locked Apple ID from Apple iPhone 11
-date: 2024-05-19T04:38:15.638Z
-updated: 2024-05-20T04:38:15.638Z
+date: 2024-07-14T13:02:28.123Z
+updated: 2024-07-15T13:02:28.123Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Fix Locked Apple ID from Apple iPhone 11
 excerpt: This article describes How to Fix Locked Apple ID from Apple iPhone 11
 keywords: how to get someones apple id off iphone without password,how to remove apple id from iphone without password,how to remove an apple id from an iphone,how to fix apple account disabled,apple watch locked to owner,how do i find my apple id,remove device from icloud,how to delete icloud account without password,there was an error connecting to the apple id server,reset security question of apple id,how to remove airtag from apple id,turning off two factor authentication apple,apple id verification code not working,i forgot my apple id password and email,how to fix apple account locked,how to remove a device from apple id,how to unlock ipad without apple id
-thumbnail: https://www.lifewire.com/thmb/LSRhv9V0PxzBAHOqiakqf0M89LI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1302402871-ea3debd2e3c64ec5a78a99e580b6a8d1.jpg
+thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a96b142f6b85654b12ef9f8e.jpg
 ---
 
 ## How to Fix Locked Apple ID on Apple iPhone 11
@@ -62,7 +62,7 @@ Step 2: Key in your Apple ID and proceed.
 
 Step 3: Confirm your mobile number associated with the Apple ID.
 
-![apple id iforgot support ](https://images.wondershare.com/drfone/article/2021/10/unlock-apple-id-on-iphone-13-6.jpg)
+![apple id iforgot support](https://images.wondershare.com/drfone/article/2021/10/unlock-apple-id-on-iphone-13-6.jpg)
 
 If you have another device associated with the Apple ID and it is a trusted device, you can now receive instructions to proceed with a two-factor code on that device.
 
@@ -88,6 +88,9 @@ Step 3: Click Unlock Apple ID to start the process.
 
 Step 4: Connect your device to the computer and wait for Dr.Fone - Screen Unlock (iOS) to detect it. You must know the passcode of your device.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![trust this computer](https://images.wondershare.com/drfone/drfone/trust-computer.jpg)
 
 You will be asked on your Apple iPhone 11 to Trust the computer, and then you will need to enter the passcode.
@@ -190,10 +193,16 @@ Let’s know how to unlock Apple ID without a trusted phone number using iforgot
 
 **Step 2:** Enter the registered phone number and tap on continue.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock apple id without phone number](https://images.wondershare.com/drfone/article/2021/04/unlock-apple-id-without-phone-number-4.jpg)
 
 **Step 3:** A notification will be sent to your device now. Please note that we are talking about the Apple iPhone 11 device that is linked with the same Apple ID. It should be Mac or iPhone or iPad. You need to tap on the “Allow” button on your device.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock apple id without phone number](https://images.wondershare.com/drfone/article/2021/04/unlock-apple-id-without-phone-number-5.jpg)
 
 **Step4:** Follow the instructions and you will then unlock your Apple ID.
@@ -218,6 +227,9 @@ You need to follow few steps to change your Apple ID password.
 
 **Step 4:** Opt for “Change Password” shown on the phone screen.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock apple id without phone number](https://images.wondershare.com/drfone/article/2021/04/unlock-apple-id-without-phone-number-8.jpg)
 
 **Step 5:** Enter your phone’s passcode.
@@ -271,6 +283,9 @@ As the process elapses successfully, you are provided with a prompt window on th
 
 ![your-apple-id-is-unlocked](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. Unlock Apple ID with 2-factor authentication
 
 There are multiple techniques that involve the method of unlocking an Apple ID without the aid of email addresses and security questions. As you all believe in the importance of third-party platforms, it is important to come across other mechanisms that can come quite handy in managing such issues. Two-factor authentication is another approach that can provide you robust and efficient solutions to this issue.
@@ -324,3 +339,77 @@ The article considered discussing various reasons and remedies to unlocking an A
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-channel-building-through-characters-and-plot-twists/"><u>In 2024, Channel-Building Through Characters and Plot Twists</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-13-pro-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On iPhone 13 Pro?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-13-pro-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 13 Pro?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-destinations-amplifying-youtube-videos/"><u>In 2024, Premier Destinations Amplifying YouTube Videos</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-iphone-13-pro-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On iPhone 13 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-13-pro-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing iPhone 13 Pro Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-iphone-13-pro-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your iPhone 13 Pro From Your Apple ID</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/news-to-closure-a-producers-primer/"><u>News to Closure  A Producer’s Primer</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-iphone-13-pro-by-drfone-ios/"><u>How To Create an Apple Developer Account From iPhone 13 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-13-pro-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone 13 Pro?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-13-pro-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone 13 Pro Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-iphone-13-pro-device-from-icloud-by-drfone-ios/"><u>How to Remove iPhone 13 Pro Device from iCloud</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-13-pro-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone 13 Pro without Security Questions?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-newcomers-guide-to-youtube-channel-setup-and-money-making-tips/"><u>2024 Approved  The Newcomer’s Guide to YouTube  Channel Setup & Money-Making Tips</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-13-pro-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 13 Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-master-the-art-of-streamlined-screen-recordings-on-mac-for-2024/"><u>[New] Master the Art of Streamlined Screen Recordings on Mac for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-iphone-13-pro-without-password-by-drfone-ios/"><u>How to Remove Apple ID from iPhone 13 Pro without Password?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-infinix-note-30-vip-racing-edition-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Infinix Note 30 VIP Racing Edition Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-keep-your-content-clout-authentic-resist-the-like-lie-in-for-2024/"><u>[Updated] Keep Your Content Clout Authentic  Resist the Like Lie-In for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-13-pro-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On iPhone 13 Pro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-hilarious-side-of-iphones/"><u>[Updated] The Hilarious Side of iPhones</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-13-pro-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 13 Pro without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-iphone-13-pro-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On iPhone 13 Pro</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-video-frustrations-find-solutions-now-for-2024/"><u>Instagram Video Frustrations? Find Solutions Now for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-iphone-13-pro-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From iPhone 13 Pro? Find the Best Solution Here</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-13-pro-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 13 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-13-pro-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your iPhone 13 Pro</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-avi-video-editing-software-for-windows-8-fast-and-reliable-for-2024/"><u>New AVI Video Editing Software for Windows 8 Fast and Reliable for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-13-pro-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 13 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-13-pro-by-drfone-ios/"><u>How To Unlink Apple ID From iPhone 13 Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flight-expertise-unleashed-an-examination-of-dji-phantom-3/"><u>[Updated] Flight Expertise Unleashed  An Examination of DJI Phantom 3</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-versatile-video-tools-exporting-tiktok-content-as-mp4/"><u>[Updated] Versatile Video Tools  Exporting TikTok Content as MP4</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-iphone-13-pro-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From iPhone 13 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-iphone-13-pro-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On iPhone 13 Pro? Heres the Best Fixes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-tecno-spark-20-proplus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Tecno Spark 20 Pro+ to iPhone | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-13-pro-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From iPhone 13 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-13-pro-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 13 Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strategies-for-effective-digital-video-photo-alteration/"><u>[New] Strategies for Effective Digital Video Photo Alteration</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-12-pro-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 12 Pro With 7 Methods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-windows-11-your-ultimate-cheat-sheet/"><u>2024 Approved  Unlocking Windows 11  Your Ultimate Cheat Sheet</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-a-step-by-step-guide-to-crafting-professional-level-android-media-with-audio-integration/"><u>New A Step-by-Step Guide to Crafting Professional-Level Android Media With Audio Integration</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6 Plus without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-iphone-13-pro-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From iPhone 13 Pro? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-13-pro-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 13 Pro? 5 Tips You Must Know</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-superior-5-web-video-capture-kits/"><u>[Updated] Superior 5 Web Video Capture Kits</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-guide-maximizing-apple-podcast-listing-chances/"><u>2024 Approved  Guide  Maximizing Apple Podcast Listing Chances</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-iphone-13-pro-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On iPhone 13 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-13-pro-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone 13 Pro?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-iphone-13-pro-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From iPhone 13 Pro Making It Possible</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-easy-igtv-video-grabs-for-ios-and-android-devices-for-2024/"><u>[Updated] Easy IGTV Video Grabs for iOS and Android Devices for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-iphone-13-pro-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off iPhone 13 Pro without Password</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-iphone-13-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From iPhone 13 Pro? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-iphone-13-pro-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your iPhone 13 Pro? How to Fix</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-iphone-13-pro-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From iPhone 13 Pro How to Bypass?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-making-sense-of-virtual-realitys-promise-and-peril/"><u>In 2024, Making Sense of Virtual Reality's Promise and Peril</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-add-filters-on-imovie/"><u>2024 Approved How to Add Filters on iMovie</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-13-pro-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone 13 Pro without Password?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/expert-approach-to-extracting-and-erasing-drum-tracks-from-songs-digitally-hosted-online-for-2024/"><u>Expert Approach to Extracting and Erasing Drum Tracks From Songs Digitally Hosted Online for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-iphone-13-pro-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From iPhone 13 Pro</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/keep-it-real-keep-it-right-tips-for-authentic-daily-videos-for-2024/"><u>Keep It Real, Keep It Right  Tips for Authentic Daily Videos for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-iphone-13-pro-by-drfone-ios/"><u>Guide on How To Remove Apple ID From iPhone 13 Pro</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-mp3-creation-from-vimeo-streaming-media/"><u>In 2024, MP3 Creation From Vimeo Streaming Media</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-yis-actioncam-the-innovation-leader-in-high-res-footage/"><u>[New] 2024 Approved  Yi's ActionCam  The Innovation Leader in High-Res Footage</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/transform-your-tiktok-voice-with-ease/"><u>Transform Your TikTok Voice with Ease</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-iphone-13-pro-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-asus-rog-phone-7-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Asus ROG Phone 7 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-8-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 8 You Should Try Out</u></a></li>
+</ul></div>

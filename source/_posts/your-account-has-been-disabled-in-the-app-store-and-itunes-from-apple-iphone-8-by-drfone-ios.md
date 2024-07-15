@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 8?
-date: 2024-05-19T04:37:56.494Z
-updated: 2024-05-20T04:37:56.494Z
+date: 2024-07-14T12:36:34.271Z
+updated: 2024-07-15T12:36:34.271Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 8?
 excerpt: This article describes Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 8?
 keywords: how to remove apple id from an ipad,update credit card information on apple id and apple pay,reset security question of apple id,how to fix apple account locked,how to delete icloud account without password,your account has been disabled in the app store and itunes,how to unlink iPhone,apple id greyed out,turning off two factor authentication apple,how to unlock apple id without security questions,iphone locked to owner,change apple id on macbook,how to remove phone number from apple id
-thumbnail: https://www.lifewire.com/thmb/n7XTjADWmcwt2P_LF7WoPjqi8O4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-538600261-56c643115f9b5879cc3d6bde.jpg
+thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d56bb43f9e5c26e9a6768a6cd.jpg
 ---
 
 ## Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 8?
@@ -65,6 +65,9 @@ If you just forget the password and cannot remember it, you can follow the steps
 
 - **Step 4:** Look for the notification on iPhone, Mac, or iPad and follow the instructions to reset the password.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![reset password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id-3.jpg)
 
 Note that if you are changing your Apple ID password on an iPhone or iPad, you will need to enter your device's six-digit passcode, then reset a new password.
@@ -73,7 +76,7 @@ Forgetting the password is particularly troublesome, but there is good news. Tha
 
 
 
-### [Dr.Fone - Password Manager (iOS)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Password Manager (iOS)
 
 Recover and keep all your passwords in one place
 
@@ -110,6 +113,9 @@ Signing out of your account and then signing back in may help if this issue is c
 - On your iOS device, go to Settings > \[Your Name\] > iTunes & App Store and Sign Out. Then sign in again.
 - On your Mac, open the App Store (Store > Sign Out) and iTunes (Account > Sign Out. Then sign in again.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 5. Try Contacting Apple Support Directly
 
 If you see a message that says, “Your account has been disabled in the App Store and iTunes,” contact Apple Support for help. You can follow these simple steps to contact Apple support:
@@ -145,7 +151,7 @@ One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fon
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iCloud Account without Password in Minutes
 
@@ -167,6 +173,9 @@ To begin, download the Dr.Fone Toolkit from the program’s main website. Instal
 
 On the next screen, you should see three options. Choose “Remove Apple ID” since we want to remove the Apple ID from the Apple iPhone 8 device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
 - **Step 3: Connect the iOS Device**
@@ -277,7 +286,7 @@ Furthermore, this capability of Wondershare Dr.Fone remains effective even if th
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -288,12 +297,18 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 **4,395,217** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Features of Wondershare Dr.Fone
 
 1. Wondershare Dr.Fone allows users to unlock their iDevices screen, which enables them to regain access to their devices.
 2. You can also use this robust iPhone unlock tool to remove the SIM carrier lock to use your device internationally.
 3. This iDevice screen unlock software provides multiple tools like data eraser, data recovery, phone transfer, WhatsApp transfer, system repair, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Instructions Involved To Solve Apple ID Disabled Issues via Wondershare Dr.Fone
 
 Wondershare Dr.Fone is specially designed for users with various technical experiences. It presents an easy-to-follow guide with its user-friendly interface to assist its users in every way possible. Here is how to Solve Apple ID disabled issues via Wondershare Dr.Fone - Screen Unlock (iOS):
@@ -457,3 +472,44 @@ This robust iOS toolkit feature performs this recovery in seconds, saving you ti
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-15-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone 15? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-15-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 15</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-perfecting-pics-a-full-guide-to-facetune-mastery/"><u>[Updated] Perfecting Pics - A Full Guide to Facetune Mastery</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-15-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 15</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-iphone-15-device-from-icloud-by-drfone-ios/"><u>How to Remove Apple iPhone 15 Device from iCloud</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-15-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone 15 without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-apple-iphone-15-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your Apple iPhone 15 Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-apple-iphone-15-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On Apple iPhone 15? 5 Tips You Must Know</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/spectacular-14-text-animation-art-pieces/"><u>Spectacular 14 Text Animation Art Pieces</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-reel-in-the-future-top-5-ps-vr-games-on-the-brink-of-launch/"><u>[New] 2024 Approved  Reel in the Future  Top 5 PS VR Games on The Brink of Launch</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-15-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 15?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-15-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From Apple iPhone 15</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-ranking-the-top-10-online-gaming-intro-designers/"><u>Updated Ranking the Top 10 Online Gaming Intro Designers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-proven-steps-to-create-high-impact-facebook-video-ads/"><u>2024 Approved  Proven Steps to Create High-Impact Facebook Video Ads</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-15-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 15</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-oneplus-nord-ce-3-lite-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For OnePlus Nord CE 3 Lite 5G Phones</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-15-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 15</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-apple-iphone-15-by-drfone-ios/"><u>How To Create an Apple Developer Account From Apple iPhone 15</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-15-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone 15 How to Bypass?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-minitool-movie-maker-vs-other-video-editors-which-one-is-right-for-you-in-2024/"><u>Updated Minitool Movie Maker Vs. Other Video Editors Which One Is Right for You, In 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-a34-5g-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy A34 5G?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-apple-iphone-15-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From Apple iPhone 15</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-15-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 15? Find the Best Solution Here</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-15-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone 15? How to Fix</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-ultimate-desktopmobile-discord-screen-recorders-guide/"><u>[Updated] In 2024, Ultimate Desktop/Mobile Discord Screen Recorders Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-zte-axon-40-lite-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from ZTE Axon 40 Lite to New Android? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-15-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone 15? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-mac-enhanced-a-dive-into-screenflows-capabilities/"><u>[New] Mac Enhanced  A Dive Into ScreenFlow's Capabilities</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-taking-screenshot-on-windows-1187/"><u>[Updated] Taking Screenshot on Windows 11/8/7</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-15-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 15</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tips-to-tame-vr-induced-motion-sickness/"><u>2024 Approved  Tips to Tame VR-Induced Motion Sickness</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-pinnacle-av-artisans-an-exclusive-list-for-you/"><u>[New] In 2024, Pinnacle AV Artisans  An Exclusive List for You</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-15-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 15</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unravel-the-revenue-riddle-googles-guided-triple-steps-to-youtube-income-analysis/"><u>[New] Unravel the Revenue Riddle  Google's Guided Triple Steps to YouTube Income Analysis</u></a></li>
+</ul></div>

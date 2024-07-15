@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone 6s When We Dont Have Apple ID or Password?
-date: 2024-05-19T04:37:27.158Z
-updated: 2024-05-20T04:37:27.158Z
+date: 2024-07-14T11:57:57.353Z
+updated: 2024-07-15T11:57:57.353Z
 tags: 
   - unlock
   - remove apple account
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock Apple iPhone 6s When We Dont Have Apple ID or Password?
 excerpt: This article describes How to Unlock Apple iPhone 6s When We Dont Have Apple ID or Password?
 keywords: how to unlink iPhone,update credit card information on apple id and apple pay,apple id verification code not working,remove apple two factor authentication,how to remove an apple id from an iphone,how to remove phone number from apple id,how to remove airtag from apple id,apple id unlock,how to unlink apple id from iphone,how to fix apple account locked,how to remove a device from apple id,how to sign out of apple id without password,change apple id on macbook,how to get someones apple id off iphone without password,how to remove apple id from your mac,how to fix apple account disabled,how to unlock ipad without apple id,apple watch locked to owner,how to erase iphone without apple id,how to disconnect iphone from icloud,how to fix apple id disabled,apple id password rules,apple id locked or disabled,how to delete icloud account without password,remove device from icloud,how to erase a iphone without apple id,i forgot my apple id password and email,unlock apple id without phone number,how to remove apple id from iphone without password,how to fix locked apple id from iphone,apple id greyed out,tips to unlock apple id
-thumbnail: https://www.lifewire.com/thmb/KQEPD1j8h_qKr2PB3tJ6qZQQ508=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104626001-5c34f065c9e77c00010b8cd5.jpg
+thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39326ff49e8d4fafd11fa0e00.jpg
 ---
 
 ## How to Unlock Apple iPhone 6s When We Don't Have Apple ID or Password?
@@ -92,10 +92,16 @@ As a one-stop iOS unlocker, Dr.Fone can unlock an iPhone/iPad without too much p
 
 **Step 3.** Start your process to unlock activation lock of iCloud.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-2.png)
 
 **Step 4.** Now it's removing the lock and wait. Then, the Apple iPhone 6s device will become a normal one with no activation lock.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![removing the lock and wait](https://images.wondershare.com/drfone/guide/bypass-activation-lock-8.png)
 
 **Step 5.** That will remove the activation lock immediately. At present, your Apple iPhone 6s has no activation lock.
@@ -225,6 +231,9 @@ Contact Apple's Customer Support if you have failed to reset your Apple ID secur
 
 - **Step 1:** Begin by visiting the Apple Support website located at [<u>https://getsupport.apple.com/</u>](https://getsupport.apple.com/). Once there, use the search bar to type your issue. In this section, look for and click on " Change my Apple ID security questions."
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tell your issue](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-security-questions-10.jpg)
 
 - **Step 2:** After selecting your issue, you will be presented with various support articles and options. Scroll down and choose the desired option from the "Contact" section. Follow the on-screen instructions to contact Apple support and provide details about your issue.
@@ -340,6 +349,9 @@ Before anything, be warned that this method removes all data from an iPhone. Cre
 
 - **Step 4:** Click **Yes** on the screen lock verification page.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screen lock confirmation page](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
 
 - **Step 5:** Click **Yes** on the Two-Factor Authentication verification page.
@@ -372,6 +384,18 @@ Before anything, be warned that this method removes all data from an iPhone. Cre
 
 - **Step 12:** Click **Done** once you see this page. Click **Try Again** if the method does not work.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apple ID unlocked page](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
 ## Conclusion
@@ -397,3 +421,43 @@ Should you ever find yourself locked out of your device, Wondershare Dr.Fone - S
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-8-plus-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off Apple iPhone 8 Plus without Password</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-apple-iphone-8-plus-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-elevating-visual-engagement-transferring-twitter-videos-on-snapchat/"><u>[Updated] 2024 Approved  Elevating Visual Engagement  Transferring Twitter Videos on Snapchat</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-top-15-video-grabbers-windows-10-edition/"><u>2024 Approved  Top 15 Video Grabbers  Windows 10 Edition</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-8-plus-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone 8 Plus?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-8-plus-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone 8 Plus without Password?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-oppo-a58-4g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Oppo A58 4G</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-8-plus-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 8 Plus without Password?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-perfect-photo-collage-in-your-iphone-app/"><u>2024 Approved  Crafting Perfect Photo Collage in Your iPhone App</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-8-plus-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone 8 Plus? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-apple-iphone-8-plus-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your Apple iPhone 8 Plus? How to Fix</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-apple-iphone-8-plus-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect Apple iPhone 8 Plus and iPad</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-8-plus-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-8-plus-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-breaking-down-instagrams-hashtag-system-tips-and-techniques-for-2024/"><u>[Updated] Breaking Down Instagram's Hashtag System  Tips and Techniques for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-8-plus-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-8-plus-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-8-plus-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-boost-traffic-critical-youtube-seo-instruments-for-video-success/"><u>[Updated] Boost Traffic  Critical YouTube SEO Instruments for Video Success</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-8-plus-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-apple-iphone-8-plus-by-drfone-ios/"><u>How to Fix when Apple Account Locked On Apple iPhone 8 Plus?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-8-plus-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone 8 Plus Apple ID on MacBook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-8-plus-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By Apple iPhone 8 Plus without the Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-apple-iphone-8-plus-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokia-c32withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokia C32with/without a PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-apple-iphone-8-plus-by-drfone-ios/"><u>How to Fix Locked Apple ID on Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-the-top-15-no-cost-audio-archives-for-content-makers/"><u>[Updated] Unveiling the Top 15 No-Cost Audio Archives for Content Makers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-8-plus-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone 8 Plus Making It Possible</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-apple-iphone-8-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On Apple iPhone 8 Plus? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-8-plus-without-apple-id-password-by-drfone-ios/"><u>How To Erase an Apple iPhone 8 Plus Without Apple ID Password?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-want-to-make-a-funny-vlog-on-tiktok-trying-to-find-the-right-topic-for-it-this-article-presents-some-impressive-options-for-making-a-funny-vlog-for-/"><u>In 2024, Want to Make a Funny Vlog on TikTok? Trying to Find the Right Topic for It? This Article Presents some Impressive Options for Making a Funny Vlog for TikTok</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-8-plus-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-8-plus-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-precision-sound-transmitter-for-casters/"><u>[New] Precision Sound Transmitter for Casters</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-8-plus-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone 8 Plus without Apple ID?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-apple-iphone-8-plus-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On Apple iPhone 8 Plus in the Best Ways</u></a></li>
+</ul></div>
