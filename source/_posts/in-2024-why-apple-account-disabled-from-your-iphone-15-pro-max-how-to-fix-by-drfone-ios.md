@@ -1,7 +1,7 @@
 ---
 title: In 2024, Why Apple Account Disabled From your iPhone 15 Pro Max? How to Fix
-date: 2024-08-09T09:12:28.667Z
-updated: 2024-08-10T09:12:28.667Z
+date: 2024-09-06T17:02:25.276Z
+updated: 2024-09-07T17:02:25.276Z
 tags: 
   - unlock
   - remove apple account
@@ -19,7 +19,10 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 Apple is one of the leading smartphone developing enterprises that has introduced the world to a contemporary set of features that are not common among other leading smartphone companies. One of the major distinguishing characteristics of Apple has been displayed in its present security protocols. Apple Account is regarded as one of the most significant credentials of the Apple iPhone 15 Pro Max and iPad that is responsible for connecting and holding the applications and the assorted data. Many users have generally reported unusual situations that got their Apple Account disabled. There are several reasons that can be associated with the Apple account getting disabled. The major repercussion that is associated with it is unnecessary data loss following the suspension of all products that have been bought with the account over time. This article provides you an impressive overview of the major reasons that lead to your Apple Account getting disabled, followed by the associated mechanisms that can be tested to secure the account.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 1. Why is the Apple account disabled?
 
@@ -41,10 +44,22 @@ There are several instances where you encounter such prompt messages where you a
 
 Even though Apple accounts can be generally disabled overpayment issues, there are several security reasons that might restrict you in discovering and buying different products across the App Store and iTunes. It is necessary for you, as an Apple user, to remain prompt of all the issues that are relating to your Apple Account.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. 2 tips to Unlock Disabled Apple Account
 
 As this article provides you a detailed overview of the reasons that lead to your Apple Account getting disabled, this article also considers providing you a few tips and tricks that would guide you in efficiently unlocking your Apple Account and use it with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Unlock disabled Apple account with Dr. Fone
 
 The first remedy that can be effectively tested across such situations that involve disabled Apple accounts is relating a third-party platform. Dedicated third-party tools are quite common in the market and provide users with adequate services that allow them to unlock their devices with ease. Out of this uncountable list of platforms, this article introduces you to a specific platform that offers you unique features with a user-interface that can be easily apprehended. [Dr. Fone – Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) offers you the perfect environment that would lead you in reversing the disabling of your Apple Account easily. There are several reasons that make this platform the first choice of users all around the globe, which are declared as follows:
@@ -68,18 +83,36 @@ With the home window on your front, you are required to tap on the 'Screen Unloc
 
 ![select-the-option-of-screen-unlock](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3: Trust the Computer and Access Device Settings**
 
 Over the Apple Device, you need to select the option of “Trust” over the prompt that is received on the phone. Following this, you need to open the “Settings” of your device and initiate a reboot of your Apple device.
 
 ![follow-the-on-screen-instructions](https://images.wondershare.com/drfone/article/2020/11/how-to-fix-apple-account-disabled-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 4: Device Unlocks**
 
 The unlocking process immediately starts, and the platform executes the complete process automatically. A prompt message appears on the desktop showing the completion of the task. The device is now unlocked successfully.
 
 ![your-apple-id-is-unlocked-successfully](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Unlock disabled Apple account using Apple's verification
 
 The other method that can be effectively tested is Apple's verification that would allow us to easily topple off all barriers that are involved in the process. To effectively unlock your disabled Apple Account using Apple's verification process, you need to follow the steps described in detail.
@@ -102,6 +135,12 @@ The platform will send a verification code that would allow you to unlock your d
 
 ![insert-your-verification-code](https://images.wondershare.com/drfone/article/2020/11/how-to-fix-apple-account-disabled-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article has provided you a detailed guide over the existing reasons that would have your Apple account disabled, followed by different tips that can be followed to cover your assorted problems efficiently.
@@ -119,7 +158,10 @@ Still, it is possible to remove the Apple ID from the Apple iPhone 15 Pro Max wi
 ![remove apple id from iphone 1](https://images.wondershare.com/drfone/article/2020/11/remove-apple-id-from-iphone-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 1. Remove Apple ID from iPhone without Password using Dr.Fone
 
@@ -141,6 +183,12 @@ Install the software. Launch it and connect your Apple iPhone 15 Pro Max to the 
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The interface will present another set of options before you. You need to access the one at the end, which says, “Unlock Apple ID.” Choose the option and begin to remove Apple ID from the iPhone.
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
@@ -165,6 +213,12 @@ Once the process is finished, make sure the Apple ID is no longer there. Proceed
 
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. Remove Apple ID from iPhone without Password with iCloud.com
 
 It is better to possess more than one solution to a single issue, which could come in handy when the first one doesn’t work for you. To remove the Apple ID without the password would require you to use iCloud.
@@ -203,6 +257,12 @@ So here, we have listed the method for every Apple iPhone 15 Pro Max to provide 
 
 **Step 6.** Please wait for your device to restore, and that’s it!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Now you know how to remove the Apple ID from your old or new iPhone without having to enter the password. Each method is reliable and works well if you follow the steps mentioned above, one by one. If you wish to pick a winner, then there is no better option than Dr.Fone. The platform keeps the phone and its content safe during the process. Additionally, there are a ton of other features that you can utilize at the same time.
@@ -227,6 +287,12 @@ Before delving into methods for signing out of your Apple ID without a password,
 
 ![choose the sign out option](https://images.wondershare.com/drfone/article/2023/11/sign-out-apple-id-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Sign out of Apple ID without Password by Apple ID Unlocker
 
 If you have forgotten the password of your Apple ID and don't have a way to recover it, there is no need to panic. You can easily remove passwords from your iOS device using Wondershare [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). Its "[Remove Apple ID](https://drfone.wondershare.com/solutions/forgot-apple-id.html)" feature can effectively assist you in signing out of your Apple ID without requiring a password. This method provides a smooth solution for users facing issues related to forgotten passwords.
@@ -242,6 +308,12 @@ One click to Sign Out of Apple ID without Password.
 - No tech knowledge is required, everybody can handle it.
 - Supports almost all iPhones and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **4,395,216** people have downloaded it
 
 Dr.Fone's iPhone unlocking tool can permanently bypass the Apple ID lock. It works even if the Find My/Find My iPhone feature is active on the Apple iPhone 15 Pro Max device. This tool helps restore access to all your iCloud services and Apple ID features by signing in with a new account. Following are the steps to remove the Apple ID from your iOS Device:
@@ -258,33 +330,36 @@ When your iDevice is connected to your computer, you'll notice a connectivity st
 
 ![press the unlock now button](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3: Enable Recovery Mode on Your iOS Device**
 
 Once you've confirmed these options, you'll be directed to a screen that presents on-screen guidelines for placing your iDevice in Recovery Mode. Adhere to the instructions that correspond to your specific iOS model. After initiating Recovery Mode on the Apple iPhone 15 Pro Max device, the subsequent screen will present its details.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable the iphone recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 4: Complete the Apple ID Removal Process**
 
 Upon the identification of the Apple iPhone 15 Pro Max device Model, you will simply be prompted to choose the “System Version” and initiate the process by clicking on “Start.” Now, wait for the firmware to download, and once it is downloaded, click "Unlock Now." A confirmation window promptly emerges on the screen, prompting you to input a code for further progress. Enter the code and select “Unlock” to begin the process.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hit the start button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Sign Out of Apple ID Without Password by Resetting Your Apple ID Password
 
@@ -296,6 +371,12 @@ If you find yourself unable to recall your Apple ID password, you can reset it t
 
 **Step 2:** Simply follow the on-screen instructions to complete the password reset process. You can also perform these steps on a trusted iPad or Apple Watch.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Sign Out of Apple ID without Password on Apple Web
 
 Another convenient way how to sign out of Apple ID without the password is to reset the password of your Apple ID by tapping the “**Forgot Password**” option. In this case, however, you must remember all the security questions to reset your password successfully. If you don’t remember the security questions, you can also reset the recovery password using the registered e-mail ID.
@@ -304,9 +385,6 @@ Follow these instructions to reset your password and then sign out of the Apple 
 
 **Step 1:** Go to the [Apple ID Account Page](https://appleid.apple.com/) and click “**Forgot Apple ID or Password**”.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![forgot apple id or password](https://images.wondershare.com/drfone/article/2020/05/forgot-apple-id-or-password.jpg)
 
 **Step 2:** Enter your Apple ID and click “**Continue**”. In the next window, select “**I Need to Reset My Password**”.
@@ -330,12 +408,30 @@ In case you have enabled two-way verification on your Apple iPhone 15 Pro Max, y
 
 ![enter recovery key](https://images.wondershare.com/drfone/article/2020/05/enter-recovery-key.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 4:** Choose a trusted device to receive the verification code. Now, enter this verification code and click “**Continue**”.
 
 **Step 5:** In the next window, enter a new password and tap “**Reset Password**”.
 
 Once you’ve reset the password, you can easily sign out of the Apple ID by navigating through Settings>Apple ID>Sign Out on your Apple iPhone 15 Pro Max.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: Sign Out of Apple ID without Password by Apple Support App
 
 If you're unable to reset your Apple ID password on your own, you can seek assistance from Apple's official Support app. It provides expert guidance and troubleshooting. Here's how to use the Apple Support app to sign out of your Apple ID without a password:
@@ -344,10 +440,22 @@ If you're unable to reset your Apple ID password on your own, you can seek assis
 
 ![choose a different apple id](https://images.wondershare.com/drfone/article/2023/11/sign-out-apple-id-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2:** Provide your Apple ID, and if your Apple ID slips your mind, you can attempt using your email address or phone number instead. Proceed by tapping “Next,” and adhere to the step-by-step guidelines on the screen to reset your password.
 
 ![add the required details](https://images.wondershare.com/drfone/article/2023/11/sign-out-apple-id-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 That wraps up our tips on **how to sign out of Apple ID without password**. No doubt, Apple products are probably the most secure devices on the planet, but it can become extremely challenging to access the features of your iDevice when you’ve forgotten the password. If that’s the case, make sure to follow the above-mentioned tactics to [sign out of the previous Apple ID](https://drfone.wondershare.com/solutions/forgot-apple-id.html) and create a new one to regain control over your iDevice.
