@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 13 Pro Max?
-date: 2024-07-14T14:03:13.923Z
-updated: 2024-07-15T14:03:13.923Z
+date: 2024-09-13T21:43:48.438Z
+updated: 2024-09-16T16:06:56.358Z
 tags: 
   - unlock
   - remove apple account
@@ -71,8 +71,6 @@ Note that if you are changing your Apple ID password on an iPhone or iPad, you w
 
 Forgetting the password is particularly troublesome, but there is good news. That is, you can use [Password Manager](https://drfone.wondershare.com/iphone-password-manager.html) to find your passwords on your Apple iPhone 13 Pro Max/iPad without spending too much time remembering them!
 
-
-
 ### Dr.Fone - Password Manager (iOS)
 
 Recover and keep all your passwords in one place
@@ -133,9 +131,6 @@ When you see the error message “Your account has been disabled in the App Stor
 
 No. The error message “Your account has been disabled in the App Store and iTunes” differs from “Apple ID disabled”. You will primarily see the “Your account has been disabled in the App Store and iTunes” when you try to access content in the App Store. On the other hand, you may see the message “Apple ID disabled” when you enter the Apple ID and password to [bypass the iCloud Activation Lock screen](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html).
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![apple id disabled](https://images.wondershare.com/drfone/article/2023/05/apple-id-disabled.jpg)
 
 After you see these errors, you will not be able to access some of the features and apps that require your Apple ID for access.
@@ -145,8 +140,6 @@ After you see these errors, you will not be able to access some of the features 
 Sometimes the only way to [fix “Apple ID Disabled”](https://drfone.wondershare.com/apple-account/how-to-unlock-apple-id-disabled-activation-lock.html) is to remove the Apple ID from the Apple iPhone 13 Pro Max device. This may become a viable solution if you lost or forgot the Apple ID password or ID and you have no way to recover them. It is also one of the best solutions when you purchased a second-hand device, and you don’t know the Apple ID password for the account associated with the Apple iPhone 13 Pro Max device.
 
 One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This third-party unlocking software is designed to easily and effectively remove the Apple ID password from any device. The following are some things it can do;
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -170,18 +163,12 @@ To begin, download the Dr.Fone Toolkit from the program’s main website. Instal
 
 On the next screen, you should see three options. Choose “Remove Apple ID” since we want to remove the Apple ID from the Apple iPhone 13 Pro Max device.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
 - **Step 3: Connect the iOS Device**
 
 Connect the iOS device to the computer using its lightning cable. Then enter the Apple iPhone 13 Pro Max device’s passcode and, when prompted, tap “Trust” to allow the computer to detect the Apple iPhone 13 Pro Max device. The program should detect the Apple iPhone 13 Pro Max device and display information about it. Then click “Unlock Now”.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![trust computer](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
 - **Step 4: Apple ID Removal will Begin**
@@ -232,15 +219,19 @@ In the matter of **how to remove a phone number from an Apple ID**, the most eff
 
 ![reach password and security](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-phone-number-from-apple-id-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4**: You will see the Edit icon on the right-hand side. Click on it and then tap on the "Add a Trusted Phone Number" option.
 
 **Step 5:** Add the Apple iPhone 13 Pro Max Passcode > new phone number.
 
 **Step 6:** Select Edit again to delete the old phone number. Press Done.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select edit](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-phone-number-from-apple-id-3.jpg)
 
 ### Method 2. Remove the Phone Number Using a Mac
@@ -287,7 +278,6 @@ It is possible to **remove phone number from Apple ID** by accessing the Apple i
 - Remove all types of lock screens, like Apple ID, Face ID, Touch ID, Screen Time Passcode, etc.
 - Fast process of screen and password bypassing.
 
-
 **How to use it?**
 
 **Step 1:** Download/install/launch the app on Mac/Windows. Select Screen Unlock when the app opens on the interface.
@@ -306,10 +296,22 @@ It is possible to **remove phone number from Apple ID** by accessing the Apple i
 
 ![apple id has successfully removed](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Video Guide: How to Remove Apple ID without Password?**
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/iFMAR09R9x4"></iframe>
-
 
 ## Part 5. FAQs about Apple ID Phone Number
 
@@ -328,8 +330,6 @@ No, the Apple ID and phone number are not connected as features or codes. So, ad
 ### Conclusion
 
 Indeed, there are multiple methods you can take to remove the phone number registered to your Apple ID successfully. They are accessible in multiple ways through Mac, iPad, or iPhone settings. If you forgot the Apple ID, you could even remove it using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). Ultimately, choose the process to trust based on your specific needs.
-
-
 
 ## How To Unlink Apple ID From Apple iPhone 13 Pro Max
 
@@ -376,9 +376,6 @@ Follow these steps below to use your macOS to remove the connected devices from 
 
 - From the **Devices**section, click the connected device you want to unlink. Click **Remove from Account**.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove device from account on mac](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-05.jpg)
 
 ## Part 2: How To Unlink Apple ID From iOS Devices Without a Password?
@@ -392,7 +389,6 @@ In the previous section, we've explored the standard method to remove an Apple I
 The tool guides you through the process, ensuring a seamless experience with a user-friendly interface and intuitive design. Let's delve into the step-by-step guide to discover **how to unlink Apple ID from iPhone** devices using Dr. Fone's - Screen Unlock tool.
 
 - **Step 1:** Download, set up, then launch Dr.Fone on your desktop. Use a USB cable to establish a connection between your Apple iPhone 13 Pro Max and desktop.
-
 
 - **Step 2:** From the **Toolbox** homepage, select **Screen Unlock** and choose **iOS**.
 
@@ -413,6 +409,13 @@ The tool guides you through the process, ensuring a seamless experience with a u
 - **Step 6:** Click **Yes** to confirm you have enabled the [<u>two-factor authentication</u>](https://drfone.wondershare.com/remove-apple-account/remove-apple-two-factor-authentication.html) on your Apple iPhone 13 Pro Max.
 
 ![confirm 2fa set up on iphone](https://images.wondershare.com/drfone/guide/remove-apple-id-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 7:** Follow the steps on the screen to put your Apple iPhone 13 Pro Max into Recovery Mode. If you are having trouble, click **DFU Mode** in the bottom left corner.
 
@@ -438,10 +441,29 @@ The tool guides you through the process, ensuring a seamless experience with a u
 
 ![unlocking apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 13:** Click **Done**, then check your Apple iPhone 13 Pro Max to see if the Apple ID has been removed.
 
 ![apple id unlocked on iphone](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How To Unlink iPhone From Apple ID if the Apple iPhone 13 Pro Max device Was Lost?
 
@@ -527,7 +549,6 @@ There are several ways to unlink your Apple ID from your Apple iPhone 13 Pro Max
 
 If you unfortunately encounter any challenges during the process, you can seek assistance from Apple Support. Consider using Dr.Fone for a quick and easy solution, which can unlink your Apple iPhone 13 Pro Max from your Apple ID within minutes, even without an Apple ID password.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -540,9 +561,20 @@ If you unfortunately encounter any challenges during the process, you can seek a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-comprehensive-iptv-accessibility/"><u>[New] 2024 Approved Comprehensive IPTV Accessibility</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harnessing-voice-recognition-for-dynamic-decks/"><u>[New] Harnessing Voice Recognition for Dynamic Decks</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-fb-video-placement-which-way-wins/"><u>[Updated] In 2024, FB Video Placement - Which Way Wins?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cracking-the-language-code-insights-into-gpts-translation-mechanism/"><u>Cracking the Language Code: Insights Into GPT's Translation Mechanism</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-12-pro-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 12 Pro Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-ways-to-solve-app-cannot-be-started-problem-in-microsoft-operating-system/"><u>Easy Ways to Solve 'App Cannot Be Started' Problem in Microsoft Operating System</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-6s-plus-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 6s Plus without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-7-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 7</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-iphone-xs-max-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your iPhone XS Max From Your Apple ID</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-7-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone 7 Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On Apple iPhone 8 Plus?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mix-memes-with-a-smile/"><u>Mix Memes with a Smile</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-exactly-are-pc-drivers-tips-for-resolving-windows-driver-errors/"><u>What Exactly Are PC Drivers? Tips for Resolving Windows Driver Errors</u></a></li>
+</ul></div>
 
