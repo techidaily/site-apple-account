@@ -1,7 +1,7 @@
 ---
 title: "No More Quiet Tunes: Resolving Firefox's Sound Malfunction Successfully"
-date: 2024-10-09T21:39:21.321Z
-updated: 2024-10-14T16:30:57.504Z
+date: 2024-10-19T16:39:17.018Z
+updated: 2024-10-20T19:18:55.354Z
 tags:
   - win11
   - win10
@@ -58,10 +58,23 @@ Here’s how you can do this:
 2. Click**Sound Control Panel** .![open sound control panel](https://images.drivereasy.com/wp-content/uploads/2021/03/sound-control-panel.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Under the**Playback** tab, click on your Creative Pebble speakers and click**Set Default** .
@@ -69,13 +82,6 @@ Here’s how you can do this:
  Once you’ve done that, verify via the speaker icon in the taskbar that the audio is not muted and is turned up. Then you can test by playing a song. If your Creative Pebble speakers still won’t produce any sound, don’t worry, there are a few other fixes you can try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Update your sound driver
 
@@ -98,10 +104,10 @@ Here’s how to update drivers with Driver Easy:
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -109,13 +115,6 @@ Here’s how to update drivers with Driver Easy:
  After updating your drivers, restart your computer and test the audio to check if this action did the trick. If your speakers are still not working, try the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Run the audio troubleshooter
 
@@ -127,6 +126,13 @@ Here’s how to update drivers with Driver Easy:
 2. Select your device and click**Next** to start the troubleshooting process. Then wait for it to complete and you may be asked to restart your computer.  
 
 ![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/next.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After it’s all done, try to use your speakers to check if they can be functioning well. If you’re still encountering sound failures, proceed to the next fix.
 
@@ -157,18 +163,18 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-tip-mastering-green-screen-techniques/"><u>[New] 2024 Approved Fast Tip Mastering Green Screen Techniques</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/aking-an-impact-integrating-individual-thumbnails-in-videos/"><u>[New] Making an Impact Integrating Individual Thumbnails in Videos</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-bypassing-influencers-establishing-your-brand-identity-on-tiktok-for-2024/"><u>[Updated] Bypassing Influencers Establishing Your Brand Identity on TikTok for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-silent-swords-righteous-battles-the-next-top-gaming-list/"><u>[Updated] Silent Swords, Righteous Battles The Next Top Gaming List</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/dramatic-portraits-with-hdr-a-complete-tutorial/"><u>Dramatic Portraits with HDR A Complete Tutorial</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-apple-iphone-14-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your Apple iPhone 14 Apple ID and Apple Pay</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-7-plus-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone 7 Plus Apple ID on MacBook</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-6s-plus-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone 6s Plus without Apple ID?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-apple-iphone-12-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From Apple iPhone 12 Pro? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-make-facebook-videos-extend-the-wallpaper/"><u>In 2024, Make Facebook Videos Extend the Wallpaper</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-asus-rog-phone-7-ultimate-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Asus ROG Phone 7 Ultimate Device</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-professional-drones-an-in-depth-pilots-list/"><u>2024 Approved Best Professional Drones – An In-Depth Pilot’s List</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722803727868-comprehensive-evaluation-of-amazon-lunas-game-streaming-capabilities-a-pleasant-surprise/"><u>Comprehensive Evaluation of Amazon Luna's Game Streaming Capabilities - A Pleasant Surprise!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-excellent-no-cost-ways-to-transform-mkv-videos-into-mp4-for-digital-use-anywhere-online-or-not/"><u>Discover Excellent No-Cost Ways to Transform MKV Videos Into MP4 for Digital Use Anywhere, Online or Not</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-videos-for-free-top-software-without-watermarks-this-year/"><u>Edit Videos for Free Top Software Without Watermarks This Year</u></a></li>
+<li><a href="https://article-tips.techidaily.com/ethereal-editing-in-extended-frame-rate/"><u>Ethereal Editing in Extended Frame Rate</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-apple-iphone-xs-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On Apple iPhone XS in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-xr-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From Apple iPhone XR?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-15-pro-max-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 15 Pro Max? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-iphone-6-plus-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From iPhone 6 Plus?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-apple-iphone-se-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Leave a Life360 Group On Apple iPhone SE Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-apple-iphone-11-pro-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your Apple iPhone 11 Pro? How to Fix</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-updates-for-nvidias-geforce-mx150-driver-compatible-with-windows-os/"><u>Latest Updates for NVIDIA's GeForce MX150 Driver Compatible with Windows OS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-lens-catalog-for-4k-industry-leaders/"><u>The Ultimate Lens Catalog for 4K Industry Leaders</u></a></li>
 </ul></div>
 

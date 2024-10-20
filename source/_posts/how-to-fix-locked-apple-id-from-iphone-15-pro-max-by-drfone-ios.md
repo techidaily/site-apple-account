@@ -1,7 +1,7 @@
 ---
 title: How to Fix Locked Apple ID from iPhone 15 Pro Max
-date: 2024-10-12T21:10:59.073Z
-updated: 2024-10-14T19:36:11.925Z
+date: 2024-10-18T19:27:59.616Z
+updated: 2024-10-20T19:00:50.396Z
 tags: 
   - unlock
   - remove apple account
@@ -30,11 +30,25 @@ A locked Apple ID usually happens when the user has forgotten their password to 
 
 In short, Apple ID Lock is about a user's account with Apple, akin to how Google Account works on Android devices. Apple ID Lock locks a user's account with Apple while retaining complete usage of the Apple iPhone 15 Pro Max device whereas Activation Lock locks the Apple iPhone 15 Pro Max device and prevents anyone from using it until the correct credentials are entered. This is about verifying the ownership of the Apple iPhone 15 Pro Max device and works to deter theft of Apple devices.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part II: Checking If Your Apple ID Is Locked
 
 ![the message of apple id locked](https://images.wondershare.com/drfone/article/2021/10/unlock-apple-id-on-iphone-13-4.jpg)
 
 A locked Apple ID is rather unmistakable. Your device would keep telling you that your Apple ID is locked for your security. Your Apple ID could be locked or disabled altogether if someone has tried to gain access to your account (and, obviously, failed). Apple would disable access to the Apple ID unless you are able to prove rightful ownership and reset the password successfully.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part III: Reasons for Locked Apple ID
 
@@ -43,13 +57,6 @@ There can be a few reasons why your Apple ID is locked. You forgot the password 
 Apple does a lot to ensure that your Apple ID remains safe. You trust Apple with a lot of your data, including financial data by way of your credit cards associated with Apple ID to make purchases on the App Store and iTunes Store. Therefore, some of the time, Apple preempts issues by proactively locking up your Apple ID or even disabling it. It goes without saying that sometimes it is something so simple as a software error that is believed to have locked up Apple IDs for many users around the world a while ago. It is also entirely possible that it was some malicious actor probing the servers for accounts.
 
 All of these will result in a locked Apple ID that users will have to reset their password to in order to gain access back.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part IV: How to Unlock Apple ID on Apple iPhone 15 Pro Max
 
@@ -74,13 +81,6 @@ Step 3: Confirm your mobile number associated with the Apple ID.
 If you have another device associated with the Apple ID and it is a trusted device, you can now receive instructions to proceed with a two-factor code on that device.
 
 ![using iforgot support page to unlock](https://images.wondershare.com/drfone/article/2021/10/unlock-apple-id-on-iphone-13-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: Use that code to unlock your Apple ID using two-factor authentication.
 
@@ -115,13 +115,6 @@ Step 6: Follow the on-screen instructions to reset all your settings on the Appl
 ![unlock apple id successfully](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
 Dr.Fone - Screen Unlock (iOS) will notify you when the process is complete.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part V: Conclusion
 
@@ -193,6 +186,13 @@ This section focuses on how you can unlock an iPhone or iPad using an expert rec
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Connect your device to the PC through a lightning connector. Then click the "iCloud Activation Lock Removal" on the program.
 
 ![unlock ios](https://images.wondershare.com/drfone/guide/bypass-activation-lock-1.png)
@@ -200,6 +200,13 @@ Connect your device to the PC through a lightning connector. Then click the "iCl
 **Step 2.** Before bypassing the activation lock, please select "Start".
 
 ![select start](https://images.wondershare.com/drfone/guide/bypass-activation-lock-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3.** After the phone in the "start" page, Dr.Fone will bypass the activation lock according to 2 sorts of iPhone devices, GSM and CDMA.
 
@@ -221,13 +228,6 @@ _(CDMA with most functions, but no phone call, cellular data use.)_
 
 ![without the activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 And with this image, you will know the activation lock is bypassed.
 
 ![activation lock is bypassed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
@@ -244,6 +244,13 @@ Sometimes, you might need help with the issue of the **Apple ID verification cod
 
 ![verification failed prompt apple](https://images.wondershare.com/drfone/article/2024/01/apple-id-verification-not-working-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: When Does the Apple Verification ID Failed Prompt Appear?
 
 Before diving into solutions, it’s essential to understand the various scenarios that can trigger the “**Apple Verification ID Failed**” prompt. Recognizing the cause of the problem is the first step toward the right fix. Let’s explore the common reasons you might encounter this issue:
@@ -258,13 +265,6 @@ At times, the problem may not be on your end. Apple’s servers can experience d
 
 ![apple server status page](https://images.wondershare.com/drfone/article/2024/01/apple-id-verification-not-working-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Slow Internet or Intermittent Connection
 
 A stable and reliable internet connection is improtant for the verification process. If your internet is slow or experiencing intermittent connectivity, it can disrupt the communication between your device and Apple’s servers, leading to verification failure.
@@ -272,13 +272,6 @@ A stable and reliable internet connection is improtant for the verification proc
 ### Two-Factor Authentication (2FA) Issues
 
 Apple’s two-factor authentication provides an extra layer of security. However, it can also be a source of problems. If there’s a delay in receiving the 2FA code or if [<u>2FA fails to work</u>](https://drfone.wondershare.com/android-issue/authentication-error.html), you won’t be able to complete the verification process. This could be due to network issues or, sometimes, glitches within the 2FA system itself.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Suspicious Activity
 
@@ -300,6 +293,13 @@ If you’re facing troubles due to password errors or 2FA issues, resetting your
 
 ![change password 2-factor authentication](https://images.wondershare.com/drfone/article/2024/01/apple-id-verification-not-working-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Check iPhone’s Date & Time Settings
 
 Incorrect date and time settings can influence Apple ID verification. Go to **Settings**, select **General**, and tap on **Date & Time**. Ensure **Set Automatically** is enabled, allowing your Apple iPhone 15 Pro Max to adjust these settings according to your time zone.
@@ -313,6 +313,13 @@ Sometimes, simply signing out and back into your Apple ID can resolve verificati
 ### Method 5: Disabling VPN
 
 If you’re using a VPN, it can sometimes cause issues with Apple ID verification. Try disabling your VPN from the **Settings** or the VPN app you’re using, and then attempt the verification process again.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 6: Updating to the Latest iOS
 
@@ -340,6 +347,13 @@ Here’s how to use powerful Dr.Fone’s - Screen Unlock (iOS) to remove Apple I
 
 ![dr.fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3:** Select **Remove Apple ID** to proceed.
 
 ![dr.fone screen unlock features](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
@@ -356,19 +370,6 @@ Here’s how to use powerful Dr.Fone’s - Screen Unlock (iOS) to remove Apple I
 
 ![recovery mode instructions](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 7:** Wait for the download to finish on your software.
 
 ![dr.fone download process](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
@@ -376,13 +377,6 @@ Here’s how to use powerful Dr.Fone’s - Screen Unlock (iOS) to remove Apple I
 - **Step 8:** After the firmware is confirmed, click **Unlock Now**. Then, type in “000000” on the appearing text box and click **Unlock**.
 
 ![remove apple id confirm](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 9:** After the process is completed, click **Done.** If it still doesn’t work, then click **Try again**.
 
@@ -410,17 +404,24 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-digital-leaders-the-top-10-online-video-recorder-apps-for-2024/"><u>[Updated] Digital Leaders The Top 10 Online Video Recorder Apps for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-flipping-fun-facts-into-memes-with-kinemaster/"><u>[Updated] Flipping Fun Facts Into Memes with KineMaster</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-tecno-spark-20c-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Tecno Spark 20C Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-the-art-of-media-imports-within-windows-10s-realm/"><u>2024 Approved Mastering the Art of Media Imports Within Windows 10'S Realm</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-apple-iphone-15-plus-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On Apple iPhone 15 Plus How to Bypass?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/clearing-up-conversation-clutter-in-facebook/"><u>Clearing Up Conversation Clutter in Facebook</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-iphone-x-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On iPhone X? Find the Best Solution Here</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Xiaomi Redmi K70E? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-darter-pro-an-outstanding-choice-for-the-linux-user-experience/"><u>Latest Darter Pro: An Outstanding Choice for the Linux User Experience</u></a></li>
-<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-13-pro-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone 13 Pro Making It Possible</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-7-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 7</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-8-stability-tools-for-high-definition-cameras/"><u>[New] Best 8 Stability Tools for High-Definition Cameras</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-beginners-guide-to-iphone-screen-capture/"><u>[New] In 2024, Beginner's Guide to iPhone Screen Capture</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-key-steps-to-tag-your-youtube-video-effectively/"><u>[Updated] Key Steps to Tag Your YouTube Video Effectively</u></a></li>
+<li><a href="https://win-web3.techidaily.com/44cm44oh44o844k56c05aok55so44oq44oz44gm6zal5ael44gn44gn44gq44ge77yf44gt44km44ks5lplusu5q2j44gz44kl44gf44kb44gu44os44oz44oi44cn/"><u>「データ破壊用バンが開始できない？これを修正するためのヒント」</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-green-screen-basics-for-filmmakers-starting-out/"><u>2024 Approved Green Screen Basics for Filmmakers Starting Out</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-iphone-6s-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On iPhone 6s? Find the Best Solution Here</u></a></li>
+<li><a href="https://win-premium.techidaily.com/empower-your-pc-with-advanced-data-restoration-solutions-for-windows-11-users/"><u>Empower Your PC with Advanced Data Restoration Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-honor-x9b-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Honor X9b Phone | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/heroic-hurdles-the-ultimate-10-role-playing-journeys-for-2024/"><u>Heroic Hurdles The Ultimate 10 Role-Playing Journeys for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-apple-iphone-8-by-drfone-ios/"><u>How To Unlink Apple ID From Apple iPhone 8</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/immerse-yourself-without-breaking-the-bank-essential-guides-to-economical-home-cinema-kits/"><u>Immerse Yourself Without Breaking the Bank: Essential Guides to Economical Home Cinema Kits</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-apple-iphone-xs-max-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From Apple iPhone XS Max? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-iphone-7-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From iPhone 7? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-apple-iphone-13-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your Apple iPhone 13 Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-apple-iphone-6s-plus-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your Apple iPhone 6s Plus From Your Apple ID</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-guide-and-assessment-of-the-tp-link-re505x-wifi-signal-booster-expert-opinion/"><u>Ultimate Guide & Assessment of the TP-Link RE505X WiFi Signal Booster – Expert Opinion</u></a></li>
 </ul></div>
 

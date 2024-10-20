@@ -1,7 +1,7 @@
 ---
 title: "Successful Solution: Overcoming Sound Capture Hurdles in Discord for Games"
-date: 2024-10-09T23:44:43.723Z
-updated: 2024-10-15T04:59:52.949Z
+date: 2024-10-14T16:11:19.612Z
+updated: 2024-10-20T18:34:23.888Z
 tags:
   - win11
   - win10
@@ -59,10 +59,10 @@ There’re mainly two ways for you to update an audio driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Change sound settings
@@ -72,6 +72,13 @@ There’re mainly two ways for you to update an audio driver:
  1) Right-click the volume icon and select**Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Go to the**Recording** tab.
 
@@ -84,13 +91,6 @@ There’re mainly two ways for you to update an audio driver:
  5) Under**Voice Settings** , choose the correct**Input Device** and**Output Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
@@ -105,16 +105,16 @@ There’re mainly two ways for you to update an audio driver:
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
+<span id="1983446">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Right-click Discord, and select**Uninstall** .
@@ -122,10 +122,10 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once complete, you can download[**the latest Discord client**](https://discord.com/brand-new) and check if the issues persist in the new version.
@@ -151,14 +151,18 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-silent-scribes-unveiling-the-best-speech-to-text-tools/"><u>[Updated] Silent Scribes Unveiling the Best Speech-to-Text Tools</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-reimagined-romance-a-new-era-of-social-interaction-and-dating/"><u>Facebook's Reimagined Romance: A New Era of Social Interaction and Dating</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-anime-and-music-mixing-up-the-next-big-tiktok-hits/"><u>In 2024, Anime and Music Mixing Up the Next Big TikTok Hits</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on Apple iPhone 13 Pro</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-iphone-14-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your iPhone 14?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-apple-iphone-11-pro-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On Apple iPhone 11 Pro without Password?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-oppo-reno-10-proplus-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Oppo Reno 10 Pro+ 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-top-5-timelapse-recording-software/"><u>In 2024, Top 5 Timelapse Recording Software</u></a></li>
-<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-12-pro-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On iPhone 12 Pro?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-editorial-expertise-revitalize-iphone-hdr-videos-with-top-4-strategies-in-premiere/"><u>[Updated] 2024 Approved [Editorial Expertise] Revitalize iPhone HDR Videos with Top 4 Strategies in Premiere</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-harmonizing-sights-with-itunes-acoustics/"><u>[Updated] In 2024, Harmonizing Sights with iTunes Acoustics</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-xiaomi-mi-11-crafting-memories-in-unprecedented-detail-for-2024/"><u>[Updated] Xiaomi Mi 11 Crafting Memories in Unprecedented Detail for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-11-pro-max-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-14-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone 14 without Security Questions?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-iphone-8-plus-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off iPhone 8 Plus without Password</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-6-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone 6? How to Fix it?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oneplus-open-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from OnePlus Open Phones with/without a PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From iPhone 6s Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-15-plus-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone 15 Plus Making It Possible</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/transferring-music-seamlessly-how-to-bring-your-playlist-from-android-phones-to-iphone-series-iphone-15-14-13-and-12/"><u>Transferring Music Seamlessly: How to Bring Your Playlist From Android Phones to iPhone Series (iPhone 15, 14, 13 & 12)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-nvidia-rtx-2070-super-gpu-drivers-easy-guide-for-windows-10-and-11-devices/"><u>Update NVIDIA RTX 2070 Super GPU Drivers - Easy Guide for Windows 10 and 11 Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-gpt-3-insights-from-openai/"><u>Utilizing GPT-3: Insights From OpenAI</u></a></li>
 </ul></div>
 
