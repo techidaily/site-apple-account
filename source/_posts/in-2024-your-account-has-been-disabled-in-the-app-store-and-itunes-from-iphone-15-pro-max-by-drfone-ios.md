@@ -1,7 +1,7 @@
 ---
 title: In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone 15 Pro Max?
-date: 2024-10-16T16:46:24.311Z
-updated: 2024-10-20T17:42:12.064Z
+date: 2024-10-23T03:29:09.392Z
+updated: 2024-10-25T19:39:59.916Z
 tags: 
   - unlock
   - remove apple account
@@ -29,13 +29,6 @@ The following are some reasons why you may see this error message popup on your 
 - Any billing issues such as unpaid iTunes and App Store orders
 - Safety and security reasons like when Apple suspects your account may be hacked
 - When there are charging disputes on your credit card
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2. How to fix “Your account has been disabled in App store and iTunes”?
 
@@ -66,6 +59,19 @@ If you just forget the password and cannot remember it, you can follow the steps
 
 ![reset password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3** Enter the phone number that you use with your Apple ID.
 
 ![reset apple id password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id-2.jpg)
@@ -88,13 +94,6 @@ Recover and keep all your passwords in one place
 - The installation of Dr.Fone on your device won't take much space, without any disturbing ads.
 
 **3981454** people have downloaded it
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2. View Your Payment Methods and Update Them
 
@@ -155,13 +154,6 @@ Sometimes the only way to [fix “Apple ID Disabled”](https://drfone.wondersha
 
 One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This third-party unlocking software is designed to easily and effectively remove the Apple ID password from any device. The following are some things it can do;
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Remove iCloud Account without Password in Minutes
@@ -185,6 +177,13 @@ To begin, download the Dr.Fone Toolkit from the program’s main website. Instal
 On the next screen, you should see three options. Choose “Remove Apple ID” since we want to remove the Apple ID from the Apple iPhone 15 Pro Max device.
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3: Connect the iOS Device**
 
@@ -226,22 +225,22 @@ The first method involves updating your payment information directly from your A
 
 ![add new payment card details](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3:** To remove the old payment method, tap "Edit." Now, locate the old payment method you want to delete and tap the “Red Delete” button next to it. Confirm the deletion by tapping "Delete."
 
 ![remove the apple id card](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Way 2: Change Credit Card on Mac
 
@@ -251,9 +250,23 @@ Now, we shift our focus to those who prefer managing their payment information o
 
 ![click on account settings](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2:** Locate the "Apple ID Summary" section in the "Account Settings" menu and select the "Manage Payments" option next to it. After this, introduce a fresh payment method by opting for the "Add Payment" option.
 
 ![press the add payment button](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3:** This action will prompt you to input the details of your new payment method, including credit card information. After you've provided the required information, select "Done" to save your newly added payment method.
 
@@ -263,13 +276,6 @@ Now, we shift our focus to those who prefer managing their payment information o
 
 ![click the delete button](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Way 3: Update the Credit Card Details on Windows PC
 
 To update the credit card information linked to your Apple ID, we'll now provide instructions specifically tailored for Windows PC users. This approach offers flexibility for individuals looking to maintain accurate payment details. With the help of the simplified steps given below, you can easily **change the credit card on the Apple account**:
@@ -277,6 +283,13 @@ To update the credit card information linked to your Apple ID, we'll now provide
 - **Step 1:** Access iTunes on your computer and click on "Account" from the menu bar that is given at the top. Afterward, a drop-down menu will appear on which you need to select "View My Account."
 
 ![tap on view my account](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2:** Following this, click on "Manage Payments," and your current payment methods that are listed will be shown to you. There, click on "Add Payment" to add a new payment method quickly.
 
@@ -303,19 +316,6 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 **4,395,218** people have downloaded it
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Features of Wondershare Dr.Fone
 
 - Unlock iPhone, iPad, and iPod touch by removing various types of lock screens, ensuring access to your device.
@@ -331,6 +331,13 @@ Following are the steps to unlock and [<u>remove old Apple ID from your iOS devi
 To initiate the Apple ID unlocking process, you will need to install and launch Wondershare Dr.Fone. Then, choose "Toolbox" from the left bar and go on to click "Screen Unlock." Select "iPhone" as your device type, and since we are removing Apple ID, click "Remove Apple ID.”
 
 ![access the screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Step 2: Proceed to Activate Recovery Mode
 
@@ -457,13 +464,6 @@ The tool guides you through the process, ensuring a seamless experience with a u
 
 ![dr.fone unlock connected device](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 5:** Click **Yes** to confirm you have a screen lock on your Apple iPhone 15 Pro Max.
 
 ![confirm iphone screen lock set up](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
@@ -479,6 +479,13 @@ The tool guides you through the process, ensuring a seamless experience with a u
 - **Step 8:** Select an option in the **System Version** drop-down menu and click **Start**.
 
 ![device system version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 9:** Wait while the respective iOS firmware downloads. Alternatively, click **Copy** to do it yourself.
 
@@ -525,13 +532,6 @@ Here is how to unpair your Apple ID on a device you sold or gave away via the Fi
 - **Step 1:** Open the **Find My** app and go to the **Devices** tab at the lower navigation pane. Next, select the name of your Apple iPhone 15 Pro Max you want to unpair.
 
 ![connected devices on find my app](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-25.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2:** Tap **Erase This Device**, then tap **Continue**.
 
@@ -605,17 +605,22 @@ If you unfortunately encounter any challenges during the process, you can seek a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-windows-11-user-guide-for-professional-audio-recording/"><u>[Updated] 2024 Approved Windows 11 User Guide for Professional Audio Recording</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-discover-10-budget-friendly-vectors-and-design-pages-for-2024/"><u>[Updated] Discover 10 Budget-Friendly Vectors and Design Pages for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-joining-live-shows-a-tiktok-perspective/"><u>[Updated] In 2024, Joining Live Shows A TikTok Perspective</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-zero-cost-window-recording-techniques-3-methods/"><u>[Updated] In 2024, Zero-Cost Window Recording Techniques 3 Methods</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-grasp-growth-with-free-fb-extractor-apps/"><u>2024 Approved Grasp Growth with Free FB Extractor Apps</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-12-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone 12 in the Best Ways</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-se-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone SE without Password?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-iphone-12-mini-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From iPhone 12 mini</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-iphone-14-pro-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove iPhone 14 Pro Device from iCloud</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/pixels-melodic-matches-and-personalization/"><u>Pixel's Melodic Matches and Personalization</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-vivo-y200-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Vivo Y200 FRP</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-earnings-escalation-via-youtube-channel-initiatives-for-2024/"><u>[Updated] Earnings Escalation via YouTube Channel Initiatives for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-novice-to-pro-mastering-the-craft-of-yt-shorts/"><u>[Updated] From Novice to Pro Mastering the Craft of YT Shorts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-nokia-c210-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Nokia C210</u></a></li>
+<li><a href="https://win-top.techidaily.com/elevate-your-email-game-expert-insights-for-enhanced-messaging-via-massmail-tools/"><u>Elevate Your Email Game: Expert Insights for Enhanced Messaging via Massmail Tools</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/evaluating-the-best-rc-vehicle-for-families-in-depth-maisto-rc-rock-crawler-analysis/"><u>Evaluating the Best RC Vehicle for Families: In-Depth Maisto RC Rock Crawler Analysis</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-13-pro-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 13 Pro?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-se-2020-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-apple-iphone-13-mini-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect Apple iPhone 13 mini and iPad</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-readwrite-speed-ssd-for-ps5/"><u>Ideal Read/Write Speed SSD for PS5</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-tecno-spark-20-pro-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Tecno Spark 20 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-apple-iphone-15-pro-max-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your Apple iPhone 15 Pro Max Apple ID on MacBook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-12-pro-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your iPhone 12 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-iphone-15-pro-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On iPhone 15 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On iPhone 15 Pro Max</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/locating-your-nearest-electric-vehicle-charger-a-comprehensive-guide/"><u>Locating Your Nearest Electric Vehicle Charger: A Comprehensive Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-iphone-se-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From iPhone SE? 5 Tips You Must Know</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unlock-the-full-potential-of-your-streams-with-manycams-live-window-feature/"><u>Unlock the Full Potential of Your Streams with ManyCam's Live Window Feature</u></a></li>
 </ul></div>
 

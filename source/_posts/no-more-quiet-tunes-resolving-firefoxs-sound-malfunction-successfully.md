@@ -1,7 +1,7 @@
 ---
 title: "No More Quiet Tunes: Resolving Firefox's Sound Malfunction Successfully"
-date: 2024-10-19T16:39:17.018Z
-updated: 2024-10-20T19:18:55.354Z
+date: 2024-10-23T08:21:53.569Z
+updated: 2024-10-26T05:24:28.805Z
 tags:
   - win11
   - win10
@@ -49,6 +49,19 @@ Here’s how you can do this:
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Set your speakers as the default
 
  When you connect the external speakers to your computer, your system would recognize it. But there are some situations where the sound may not come from your external speakers. That’s because your device isn’t set as the default audio playback device that Windows uses to output sound. In this case, you need to manually set your speakers as the default:
@@ -56,26 +69,6 @@ Here’s how you can do this:
 1. From the bottom-right corner of your screen, right-click on the Speaker icon and select**Open Sound settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 2. Click**Sound Control Panel** .![open sound control panel](https://images.drivereasy.com/wp-content/uploads/2021/03/sound-control-panel.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Under the**Playback** tab, click on your Creative Pebble speakers and click**Set Default** .
 
@@ -104,10 +97,10 @@ Here’s how to update drivers with Driver Easy:
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -115,6 +108,19 @@ Here’s how to update drivers with Driver Easy:
  After updating your drivers, restart your computer and test the audio to check if this action did the trick. If your speakers are still not working, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run the audio troubleshooter
 
@@ -127,16 +133,22 @@ Here’s how to update drivers with Driver Easy:
 
 ![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/next.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After it’s all done, try to use your speakers to check if they can be functioning well. If you’re still encountering sound failures, proceed to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Contact the customer service
 
@@ -163,18 +175,22 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-best-professional-drones-an-in-depth-pilots-list/"><u>2024 Approved Best Professional Drones – An In-Depth Pilot’s List</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722803727868-comprehensive-evaluation-of-amazon-lunas-game-streaming-capabilities-a-pleasant-surprise/"><u>Comprehensive Evaluation of Amazon Luna's Game Streaming Capabilities - A Pleasant Surprise!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-excellent-no-cost-ways-to-transform-mkv-videos-into-mp4-for-digital-use-anywhere-online-or-not/"><u>Discover Excellent No-Cost Ways to Transform MKV Videos Into MP4 for Digital Use Anywhere, Online or Not</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/edit-videos-for-free-top-software-without-watermarks-this-year/"><u>Edit Videos for Free Top Software Without Watermarks This Year</u></a></li>
-<li><a href="https://article-tips.techidaily.com/ethereal-editing-in-extended-frame-rate/"><u>Ethereal Editing in Extended Frame Rate</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-apple-iphone-xs-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On Apple iPhone XS in the Best Ways</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-xr-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From Apple iPhone XR?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-15-pro-max-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 15 Pro Max? How to Fix it?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-iphone-6-plus-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From iPhone 6 Plus?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-apple-iphone-se-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Leave a Life360 Group On Apple iPhone SE Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-apple-iphone-11-pro-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your Apple iPhone 11 Pro? How to Fix</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-updates-for-nvidias-geforce-mx150-driver-compatible-with-windows-os/"><u>Latest Updates for NVIDIA's GeForce MX150 Driver Compatible with Windows OS</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-lens-catalog-for-4k-industry-leaders/"><u>The Ultimate Lens Catalog for 4K Industry Leaders</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-crafting-competitive-edge-assessing-personal-and-marketplace-videos/"><u>[New] 2024 Approved Crafting Competitive Edge Assessing Personal and Marketplace Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-reinforcing-silence-in-obs-recordings/"><u>[New] In 2024, Reinforcing Silence in OBS Recordings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-art-of-anticipation-elevating-the-unboxing-experience-for-2024/"><u>[New] The Art of Anticipation Elevating the Unboxing Experience for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-3-prime-video-hosts-beyond-youtube/"><u>[New] Top 3 Prime Video Hosts - Beyond YouTube</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-high-cost-yet-user-friendly-mophie-powerstation-ac-charger-unveiled/"><u>Comprehensive Review: High-Cost Yet User-Friendly Mophie Powerstation AC Charger Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-dota-2-microphone-issues-a-comprehensive-guide/"><u>Fixing Dota 2 Microphone Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-samsung-galaxy-xcover-6-pro-tactical-edition-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Samsung Galaxy XCover 6 Pro Tactical Edition Devices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-11-pro-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 11 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-iphone-14-pro-max-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your iPhone 14 Pro Max From Your Apple ID</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-apple-iphone-11-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From Apple iPhone 11 Pro Max without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-max-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Max When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-14-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From Apple iPhone 14</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-apple-iphone-12-pro-max-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On Apple iPhone 12 Pro Max Making It Possible</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-apple-iphone-se-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On Apple iPhone SE? 5 Tips You Must Know</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-vivo-y78plus-t1-edition-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Vivo Y78+ (T1) Edition to Gmail | Dr.fone</u></a></li>
 </ul></div>
 

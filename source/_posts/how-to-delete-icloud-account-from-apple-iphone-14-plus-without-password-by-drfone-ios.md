@@ -1,7 +1,7 @@
 ---
 title: How to Delete iCloud Account From Apple iPhone 14 Plus without Password?
-date: 2024-09-06T16:54:08.576Z
-updated: 2024-09-07T16:54:08.576Z
+date: 2024-10-21T10:48:26.716Z
+updated: 2024-10-26T08:58:17.049Z
 tags: 
   - unlock
   - remove apple account
@@ -14,12 +14,6 @@ keywords: how to get apple id verification code,apple id greyed out,how to fix a
 thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04c405e68f58f5857acd450ec.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Delete iCloud Account On Apple iPhone 14 Plus without Password?
 
 If you own various Apple products, you must be familiar with the significance of iCloud service. iCloud is a cloud storage service that allows Apple users to sync their data and access it across different Apple devices, be it iPhone, iPad, or Macbook.
@@ -32,12 +26,6 @@ So, in this guide, we’re going to share some insight into how to delete iCloud
 
 If you have an iPhone at the moment, here are three different ways to delete an iCloud account using your phone itself.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1.1 Remove iCloud from settings on iPhone
 
 Follow these instructions to delete the iCloud account from the “Settings” menu on your Apple iPhone 14 Plus.
@@ -54,12 +42,6 @@ Follow these instructions to delete the iCloud account from the “Settings” m
 
 ![erase description](https://images.wondershare.com/drfone/article/2020/05/erase-description.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 5:** Again, tap on iCloud and scroll down till the end. Tap “Delete Account” and again click “Delete” to confirm your action.
 
 ![select delete account](https://images.wondershare.com/drfone/article/2020/05/select-delete-account.jpg)
@@ -82,18 +64,6 @@ Another convenient way to delete the iCloud account is to use iTunes on your App
 
 ![apple id itunes](https://images.wondershare.com/drfone/article/2020/05/apple-id-itunes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1.3 Create a new password
 
 If you have enabled two-way verification on your Apple iPhone 14 Plus, you can also delete the iCloud account by resetting the password. In this case, however, you’ll have to visit the [Apple ID Account Page](https://appleid.apple.com/) and use it to reset the password.
@@ -105,17 +75,12 @@ Here’s how to delete iCloud account without password by creating a new passwor
 ![forgot apple id or password](https://images.wondershare.com/drfone/article/2020/05/forgot-apple-id-or-password.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Step 2:** Now, enter your Apple ID and tap “Continue”. Select “I Need to Reset My Password” to initiate the password resetting process.
 
 **Step 3:** You’ll be prompted to a new window where you’ll have to enter the “Recover Key”. This key is an exclusive that’s generated when a user enables two-way verification for their iCloud account.
@@ -136,12 +101,6 @@ In case you haven’t enabled two-way verification for your iCloud account, ther
 
 ![recovery email](https://images.wondershare.com/drfone/article/2020/05/recovery-email.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to delete iCloud account without password on computer using Dr.Fone - Screen Unlock (iOS)?
 
 If you find all the above methods slightly challenging, we have a simpler solution for you. [Wondershare Dr.Fone Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an exclusive tool for iOS users that’ll help them remove screen locks and delete iCloud accounts from an iDevice, even if you don’t remember the password or even if the “Find My iPhone” feature is enabled.
@@ -162,24 +121,12 @@ Now, in the main interface of Dr. Fone Screen Unlock, select “Screen Unlock”
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3: Choose the Option**
 
 In the next window, you’ll see three different options. Select “Remove Apple ID” as we want to delete the iCloud account.
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 4: Trust the Apple iPhone 14 Plus device**
 
 Now, to successfully establish the connection between the two devices, enter the passcode on your iDevice and tap the “Trust” button to confirm the connection.
@@ -196,12 +143,6 @@ At this point, you’ll be asked to enter recovery mode. You can follow the on-s
 
 ![interface](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 6: Unlock Apple ID**
 
 After entering the recovery mode, Dr.Fone will automatically initiate the unlocking process. Do not disconnect the iDevice from your computer as this can cause damage to the Apple iPhone 14 Plus device itself.
@@ -209,29 +150,28 @@ After entering the recovery mode, Dr.Fone will automatically initiate the unlock
 ![process of unlocking](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 As soon as your Apple ID gets unlocked, a confirmation message will pop up on your screen. Simply reboot your smartphone and you’ll be able to sign in with a new Apple ID without any hassle.
 
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 It doesn’t matter if you’re using Windows or Mac, Dr.Fone – Screen Unlock for iOS will make it extremely easy to delete the iCloud account without the password. So, if you are looking for a reliable and convenient way to remove an iCloud account, make sure to use Dr.Fone – Screen Unlock.
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 That’s the entire guide on how to delete iCloud account without password. Even though iCloud is an exceptional feature, one is likely to forget the password to his iCloud account. If you’re stuck in a similar situation and want to create a new iCloud account, make sure to use the above tactics to delete the previous iCloud account, even if you don’t remember the password.
-
-
 
 ## Tips and Tricks for Apple ID Locked Issue On Apple iPhone 14 Plus
 
@@ -242,23 +182,12 @@ The page discusses common reasons for lockouts, steps to regain access, and proa
 ![apple id locked info screen](https://images.wondershare.com/drfone/article/2023/11/apple-id-locked-01.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part I. Common Reasons Why Apple ID Gets Disabled
 
 **Apple ID lockouts** can be a frustrating experience. Understanding the reasons behind them can help you easily prevent and resolve these issues. Here are the most common causes of Apple ID disablement:
@@ -278,24 +207,12 @@ Apple's reputation for strong security measures is a significant reason for its 
 
 Unlocking your Apple ID is crucial to regain access to your valuable data. Here are five basic ways to unlock your Apple ID:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Contacting Apple's Official Support
 
 Contacting Apple's official support is often the most reliable solution. Visit the Apple Support website or use the Apple Support app on your device. Apple's support team can guide you through **unlocking your Apple ID**, ensuring it's done right.
 
 ![apple support website](https://images.wondershare.com/drfone/article/2023/11/apple-id-locked-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Account Recovery (iForgot)
 
 Visit iforgot.apple.com, where you can initiate the account recovery process. Once on the website, you'll have to enter your Apple ID. Next, you can choose how to reset your password or verify your identity through email. You can also answer security questions you've set up or verify through a trusted device.
@@ -310,18 +227,6 @@ If you have [<u>two-factor authentication</u>](https://drfone.wondershare.com/re
 
 ![iphone recovery key window](https://images.wondershare.com/drfone/article/2023/11/apple-id-locked-05.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 2**: Turn on **Recovery** **Key** and enter your passcode. Write down your recovery key and confirm by entering it once more. You can now **unlock your Apple ID** with the recovery key generated.
 
 **Note**
@@ -329,6 +234,13 @@ If you have [<u>two-factor authentication</u>](https://drfone.wondershare.com/re
 If you lose your recovery key, Apple cannot help you regain access anymore. It means that you will lose your account or data as the recovery key acts as the final security line to recover your account.
 
 ![sample of apple recovery key](https://images.wondershare.com/drfone/article/2023/11/apple-id-locked-06.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Reset Password
 
@@ -348,18 +260,6 @@ If you've forgotten your Apple ID password, you can [<u>initiate a password rese
 
 ![forgot apple id password window](https://images.wondershare.com/drfone/article/2023/11/apple-id-locked-08.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **On Mac**: Choose the **Applemenu** and click **System** **Settings**. Click **Sign** **in with your Apple ID** > **Forgot Apple ID or password?** and follow the onscreen instructions.
 
 While these methods should help you unlock your Apple ID, remember to keep your account secure to avoid future issues. If your issue persists after troubleshooting, then you may need an alternative solution. [<u>Dr.Fone - Screen Unlock</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/), a trusted third-party solution, can resolve most Apple ID problems.
@@ -370,7 +270,6 @@ While these methods should help you unlock your Apple ID, remember to keep your 
 
 ![dr.fone screen unlock main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 **Key Features**
 
 - **Unlock Apple ID without a password.** Fone Screen Unlock can unlock your Apple ID without requiring your password. The tool can be a lifesaver when all else seems to have failed.
@@ -380,23 +279,17 @@ While these methods should help you unlock your Apple ID, remember to keep your 
 In situations where traditional methods don't work, Dr.Fone provides a solution to regain access to your Apple ID.
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How To Unlock Disabled Apple ID Using Dr.Fone in 3 Steps
 
 Unlocking a **disabled Apple ID** using Dr.Fone - Screen Unlock is straightforward. You can accomplish it by following three simple steps. Here's how.
 
 - **Step 1**: Download Dr.Fone - Screen Unlock on your computer. Install the application and launch the software. Afterwards, select **Screen Unlock** from the main interface.
-
 
 - **Step 2**: In the next window, click **Remove AppleID**. Connect your Apple iPhone 14 Plus to the computer using a USB cord and tap **Trust** on your Apple iPhone 14 Plus.
 
@@ -406,30 +299,12 @@ Unlocking a **disabled Apple ID** using Dr.Fone - Screen Unlock is straightforwa
 
 ![apple id successfully unlocked status](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus: Tips To Prevent Future Apple ID Lockouts
 
 Preventing future Apple IDs from getting locked is essential to maintain access to Apple's ecosystem. Here are some key tips to help you secure your account and avoid potential issues:
 
 ![smiling woman using smartphone](https://images.wondershare.com/drfone/article/2023/11/apple-id-locked-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Use Strong Security Practices
 
 Enable two-factor authentication for an extra layer of security. Use a complex and unique password. Use a mix of upper and lower-case letters, numbers, and symbols. Avoid using guessable information, like birthdays or common words.
@@ -450,12 +325,6 @@ Familiarize yourself with Apple's terms of service and policies to avoid violati
 
 Ensure that your payment methods are up to date. Avoid any payment-related issues that might lead to your **Apple ID being disabled.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Beware of Phishing Attempts
 
 Be cautious of unsolicited emails, messages, or websites that request your Apple ID credentials. Always verify the authenticity of communication from Apple.
@@ -464,24 +333,12 @@ Be cautious of unsolicited emails, messages, or websites that request your Apple
 
 Use a passcode, Touch ID, or Face ID to protect your Apple devices. It adds an extra layer of security to your account.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Safeguarding your Apple ID is important in maintaining access to Apple's services. Knowing the common reasons for having an **Apple ID locked** situation is essential. By implementing strong security practices, you can prevent future lockouts. You should also monitor your account for unusual activities as an added measure.
 
 However, consider using reliable third-party tools like Dr.Fone if all else fails. The platform works as a last resort or as a trusted companion to easily **unlock your Apple ID**. Prioritize your Apple ID's security to enjoy the full benefits of the Apple ecosystem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How To Erase an Apple iPhone 14 Plus Without Apple ID Password?
 
 Have you ever wondered what happens when you erase the content of your Apple iPhone 14 Plus storage? Erasing an iPhone means restoring it to its factory settings to install the latest iOS version. It also permanently removes all your data, including photos, videos, contacts, apps, and other information stored on the Apple iPhone 14 Plus device.
@@ -490,12 +347,6 @@ This process is often necessary when you sell or give away your Apple iPhone 14 
 
 ![back and front of iphone 15](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: A Checklist on What To Do Before Erasing an iPhone
 
 If you're looking at **how to erase an iPhone without an Apple ID** or account password, you've come to the right place. Before you begin, preparing your device and ensuring you have all the necessary information is crucial. Here's a checklist of what to do before erasing your Apple iPhone 14 Plus:
@@ -520,24 +371,12 @@ If you own an Apple Watch, unpair it from your Apple iPhone 14 Plus. It ensures 
 
 ![unpair apple watch on iphone](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Cancel Your AppleCare Plan
 
 If you have an active AppleCare plan for your Apple iPhone 14 Plus, cancel it on your Apple iPhone 14 Plus before erasing the Apple iPhone 14 Plus device. You can cancel your AppleCare plan by phone by calling AppleCare customer support. It will prevent any unnecessary charges after the erasing process.
 
 ![cancel an applecare plan](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sign Out of iCloud
 
 If your Apple iPhone 14 Plus has iOS 10.3 or later, open the **Settings** app, then tap on your name at the top. Next, scroll down, tap **Sign Out**, enter your Apple ID password, and tap **Turn Off**.
@@ -562,21 +401,9 @@ However, if you've forgotten your Apple ID password, don't fret. Follow the guid
 
 ![erase all content and settings interface](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-06.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 5:** Input your Apple ID password or your passcode when prompted.
 - **Step 6:** Click **Continue** to confirm. Then, wait while the contents are being removed from your Apple iPhone 14 Plus device.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How To Erase iPhone Without Apple ID Password on Computer?
 
 Activation lock is a security feature. It prevents anyone from activating an iPhone without your Apple ID password. If you try to factory reset your Apple iPhone 14 Plus without turning off Find My iPhone, the [<u>activation lock </u>](https://drfone.wondershare.com/icloud/unlock-icloud-activation.html) will be in place. It means you need to enter your Apple ID password to activate the Apple iPhone 14 Plus again. To turn it off, also ensure to turn off Find My on your device.
@@ -596,12 +423,6 @@ If you want to **erase an iPhone without Apple ID** password on your computer, y
 
 ![iphone in recovery mode](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 4:** Switch on your Apple iPhone 14 Plus. Then, connect it to a Mac or Windows computer using a USB cable.
 - **Step 5:** When prompted, follow the on-screen instructions to enter your device passcode or click **Trust This Computer**.
 - **Step 6:** Depending on your computer, open Finder or iTunes. Then, do either of the following:
@@ -610,23 +431,11 @@ If you want to **erase an iPhone without Apple ID** password on your computer, y
 
 ![restore iphone on mac device](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-09.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - For macOS 10.14 or earlier or Windows: Click the Apple iPhone 14 Plus in the top left window, click **Summary**, then click **Restore iPhone**.
 - **Step 7:** Click **Restore** in the dialogue box. iTunes or Finder will download your Apple iPhone 14 Plus's latest iOS software and restore the Apple iPhone 14 Plus to its factory settings.
 
 ![restore iphone to factory settings](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 8:** Once the restore is complete, the Apple iPhone 14 Plus will restart.
 
 ## Part 4: Erase an iPhone Without Apple ID via Activation Lock Support Request
@@ -642,12 +451,6 @@ To start this request, follow these steps:
 
 ![apple activation lock support page](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 3:** Enter your email address and other required information, then click **Continue**.
 
 ![request activation lock support online](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-12.jpg)
@@ -665,7 +468,6 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 - **Step 1:** Download and install Dr.Fone on your desktop. Launch the app and connect your Apple iPhone 14 Plus using a USB cable.
 
-
 - **Step 2:** From the **Toolbox** homepage, select **Screen Unlock**, then choose **iOS**.
 
 ![dr.fone toolbox interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -674,16 +476,17 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 ![dr.fone screen unlock tools](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4:** The next screen shows the connected device. Click **Unlock Now**.
 
 ![unlock connected ios device](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 5:** Click **Yes** to confirm you have set up a screen lock.
 
 ![validate iphone screen lock set up](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
@@ -696,18 +499,6 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 ![put iphone into recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 8:** Select an option from the **System Version** drop-down list, then click **Start**.
 
 ![select system version for the iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
@@ -716,12 +507,6 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 ![downloading ios firmware in progress](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 10:** Once downloaded, click **Unlock Now** to proceed.
 
 ![ios firmware downloaded](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
@@ -734,34 +519,22 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 ![unlocking apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 13:** Click **Done** and check that your Apple iPhone 14 Plus's data and Apple ID have been removed.
 
 ![iphone apple id unlocked](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 It can be challenging to **erase an iPhone without an Apple ID** password, but it's achievable by following the right steps. Remember to weigh the security implications and back up your data beforehand.
 
 If you're seeking a straightforward method on "**how to erase an iPhone without Apple ID**," Dr.Fone Screen Unlock tool is a good solution. With its user-friendly interface and efficient operation, Dr.Fone simplifies the process, making it accessible to users of all technical levels. Don't let a forgotten Apple ID password hinder your device's functionality. Try Dr.Fone Screen Unlock and reclaim control of your Apple iPhone 14 Plus.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -775,11 +548,22 @@ If you're seeking a straightforward method on "**how to erase an iPhone without 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mastering-googles-speech-to-text-conversion-techniques/"><u>[New] In 2024, Mastering Google's Speech-to-Text Conversion Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-microcapture-video-logger-analysis-and-options-for-2024/"><u>[Updated] MicroCapture Video Logger Analysis & Options for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterpiece-makers-top-6-innovators-in-digital-art-space/"><u>2024 Approved Masterpiece Makers Top 6 Innovators in Digital Art Space</u></a></li>
+<li><a href="https://games-able.techidaily.com/end-of-platform-locked-titles-a-positive-change/"><u>End of Platform-Locked Titles - A Positive Change</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-nokia-g22-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Nokia G22 Phone that is Locked?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hunters-top-picks-best-video-gear-reviewed/"><u>Hunters' Top Picks Best Video Gear Reviewed</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-x-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone X? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-iphone-12-pro-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your iPhone 12 Pro Apple ID on MacBook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-iphone-15-plus-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your iPhone 15 Plus</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-intel-rapid-io-with-speed/"><u>Optimize Intel Rapid IO with Speed</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-13-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 13</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-14-pro-max-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 14 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-iphone-8-plus-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From iPhone 8 Plus</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-berts-capabilities-in-natural-language-processing-vs-gpt-explained/"><u>Unveiling BERT's Capabilities in Natural Language Processing Vs. GPT Explained</u></a></li>
+</ul></div>
 
