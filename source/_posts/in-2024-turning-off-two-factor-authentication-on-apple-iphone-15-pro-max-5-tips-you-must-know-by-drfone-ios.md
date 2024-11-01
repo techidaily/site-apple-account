@@ -1,7 +1,7 @@
 ---
 title: In 2024, Turning Off Two Factor Authentication On Apple iPhone 15 Pro Max? 5 Tips You Must Know
-date: 2024-10-24T02:29:44.992Z
-updated: 2024-10-25T17:23:25.573Z
+date: 2024-10-27T16:13:28.106Z
+updated: 2024-10-31T18:36:16.040Z
 tags: 
   - unlock
   - remove apple account
@@ -26,6 +26,13 @@ There might be a few differences involved in these two security models; however,
 
 The Two Factor Authentication is considered as an upgrade to the Two Factor Verification, which was released two years after the Two Factor Verification, in 2015. This authentication method exempted the offline recovery keys and application-specific passcodes. They added a six-digit authentication code onto the original password and produced an offline, time-dependent code that is to be generated through the Settings of the trusted device of the user. This feature was appended into the iOS 9 and OS X El Capitan with a region-specific target.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2. How to turn off two-step verification?
 
 As you are aware of the Two-Step Verification process, it is quite easy and typical in configuring. However, when it comes to turning the settings off, it is also a simple and straightforward procedure that can be easily covered by following the steps provided below.
@@ -45,13 +52,6 @@ Two Factor Authentication cannot be turned off in a few cases and accounts for i
 **Step 2:** Tap on “Edit” in the “Security” section and turn off the “Two Factor Authentication” option.
 
 **Step 3:** This would lead you to set new security questions for the Apple ID account, followed by a verification of your date of birth. The successful execution of the process would lead to turning it off.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4. Why can't you turn off two-factor authentication if you already use it? (iOS 10.3 and later)
 
@@ -98,13 +98,6 @@ Once you are done with initiating a reboot, the platform automatically detects t
 
 The article has presented a very detailed comparison of the Two Factor Verification and Two Factor Authentication and provided an elaborated discussion over how to turn these security features off their devices. The article also discussed a third-party platform that would guide in removing such security features of the Apple iPhone 15 Pro Max devices over the requirement of the user. You need to go through this article to get a better knowledge of the execution of the mechanism.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How To Change Your Apple iPhone 15 Pro Max Apple ID on MacBook
 
 Your Apple ID is a key component of your Apple ecosystem. It serves as your digital identity across all Apple devices. Whether you have an Intel-based MacBook or one with Apple Silicon, understanding how to change your Apple ID is crucial. Therefore, in this detailed guide, we will walk you through the process of **how to change your Apple ID on your MacBook**without facing any issues.
@@ -114,13 +107,6 @@ Besides this, it will also assist you in exploring the significance of your Appl
 ## Part 1: What Are the Benefits of Changing the Apple ID on MacBook
 
 Apple ID is the cornerstone that simplifies the management of your Apple devices. It's more than just a username; it's your passport to a world of smooth integration and services. Changing your Apple ID on your MacBook can yield several significant benefits. It enhances your overall user experience. Here are some of the key advantages of learning **how to change your Apple ID MacBook**:
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Personalization
 
@@ -151,13 +137,6 @@ In summary, there are many advantages to updating your Apple ID on your MacBook.
 
 ![press the sign out button](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3:**After logging out of your Apple ID, reboot your device, and when it is done, go back to System Settings. From there, hit the "Sign in to with your Apple ID" option so that you can quickly log in with a new Apple ID.
 
 ![login with new apple id](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-2.jpg)
@@ -168,6 +147,13 @@ Changing your Apple ID on your MacBook through Settings is a straightforward pro
 
 In such instances, you'll need to contact the previous owner and request them to disassociate their Apple ID. Here are two practical methods for **how to change Apple ID on MacBook Air**:
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Way 1: Using the iPhone
 
 The first way the previous owner can remove the Apple ID from your MacBook is by using his iPhone. You can ask the previous owner to follow these steps on their iPhone:
@@ -176,28 +162,15 @@ The first way the previous owner can remove the Apple ID from your MacBook is by
 
 ![access the apple id settings](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2:**Scroll down on the screen to devices that are connected with the Apple ID. Tap on the MacBook and use the "Remove from Account” option to [<u>remove Apple ID</u>](https://drfone.wondershare.com/apple-account/how-to-remove-phone-number-from-apple-id.html) from MacBook.
 
 ![choose remove from account option](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Way 2: Using Find My App
@@ -225,13 +198,6 @@ While the data is backed up on the iCloud from your Mac, you cannot log out from
 Wait for the iCloud backup to complete before attempting to log out. You can access the backup information through “iCloud” within your Apple ID settings of System Settings. Here, tap “iCloud Drive” and stop syncing to stop the ongoing iCloud backup process.
 
 ![stop icloud backup process](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Bug in macOS
 
@@ -277,6 +243,13 @@ Once your device is in [<u>Recovery Mode</u>](https://drfone.wondershare.com/rec
 
 ![press the unlock now button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In conclusion, this article has provided you with valuable insights into the process of **how to change Apple ID on MacBook**. We began by highlighting the primary purpose of the Apple ID and discussing the countless benefits it offers. We've walked you through two main methods for changing your Apple ID. The first one is using the Settings on your MacBook.
@@ -288,6 +261,13 @@ The other included alternative approaches for scenarios like purchasing a second
 You may see the error message, “**Your account has been disabled in the App Store and iTunes**” when you try to log in. This is often an indication that for some reason your Apple ID is not working as it should. When you consider that you will not be able to download or update apps or even make a purchase using Apple Pay without your Apple ID, it is easy to see why this error message can be a problem.
 
 Why is my account disabled in the App store? Here, we take a look at the reasons why you may see the error messages and what you can do to fix them.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1. Why has my account been disabled in the App Store and iTunes?
 
@@ -336,6 +316,13 @@ If you just forget the password and cannot remember it, you can follow the steps
 
 ![reset password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Note that if you are changing your Apple ID password on an iPhone or iPad, you will need to enter your device's six-digit passcode, then reset a new password.
 
 Forgetting the password is particularly troublesome, but there is good news. That is, you can use [Password Manager](https://drfone.wondershare.com/iphone-password-manager.html) to find your passwords on your Apple iPhone 15 Pro Max/iPad without spending too much time remembering them!
@@ -350,6 +337,13 @@ Recover and keep all your passwords in one place
 - The installation of Dr.Fone on your device won't take much space, without any disturbing ads.
 
 **3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2. View Your Payment Methods and Update Them
 
@@ -376,6 +370,13 @@ Signing out of your account and then signing back in may help if this issue is c
 
 - On your iOS device, go to Settings > \[Your Name\] > iTunes & App Store and Sign Out. Then sign in again.
 - On your Mac, open the App Store (Store > Sign Out) and iTunes (Account > Sign Out. Then sign in again.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5. Try Contacting Apple Support Directly
 
@@ -448,13 +449,6 @@ Dr.Fone will immediately begin removing the Apple ID from the Apple iPhone 15 Pr
 
 You should then be able to sign in to another Apple ID or create a new Apple ID and password to use on the Apple iPhone 15 Pro Max device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 In conclusion, encountering a disabled Apple account in the App Store and iTunes can be a frustrating experience. However, by understanding the reasons behind it, following the recommended steps to resolve the issue, and considering the broader impact on your digital life, you can navigate this situation effectively. Remember, prompt action and patience are key to restoring your account and getting back to enjoying the Apple ecosystem hassle-free.
@@ -473,24 +467,18 @@ In conclusion, encountering a disabled Apple account in the App Store and iTunes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-checklist-for-protecting-your-digital-assets/"><u>[New] The Ultimate Checklist for Protecting Your Digital Assets</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-comprehensive-sierras-icloud-drives-the-full-experience/"><u>[Updated] 2024 Approved Comprehensive Sierra's iCloud Drives – The Full Experience</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-the-art-of-attracting-more-youtube-viewers/"><u>[Updated] Mastering the Art of Attracting More YouTube Viewers</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-se-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone SE? How to Fix it?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-xiaomi-redmi-12-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi Redmi 12 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-14-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 14?</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-max-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro Max to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-6s-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone 6s Activation Lock without Previous Owner?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-15-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 15</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-iphone-6s-plus-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From iPhone 6s Plus without Password?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-apple-iphone-6-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your Apple iPhone 6 From Your Apple ID</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-xr-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone XR</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-poco-c65-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Poco C65 Phone Pattern Lock</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/live-to-tell/"><u>Live to Tell</u></a></li>
-<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://driver-error.techidaily.com/revising-illegal-configuration-segment-in-inf/"><u>Revising Illegal Configuration Segment in INF</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-samsung-galaxy-m14-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Samsung Galaxy M14 5G.</u></a></li>
-<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-6s-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone 6s Making It Possible</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-oppo-a38-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Oppo A38 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-explore-the-finest-virtual-hydro-adventures/"><u>[New] Explore the Finest Virtual Hydro Adventures</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-how-to-fine-tune-music-for-stunning-canva-clips/"><u>[Updated] In 2024, How to Fine-Tune Music for Stunning Canva Clips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-pioneering-in-play-a-step-by-step-to-thriving-gaming-channels-for-2024/"><u>[Updated] Pioneering in Play A Step-by-Step to Thriving Gaming Channels for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-elite-4k-reflections-the-best-mirrorless-picks/"><u>2024 Approved Elite 4K Reflections The Best Mirrorless Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-innovations-potential-se-engine-counterparts/"><u>GPT Innovations: Potential SE Engine Counterparts</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-12-mini-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone 12 mini without Password?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-iphone-12-pro-max-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On iPhone 12 Pro Max? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-iphone-13-pro-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By iPhone 13 Pro without the Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-xr-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone XR</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-apple-iphone-12-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From Apple iPhone 12? 5 Tips You Must Know</u></a></li>
+<li><a href="https://win-unique.techidaily.com/upgrade-your-hdd-with-an-ssd-on-windows-a-complete-how-to-guide/"><u>Upgrade Your HDD with an SSD on Windows: A Complete How-To Guide</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your drivers with Windows Device Manager on Windows 10</u></a></li>
 </ul></div>
 
