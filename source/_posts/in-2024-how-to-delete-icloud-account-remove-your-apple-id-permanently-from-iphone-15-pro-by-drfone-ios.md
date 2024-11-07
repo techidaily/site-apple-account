@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 15 Pro
-date: 2024-10-24T21:21:18.233Z
-updated: 2024-11-01T05:22:57.768Z
+date: 2024-11-01T22:38:48.502Z
+updated: 2024-11-07T03:57:25.148Z
 tags: 
   - unlock
   - remove apple account
@@ -114,6 +114,13 @@ If you are sure of your decision and have prepared for the consequences, here's 
 
 ![select reason for request](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-09.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4:** Review the information displayed, ensuring you want to proceed with deleting your iCloud account. Click **Continue**.
 - **Step 5:** Choose where Apple can send you updates regarding your deletion request. Click **Continue**.
 
@@ -174,16 +181,16 @@ If you continue to "**remove iCloud account**", this will erase all data from yo
 
 ![put ios device into recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 9:** Dr.Fone will recognize your device in the **Device Model**. Choose an option from the **System Version** drop-down list and click **Start**.
 
 ![select device system version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 10:** The latest iOS firmware is being downloaded.
 
@@ -192,13 +199,6 @@ If you continue to "**remove iCloud account**", this will erase all data from yo
 - **Step 11:** Click **Unlock Now** to proceed.
 
 ![unlock using downloaded firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 12:** Enter the code given in the dialogue box and click **Unlock** to continue.
 
@@ -211,6 +211,13 @@ If you continue to "**remove iCloud account**", this will erase all data from yo
 - **Step 14:** To finalize the Apple ID removal process, please check your device and click **Done** once you've verified it.
 
 ![apple id completely removed](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5: How To Remove an iCloud Account Without Deleting an Apple ID Account?
 
@@ -269,6 +276,19 @@ Deleting your Apple ID is not insignificant because it is your key to the Apple 
 
 You won't be able to purchase or access purchased items from the App Store, iTunes Store, or other Apple services. Remember, deleting your Apple ID is a permanent action and cannot be undone.
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Remove Apple ID/iCloud Account from Mac with Password?
 
 The process of removing Apple ID from a Mac is easy and quick. Before removing the Apple ID, you need to remember that all the services that require Apple ID will no longer work. To **remove the Apple ID from your** **MacBook**, follow these steps:
@@ -284,13 +304,6 @@ The process of removing Apple ID from a Mac is easy and quick. Before removing t
 **Step 3:** On the next window, it will ask you to provide your Apple ID password. Provide the password to complete the process of removing your Apple ID from your Mac.
 
 ![add the apple id password](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-apple-id-from-your-mac-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus Tip: How to Remove Apple ID from iPhone/iPad Without Knowing the Password?
 
@@ -321,18 +334,24 @@ You are required to put your Apple iPhone 15 Pro into Recovery Mode before you c
 
 ![enable the recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3: Remove Your Apple ID from the iPhone**
 
 Wait for the program to complete the process of removing your Apple ID from your phone. Once it is completed, check if the old Apple ID is removed, and you can enter your new Apple ID. Otherwise, you can select "Try Again" to restart the process.
 
 ![check the apple id status](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -357,13 +376,6 @@ iCloud is one of the most integral parts of the Apple ecosystem. It syncs your d
 ### Privacy Concerns
 
 Privacy is an important concern in today’s digital age. Disconnecting from iCloud can provide a layer of security. It prevents sensitive information like photos, contacts, and documents from being stored in the cloud. This is important if you prefer to maintain complete control over your data.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Selling or Giving Away Your Device
 
@@ -401,13 +413,6 @@ You can also remove your iCloud account on your Apple iPhone 15 Pro/iPad by visi
 
 - **Step 2:** Click **AccountSettings**in the interface and scroll down. Choose the option to **Sign Out of All Browsers**. Next, confirm your choice to disconnect your iCloud from your Apple iPhone 15 Pro or iPad.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Factory Reset
 
 [<u>Performing a factory reset</u>](https://drfone.wondershare.com/reset-iphone/factory-reset-iphone-without-itunes.html) can cause all data on your device erased, effectively disconnecting it from iCloud. Here’s how.
@@ -431,13 +436,6 @@ You can use the Find My app to remove an iCloud account from a specific device. 
 
 ![removing device on find my app](https://images.wondershare.com/drfone/article/2023/11/how-to-disconnect-to-icloud-06.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Contact Apple Support
 
 If you encounter issues disconnecting your device from iCloud, contacting Apple support is a wise choice. It’s a good option if you have difficulties using the previous methods. They can guide you through the process and offer personalized assistance.
@@ -447,6 +445,13 @@ If you encounter issues disconnecting your device from iCloud, contacting Apple 
 ### Use a Third-Party Tool
 
 If you’ve tried all the options and even contacted Apple support but still face persistent issues, it might indicate more serious problems. If it detects unusual activity, your Apple iPhone 15 Pro or iPad might trigger iCloud’s Activation Lock. A trusted third-party tool like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)\- Screen Unlock can work wonders in such cases.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3. Steps To Remove iCloud From iPhone/iPad With a Flexible Alternative-Wondershare Dr.Fone
 
@@ -469,10 +474,16 @@ Once the process is completed, you should see the completion message below. Sele
 ![icloud successfully removed using dr.fone](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4. How Dr.Fone Can Benefit You in Other Aspect
@@ -499,6 +510,13 @@ You can manage your device’s data directly on your computer. Transfer files an
 
 Dr.Fone provides robust backup solutions. The platform allows you to create backups of your device and restore them when needed. It’s an essential part of maintaining the integrity of your data.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Managing your iCloud is essential for maintaining privacy and control over your Apple devices. The various methods on **how to disconnect your Apple iPhone 15 Pro from iCloud**cater to different scenarios. Whether you disconnect using device settings or the flexibility of third-party tools like Dr.Fone, the choice is yours.
@@ -519,22 +537,22 @@ With these options at your disposal, you can tailor your data to meet your speci
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-ideal-vr-solutions-for-drone-flying-for-2024/"><u>[New] Ideal VR Solutions for Drone Flying for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-internet-flip-chart/"><u>[New] Internet Flip Chart</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-zero-price-text-enhancements-for-vfx-artists/"><u>[New] Zero-Price Text Enhancements for VFX Artists</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-visual-experience-top-10-screen-selections-for-mac/"><u>2024 Approved Premier Visual Experience Top 10 Screen Selections for Mac</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/conversion-gratuite-en-hd-guide-complet-sur-la-transmutation-de-fichiers-mkv-hevch265-sans-perte-de-qualite-ni-ralentissement-des-performances/"><u>Conversion Gratuite en HD : Guide Complet Sur La Transmutation De Fichiers MKV HEVC/H.265 Sans Perte De Qualité Ni Ralentissement Des Performances</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-13-mini-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone 13 mini</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-se-2022-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone SE (2022)</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-7-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 7</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From Apple iPhone XR?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-apple-iphone-6s-plus-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your Apple iPhone 6s Plus without Security Questions?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-11-pro-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone 11 Pro Making It Possible</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-iphone-12-pro-max-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On iPhone 12 Pro Max Making It Possible</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 11 Pro</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/optibackup-insider-opinions-for-2024/"><u>OptiBackup Insider Opinions for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/should-my-lifestyle-merit-upgrading-to-advanced-apple-watch-features/"><u>Should My Lifestyle Merit Upgrading to Advanced Apple Watch Features?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/significant-layoffs-commencing-at-intel-with-upwards-of-15-cuts-impacting-1500nplus-employees-meteor-lake-issues-lead-to-temporary-halting-of-stockholder-pa13/"><u>Significant Layoffs Commencing at Intel with Upwards of 15% Cuts Impacting 15,00N+ Employees; Meteor Lake Issues Lead to Temporary Halting of Stockholder Payouts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ssential-free-online-music-libraries-15-picks/"><u>[New] Essential Free Online Music Libraries 15 Picks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-effective-habits-to-monitor-and-record-gotomeetings/"><u>[New] In 2024, Effective Habits to Monitor and Record GoToMeetings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-mkv-player-apps-windows-pc/"><u>2024 Approved Ideal MKV Player Apps Windows PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-premium-fourteen-high-res-full-frame-selection/"><u>2024 Approved Premium Fourteen High Res Full Frame Selection</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-13-mini-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 13 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-8-plus-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 8 Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-8-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From Apple iPhone 8?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-12-mini-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone 12 mini?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-iphone-12-pro-max-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Max When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-iphone-12-mini-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On iPhone 12 mini? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On iPhone 13 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-iphone-13-pro-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove iPhone 13 Pro Device from iCloud</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-mastering-dimming-audio-with-audacity/"><u>In 2024, Mastering Dimming Audio with Audacity</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-videopilot-hd-snapshot-guide/"><u>In 2024, VideoPilot HD Snapshot Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/mastering-profit-on-facebook-essential-insights-and-hacks/"><u>Mastering Profit on Facebook Essential Insights & Hacks</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782244-9781620550540-sacred-woman-sacred-dance/"><u>Sacred Woman, Sacred Dance | Free Book</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/selecting-androids-best-youtube-video-extractors-for-2024/"><u>Selecting Android's Best YouTube Video Extractors for 2024</u></a></li>
 </ul></div>
 
