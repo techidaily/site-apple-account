@@ -1,7 +1,7 @@
 ---
 title: How to Fix The Finals Not Launching -2024 Tips
-date: 2024-11-05T16:11:45.988Z
-updated: 2024-11-07T02:52:25.646Z
+date: 2024-11-16T06:32:34.046Z
+updated: 2024-11-17T05:25:48.723Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 
  Make sure you’re playing Football Manager 2022 in a 64-bit processor and operating system. If you’re on a 32-bit system, it’s recommended to upgrade your system and perhaps your device.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2\. Add an exception to your antivirus
 
  Antivirus is known to interfere with Football Manager 2022 and most of your Steam games. To make sure you can run your game, make sure you have added Football Manager 2022 as an exception to your antivirus software.
@@ -49,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
  Or you can uninstall your antivirus temporarily (note that disabling it won’t work) and be very careful about the websites you’re visiting.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3\. Update your graphics driver
@@ -68,7 +75,27 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/driver-easy-5.7.1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -76,10 +103,10 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 After updating your drivers, restart your PC and test the gameplay.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4\. Verify the integrity of game files
@@ -94,13 +121,20 @@ After updating your drivers, restart your PC and test the gameplay.
 3) Go to **LOCAL FILES** and click **Verify integrity of game files…**
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once complete, launch the game to check if your game is working again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5\. Delete the Caches and Preferences folder
@@ -115,13 +149,6 @@ Once complete, launch the game to check if your game is working again.
 
  3) Navigate to **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2022** and then delete the**Caches** and**Preferences** folder.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6\. Run the game executable file as admin
 
  If you can’t launch Football Manager 2022 after following the steps above, you may want to run this executable game file directly to see if this helps.
@@ -134,21 +161,7 @@ Once complete, launch the game to check if your game is working again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Locate the game’s executable and run the game as an administrator.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7\. Open the game in windowed mode
 
@@ -159,13 +172,6 @@ Once complete, launch the game to check if your game is working again.
 
  2) In the **GENERAL** tab, uncheck **Enable the Steam Overlay while in-game** and type **\-windowed** under **LAUNCH OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch your Football Manager 2022 to check if your launch issues have been resolved successfully.
 
@@ -278,22 +284,20 @@ Feel free to drop us a line if you have any suggestions or questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-discover-the-best-phone-apps-to-improve-vocality/"><u>[New] 2024 Approved Discover the Best Phone Apps to Improve Vocality</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-ultimate-biking-experience-index/"><u>[New] In 2024, Ultimate Biking Experience Index</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-instagram-the-ultimate-video-cropping-techniques/"><u>[New] Mastering Instagram The Ultimate Video Cropping Techniques</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-prime-platforms-for-asmr-experience/"><u>[Updated] 2024 Approved Prime Platforms for ASMR Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/black-ops-cold-war-no-sound-on-pc-solved/"><u>Black Ops Cold War No Sound on PC [SOLVED]</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/comprehensive-file-removal-made-easy-with-stellar-file-eraser-v5-on-windows-platforms/"><u>Comprehensive File Removal Made Easy with Stellar File Eraser v5 on Windows Platforms</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-iphone-13-pro-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On iPhone 13 Pro? Heres the Best Fixes</u></a></li>
-<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-xs-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone XS</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-smooth-out-the-play-in-battlefield-5-a-complete-lag-free-solution-list/"><u>How to Smooth Out the Play in Battlefield 5 – A Complete Lag-Free Solution List</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-xs-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On iPhone XS?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From Apple iPhone 13 Pro</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-iphone-11-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From iPhone 11 without Password?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-15-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 15</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-xr-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From iPhone XR</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-honor-magic-6-pro-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Honor Magic 6 Pro.</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-xiaomi-redmi-note-12t-pro-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Xiaomi Redmi Note 12T Pro? Fixed | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-6s-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On iPhone 6s?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-elevate-your-meetings-best-tools-to-record-zoom/"><u>[New] 2024 Approved Elevate Your Meetings Best Tools to Record Zoom</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-tiny-snippets-deciphered-important-facts/"><u>[Updated] Tiny Snippets Deciphered Important Facts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-master-the-art-of-live-streaming-snapchat-videos/"><u>2024 Approved Master the Art of Live Streaming Snapchat Videos</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138571989-9780595612765-beyond-techniques-the-2012-shift/"><u>Beyond Techniques: the 2012 Shift | Free Book</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/dissecting-metaverse-and-multimeva-what-sets-them-apart-insightful-guide/"><u>Dissecting Metaverse and Multimeva What Sets Them Apart (Insightful Guide)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-se-2022-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone SE (2022)?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-6-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone 6</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-apple-iphone-12-pro-max-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From Apple iPhone 12 Pro Max? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-apple-iphone-15-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From Apple iPhone 15 without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-iphone-13-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your iPhone 13 From Your Apple ID</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-premium-noiseless-audio-to-text-applications/"><u>In 2024, Premium Noiseless Audio-To-Text Applications</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-uncovering-budget-friendly-video-conferencing-tools-for-multiple-systems/"><u>In 2024, Uncovering Budget-Friendly Video Conferencing Tools for Multiple Systems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-xs-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone XS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-apple-ring-anticipated-cost-launch-timeline-and-features-what-we-know-so-far/"><u>Upcoming Apple Ring - Anticipated Cost, Launch Timeline & Features: What We Know So Far</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/videosaverx-heal-damaged-files/"><u>VideoSaverX: Heal Damaged Files</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 13 Pro Max?
-date: 2024-09-13T21:43:48.438Z
-updated: 2024-09-16T16:06:56.358Z
+date: 2024-11-10T06:33:51.439Z
+updated: 2024-11-17T07:13:09.425Z
 tags: 
   - unlock
   - remove apple account
@@ -135,6 +135,13 @@ No. The error message “Your account has been disabled in the App Store and iTu
 
 After you see these errors, you will not be able to access some of the features and apps that require your Apple ID for access.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5. How to fix Apple ID disabled by removing Apple ID?
 
 Sometimes the only way to [fix “Apple ID Disabled”](https://drfone.wondershare.com/apple-account/how-to-unlock-apple-id-disabled-activation-lock.html) is to remove the Apple ID from the Apple iPhone 13 Pro Max device. This may become a viable solution if you lost or forgot the Apple ID password or ID and you have no way to recover them. It is also one of the best solutions when you purchased a second-hand device, and you don’t know the Apple ID password for the account associated with the Apple iPhone 13 Pro Max device.
@@ -177,11 +184,25 @@ Dr.Fone will immediately begin removing the Apple ID from the Apple iPhone 13 Pr
 
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You should then be able to sign in to another Apple ID or create a new Apple ID and password to use on the Apple iPhone 13 Pro Max device.
 
 ## Conclusion
 
 In conclusion, encountering a disabled Apple account in the App Store and iTunes can be a frustrating experience. However, by understanding the reasons behind it, following the recommended steps to resolve the issue, and considering the broader impact on your digital life, you can navigate this situation effectively. Remember, prompt action and patience are key to restoring your account and getting back to enjoying the Apple ecosystem hassle-free.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How To Remove Phone Number From Your Apple ID on Your Apple iPhone 13 Pro Max?
 
@@ -192,6 +213,13 @@ While the code is essential, it can become inactive if your registered phone num
 Unsure about the steps, though? This post covers that, so read ahead.
 
 ![apple id](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-phone-number-from-apple-id-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1. What is the Purpose of a Phone Number for Apple ID?
 
@@ -218,13 +246,6 @@ In the matter of **how to remove a phone number from an Apple ID**, the most eff
 **Step 3**: Reach the Password & Security section.
 
 ![reach password and security](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-phone-number-from-apple-id-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4**: You will see the Edit icon on the right-hand side. Click on it and then tap on the "Add a Trusted Phone Number" option.
 
@@ -288,6 +309,13 @@ It is possible to **remove phone number from Apple ID** by accessing the Apple i
 
 ![choose to remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** Put the Apple iPhone 13 Pro Max device into recovery mode following the on-screen instructions. Then, restart the Apple iPhone 13 Pro Max device. This will automatically kickstart the unlocking process and will take some seconds.
 
 ![automatically kickstart the unlocking process](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
@@ -295,19 +323,6 @@ It is possible to **remove phone number from Apple ID** by accessing the Apple i
 **Step 4:** Finally, see that Apple ID's device has been unlocked on the next page.
 
 ![apple id has successfully removed](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Video Guide: How to Remove Apple ID without Password?**
 
@@ -410,16 +425,16 @@ The tool guides you through the process, ensuring a seamless experience with a u
 
 ![confirm 2fa set up on iphone](https://images.wondershare.com/drfone/guide/remove-apple-id-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 7:** Follow the steps on the screen to put your Apple iPhone 13 Pro Max into Recovery Mode. If you are having trouble, click **DFU Mode** in the bottom left corner.
 
 ![iphone enter recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 8:** Select an option in the **System Version** drop-down menu and click **Start**.
 
@@ -441,28 +456,15 @@ The tool guides you through the process, ensuring a seamless experience with a u
 
 ![unlocking apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 13:** Click **Done**, then check your Apple iPhone 13 Pro Max to see if the Apple ID has been removed.
 
 ![apple id unlocked on iphone](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How To Unlink iPhone From Apple ID if the Apple iPhone 13 Pro Max device Was Lost?
@@ -478,6 +480,13 @@ Follow these steps and explore **how to unlink Apple ID from iPhone** and other 
 - **Step 3:** Choose your iOS device from the list in the **Devices** section.
 
 ![list of associated devices](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-23.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 4:** Click **Remove from account** and click **Remove** again to confirm.
 
@@ -561,5 +570,23 @@ If you unfortunately encounter any challenges during the process, you can seek a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/-dynamic-fitness-series-ideas-to-enhance-viewer-retention-for-2024/"><u>[New] 5 Dynamic Fitness Series Ideas to Enhance Viewer Retention for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-charting-a-course-through-public-domain-landmarks-for-2024/"><u>[New] Charting a Course Through Public Domain Landmarks for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-popularitys-palette-ig-story-filter-guide/"><u>[New] In 2024, Popularity's Palette IG Story Filter Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-compendium-of-top-rated-instagram-analytics-applications-for-2024/"><u>[New] The Ultimate Compendium of Top-Rated Instagram Analytics Applications for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-speedy-shifts-in-powerpoint-video-speed/"><u>[Updated] Speedy Shifts in PowerPoint Video Speed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/does-the-disappearance-of-d3d-device-herald-unreals-exit/"><u>Does the Disappearance of D3D Device Herald Unreal's Exit</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-apple-iphone-13-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On Apple iPhone 13 Pro Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-11-pro-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and Apple iPhone 11 Pro The Right Way</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-oppo-f23-5g-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Oppo F23 5G.</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-15-pro-max-by-drfone-ios/"><u>How To Unlink Apple ID From iPhone 15 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone 14 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-8-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone 8?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your iPhone 11 Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-lensflexmax-7-superior-image-enlargement-tool/"><u>In 2024, LensFlexMax 7 Superior Image Enlargement Tool</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-11-pro-max-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From iPhone 11 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-apple-iphone-12-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On Apple iPhone 12? 5 Tips You Must Know</u></a></li>
+</ul></div>
 

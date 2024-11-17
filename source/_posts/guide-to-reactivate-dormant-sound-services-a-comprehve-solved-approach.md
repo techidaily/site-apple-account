@@ -1,7 +1,7 @@
 ---
 title: "Guide to Reactivate Dormant Sound Services: A Comprehve Solved Approach"
-date: 2024-11-01T21:30:02.697Z
-updated: 2024-11-06T23:45:05.460Z
+date: 2024-11-12T02:00:13.824Z
+updated: 2024-11-17T07:45:34.038Z
 tags:
   - win11
   - win10
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Mic testing in Windows audio settings
 
  In Windows audio settings, you can easily perform a mic testing. Here’s how to do it:
@@ -52,24 +45,24 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
 3. Click**Set up microphone** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-38-40.png)
 4. Select the correct type of your microphone and click**Next** .  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-39-30.png)
 5. Follow the**Microphone Setup Wizard** to configure your microphone. Close the wizard when it completes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-40-26.png)
 
@@ -81,6 +74,13 @@ Follow the steps below to test your microphone in Windows audio settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-41-21.png)
 2. Navigate to**the Recording tab** . Select the microphone you’re going to test, then try speaking into your microphone to test if it works properly. If it is, you should see some green in the bar on the right. Click**OK** to close the window after testing.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-42-45.png)
 
  If the microphone you’re going to test is not the default device for recording, you need to click**the Set Default button** to set it as the default device first.
@@ -88,10 +88,10 @@ Follow the steps below to test your microphone in Windows audio settings:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Mic testing with the built-in Voice Recorder app
@@ -106,10 +106,16 @@ Follow the steps below to test your microphone in Windows audio settings:
 3. Click**the stop button** to stop recording.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-46-27.png)
@@ -117,14 +123,14 @@ Follow the steps below to test your microphone in Windows audio settings:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-47-16.png)
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Bonus tip: How to fix microphone not working on your computer?
 
@@ -168,20 +174,22 @@ Follow the steps below to test your microphone in Windows audio settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-banishing-the-blank-screen-from-youtube-videos/"><u>[Updated] In 2024, Banishing the Blank Screen From YouTube Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instaidentity-100-innovative-caption-examples-for-global-sharing-for-2024/"><u>[Updated] InstaIdentity 100 Innovative Caption Examples for Global Sharing for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-professional-handheld-mounts-ultimate-gyroscopic-tech/"><u>2024 Approved Professional Handheld Mounts Ultimate Gyroscopic Tech</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725287512953-vobmp4/"><u>如何快速、有效地變更VOB影片成MP4格式：市場上頂級軟體分析報告</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-8-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 8</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-iphone-15-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off iPhone 15 without Password</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-apple-iphone-7-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From Apple iPhone 7? How to Fix it?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-apple-iphone-12-pro-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your Apple iPhone 12 Pro Apple ID on MacBook</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-apple-iphone-13-pro-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From Apple iPhone 13 Pro without Password?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/m4a-to-wav-conversion-guide-for-windows-operating-systems-11-10-8-and/"><u>M4A to WAV Conversion Guide for Windows Operating Systems (11, 10, 8 &</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/simplifying-the-complex-an-in-depth-review-of-vida-app/"><u>Simplifying the Complex An In-Depth Review of Vida App</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/streamlined-speed-meets-elegant-design-with-the-aukey-usb-30-hub-review/"><u>Streamlined Speed Meets Elegant Design with the Aukey USB 3.0 Hub Review</u></a></li>
-<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-15-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 15</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-iphone-13-mini-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your iPhone 13 mini? How to Fix</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-expert-insights-ranking-the-best-21-hdmi-monitor-models-for-2024/"><u>[New] Expert Insights Ranking the Best 2.1 HDMI Monitor Models for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-from-game-to-giga-full-ps4-capture-using-obs/"><u>[New] From Game to Giga Full PS4 Capture Using OBS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-scale-fund-assessment-preparing-for-your-podcast-journey/"><u>2024 Approved Full-Scale Fund Assessment Preparing for Your Podcast Journey</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-6s-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off Apple iPhone 6s without Password</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-iphone-8-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On iPhone 8? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-14-pro-max-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone 14 Pro Max without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-iphone-8-plus-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From iPhone 8 Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-iphone-11-pro-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From iPhone 11 Pro</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-honor-x9amirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Honor X9aMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-infinix-hot-40i-by-drfone-android/"><u>In 2024, How to Bypass FRP on Infinix Hot 40i?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-how-to-make-macbook-pro-video-tutorials-easy/"><u>In 2024, How to Make Macbook Pro Video Tutorials Easy</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-mastering-multitask-views-how-to-control-picture-in-picture-on-iphones/"><u>In 2024, Mastering Multitask Views How to Control Picture in Picture on iPhones</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-se-2022-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-pros-playbook-elevating-your-facebook-lives-to-new-heights/"><u>The Pro's Playbook Elevating Your Facebook Lives to New Heights</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-xs-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone XS</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-maximizing-quality-and-efficiency-with-compressor-in-final-cut-pro-x/"><u>Updated Maximizing Quality and Efficiency with Compressor in Final Cut Pro X</u></a></li>
 </ul></div>
 

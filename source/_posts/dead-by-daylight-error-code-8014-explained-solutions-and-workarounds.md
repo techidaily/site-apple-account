@@ -1,7 +1,7 @@
 ---
 title: "Dead by Daylight Error Code 8014 Explained: Solutions and Workarounds"
-date: 2024-11-01T00:29:38.146Z
-updated: 2024-11-06T21:21:31.801Z
+date: 2024-11-13T21:18:48.789Z
+updated: 2024-11-16T22:46:03.686Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ Mount & Blade 2: Bannerlord keeps crashing to the desktop? Don’t panic. Here�
 
  Before you proceed,**perform a restart** on your computer first. A reboot will refresh the operating system and fix almost any software-related glitches.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 1: Verify the integrity of game files
 
  Files of your game installation might get corrupt, or be deleted as a false positive by antivirus. If this happens to you, you may run into Bannerlord crashing issues.
@@ -46,6 +39,13 @@ Mount & Blade 2: Bannerlord keeps crashing to the desktop? Don’t panic. Here�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_14-38-40.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Right-click**Mount & Blade II: Bannerlordand** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_14-41-15-2.jpg)
@@ -54,23 +54,9 @@ Mount & Blade 2: Bannerlord keeps crashing to the desktop? Don’t panic. Here�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_14-42-46.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Wait for the scans to be complete, then relaunch the game.
 
 If Mount & Blade 2 still crashes, try the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 2: Update your graphics driver
 
@@ -93,10 +79,10 @@ If Mount & Blade 2 still crashes, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_14-21-20.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -109,10 +95,10 @@ If Mount & Blade 2 still crashes, try the next solution.
 If the Bannerlord is still unplayable, continue with the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 3: Reinstall the game
@@ -123,16 +109,16 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-494.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
@@ -146,6 +132,19 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
  If the Bannerlord still crashes on your PC, move on and try the solution below.
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 4: Increase virtual memory
 
  Virtual memory is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive.
@@ -157,13 +156,6 @@ If the Bannerlord is still unplayable, continue with the next solution.
 **1)** On your keyboard, press the **Windows logo** key and type **advanced system settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-884.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Click **View advanced system settings.**
 
@@ -185,6 +177,13 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-879.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
 * **Initial size** – This value varies, depending on your computer. If you’re not sure what value to use, just enter whatever the number is in the **Recommended** category.
@@ -192,18 +191,18 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-39-55.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **8)** Click **Set** , and then click **OK** .
 
 **9)** Restart your computer and your game.
 
  You should be able to run Mount & Blade 2: Bannerlord without crashing now. If not, check the solution below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 5: Check for Windows updates
 
@@ -216,6 +215,13 @@ If the Bannerlord is still unplayable, continue with the next solution.
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-576.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Restart your computer after the update is complete, then try running the game again.
 
@@ -236,24 +242,22 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-critically-acclaimed-video-cards-for-clear-youtube-broadcasts/"><u>[New] 2024 Approved Critically Acclaimed Video Cards for Clear YouTube Broadcasts</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-unmasking-the-secrets-of-samsungs-image-manipulation-tech-for-2024/"><u>[New] Unmasking the Secrets of Samsung's Image Manipulation Tech for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-discover-instagrams-free-filter-options-with-smart-searching-techniques/"><u>[Updated] 2024 Approved Discover Instagram's FREE Filter Options with Smart Searching Techniques</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-battle-ultrawide-vs-uhd-4k-display-options/"><u>[Updated] The Ultimate Battle UltraWide vs UHD 4K Display Options</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-13-pro-max-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 13 Pro Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-apple-iphone-11-pro-max-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://driver-download.techidaily.com/guide-to-fixing-compatibility-issues-with-realtek-wireless-adapters-on-pcs-windows-11107/"><u>Guide to Fixing Compatibility Issues with Realtek Wireless Adapters on PCs (Windows 11/10/7)</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-apple-iphone-6s-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your Apple iPhone 6s Plus Apple ID and Apple Pay</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-samsung-galaxy-a15-4g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Samsung Galaxy A15 4G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-iphone-xs-max-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On iPhone XS Max without Password?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-iphone-15-plus-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect iPhone 15 Plus and iPad</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-solutions-resolve-your-winwordexe-crashing-issues/"><u>Quick Solutions: Resolve Your Winword.exe Crashing Issues</u></a></li>
-<li><a href="https://article-posts.techidaily.com/screenplay-savvy-filmoras-faqs-for-2024/"><u>Screenplay Savvy Filmora's FAQs for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-long-awaited-fix-for-wolcen-lords-of-mayhem-is-here/"><u>The Long-Awaited Fix for Wolcen - Lords of Mayhem Is Here</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-iphone-8-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From iPhone 8</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-13-pro-max-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From iPhone 13 Pro Max</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-from-flat-to-fierce-transformative-color-workflows/"><u>[Updated] From Flat to Fierce Transformative Color Workflows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-video-segmentation-the-easy-fades-way/"><u>[Updated] Mastering Video Segmentation The Easy Fades Way</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-a-beginners-companion-best-software-for-gamers-recordings-and-editing/"><u>2024 Approved A Beginner's Companion Best Software for Gamers’ Recordings & Editing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-hosts-maximizing-youtube-video-exposure/"><u>2024 Approved Ideal Hosts Maximizing YouTube Video Exposure</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-14-plus-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing iPhone 14 Plus Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-apple-iphone-15-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From Apple iPhone 15? Find the Best Solution Here</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-techniques-for-streamlined-google-podcasts/"><u>In 2024, Expert Techniques for Streamlined Google Podcasts</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone 13 mini</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from iPhone 8 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-8-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From Apple iPhone 8</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 14 Pro Max?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/847456-9781846947261-planet-as-self/"><u>Planet as Self | Free Book</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-14-pro-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone 14 Pro Making It Possible</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-strengths-and-weaknesses-of-the-dbpower-600a-peak-performance-at-18000mah/"><u>Unveiling the Strengths and Weaknesses of the DBPower 600A - Peak Performance at 18,000mAh</u></a></li>
 </ul></div>
 

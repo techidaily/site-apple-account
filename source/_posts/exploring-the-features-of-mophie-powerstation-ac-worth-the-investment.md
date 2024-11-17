@@ -1,7 +1,7 @@
 ---
 title: Exploring the Features of Mophie Powerstation AC - Worth the Investment?
-date: 2024-11-03T19:09:23.415Z
-updated: 2024-11-07T01:27:02.648Z
+date: 2024-11-11T02:09:45.413Z
+updated: 2024-11-17T00:06:29.856Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the Features of Mophie Powerstation AC - Worth the Investment?
@@ -40,19 +40,6 @@ Lifewire / Kelsey Simon
 
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/8XGs9qzQ6hLIBySEKXEvBMfEkq4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_1LW415460710-2185a26d460b40978c1e0887900fbc7b.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Kelsey Simon
 
 [View On Amazon](https://www.amazon.com/dp/B075NFTX36/?tag=lifewire-onsite-prod-20&ascsubtag=4685718%7Cn0dc423de187c40659bf9fd9ffcd5e7ec22%7CB075NFTX36) [View On Walmart](https://www.walmart.com/ip/829171723)
@@ -75,6 +62,13 @@ Lifewire / Kelsey Simon
 
  The Elder Scrolls V: Skyrim is an action role-playing game focused on single-player immersion in a fantasy world. It was originally released in 2011 and has most recently been ported over to the Switch. We took a close look at this game on its newest platform, playing it on the go to test the handheld gameplay experience, along with the plot and graphics.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process: Simple for all users**
 
  As with other games on the Nintendo Switch, you’ll need to insert the cartridge into your device. Skyrim does take a while to launch, so be patient as it loads up. There shouldn’t be any special downloads required, like with other games, and as soon as things load you’ll be able to play.
@@ -82,13 +76,6 @@ Lifewire / Kelsey Simon
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/uXDVHaBrdIlv5tI-qRgiPK0Iig4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW415460721-e6a53664e7eb4e65a75bf5cceb928e28.jpg)
 
  Lifewire / Kelsey Simon
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Plot: A huge world with loads to explore**
 
@@ -108,14 +95,14 @@ Lifewire / Kelsey Simon
 
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/1fxH7ty_kqxpugJDk2tIQndKvI0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW41546078-6bdc67e56311473f9c1edeab00d2caa5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Kelsey Simon
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Gameplay: Not as smooth as on other platforms**
 
@@ -137,9 +124,23 @@ Lifewire / Kelsey Simon
 
  Lifewire / Kelsey Simon
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Graphics: A bit outdated**
 
  The graphics in Skyrim aren’t awful, but they haven't progressed much since 2011\. If you’ve played any other version of Skyrim, you can overlook it, simply because you know what you’re getting into. Bethesda attempted to make Skyrim look realistic, likely in their desire to give you a fully immersive experience. But these days, Skyrim’s graphics just aren’t as realistic as what other, more recent games have accomplished. In places, the mountains look blocky and the grass a little patchy. Character’s faces sometimes seem deeply sunken around the eyes, with the skin looking more like leather than flesh. It’s not that the graphics are overly bad, they’re just not as good as what you can get with better hardware on the PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Platform: Take Skyrim on the go**
 
@@ -153,27 +154,20 @@ Lifewire / Kelsey Simon
 
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/Iik6f_7RIRMWo5R6zGYxgGeL4n0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW41546076-8fb741faa7144fa6bafe386d2b7d8296.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Kelsey Simon
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: A tad expensive**
 
  The Elder Scrolls V: Skyrim costs roughly $60 dollars for the Switch (MSRP). You might be able to find it on sale on Amazon for less, but it’s still on the more expensive side like other popular Switch games. This is disappointing since you can find Skyrim on other platforms for a fraction of the cost, even snatching it up for sale on Steam for $25 or less on PC. Considering the cost difference, the PC version of the game is the better deal, especially since the gameplay is better looking. But if you’re looking to take Skyrim on the go, or a Switch is your preferred gaming system, the price isn’t unreasonable.
 
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/HBIvthh4-o2kkXUP5CB6pSTnyOE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW415460725-46d1960a611c4ea488515c19052068bf.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -188,10 +182,10 @@ Lifewire / Kelsey Simon
  Even though The Elder Scrolls V: Skyrim is a great game and the Switch is an amazing platform, our advice is only to buy Skyrim for the Switch if you’re looking to play on the go. Otherwise, we’d suggest purchasing Skyrim for the PC, where you’ll really be able to enjoy superior graphics and customization options.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -222,24 +216,24 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-synchronizing-teams-mastering-device-agnostic-zoom-events/"><u>[New] 2024 Approved Synchronizing Teams Mastering Device-Agnostic Zoom Events</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-exquisite-couple-clips-the-best-weddings-online-8-picks/"><u>[New] Exquisite Couple Clips The Best Weddings Online (8 Picks)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-unveiling-top-tier-seeds-for-optimal-growth-in-valheim/"><u>[New] Unveiling Top-Tier Seeds for Optimal Growth in Valheim</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-8-free-online-courses-for-beginner-youtube-creators-for-2024/"><u>[Updated] 8 Free Online Courses for Beginner YouTube Creators for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-meta-and-omni-universe-showcase-analysis/"><u>2024 Approved Meta & Omni Universe Showcase Analysis</u></a></li>
-<li><a href="https://win-able.techidaily.com/diablo-immortal-release-delayed-no-pc-version-yet/"><u>Diablo Immortal Release Delayed: No PC Version Yet</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-15-pro-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone 15 Pro?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-13-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 13 From Your Apple ID</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-13-pro-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 13 Pro</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-iphone-15-plus-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your iPhone 15 Plus Apple ID on MacBook</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-iphone-se-2020-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From iPhone SE (2020) in the Best Ways</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From iPhone 14 Pro Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-iphone-se-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From iPhone SE without Password?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-apple-iphone-se-2022-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On Apple iPhone SE (2022) Making It Possible</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-open-source-graphics-transformation-programs/"><u>Leading Open Source Graphics Transformation Programs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-top-4-free-cad-programs/"><u>The Ultimate Guide to Top 4 Free CAD Programs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-inquiry-collection-for-podcast-appeal/"><u>Updated Inquiry Collection for Podcast Appeal</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/what-to-do-when-the-latest-windows-11-version-1607-update-wont-install-successfully/"><u>What to Do When the Latest Windows 11 Version 1607 Update Won't Install Successfully?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/uide-to-amplifying-your-video-presence-with-seo-tips-for-2024/"><u>[New] Guide to Amplifying Your Video Presence with SEO Tips for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-affordable-action-camera-choices-top-6-under-100/"><u>[New] In 2024, Affordable ACTION Camera Choices – Top 6 Under $100</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-feast-your-eyes-on-9-whole-film-winter-wonders-no-charge/"><u>[New] In 2024, Feast Your Eyes on 9 Whole-Film Winter Wonders No Charge!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-guide-speech-to-text-feature-in-microsoft-word/"><u>[New] Quick Guide Speech-to-Text Feature in Microsoft Word</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-engaging-shots-using-strategic-leading-lines-iphone/"><u>[Updated] Capture Engaging Shots Using Strategic Leading Lines (iPhone)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-secrets-of-effective-screen-capture-with-dell-devices/"><u>[Updated] Secrets of Effective Screen Capture with Dell Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-secrets-revealed-mastering-minecraft-recordings-on-a-macbook-pro-for-2024/"><u>[Updated] Secrets Revealed Mastering Minecraft Recordings on a MacBook Pro for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-iphone-8-plus-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off iPhone 8 Plus without Password</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-12-mini-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone 12 mini? How to Fix it?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-missteps-checking-gpts-online-status/"><u>Avoiding Missteps: Checking GPT's Online Status</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-apple-iphone-14-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On Apple iPhone 14? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-apple-iphone-12-mini-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From Apple iPhone 12 mini without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-apple-iphone-6-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect Apple iPhone 6 and iPad</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-iphone-14-pro-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect iPhone 14 Pro and iPad</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-iphone-8-plus-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From iPhone 8 Plus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-inconsistencies-in-default-print-devices/"><u>Managing Inconsistencies in Default Print Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tricks-to-get-your-windows-computer-to-start-up-in-safe-mode/"><u>Ultimate Tricks to Get Your Windows Computer to Start Up in Safe Mode</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-iphone-14-pro-max-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From iPhone 14 Pro Max</u></a></li>
 </ul></div>
 

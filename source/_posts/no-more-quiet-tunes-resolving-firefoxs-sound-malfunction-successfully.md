@@ -1,7 +1,7 @@
 ---
 title: "No More Quiet Tunes: Resolving Firefox's Sound Malfunction Successfully"
-date: 2024-11-02T00:43:02.386Z
-updated: 2024-11-07T01:31:44.575Z
+date: 2024-11-09T16:56:08.751Z
+updated: 2024-11-16T19:40:12.872Z
 tags:
   - win11
   - win10
@@ -49,13 +49,6 @@ Here’s how you can do this:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Set your speakers as the default
 
  When you connect the external speakers to your computer, your system would recognize it. But there are some situations where the sound may not come from your external speakers. That’s because your device isn’t set as the default audio playback device that Windows uses to output sound. In this case, you need to manually set your speakers as the default:
@@ -63,6 +56,13 @@ Here’s how you can do this:
 1. From the bottom-right corner of your screen, right-click on the Speaker icon and select**Open Sound settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 2. Click**Sound Control Panel** .![open sound control panel](https://images.drivereasy.com/wp-content/uploads/2021/03/sound-control-panel.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3. Under the**Playback** tab, click on your Creative Pebble speakers and click**Set Default** .
 
@@ -86,10 +86,10 @@ Here’s how to update drivers with Driver Easy:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
@@ -97,11 +97,25 @@ Here’s how to update drivers with Driver Easy:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/de-update-all-Realtek-Audio.jpg)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and test the audio to check if this action did the trick. If your speakers are still not working, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run the audio troubleshooter
 
@@ -112,27 +126,7 @@ Here’s how to update drivers with Driver Easy:
 ![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/audion-troubleshooter.png)
 2. Select your device and click**Next** to start the troubleshooting process. Then wait for it to complete and you may be asked to restart your computer.  
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/next.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After it’s all done, try to use your speakers to check if they can be functioning well. If you’re still encountering sound failures, proceed to the next fix.
 
@@ -163,19 +157,20 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-digital-display-delights-top-plugins-and-apps-for-photo-frames-for-2024/"><u>[New] Digital Display Delights Top Plugins & Apps for Photo Frames for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-maximizing-your-youtube-presence-via-featured-channel-strategy/"><u>[New] In 2024, Maximizing Your Youtube Presence via Featured Channel Strategy</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-are-m1-laptops-setting-the-standard-in-editing-studios/"><u>[Updated] In 2024, Are M1 Laptops Setting the Standard in Editing Studios?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-expert-advice-finding-pristine-photo-collections/"><u>[Updated] In 2024, Expert Advice Finding Pristine Photo Collections</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-zoom-to-elevate-your-facebook-lives/"><u>[Updated] Navigating Zoom to Elevate Your Facebook Lives</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-15-pro-max-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone 15 Pro Max How to Bypass?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-6-plus-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By Apple iPhone 6 Plus without the Previous Owner?</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/elevate-your-edits-creating-stellar-tiktok-react-videos-in-filmoras-pro-features-for-2024/"><u>Elevate Your Edits Creating Stellar TikTok React Videos in Filmora's Pro Features for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-tecno-spark-10-4g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Tecno Spark 10 4G</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-iphone-14-plus-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an iPhone 14 Plus without Apple ID?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-6-plus-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 6 Plus</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-7-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-insiders-guide-to-local-llm-experts-advantages-and-disadvantages-revealed/"><u>The Insider's Guide to Local LLM Experts: Advantages & Disadvantages Revealed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/network-problem-unable-to-install-hp-d1360-printer-driver-in-various-oses/"><u>[Network Problem] Unable to Install HP D1360 Printer Driver in Various OSes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-enhance-your-feed-instagram-image-tutorial-for-2024/"><u>[New] Enhance Your Feed Instagram Image Tutorial for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-enhancing-user-experience-with-responsive-html-designs/"><u>[New] Enhancing User Experience with Responsive HTML Designs</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-huawei-p60-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Huawei P60 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-11-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-x-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone X Apple ID on MacBook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-7-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 7?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-iphone-13-pro-max-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your iPhone 13 Pro Max From Your Apple ID</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-iphone-15-pro-max-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your iPhone 15 Pro Max without Security Questions?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-apple-iphone-11-pro-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From Apple iPhone 11 Pro? 5 Tips You Must Know</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-say-goodbye-to-upside-down-videos-easy-flipping-hacks/"><u>New In 2024, Say Goodbye to Upside-Down Videos Easy Flipping Hacks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/pigments-and-palettes-the-artists-guidebook/"><u>Pigments & Palettes The Artist's Guidebook</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-huawei-nova-y71-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Huawei Nova Y71</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-size-fix-for-windows-10-users-achieved/"><u>Screen Size Fix for Windows 10 Users Achieved</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 15 Pro Max</u></a></li>
 </ul></div>
 

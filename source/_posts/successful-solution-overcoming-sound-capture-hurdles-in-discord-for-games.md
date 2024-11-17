@@ -1,7 +1,7 @@
 ---
 title: "Successful Solution: Overcoming Sound Capture Hurdles in Discord for Games"
-date: 2024-11-01T20:57:58.718Z
-updated: 2024-11-07T03:06:43.112Z
+date: 2024-11-11T18:46:11.917Z
+updated: 2024-11-16T21:45:23.534Z
 tags:
   - win11
   - win10
@@ -47,16 +47,16 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 
@@ -64,13 +64,6 @@ There’re mainly two ways for you to update an audio driver:
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Change sound settings
 
@@ -81,10 +74,10 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Go to the**Recording** tab.
@@ -93,18 +86,18 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Open Discord application, and go to**User Settings** .
 
  5) Under**Voice Settings** , choose the correct**Input Device** and**Output Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
@@ -117,6 +110,13 @@ There’re mainly two ways for you to update an audio driver:
  2) Type in**appwiz.cpl** and press**Enter** .
 
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Right-click Discord, and select**Uninstall** .
 
@@ -145,20 +145,22 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-10-best-asmr-recorders-for-exceptional-audio-quality-for-2024/"><u>[New] 10 Best ASMR Recorders for Exceptional Audio Quality for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-prime-7-media-gatherers-on-fb/"><u>[Updated] 2024 Approved Prime 7 Media Gatherers on FB</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-step-by-step-guide-posting-shorts-on-youtube-from-pcmobile-devices/"><u>[Updated] 2024 Approved Step-by-Step Guide Posting Shorts on YouTube From PC/Mobile Devices</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-rookie-riches-economical-channels-for-monetization-for-2024/"><u>[Updated] Rookie Riches Economical Channels for Monetization for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-best-15-sci-fi-and-educational-youtube-hubs/"><u>2024 Approved Best 15 Sci-Fi & Educational YouTube Hubs</u></a></li>
-<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-7-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing iPhone 7 Activation Lock without Previous Owner?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-amd-ryzen-5-2400g-up-to-date-effortless-driver-downloads-and-steps/"><u>Get Your AMD Ryzen 5 2400G Up-to-Date: Effortless Driver Downloads & Steps</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-tecno-spark-10c-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Tecno Spark 10C? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-xs-max-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone XS Max Apple ID on MacBook</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-se-2022-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone SE (2022)?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-15-plus-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 15 Plus From Your Apple ID</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-dynamic-igtv-covers-design-and-update-strategies/"><u>In 2024, Dynamic IGTV Covers Design & Update Strategies</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-apple-iphone-x-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from Apple iPhone X without Password?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 11 Pro Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-apple-iphone-xs-max-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From Apple iPhone XS Max</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-cut-to-perfection-an-in-depth-look-at-vivacut-for-24/"><u>[Updated] 2024 Approved Cut to Perfection An In-Depth Look at VivaCut for '24</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-brightening-your-story-with-instagram-highlights-3-methods/"><u>[Updated] Brightening Your Story with Instagram Highlights (3 Methods)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-acid-pro-in-focus-investigating-replacements-and-comparisons/"><u>[Updated] In 2024, ACID Pro in Focus Investigating Replacements and Comparisons</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-hot-tips-for-business-indispensable-items-you-cant-afford-to-miss/"><u>[Updated] In 2024, Hot Tips for Business Indispensable Items You Can't Afford To Miss</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-installation-hurdles-fixing-failed-hardware-monitor-driver-loading-problems/"><u>Bypass Installation Hurdles – Fixing Failed Hardware Monitor Driver Loading Problems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comparing-top-audio-brands-sony-wh-1000xm4-reviewed/"><u>Comparing Top Audio Brands - Sony WH-1000XM4 Reviewed</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-iphone-7-by-drfone-ios/"><u>Guide on How To Remove Apple ID From iPhone 7</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-t2-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo T2 5G Fingerprint Lock</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-15-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone 15?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-6-plus-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your iPhone 6 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-15-plus-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone 15 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-iphone-6-plus-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From iPhone 6 Plus</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/movavi-wmv-m4v/"><u>Movavi 自由轉換 WMV到 M4V在線上 - 全額免費服務</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-issues-when-starting-the-razer-synapse-software/"><u>Overcoming Issues When Starting the Razer Synapse Software</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-15-pro-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone 15 Pro Making It Possible</u></a></li>
 </ul></div>
 

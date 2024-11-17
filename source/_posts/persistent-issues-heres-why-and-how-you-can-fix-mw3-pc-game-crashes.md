@@ -1,7 +1,7 @@
 ---
 title: Persistent Issues? Here's Why and How You Can Fix MW3 PC Game Crashes
-date: 2024-11-04T00:34:24.333Z
-updated: 2024-11-06T20:19:44.747Z
+date: 2024-11-09T23:20:18.132Z
+updated: 2024-11-17T01:34:18.475Z
 tags:
   - win11
   - win10
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -96,19 +96,6 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
 
 ![Driver Easy update graphics driver](https://images.drivereasy.com/wp-content/uploads/2019/07/Driver-Easy-update-graphics-driver-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.
 
  Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
@@ -125,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Modify the graphics settings
 
  Modifying the graphics settings is another easy fix to boost FPS in the game. You need to modify the graphics settings both in Nvidia Control Panel and in the game.
@@ -135,32 +129,27 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel.jpg)
 2. View Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Click **NVIDIA Control Panel**  to open it.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvidia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvida-control-panel-3D-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvida-control-panel-3D-settings.jpg)
 
 #### Lower the in-game graphics settings
 
@@ -182,13 +171,6 @@ See if you can play the game smoothly. If not, try the next fix, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Restrict applications and downloads in the background
 
  The DayZ FPS drops issue may occur if you’re running some other applications or programs at the same time. So **try restricting applications and downloads in the background** before playing the game to see if this issue reappears. Here is how to do it:
@@ -196,6 +178,13 @@ See if you can play the game smoothly. If not, try the next fix, below.
 1. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open **Task Manager** . You will be prompted for permission. Click **Yes** to open Task Manager.
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Task-Manager.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run DayZ again to see if you can play the game smoothly. If the FPS in DayZ still drops, try the next fix, below.
 
@@ -213,6 +202,13 @@ See if you can play the game smoothly. If not, try the next fix, below.
 
 Try the next fix below if this fix didn’t work for you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Change the power plan of your PC
 
  Most PC are configured to **Balanced** , which may limits the operating capacity of your graphics card and CPU. If the power plan of your PC is **Power saver**  or **Balanced** , you might run into the game FPS drops issue.
@@ -223,18 +219,18 @@ Try the next fix below if this fix didn’t work for you.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Launch DayZ to see if you resolve the FPS drops issue. If not, try the next fix below to adjust your Windows system for the best performance.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Adjust your Windows system for the best performance
 
@@ -243,19 +239,6 @@ Try the next fix below if this fix didn’t work for you.
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Type **control sysdm.cpl** and press **Enter** to open the**System Properties** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-system-properties.png)
 2. In the pop-up window, navigate to the Advanced tab, then click **Settings…**  in the **Performance**  section.  
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
 3. Select **Adjust for best performance**  and click **OK** .  
@@ -286,19 +269,22 @@ Try the next fix below if this fix didn’t work for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-unveiling-the-premier-livestream-networks/"><u>[Updated] In 2024, Unveiling the Premier Livestream Networks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-laptop-video-edits-going-off-inshot/"><u>2024 Approved Laptop Video Edits Going Off-Inshot</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-paving-pathways-in-pixels-the-leading-vr-treadmills-reviewed/"><u>2024 Approved Paving Pathways in Pixels The Leading VR Treadmills Reviewed</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Xiaomi Redmi Note 13 Pro+ 5G?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/digital-dialogues-comparing-the-impact-of-podcasts-and-youtube-platforms/"><u>Digital Dialogues Comparing the Impact of Podcasts and YouTube Platforms</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-7-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your iPhone 7 Plus Apple ID and Apple Pay</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-iphone-13-mini-by-drfone-ios/"><u>How to Fix Locked Apple ID from iPhone 13 mini</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-se-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone SE without Password?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-apple-iphone-7-plus-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your Apple iPhone 7 Plus without Security Questions?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-apple-iphone-6s-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From Apple iPhone 6s How to Bypass?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/navigating-the-world-of-ig-data-an-expert-guide-to-understanding-metrics-for-2024/"><u>Navigating the World of IG Data An Expert Guide to Understanding Metrics for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/pros-and-cons-of-using-minecraft-realms-is-it-value-for-money/"><u>Pros and Cons of Using Minecraft Realms: Is It Value-for-Money?</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/simple-methods-to-recover-specific-files-from-your-windows-10-disk-image/"><u>Simple Methods to Recover Specific Files From Your Windows 10 Disk Image</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-iphone-15-pro-max-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From iPhone 15 Pro Max</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-preparing-for-departure-leaving-your-discord-circle/"><u>[New] Preparing for Departure Leaving Your Discord Circle</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-becoming-a-broadcast-pro-zooming-into-youtube-live-success/"><u>2024 Approved Becoming a Broadcast Pro Zooming Into YouTube Live Success</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revealing-historys-best-anime-openers/"><u>2024 Approved Revealing History's Best Anime Openers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-iphone-15-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From iPhone 15? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-15-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone 15 without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-11-pro-max-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone 11 Pro Max without Password?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-apple-iphone-8-plus-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On Apple iPhone 8 Plus? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-14-plus-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone 14 Plus Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-iphone-xs-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On iPhone XS</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On iPhone 8 Plus?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-look-ultraedit-pro-for-video-cutting-2023/"><u>In 2024, In-Depth Look UltraEdit Pro for Video Cutting 2023</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-next-level-creativity-using-copilot-and-powerful-free-gpt-n-technology/"><u>Master Next-Level Creativity Using Copilot and Powerful, Free GPT-N Technology</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-xs-max-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone XS Max</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unrivaled-guide-to-no-cost-photography-archives-for-2024/"><u>Unrivaled Guide to No-Cost Photography Archives for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-best-vertical-video-apps-for-ios-and-android-for-2024/"><u>Updated Best Vertical Video Apps for iOS and Android for 2024</u></a></li>
 </ul></div>
 

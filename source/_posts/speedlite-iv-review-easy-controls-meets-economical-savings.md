@@ -1,7 +1,7 @@
 ---
 title: "Speedlite IV Review: Easy Controls Meets Economical Savings"
-date: 2024-11-05T04:19:38.263Z
-updated: 2024-11-06T20:27:44.127Z
+date: 2024-11-13T21:30:16.458Z
+updated: 2024-11-16T19:11:25.939Z
 categories:
   - BestProducts
 description: "This Article Describes Speedlite IV Review: Easy Controls Meets Economical Savings"
@@ -39,6 +39,13 @@ Lifewire / Jeff Dojillo
 [View On Amazon $374](https://www.amazon.com/dp/B07GDGZCCH?tag=lifewire-onsite-prod-20&ascsubtag=4705929%7Cnde50fad4b8a24784badd8dc01044b4ab22%7CB07GDGZCCH) [View On Best Buy $250](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2F6283807.p) [View On Musiciansfriend.com](https://www.musiciansfriend.com/pro-audio/gopro-hero7-black/l43176000000000?slfpid=3)
 
 4.3
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## GoPro HERO7 Black
 
@@ -91,13 +98,6 @@ Lifewire / Jeff Dojillo
 
  Lifewire / Jeff Dojillo
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup: Updates out of the box**
 
  The GoPro HERO7 Black did not have much battery life out of the box. Once we powered it on, we set the date, time, and location. It then prompted us to update the software, which required a blank memory card and fully-charged battery to complete.
@@ -107,10 +107,10 @@ Lifewire / Jeff Dojillo
  Lifewire / Jeff Dojillo
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Sensor: Small but mighty**
@@ -139,6 +139,13 @@ Lifewire / Jeff Dojillo
 
  Lifewire / Jeff Dojillo
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Photo Quality: Nothing to brag about**
 
  The photo quality on the GoPro HERO7 Black is average, though it does have the ability to create HDR (High Dynamic Range) images.
@@ -159,19 +166,6 @@ Lifewire / Jeff Dojillo
 
  Lifewire / Jeff Dojillo
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Connectivity: Speedy Wi-Fi and Bluetooth pairing**
 
  Wifi and Bluetooth connectivity is a breeze with the GoPro HERO7 Black. Once we installed the GoPro app on our smartphone, the camera connected instantly. The app also gave us a much larger and easier-to-read interface, plus a live view function that allowed us to use our phone to frame and compose videos and remotely control the camera.
@@ -179,10 +173,10 @@ Lifewire / Jeff Dojillo
  Inside the app, there are also options to edit mode settings, change the original set up, review camera info, changed Wi-Fi remotes, as well as monitor the battery level and[SD card](https://www.lifewire.com/how-to-format-sd-card-camera-4587017) capacity. It also makes it easier to review footage and images that the camera captures.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Battery Life: High-res video drains it quickly**
@@ -190,6 +184,13 @@ Lifewire / Jeff Dojillo
  When recording 4K video at 60 fps, the HERO7 Black’s battery only lasts about 50 minutes, so if you’re going to be shooting all day, it would be smart to have a few extra batteries available.
 
  Another option to extend shooting time would be to connect the GoPro HERO7 Black to an external battery pack via the[USB port.](https://www.lifewire.com/what-is-a-usb-port-818166)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Fairly priced for what you get**
 
@@ -200,10 +201,10 @@ Lifewire / Jeff Dojillo
  The portability of the GoPro HERO7 Black is perfect for adventurers, filmmakers, and vloggers that need a rugged and compact camera to create content on the go.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Competition: Less rugged, but better with still photography**
@@ -227,13 +228,6 @@ Lifewire / Jeff Dojillo
  **A rugged and compact action camera with fantastic video stabilization.**
 
  Between the amazing video quality and the enhanced HyperSmooth electronic image stabilization, the GoPro HERO7 Black is perfect for adventurers who want to record or even live-stream their most rugged expeditions. It produces beautiful videos with enhanced color and sharpness and is small enough to wear or mount somewhere without it getting in the way.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -272,24 +266,22 @@ Lifewire / Jeff Dojillo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-focusing-the-lens-advanced-cinematic-techniques/"><u>[New] In 2024, Focusing the Lens Advanced Cinematic Techniques</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-affordable-tutorial-on-professional-looking-youtube-introsends/"><u>[Updated] In 2024, Affordable Tutorial on Professional Looking YouTube Intros/Ends</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-crafting-stunning-insta-films-templates-plus-hacks/"><u>[Updated] In 2024, Crafting Stunning Insta Films Templates + Hacks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/behind-the-scenes-guide-to-elusive-instagram-tools/"><u>Behind-the-Scenes Guide to Elusive Instagram Tools</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-iphones-ghost-alerts-a-comprehensive-guide-to-the-top-7-remedies-for-invisible-notifications/"><u>Fix iPhone's Ghost Alerts: A Comprehensive Guide to the Top 7 Remedies for Invisible Notifications</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-iphone-15-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From iPhone 15 Pro Max? Heres the Best Fixes</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-apple-iphone-14-by-drfone-ios/"><u>How to Fix when Apple Account Locked On Apple iPhone 14?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-apple-iphone-13-pro-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On Apple iPhone 13 Pro in the Best Ways</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-x-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone X without Password?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-15-pro-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your iPhone 15 Pro</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-xs-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone XS</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-iphone-se-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On iPhone SE?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone 14 Pro Max?</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-error-5573-glitch-in-call-of-duty-vanguard-for-better-performance/"><u>Overcoming the Error 5573 Glitch in Call of Duty: Vanguard for Better Performance</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/trasforma-i-tuoi-file-mp4-in-formato-mxf-gratuito-con-convertimp4online/"><u>Trasforma I Tuoi File MP4 in Formato MXF Gratuito Con ConvertiMP4Online</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-rainbow-six-sieges-server-connectivity-issues/"><u>Troubleshooting Steps: Resolving Rainbow Six Siege's Server Connectivity Issues</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-guide-formatting-your-macs-hdd-or-external-storage-device/"><u>Ultimate Guide: Formatting Your Mac's HDD or External Storage Device</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-12-mini-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 12 mini</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-capturing-dynamic-action-sequences-on-iphone/"><u>[Updated] Capturing Dynamic Action Sequences on iPhone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-stardew-enhancements-for-maximum-farming-fun-for-2024/"><u>[Updated] Essential Stardew Enhancements for Maximum Farming Fun for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-gain-recovery-of-personal-snapshots-for-2024/"><u>[Updated] Gain Recovery of Personal Snapshots for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-exciting-entertainment-top-10-ios-games-ready-for-no-wireless-connection/"><u>2024 Approved Exciting Entertainment - Top 10 iOS Games, Ready for No Wireless Connection</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-12-pro-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-whats-new-in-mozilla-thunderbird-version-52-get-it-now/"><u>Discover What's New in Mozilla Thunderbird Version 52 - Get It Now</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-iphone-se-2022-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your iPhone SE (2022)?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone XS Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From Apple iPhone 14 Plus?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-13-pro-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone 13 Pro and iPad</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-12-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From Apple iPhone 12</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-apple-iphone-xs-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On Apple iPhone XS? 5 Tips You Must Know</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-12-mini-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 12 mini With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-5-best-online-tone-generators-for-you-for-2024/"><u>New 5 Best Online Tone Generators for You for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/razer-naga-mouse-driver-downloads-find-and-update-your-windows-software-today/"><u>Razer Naga Mouse Driver Downloads: Find and Update Your Windows Software Today!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/star-wars-squadrons-reviewed-a-deep-dive-into-authentic-x-wing-aerial-combat-action/"><u>Star Wars Squadrons Reviewed: A Deep Dive Into Authentic X-Wing Aerial Combat Action</u></a></li>
 </ul></div>
 
