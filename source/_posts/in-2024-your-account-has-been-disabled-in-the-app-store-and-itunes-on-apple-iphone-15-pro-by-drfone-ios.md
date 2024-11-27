@@ -1,7 +1,7 @@
 ---
 title: In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 15 Pro?
-date: 2024-10-27T21:32:12.307Z
-updated: 2024-11-01T02:20:20.268Z
+date: 2024-11-26T00:04:33.372Z
+updated: 2024-11-26T23:01:57.111Z
 tags: 
   - unlock
   - remove apple account
@@ -37,13 +37,6 @@ There are numerous methods to tackle this issue and regain access to your device
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6NNzJh7fyxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
 _**Tips:** Did you forget your Apple ID password or are you struggling to remove your Apple ID account? Worry not, as [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is here to help you [remove your Apple ID without password](https://drfone.wondershare.com/apple-account/how-to-remove-apple-id-from-iphone-without-password.html) in a matter of seconds. By logging into a new account, you can fully restore access to all your iCloud services and Apple ID features, ensuring a seamless user experience._
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1. Wait 24 hours and Try Again
 
@@ -99,13 +92,6 @@ If you think that your account has been disabled because of a payment issue, it 
 - **Step 4:** Tap “Add Payment Method” to add a new payment method.
 
 ![disabled in the app store and itunes 1](https://images.wondershare.com/drfone/article/2020/11/disabled-in-the-app-store-and-itunes-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If the payment method was the issue, your account will be re-enabled after these steps.
 
@@ -235,19 +221,6 @@ Unlock iPhone ID.
 
 ![dr fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To unlock your Apple ID, you have to click on the “Unlock Apple ID” option.
 
 ![screen unlock home](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
@@ -255,6 +228,10 @@ To unlock your Apple ID, you have to click on the “Unlock Apple ID” option.
 **Step 2:** You must know the passcode of the Apple iPhone 15 Pro to unlock the phone screen, which trusts the computer system for scanning the data available in the phone.
 
 ![trust this pc](https://images.wondershare.com/drfone/drfone/trust-computer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** This process determines that all data will be erased when you initiate to unlock the Apple ID. (If your device didn't activate dual authentication, then you can unlock Apple ID without data loss.) It is recommended to create a backup of your data before proceeding to the next step.
 
@@ -282,6 +259,10 @@ In order to [unlock iPhone](https://drfone.wondershare.com/unlock/unlock-disable
 
 ![find apple id](https://images.wondershare.com/drfone/article/2022/03/find-apple-id.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** When the next screen appears, you will see two options to choose from. Whether you wish to receive a password through email or answer a security question, choose it. Click “Continue”.
 
 ![reset apple id password](https://images.wondershare.com/drfone/article/2022/03/reset-apple-id-password.png)
@@ -291,10 +272,11 @@ In order to [unlock iPhone](https://drfone.wondershare.com/unlock/unlock-disable
 ![reset apple id link](https://images.wondershare.com/drfone/article/2022/03/reset-apple-id-password2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Fix Apple ID Locked Via iforgot
@@ -317,6 +299,10 @@ If your Apple ID is disabled, follow these simple steps listed below:
 
 **Step 5**: Successfully, you have unlocked your Apple ID.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 4: Unlock Apple ID Using Two-Factor Authentication
 
 This next method only works if you've already enabled the Two-Factor Authentication before getting locked out of your Apple ID. In case you've already enabled it, follow the below-mentioned steps to unlock your Apple ID.
@@ -328,16 +314,7 @@ This next method only works if you've already enabled the Two-Factor Authenticat
 ![change password](https://images.wondershare.com/drfone/article/2022/03/two-factor-authenticatoin.png)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:** Then you need to follow the instructions displayed over your screen carefully.
@@ -496,23 +473,9 @@ The tool guides you through the process, ensuring a seamless experience with a u
 
 ![device system version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 9:** Wait while the respective iOS firmware downloads. Alternatively, click **Copy** to do it yourself.
 
 ![downloading firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 10:** Once the firmware is ready, click **Unlock Now**.
 
@@ -521,6 +484,10 @@ The tool guides you through the process, ensuring a seamless experience with a u
 - **Step 11:** Read the note in the dialogue box and enter the code in the confirmation box. Then, click **Unlock** to continue.
 
 ![warning dialogue box](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 12:** Wait while the app is unlocking the Apple ID. Refrain from using your device while connected to your desktop.
 
@@ -590,17 +557,14 @@ Follow the unpairing process on the paired Apple iPhone 15 Pro to remove the Act
 
 ![unpair apple watch interface](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 6:** If you have a cellular Apple Watch, tap **Remove Cellular Plan**, and remember to reach your carrier to cancel your subscription.
 - **Step 7:** Provide your Apple ID password to deactivate the Activation Lock.
 
 ![enter apple id password to unpair](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-09.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 8:** Tap **Unpair** to confirm your action.
 
@@ -613,7 +577,15 @@ You can erase your Apple Watch without the paired iPhone, but the Activation Loc
 
 ![erase apple watch content and settings](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Tap **Erase All** to restore your Apple Watch to its factory settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -635,19 +607,21 @@ If you unfortunately encounter any challenges during the process, you can seek a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/p3-streaming-simplified-youtube-upload-in-three-steps/"><u>[New] MP3 Streaming Simplified YouTube Upload in Three Steps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-join-the-fortune-changing-club-free-50-banners-await/"><u>[Updated] Join The Fortune-Changing Club Free 50 Banners Await</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-leading-free-tech-to-share-pc-screens-seamlessly-for-2024/"><u>[Updated] Leading Free Tech to Share PC Screens Seamlessly for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-rpg-legacy-meets-innovation-written-by-time/"><u>[Updated] RPG Legacy Meets Innovation' Written by Time</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-ideal-steadicams-for-capturing-quality-uav-visuals/"><u>2024 Approved Ideal Steadicams for Capturing Quality UAV Visuals</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-iphone-12-pro-max-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From iPhone 12 Pro Max How to Bypass?</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-blueprint-for-social-connectivity-redesign/"><u>Facebook's Blueprint for Social Connectivity Redesign</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-14-plus-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 14 Plus</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-se-2022-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone SE (2022) without Apple ID?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-iphone-xr-device-from-icloud-by-drfone-ios/"><u>How to Remove Apple iPhone XR Device from iCloud</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-6s-plus-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/masterful-techniques-for-combining-chatgpt-and-visual-studio-code/"><u>Masterful Techniques for Combining ChatGPT and Visual Studio Code</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-solving-the-d3dx9n41dll-could-not-be-located-error/"><u>Step-by-Step Guide: Solving the 'd3dx9_n41.dll' Could Not Be Located Error</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-unleashing-creativity-mastering-camera-snaps-on-zoom/"><u>[New] 2024 Approved Unleashing Creativity Mastering Camera Snaps on Zoom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-9-essential-360-degree-recording-techniques/"><u>[Updated] Ultimate Guide 9 Essential 360-Degree Recording Techniques</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-x-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone X</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-12-mini-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing iPhone 12 mini Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-a-broken-qr-scanner-on-your-iphone-a-step-by-step-guide-to-6-remedies/"><u>Fixing a Broken QR Scanner on Your iPhone: A Step-by-Step Guide to 6 Remedies</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hardware-setup-hp-printer-driver-not-in-windows-os/"><u>Hardware Setup: HP Printer Driver Not in Windows OS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-15-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your iPhone 15 Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-15-pro-max-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 15 Pro Max without Password?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-effortlessly-switch-from-flv-to-mp4-top-tips-and-tricks-for-windows-11/"><u>How to Effortlessly Switch From FLV to MP4: Top Tips and Tricks for Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-13-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone 13 without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-se-2022-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone SE (2022)?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-8-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone 8?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-innovative-approaches-to-console-playback-on-pc-hardware/"><u>In 2024, Innovative Approaches to Console Playback on PC Hardware</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premier-digital-hubs-seamless-ringtones-acquisition-for-2024/"><u>Premier Digital Hubs Seamless Ringtones Acquisition for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/symphonic-streams-exclusive-sites-for-downloadable-tones/"><u>Symphonic Streams Exclusive Sites for Downloadable Tones</u></a></li>
 </ul></div>
 

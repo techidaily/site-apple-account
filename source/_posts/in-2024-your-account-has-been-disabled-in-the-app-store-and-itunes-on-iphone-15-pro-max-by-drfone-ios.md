@@ -1,7 +1,7 @@
 ---
 title: In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone 15 Pro Max?
-date: 2024-11-13T18:12:23.449Z
-updated: 2024-11-17T06:19:29.878Z
+date: 2024-11-22T16:16:14.287Z
+updated: 2024-11-26T21:51:26.660Z
 tags: 
   - unlock
   - remove apple account
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 You may see the error message, “**Your account has been disabled in the App Store and iTunes**” when you try to log in. This is often an indication that for some reason your Apple ID is not working as it should. When you consider that you will not be able to download or update apps or even make a purchase using Apple Pay without your Apple ID, it is easy to see why this error message can be a problem.
 
 Why is my account disabled in the App store? Here, we take a look at the reasons why you may see the error messages and what you can do to fix them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Why has my account been disabled in the App Store and iTunes?
 
@@ -59,19 +63,6 @@ If you just forget the password and cannot remember it, you can follow the steps
 
 ![reset password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3** Enter the phone number that you use with your Apple ID.
 
 ![reset apple id password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id-2.jpg)
@@ -105,13 +96,6 @@ If you think that your account has been disabled because of a payment issue, it 
 - **Step 4:** Tap “Add Payment Method” to add a new payment method.
 
 ![disabled in the app store and itunes 1](https://images.wondershare.com/drfone/article/2020/11/disabled-in-the-app-store-and-itunes-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If the payment method was the issue, your account will be re-enabled after these steps.
 
@@ -191,6 +175,10 @@ Connect the iOS device to the computer using its lightning cable. Then enter the
 
 ![trust computer](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4: Apple ID Removal will Begin**
 
 Dr.Fone will immediately begin removing the Apple ID from the Apple iPhone 15 Pro Max device. You should see a progress bar indicating how long the process will take. Ordinarily, the removal should take just a few seconds. When the process is complete, you will see a notification on the screen letting you know that the Apple ID has been removed.
@@ -198,6 +186,10 @@ Dr.Fone will immediately begin removing the Apple ID from the Apple iPhone 15 Pr
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
 You should then be able to sign in to another Apple ID or create a new Apple ID and password to use on the Apple iPhone 15 Pro Max device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -211,6 +203,10 @@ This article will take you on a journey to discover your Apple ID. The mission? 
 
 ![apple id password](https://images.wondershare.com/drfone/article/2023/11/finding-your-apple-id-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part I. A Brief Introduction to Apple ID?
 
 At the heart of your Apple experience is an Apple ID. But what exactly is it, and why is it so important?
@@ -218,10 +214,7 @@ At the heart of your Apple experience is an Apple ID. But what exactly is it, an
 ![apple id account](https://images.wondershare.com/drfone/article/2023/11/finding-your-apple-id-02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What Is My Apple ID?
@@ -256,6 +249,10 @@ The following steps are for finding your Apple ID on an iPhone or an iPad:
 - **Step 3:** There it is! Your Apple ID is displayed at the top of the screen, just beneath your name. Write it down or take a screenshot for safekeeping.
 
 ![iphone apple id settings](https://images.wondershare.com/drfone/article/2023/11/finding-your-apple-id-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### On Mac
 
@@ -298,16 +295,7 @@ Your Apple ID is the key to a world of apps, services, and secure data. Knowing 
 Have you ever found yourself locked out of your Apple device, desperately seeking a solution to regain access? If so, you're not alone. For those times when you need a quick and reliable way to unlock your Apple device, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Screen Unlock is here to the rescue.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Introduction to Dr.Fone - Screen Unlock
@@ -485,13 +473,6 @@ The tool guides you through the process, ensuring a seamless experience with a u
 
 ![dr.fone screen unlock tools](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Click **Unlock Now** to continue.
 
 ![dr.fone unlock connected device](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
@@ -509,10 +490,7 @@ The tool guides you through the process, ensuring a seamless experience with a u
 ![iphone enter recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 8:** Select an option in the **System Version** drop-down menu and click **Start**.
@@ -524,15 +502,16 @@ The tool guides you through the process, ensuring a seamless experience with a u
 ![downloading firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 10:** Once the firmware is ready, click **Unlock Now**.
 
 ![ios firmware ready to use](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 11:** Read the note in the dialogue box and enter the code in the confirmation box. Then, click **Unlock** to continue.
 
@@ -598,13 +577,6 @@ Follow the unpairing process on the paired Apple iPhone 15 Pro Max to remove the
 
 ![apple watch app interface](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-06.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Locate and tap the **information** icon adjacent to the name of your Apple Watch.
 
 ![all watches interface](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-07.jpg)
@@ -651,24 +623,17 @@ If you unfortunately encounter any challenges during the process, you can seek a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-ideas-that-make-your-meme-go-global/"><u>[New] Ideas That Make Your Meme Go Global</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-art-of-influencing-amplifying-instagram-post-reach/"><u>[New] In 2024, The Art of Influencing Amplifying Instagram Post Reach</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-6-plus-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 6 Plus? Find the Best Solution Here</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-restoring-audio-functionality-when-windows-10-fails/"><u>Expert Tips for Restoring Audio Functionality When Windows 10 Fails</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-6s-plus-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From iPhone 6s Plus</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-11-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone 11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-iphone-6-by-drfone-ios/"><u>How to Fix Locked Apple ID from iPhone 6</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1722990964139-improve-your-naraka-bladepoint-experience-fix-stuttering-and-increase-fps-effectively/"><u>Improve Your Naraka: Bladepoint Experience - Fix Stuttering and Increase FPS Effectively</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-iphone-11-pro-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on iPhone 11 Pro</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-v29e-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo V29e?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From iPhone 13 Pro</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-iphone-15-pro-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your iPhone 15 Pro From Your Apple ID</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-mastering-the-art-of-html-formatting-and-styling/"><u>In 2024, Mastering the Art of HTML Formatting and Styling</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/masterful-art-in-a-flash-quick-draw-on-windows-10-images-for-2024/"><u>Masterful Art in a Flash Quick Draw on Windows 10 Images for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximum-usage-duration-how-many-years-will-your-android-device-last/"><u>Maximum Usage Duration: How Many Years Will Your Android Device Last?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/straightforward-lenovo-dock-driver-update-methods/"><u>Straightforward Lenovo Dock Driver Update Methods</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-6s-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From iPhone 6s</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Which is the Best Fake GPS Joystick App On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-securing-visuals-the-method-of-concealing-details/"><u>[New] In 2024, Securing Visuals The Method of Concealing Details</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-key-to-flawless-tiktok-profile-hyperlinking/"><u>[New] The Ultimate Key to Flawless TikTok Profile Hyperlinking</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-windows-11s-fresh-perspectives-explored/"><u>[Updated] 2024 Approved Windows 11'S Fresh Perspectives Explored</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-best-choice-high-definition-screen-capturing-apps/"><u>[Updated] The Best Choice High-Definition Screen Capturing Apps</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-14-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone 14? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-12-mini-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By Apple iPhone 12 mini without the Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-iphone-11-by-drfone-ios/"><u>How To Create an Apple Developer Account From iPhone 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-8-by-drfone-ios/"><u>How To Unlink Apple ID From iPhone 8</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-casino-confidential-communiques/"><u>In 2024, CASINO CONFIDENTIAL COMMUNIQUES</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/preventing-frame-gaps-in-obs-recordings-for-2024/"><u>Preventing Frame Gaps in OBS Recordings for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-7-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone 7 Making It Possible</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-photography-journey-with-vsco-editing-tool-for-2024/"><u>Ultimate Photography Journey with VSCO Editing Tool for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Erase an Apple iPhone 13 Pro without Apple ID?
-date: 2024-09-17T16:47:53.542Z
-updated: 2024-09-21T22:55:50.890Z
+date: 2024-11-22T16:49:47.694Z
+updated: 2024-11-26T18:22:45.627Z
 tags: 
   - unlock
   - remove apple account
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 Our generation is all about high-performance gadgets and, a phone is one of the most important of it all. But with the concept of a smartphone, things have changed. iPhone/iPad has emerged as an important fashion quotient for a long now.
 
 We often end up buying second-hand iPhones/iPads or sell our old version of the phones/pads to an unknown person and buy a new version of other brands, like Samsung S22. At times, be it after-sale/purchase or old iPhone, or if you may have yourself forgotten the password to your Apple ID, we often come across a big challenge, and that is how to erase an iPhone without an Apple ID password. Well, if that’s the case with you, then you’ve reached the right place. We’re about to discuss the most effective ways to erase an iPhone without an Apple ID password. Let’s discover them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. How to erase an iPhone without Apple ID and iTunes
 
@@ -67,6 +71,10 @@ Once the download is complete, you can get started with erasing an iPhone withou
 
 ![ios unlock 4](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. Erase an iPhone without Apple ID via iTunes
 
 Sometimes your phone might ask for an Apple ID and password to confirm your authority. In such cases, you may get stuck as either you have forgotten the password to it, or you don’t remember the Apple ID in the first place. For that matter, where it needs immediate help, we have listed down a set of steps that can help you erase an iPhone without Apple ID via iTunes –
@@ -100,6 +108,10 @@ Erasing an iPhone without Apple ID becomes necessary when we happen to use a sec
 **Step 4:** Enter your passcode to confirm. This action will pop up a screen where you need to select Erase iPhone again, and boom, you are done now.
 
 ![erase a iphone without apple id 3](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Tip you may need to erase Apple ID
 
@@ -139,13 +151,6 @@ Now let’s get started with erasing an Apple ID via Apple’s Data and Privacy 
 
 ![erase a iphone without apple id 7](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Coming towards the end of the topic, we now are fully sure that you fully understand how to erase an iPhone without an Apple ID. Just in case you have any doubts, please feel free to comment below. And do remember to share this with your friends and family if you find it useful.
@@ -168,6 +173,10 @@ The first method involves updating your payment information directly from your A
 
 ![tap on payment and shipping](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Next, press "Add Payment Method" and provide information for your new payment method. Once you've entered all the required details, tap "Done" to confirm and save your updates.
 
 ![add new payment card details](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-2.jpg)
@@ -183,6 +192,10 @@ Now, we shift our focus to those who prefer managing their payment information o
 - **Step 1:** Start by opening the App Store on your device. Then, in the bottom-left corner of the App Store, tap on your name and proceed to access "Account Settings."
 
 ![click on account settings](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Locate the "Apple ID Summary" section in the "Account Settings" menu and select the "Manage Payments" option next to it. After this, introduce a fresh payment method by opting for the "Add Payment" option.
 
@@ -251,13 +264,6 @@ Now is the time to connect your iOS device to the computer using a respective ca
 
 ![press the unlock now button](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Step 3: Remove the Apple ID From Your iOS Device
 
 Wondershare Dr.Fone will detect your device model once it is in Recovery Mode. Choose a system version to download by clicking “Start.” Once it has been downloaded and verified, tap "Unlock Now." It will lead to a prompt warning about data loss. Here, enter "000000" to confirm your choice and click "Unlock." Dr.Fone will go on to remove Apple ID from your device.
@@ -292,6 +298,10 @@ Whether you prefer using your iPad for managing your payment methods or you're o
 
 ![choose the default card option](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Use Apple Watch to Change Default Card
 
 The last stop on our journey to manage your default credit card on Apple Pay is the Apple Watch. If you are an Apple Watch user, then these instructions can assist you in **how to change your credit card on Apple Pay**:
@@ -305,6 +315,10 @@ The last stop on our journey to manage your default credit card on Apple Pay is 
 To summarize, we've navigated the complex world of how to **change the credit card on Apple** account. We've explored two critical aspects: changing the credit card on your Apple ID and altering the default credit card on Apple Pay. It's important to understand that your credit card details for Apple ID and Apple Pay are distinct. Thus, it's crucial to know how to update both to ensure a secure digital experience.
 
 We explored many methods to **change the credit card on Apple ID** and Apple Pay, depending on your device and preference. Furthermore, there are unfortunate instances where you find yourself locked out of your Apple ID. For these, we introduced a valuable tool: Wondershare Dr.Fone - iOS Screen Unlock. This tool can efficiently unlock your Apple ID without causing any data loss, ensuring you can regain access to your account promptly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Troubleshooting 'Error Connecting to the Apple ID Server' On Apple iPhone 13 Pro
 
@@ -358,14 +372,11 @@ Creating a new admin user account can serve as a strategic move for macOS users.
 
 ![setting up another admin account](https://images.wondershare.com/drfone/article/2023/11/error-connecting-to-apple-id-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2:** Click the lock icon and enter your admin password. Click the **+** or **Add User…** button to add a new user, selecting **Administrator** as the account type. Log in to the new account and check if the issue persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Update Your iOS or macOS Software
 
@@ -385,10 +396,7 @@ Booting your Mac in [<u> Safe Mode</u>](https://drfone.wondershare.com/android-t
 ![safe mode on mac](https://images.wondershare.com/drfone/article/2023/11/error-connecting-to-apple-id-06.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Restart Your Apple Device
@@ -418,19 +426,6 @@ If you use a Virtual Private Network (VPN), consider temporarily disabling it. V
 Inaccurate date and time settings on your device can lead to authentication failures. Ensure your device's date and time are accurate and set to update automatically. This prevents synchronization issues with the Apple ID server.
 
 ![date and time settings](https://images.wondershare.com/drfone/article/2023/11/error-connecting-to-apple-id-08.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you've tried all the above and you're still getting the error connecting to the Apple ID server, you may want to consider using [<u>Wondershare Dr.Fone - Screen Unlock</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). It is a powerful tool that can help you bypass the Apple ID lock screen on your Apple iPhone 13 Pro, iPad, or iPod touch.
 
@@ -472,6 +467,10 @@ Below are the steps to use Dr.Fone - Screen Unlock.
 
 ![dr.fone unlock now window](https://images.wondershare.com/drfone/guide/bypass-activation-lock-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Upon completion of the process, a confirmation message will be displayed on the window. Click the **Done** button to finalize the unlocking of the Activation Lock.
 
 ![dr.fone unlock process successful window](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
@@ -494,5 +493,23 @@ If the **Apple ID verification failed** error persists, reaching out to Apple Su
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-professional-filming-techniques-via-youtube-studio-editor/"><u>[New] 2024 Approved Professional Filming Techniques via YouTube Studio Editor</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-beyond-headsets-ultimate-vr-gear-guide/"><u>[New] Beyond Headsets Ultimate VR Gear Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immersive-editing-unveiling-the-top-15-cine-luts-for-action-cam/"><u>[New] Immersive Editing Unveiling the Top 15 Cine LUTs for Action Cam</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-fast-track-to-find-insta-follower-lapses/"><u>[Updated] 2024 Approved The Fast Track to Find Insta Follower Lapses</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-unlock-old-facebook-memories-with-a-click/"><u>[Updated] 2024 Approved Unlock Old Facebook Memories with a Click</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-tunefab-screen-recorder-download-and-review/"><u>[Updated] Tunefab Screen Recorder Download and Review</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-iphone-12-pro-max-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From iPhone 12 Pro Max How to Bypass?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-14-plus-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 14 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-se-2022-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone SE (2022) without Apple ID?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-iphone-xr-device-from-icloud-by-drfone-ios/"><u>How to Remove Apple iPhone XR Device from iCloud</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-6s-plus-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-11-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your iPhone 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-insight-into-watermark-functionality-for-fb-media/"><u>In 2024, Insight Into Watermark Functionality for Fb Media</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Oppo K11 5G | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone 13 Pro?
-date: 2024-09-15T17:18:12.446Z
-updated: 2024-09-16T20:20:48.393Z
+date: 2024-11-23T18:33:10.888Z
+updated: 2024-11-26T20:44:41.235Z
 tags: 
   - unlock
   - remove apple account
@@ -59,6 +59,10 @@ If you just forget the password and cannot remember it, you can follow the steps
 
 ![reset password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3** Enter the phone number that you use with your Apple ID.
 
 ![reset apple id password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id-2.jpg)
@@ -66,6 +70,10 @@ If you just forget the password and cannot remember it, you can follow the steps
 - **Step 4:** Look for the notification on iPhone, Mac, or iPad and follow the instructions to reset the password.
 
 ![reset password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Note that if you are changing your Apple ID password on an iPhone or iPad, you will need to enter your device's six-digit passcode, then reset a new password.
 
@@ -92,19 +100,6 @@ If you think that your account has been disabled because of a payment issue, it 
 - **Step 4:** Tap “Add Payment Method” to add a new payment method.
 
 ![disabled in the app store and itunes 1](https://images.wondershare.com/drfone/article/2020/11/disabled-in-the-app-store-and-itunes-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If the payment method was the issue, your account will be re-enabled after these steps.
 
@@ -154,6 +149,10 @@ Sometimes the only way to [fix “Apple ID Disabled”](https://drfone.wondersha
 
 One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This third-party unlocking software is designed to easily and effectively remove the Apple ID password from any device. The following are some things it can do;
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - Screen Unlock (iOS)
 
 Remove iCloud Account without Password in Minutes
@@ -178,6 +177,10 @@ On the next screen, you should see three options. Choose “Remove Apple ID” s
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3: Connect the iOS Device**
 
 Connect the iOS device to the computer using its lightning cable. Then enter the Apple iPhone 13 Pro device’s passcode and, when prompted, tap “Trust” to allow the computer to detect the Apple iPhone 13 Pro device. The program should detect the Apple iPhone 13 Pro device and display information about it. Then click “Unlock Now”.
@@ -191,6 +194,10 @@ Dr.Fone will immediately begin removing the Apple ID from the Apple iPhone 13 Pr
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
 You should then be able to sign in to another Apple ID or create a new Apple ID and password to use on the Apple iPhone 13 Pro device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -245,6 +252,10 @@ There are multiple techniques that involve the method of unlocking an Apple ID w
 
 ![enter-your-phone-number](https://images.wondershare.com/drfone/article/2020/11/how-to-unlock-apple-id-without-security-questions-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Since you cannot use your Apple device or you have not received a notification yet, you need to tap on “Unable to access your \[device\]?” This would redirect a six-digit verification code to the phone number that you have provided.
 
 ![tap-on-the-option-of-unable-to-access-your-iphone](https://images.wondershare.com/drfone/article/2020/11/how-to-unlock-apple-id-without-security-questions-6.jpg)
@@ -252,19 +263,6 @@ There are multiple techniques that involve the method of unlocking an Apple ID w
 **Step 3:** Add the code that is provided, followed by the Apple ID password, allowing you to unlock your device.
 
 ![enter-verification-code](https://images.wondershare.com/drfone/article/2020/11/how-to-unlock-apple-id-without-security-questions-7.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3. Unlock Apple ID with the recovery key
 
@@ -306,13 +304,6 @@ Here are ways that it protects your device.
 
 Remembering your Apple ID passcode is an intelligent move. It makes managing your Apple iPhone 13 Pro more accessible and safer. Forgetting it can make things tricky, especially when you want to unlink your Apple iPhone 13 Pro from your Apple ID. But don't worry, there are solutions for that, too!
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2. How To Unlink Your Apple iPhone 13 Pro Normally
 
 The usual way to unlink your Apple iPhone 13 Pro from your Apple ID is recommended, especially when remembering your Apple ID passcode. This ensures a smooth and secure transition for your device. Here's how you can do it, step-by-step:
@@ -348,14 +339,11 @@ The usual way to unlink your Apple iPhone 13 Pro from your Apple ID is recommend
 
 ![transfer/reset iphone page](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-apple-id-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Following these steps, your Apple iPhone 13 Pro will be unlinked from your Apple ID and ready for a new user or any other purpose. Remember, this method is best when you can easily recall your Apple ID passcode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. What To Do If You Forgot Your Apple ID Passcode
 
@@ -399,13 +387,6 @@ Before anything, be warned that this method removes all data from an iPhone. Cre
 
 ![screen unlock connect page](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Click **Yes** on the screen lock verification page.
 
 ![screen lock confirmation page](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
@@ -430,9 +411,17 @@ Before anything, be warned that this method removes all data from an iPhone. Cre
 
 ![firmware download complete](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 10:** Input the code "000000" on the appearing prompt and click **Unlock**.
 
 ![unlock confirmation prompt](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 11**: Avoid any disconnection during the unlocking process.
 
@@ -441,6 +430,10 @@ Before anything, be warned that this method removes all data from an iPhone. Cre
 - **Step 12:** Click **Done** once you see this page. Click **Try Again** if the method does not work.
 
 ![Apple ID unlocked page](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -460,5 +453,23 @@ Should you ever find yourself locked out of your device, Wondershare Dr.Fone - S
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-nurturing-natural-light-within-domestic-spaces/"><u>[New] Nurturing Natural Light Within Domestic Spaces</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-enhancing-playback-speed-in-tiktok-videos-for-2024/"><u>[Updated] Enhancing Playback Speed in TikTok Videos for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-infinix-zero-30-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-apple-iphone-13-mini-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On Apple iPhone 13 mini? Find the Best Solution Here</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-ios-texting-tools-available-at-no-cost/"><u>Discover the Best iOS Texting Tools Available at No Cost</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ce-creativity-how-to-attain-filmora-fcc-accreditation-for-2024/"><u>Embrace Creativity How to Attain Filmora FCC Accreditation for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-apple-iphone-6s-plus-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On Apple iPhone 6s Plus? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-apple-iphone-12-mini-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On Apple iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-x-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone X without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-12-pro-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an Apple iPhone 12 Pro Without Apple ID Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-apple-iphone-se-2020-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your Apple iPhone SE (2020) without Security Questions?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-olympic-ice-rush-speed-skaters-best-from-games/"><u>In 2024, Olympic Ice Rush Speed Skaters' Best From Games</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-pro-iphone-light-techniques-for-expert-photographers/"><u>In 2024, Pro iPhone Light Techniques for Expert Photographers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-secure-your-screen-content-mastering-the-ezvide-technique/"><u>In 2024, Secure Your Screen Content - Mastering the EZvide Technique</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leverage-ai-for-reading-pdfs-with-these-four-tactics/"><u>Leverage AI for Reading PDFs with These Four Tactics</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-12-pro-max-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone 12 Pro Max?</u></a></li>
+</ul></div>
 
