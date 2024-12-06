@@ -1,7 +1,7 @@
 ---
 title: In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone 13?
-date: 2024-07-14T13:50:22.017Z
-updated: 2024-07-15T13:50:22.017Z
+date: 2024-11-30T16:03:44.934Z
+updated: 2024-12-06T16:01:37.572Z
 tags: 
   - unlock
   - remove apple account
@@ -71,8 +71,6 @@ Note that if you are changing your Apple ID password on an iPhone or iPad, you w
 
 Forgetting the password is particularly troublesome, but there is good news. That is, you can use [Password Manager](https://drfone.wondershare.com/iphone-password-manager.html) to find your passwords on your Apple iPhone 13/iPad without spending too much time remembering them!
 
-
-
 ### Dr.Fone - Password Manager (iOS)
 
 Recover and keep all your passwords in one place
@@ -110,6 +108,10 @@ Signing out of your account and then signing back in may help if this issue is c
 - On your iOS device, go to Settings > \[Your Name\] > iTunes & App Store and Sign Out. Then sign in again.
 - On your Mac, open the App Store (Store > Sign Out) and iTunes (Account > Sign Out. Then sign in again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 5. Try Contacting Apple Support Directly
 
 If you see a message that says, “Your account has been disabled in the App Store and iTunes,” contact Apple Support for help. You can follow these simple steps to contact Apple support:
@@ -143,8 +145,6 @@ Sometimes the only way to [fix “Apple ID Disabled”](https://drfone.wondersha
 
 One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This third-party unlocking software is designed to easily and effectively remove the Apple ID password from any device. The following are some things it can do;
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Remove iCloud Account without Password in Minutes
@@ -152,9 +152,6 @@ Remove iCloud Account without Password in Minutes
 - Remove Apple ID/iCloud Account efficiently.
 - Save your Apple iPhone 13 quickly from the disabled state.
 - Free your sim out of any carrier worldwide.
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - Bypass iCloud activation lock and enjoy all iCloud services.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Works for all models of iPhone, iPad, and iPod touch.
 
@@ -176,9 +173,6 @@ On the next screen, you should see three options. Choose “Remove Apple ID” s
 
 Connect the iOS device to the computer using its lightning cable. Then enter the Apple iPhone 13 device’s passcode and, when prompted, tap “Trust” to allow the computer to detect the Apple iPhone 13 device. The program should detect the Apple iPhone 13 device and display information about it. Then click “Unlock Now”.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![trust computer](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
 - **Step 4: Apple ID Removal will Begin**
@@ -227,15 +221,16 @@ In a nutshell, your Apple ID is the gateway to a world of digital convenience an
 
 Knowing your Apple ID is the key to unlocking your Apple world. You'll need your Apple ID if you're an iPhone aficionado, a Mac enthusiast, or a Windows user dipping into the Apple ecosystem. Let's explore **how to find Apple ID** on various devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### On iPhone or iPad
 
 The following steps are for finding your Apple ID on an iPhone or an iPad:
 
 - **Step 1:** Begin by unlocking your Apple iPhone 13 or iPad. Now, open the **Settings** app. It's the one with the gearwheel icon – you can't miss it!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone settings](https://images.wondershare.com/drfone/article/2023/11/finding-your-apple-id-03.jpg)
 
 - **Step 2:** Scroll down and tap "**Sign in to your \[Device\]**." If you're already signed in, your name and Apple ID should be at the top.
@@ -275,9 +270,17 @@ If you've lost your Apple ID and need to find it on your Windows device, follow 
 
 Even on a Windows PC, your Apple ID is your gateway to Apple services, which means you can access your iCloud data and enjoy Apple Music and the iTunes Store.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Remember Knowing Your Apple ID Is Crucial
 
 Your Apple ID is the key to a world of apps, services, and secure data. Knowing how to find it on your device is the first step in making the most of your Apple experience. So, take a moment to discover your Apple ID on your Apple iPhone 13, iPad, Mac, or Windows PC. It's a small effort that brings you big benefits!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part III. Want a Quicker Way To Unlock Your Apple Devices?
 
@@ -289,7 +292,6 @@ So, what is Dr.Fone - Screen Unlock? It's a nifty tool designed to simplify unlo
 
 ![drfone v13 home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 ### Key Features and Benefits
 
 Let's explore the key features and benefits of Dr.Fone - Screen Unlock:
@@ -299,6 +301,10 @@ Let's explore the key features and benefits of Dr.Fone - Screen Unlock:
 - It's not limited to specific Apple devices – it supports various models, making it an all-in-one solution.
 - **Data Protection.**The tool ensures your data remains intact during the unlocking process, so you don't have to worry about losing precious information.
 - Dr.Fone - Screen Unlock has a dedicated support team to assist you if you encounter any issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How To Use Dr.Fone - Screen Unlock
 
@@ -339,6 +345,10 @@ Unlocking your Apple device with Dr.Fone - Screen Unlock is as easy as 1-2-3. He
 ![drfone screen unlock done](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 It's important to note that Dr.Fone - Screen Unlock is a trusted solution that prioritizes data security and ease of use. So, if you ever find yourself locked out of your Apple device and need a quick and reliable way to unlock it, Dr.Fone - Screen Unlock should be your first choice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part IV. Additional Tips and Troubleshooting
 
@@ -392,11 +402,10 @@ In the vast Apple universe, your Apple ID is your golden ticket to an array of s
 
 So, explore Dr.Fone - Screen Unlock and make your Apple experience hassle-free. And don't forget to safeguard your Apple ID like the treasure it is. Because with your Apple ID secure, you're ready to unlock a world of endless possibilities!
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How To Remove Phone Number From Your Apple ID on Your Apple iPhone 13?
 
 After getting a new device, iPhone users must prepare a unique identification term for their Apple ID. Creating and setting up this ID is not different each time. Not to mention, one can use this one registered ID to access multiple Apple-based features like podcast subscriptions, apps, etc.
@@ -421,6 +430,10 @@ If you want to learn **how to remove the number from Apple ID** and if possible,
 
 If you are wondering about the steps for how to **remove an old phone number from Apple ID,** there are different styles available. Here are the main processes you can utilize.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1. Remove Phone Number via iPhone/iPad's Settings
 
 In the matter of **how to remove a phone number from an Apple ID**, the most effortless process is to go into the Settings app and delete it from there. This is possible if you have your registered phone with you and the Apple ID. Simple access and remove the number.
@@ -431,10 +444,11 @@ In the matter of **how to remove a phone number from an Apple ID**, the most eff
 
 **Step 3**: Reach the Password & Security section.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reach password and security](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-phone-number-from-apple-id-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4**: You will see the Edit icon on the right-hand side. Click on it and then tap on the "Add a Trusted Phone Number" option.
 
@@ -470,6 +484,10 @@ It is possible to change the password for Apple ID in the matter of **how to rem
 
 ![select the change password option](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-phone-number-from-apple-id-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** The prompt to add the current Apple ID password, or the passcode, will appear. Add it to confirm, and then insert your new password.
 
 **Step 5**: Hit the Change Password button.
@@ -487,7 +505,6 @@ It is possible to **remove phone number from Apple ID** by accessing the Apple i
 - Supported on various iOS and iPadOS devices.
 - Remove all types of lock screens, like Apple ID, Face ID, Touch ID, Screen Time Passcode, etc.
 - Fast process of screen and password bypassing.
-
 
 **How to use it?**
 
@@ -511,7 +528,6 @@ It is possible to **remove phone number from Apple ID** by accessing the Apple i
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/iFMAR09R9x4"></iframe>
 
-
 ## Part 5. FAQs about Apple ID Phone Number
 
 1. **How to Add a Trusted Phone Number to Your Apple ID?**
@@ -530,7 +546,6 @@ No, the Apple ID and phone number are not connected as features or codes. So, ad
 
 Indeed, there are multiple methods you can take to remove the phone number registered to your Apple ID successfully. They are accessible in multiple ways through Mac, iPad, or iPhone settings. If you forgot the Apple ID, you could even remove it using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). Ultimately, choose the process to trust based on your specific needs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -543,9 +558,22 @@ Indeed, there are multiple methods you can take to remove the phone number regis
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-delving-into-the-meaning-of-a-mysterious-blue-marker-in-fb-chats-for-2024/"><u>[Updated] Delving Into the Meaning of a Mysterious Blue Marker in FB Chats for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-mastering-instagram-live-a-guide-to-staying-incognito/"><u>[Updated] In 2024, Mastering Instagram Live A Guide to Staying Incognito</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-master-your-image-transformation-with-complete-facetune-guide-for-2024/"><u>[Updated] Master Your Image Transformation with Complete Facetune Guide for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-websites-boosting-youtube-video-popularity/"><u>[Updated] Prime Websites Boosting YouTube Video Popularity</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-should-you-consider-itop-for-professional-use/"><u>2024 Approved Should You Consider ITop for Professional Use?</u></a></li>
+<li><a href="https://win-studio.techidaily.com/emeditor-text-editor-fixing-the-lack-of-a-64-bit-version-context-menu-on-32-bit-platform/"><u>EmEditor Text Editor: Fixing the Lack of a 64-Bit Version Context Menu on 32-Bit Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-productivity-as-a-freelance-writer-with-chatgpt-tools/"><u>Enhancing Productivity as a Freelance Writer with ChatGPT Tools</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-apple-iphone-7-plus-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On Apple iPhone 7 Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 13 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your Apple iPhone 12 mini?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-unleash-potential-the-best-instagram-hashtags-of-the-day/"><u>In 2024, Unleash Potential The Best Instagram Hashtags of the Day</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-apple-iphone-12-pro-max-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your Apple iPhone 12 Pro Max? How to Fix</u></a></li>
+</ul></div>
 

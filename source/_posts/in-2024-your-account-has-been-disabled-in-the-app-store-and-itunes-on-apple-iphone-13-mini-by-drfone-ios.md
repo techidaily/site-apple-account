@@ -1,7 +1,7 @@
 ---
 title: In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 13 mini?
-date: 2024-09-17T20:59:48.591Z
-updated: 2024-09-21T18:03:16.671Z
+date: 2024-12-01T16:04:26.092Z
+updated: 2024-12-06T16:04:58.552Z
 tags: 
   - unlock
   - remove apple account
@@ -30,6 +30,10 @@ The following are some reasons why you may see this error message popup on your 
 - Safety and security reasons like when Apple suspects your account may be hacked
 - When there are charging disputes on your credit card
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. How to fix “Your account has been disabled in App store and iTunes”?
 
 There are numerous methods to tackle this issue and regain access to your device. For a quick and concise understanding, you can watch our informative video tutorial. If you prefer a more in-depth, step-by-step explanation, continue reading this article for detailed instructions on each method.
@@ -37,6 +41,10 @@ There are numerous methods to tackle this issue and regain access to your device
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6NNzJh7fyxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
 _**Tips:** Did you forget your Apple ID password or are you struggling to remove your Apple ID account? Worry not, as [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is here to help you [remove your Apple ID without password](https://drfone.wondershare.com/apple-account/how-to-remove-apple-id-from-iphone-without-password.html) in a matter of seconds. By logging into a new account, you can fully restore access to all your iCloud services and Apple ID features, ensuring a seamless user experience._
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1. Wait 24 hours and Try Again
 
@@ -58,6 +66,10 @@ If you just forget the password and cannot remember it, you can follow the steps
 - **Step 2:** Put your Apple ID (email) in the box and click “Continue”.
 
 ![reset password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3** Enter the phone number that you use with your Apple ID.
 
@@ -119,10 +131,7 @@ If you see a message that says, “Your account has been disabled in the App Sto
 ![disabled in the app store and itunes 2](https://images.wondershare.com/drfone/article/2023/05/getsupport-apple.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3. What does it influence when “Your account has been disabled in the App Store and iTunes”?
@@ -133,6 +142,10 @@ When you see the error message “Your account has been disabled in the App Stor
 - You may not have access to your iCloud account or any of the data stored in the account until you fix the problem.
 - Furthermore, you may not be able to access Apple services and any Apple Store orders and repairs may need to be rescheduled.
 - Until you can fix the issue, you will not be able to receive iMessage, FaceTime, and iCloud Mail.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Is “Your account has been disabled in the App Store and iTunes” the same as “Apple ID disabled”?
 
@@ -225,6 +238,10 @@ After the installation is done completely, launch the tool and select the “Scr
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Boot your device into Recovery/DFU Mode**
 
 You now have to boot your Apple iPhone 13 mini or iPad device into Recovery mode or DFU mode so that the software can recognize your device for further process. For your convenience, Dr. Fone Screen Unlock (iOS) has a built-in instruction facility that helps you to follow the steps.
@@ -243,6 +260,10 @@ Once the download is complete, you can get started with erasing an iPhone withou
 
 ![ios unlock 4](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. Erase an iPhone without Apple ID via iTunes
 
 Sometimes your phone might ask for an Apple ID and password to confirm your authority. In such cases, you may get stuck as either you have forgotten the password to it, or you don’t remember the Apple ID in the first place. For that matter, where it needs immediate help, we have listed down a set of steps that can help you erase an iPhone without Apple ID via iTunes –
@@ -255,13 +276,6 @@ In iPhone 8 or later: Tap the Volume Up, then quickly tap Volume Down and hold d
 
 ![erase a iphone without apple id 1](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In the case of iPhone 7/7Plus: Press the “Sleep/Power” and “Volume Down” keys together.
 
 Hold down the keys until you see the message on your iTunes screen about “your iPhone has been detected in recovery mode.”
@@ -269,6 +283,10 @@ Hold down the keys until you see the message on your iTunes screen about “your
 **Step 3:** Once done, click on “Ok” and choose the “Restore iPhone” option. Confirm your actions, and you’re done.
 
 ![erase a iphone without apple id 2](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. How to erase an iPhone without Apple ID via Settings
 
@@ -350,13 +368,6 @@ Before delving into methods for signing out of your Apple ID without a password,
 
 If you have forgotten the password of your Apple ID and don't have a way to recover it, there is no need to panic. You can easily remove passwords from your iOS device using Wondershare [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). Its "[Remove Apple ID](https://drfone.wondershare.com/solutions/forgot-apple-id.html)" feature can effectively assist you in signing out of your Apple ID without requiring a password. This method provides a smooth solution for users facing issues related to forgotten passwords.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 One click to Sign Out of Apple ID without Password.
@@ -388,18 +399,15 @@ Once you've confirmed these options, you'll be directed to a screen that present
 
 ![enable the iphone recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4: Complete the Apple ID Removal Process**
 
 Upon the identification of the Apple iPhone 13 mini device Model, you will simply be prompted to choose the “System Version” and initiate the process by clicking on “Start.” Now, wait for the firmware to download, and once it is downloaded, click "Unlock Now." A confirmation window promptly emerges on the screen, prompting you to input a code for further progress. Enter the code and select “Unlock” to begin the process.
 
 ![hit the start button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Sign Out of Apple ID Without Password by Resetting Your Apple ID Password
 
@@ -442,13 +450,6 @@ In case you have enabled two-way verification on your Apple iPhone 13 mini, you�
 
 ![enter recovery key](https://images.wondershare.com/drfone/article/2020/05/enter-recovery-key.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4:** Choose a trusted device to receive the verification code. Now, enter this verification code and click “**Continue**”.
 
 **Step 5:** In the next window, enter a new password and tap “**Reset Password**”.
@@ -467,6 +468,10 @@ If you're unable to reset your Apple ID password on your own, you can seek assis
 
 ![add the required details](https://images.wondershare.com/drfone/article/2023/11/sign-out-apple-id-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 That wraps up our tips on **how to sign out of Apple ID without password**. No doubt, Apple products are probably the most secure devices on the planet, but it can become extremely challenging to access the features of your iDevice when you’ve forgotten the password. If that’s the case, make sure to follow the above-mentioned tactics to [sign out of the previous Apple ID](https://drfone.wondershare.com/solutions/forgot-apple-id.html) and create a new one to regain control over your iDevice.
@@ -483,5 +488,24 @@ That wraps up our tips on **how to sign out of Apple ID without password**. No d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-expressive-commentary-utilizing-emojis-on-youtube/"><u>[New] In 2024, Expressive Commentary Utilizing Emojis on YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-top-tips-for-shooting-high-quality-youtube-videos/"><u>[Updated] In 2024, Top Tips for Shooting High-Quality YouTube Videos</u></a></li>
+<li><a href="https://win-forum.techidaily.com/dtsmp3-movavi/"><u>網路上無成本的DTS到MP3格式改變 - 利用Movavi轉頻器</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-6s-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 6s</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-tecno-spark-10c-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Tecno Spark 10C?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-iphone-11-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From iPhone 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-asus-rog-phone-8-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Asus ROG Phone 8 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-apple-iphone-15-plus-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On Apple iPhone 15 Plus How to Bypass?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-se-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone SE? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-iphone-11-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On iPhone 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-iphone-12-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from iPhone 12 without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stay-ahead-of-the-game-creating-a-posting-schedule-that-works-for-your-twitter-presence/"><u>Stay Ahead of the Game: Creating a Posting Schedule That Works for Your Twitter Presence</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-social-business-model-and-its-moolah/"><u>The Social Business Model and Its Moolah</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-x-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone X Making It Possible</u></a></li>
+<li><a href="https://games-able.techidaily.com/xboxs-quick-resume-an-essential-advantage/"><u>Xbox's Quick Résumé - An Essential Advantage?</u></a></li>
+</ul></div>
 

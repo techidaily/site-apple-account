@@ -1,7 +1,7 @@
 ---
 title: "Successful Solution: Overcoming Sound Capture Hurdles in Discord for Games"
-date: 2024-11-19T20:25:02.644Z
-updated: 2024-11-26T21:47:33.777Z
+date: 2024-12-03T16:07:07.478Z
+updated: 2024-12-06T16:12:56.999Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * **Wrong connection type:** It’s recommended to plug your headphone into the correct USB port, instead of the USB port in your keyboard.
 * **Outdated audio drivers** : It’s possible that an outdated or corrupt audio driver is causing your Discord to pick up the game audio.
 * **Sound settings:** Another possible cause of Discord picking up game audio is that your microphone is not set as the default input device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix Discord audio issues?
 
@@ -48,7 +52,7 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -56,7 +60,7 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
@@ -67,7 +71,7 @@ There’re mainly two ways for you to update an audio driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Change sound settings
@@ -78,15 +82,15 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Go to the**Recording** tab.
 
  3) Right-click**Stereo Mix** and select **Disable** , and make sure you have set your headphone as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Open Discord application, and go to**User Settings** .
 
@@ -105,10 +109,6 @@ There’re mainly two ways for you to update an audio driver:
  2) Type in**appwiz.cpl** and press**Enter** .
 
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Right-click Discord, and select**Uninstall** .
 
@@ -137,21 +137,24 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/2024-approved-download-apple-podcasts-instinctively/"><u>2024 Approved Download Apple Podcasts Instinctively</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-lava-yuva-2-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Lava Yuva 2 Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/asmr-a-gateway-to-enhanced-self-care-for-2024/"><u>ASMR A Gateway to Enhanced Self-Care for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/ballad-bliss-songs-that-score-big-on-will-you-questions/"><u>Ballad Bliss Songs that Score Big on 'Will You?' Questions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-magicard-rio-pro-driver-new-version-compatible-with-windows-101181-and-7/"><u>Download Magicard Rio Pro Driver - New Version Compatible with Windows 10/11/8.1 & 7</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-guide-transforming-3ga-files-into-mp3-format/"><u>Free Guide: Transforming 3GA Files Into MP3 Format</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-13-pro-max-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 13 Pro Max without Password?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-14-plus-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-13-pro-max-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your iPhone 13 Pro Max</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 15 Pro Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-apple-iphone-13-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your Apple iPhone 13 From Your Apple ID</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-iphone-15-pro-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From iPhone 15 Pro? 5 Tips You Must Know</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/tech-savvy-tips-to-ensure-perfect-call-recording-on-facetime/"><u>Tech-Savvy Tips to Ensure Perfect Call Recording on FaceTime</u></a></li>
-<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-xr-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone XR</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-guide-access-premium-r-rated-movie-downloads-for-crystal-clear-viewing/"><u>Ultimate Guide: Access Premium R-Rated Movie Downloads for Crystal Clear Viewing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapshot-savvy-the-gif-journey-on-snapchat/"><u>[New] 2024 Approved Snapshot Savvy The GIF Journey on Snapchat</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comparing-cloud-providers-who-offers-what-price/"><u>[New] Comparing Cloud Providers Who Offers What Price</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-premiered-screen-selections-for-ps5-aficionados/"><u>[Updated] In 2024, Premiered Screen Selections for PS5 Aficionados</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-selective-software-showcase-photoplusmusic-capture-tools/"><u>[Updated] Selective Software Showcase Photo+Music Capture Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-master-video-creation-understanding-the-role-of-camera-lenses-in-vlogging/"><u>2024 Approved Master Video Creation Understanding the Role of Camera Lenses in Vlogging</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-11-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-13-pro-max-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone 13 Pro Max? How to Fix it?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beyond-expectations-a-deep-dive-into-one-of-the-most-powerful-and-quality-bluetooth-speakers-not-from-sonos-or-bose/"><u>Beyond Expectations: A Deep Dive Into One of the Most Powerful and Quality Bluetooth Speakers - Not From Sonos or Bose</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-meizu-21-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Meizu 21 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/easy-loop-keeping-iphone-videos-running/"><u>Easy Loop Keeping iPhone Videos Running</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-steps-to-record-your-hp-laptop-screen-efficiently/"><u>Essential Steps to Record Your HP Laptop Screen Efficiently</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-oppo-reno-11-pro-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Oppo Reno 11 Pro 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-13-mini-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 13 mini?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-8-plus-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone 8 Plus without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-iphone-8-plus-device-from-icloud-by-drfone-ios/"><u>How to Remove iPhone 8 Plus Device from iCloud</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-iphone-6-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From iPhone 6</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-apple-iphone-se-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On Apple iPhone SE in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your iPhone 14 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 14 Pro Max</u></a></li>
 </ul></div>
 

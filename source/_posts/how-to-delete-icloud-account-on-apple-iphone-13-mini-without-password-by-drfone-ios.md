@@ -1,7 +1,7 @@
 ---
 title: How to Delete iCloud Account On Apple iPhone 13 mini without Password?
-date: 2024-07-14T13:50:35.620Z
-updated: 2024-07-15T13:50:35.620Z
+date: 2024-12-04T16:08:21.081Z
+updated: 2024-12-06T16:05:38.303Z
 tags: 
   - unlock
   - remove apple account
@@ -22,9 +22,6 @@ Now, there are several situations where a user might want to delete their iCloud
 
 So, in this guide, we’re going to share some insight into how to delete iCloud account without password so that you can get rid of all the unnecessary accounts and use a single one across all your iDevices.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to delete iCloud account without password on iPhone?
 
 If you have an iPhone at the moment, here are three different ways to delete an iCloud account using your phone itself.
@@ -51,6 +48,10 @@ Follow these instructions to delete the iCloud account from the “Settings” m
 
 That’s how to delete iCloud account without password directly from “Settings” on your Apple iPhone 13 mini.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1.2 Delete iCloud account via iTunes
 
 Another convenient way to delete the iCloud account is to use iTunes on your Apple iPhone 13 mini. Let’s walk you through the process of deleting an iCloud account using iTunes.
@@ -59,6 +60,10 @@ Another convenient way to delete the iCloud account is to use iTunes on your App
 
 ![disable find my iphone](https://images.wondershare.com/drfone/article/2020/05/disable-find-my-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Now, go back to the “Settings” window and click “iTunes & App Store”.
 
 ![itunes and app store](https://images.wondershare.com/drfone/article/2020/05/itunes-and-app-store.jpg)
@@ -66,6 +71,10 @@ Another convenient way to delete the iCloud account is to use iTunes on your App
 **Step 3:** Tap on your “Account” at the top. A pop-up will appear on your screen. Here, click “Sign Out” and the iCloud account will be removed from your iDevice.
 
 ![apple id itunes](https://images.wondershare.com/drfone/article/2020/05/apple-id-itunes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.3 Create a new password
 
@@ -143,9 +152,6 @@ At this point, you’ll be asked to enter recovery mode. You can follow the on-s
 
 After entering the recovery mode, Dr.Fone will automatically initiate the unlocking process. Do not disconnect the iDevice from your computer as this can cause damage to the Apple iPhone 13 mini device itself.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![process of unlocking](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
 
 As soon as your Apple ID gets unlocked, a confirmation message will pop up on your screen. Simply reboot your smartphone and you’ll be able to sign in with a new Apple ID without any hassle.
@@ -153,7 +159,6 @@ As soon as your Apple ID gets unlocked, a confirmation message will pop up on yo
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
 It doesn’t matter if you’re using Windows or Mac, Dr.Fone – Screen Unlock for iOS will make it extremely easy to delete the iCloud account without the password. So, if you are looking for a reliable and convenient way to remove an iCloud account, make sure to use Dr.Fone – Screen Unlock.
-
 
 ## Conclusion
 
@@ -204,9 +209,6 @@ You now have to boot your Apple iPhone 13 mini or iPad device into Recovery mode
 
 After a successful reboot into Recovery mode, the tool will automatically detect your device’s information and the most compatible iOS firmware. To start the process of downloading the firmware, you need to hit on “Start” button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ios unlock 3](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 5: Erase an iPhone without an Apple ID password.**
@@ -227,16 +229,21 @@ In iPhone 8 or later: Tap the Volume Up, then quickly tap Volume Down and hold d
 
 ![erase a iphone without apple id 1](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In the case of iPhone 7/7Plus: Press the “Sleep/Power” and “Volume Down” keys together.
 
 Hold down the keys until you see the message on your iTunes screen about “your iPhone has been detected in recovery mode.”
 
 **Step 3:** Once done, click on “Ok” and choose the “Restore iPhone” option. Confirm your actions, and you’re done.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase a iphone without apple id 2](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. How to erase an iPhone without Apple ID via Settings
 
@@ -251,6 +258,10 @@ Erasing an iPhone without Apple ID becomes necessary when we happen to use a sec
 **Step 4:** Enter your passcode to confirm. This action will pop up a screen where you need to select Erase iPhone again, and boom, you are done now.
 
 ![erase a iphone without apple id 3](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Tip you may need to erase Apple ID
 
@@ -274,6 +285,10 @@ Now let’s get started with erasing an Apple ID via Apple’s Data and Privacy 
 
 ![erase a iphone without apple id 5](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Once you authenticate, click on the prompt indicating the option to “Continue.”
 
 **Step 3:** Once you click on the “Get started” prompt on the screen, you will get a tab to “Delete your account.” This will prompt you with an Apple message indicating the information regarding the deletion process time.
@@ -289,6 +304,10 @@ Now let’s get started with erasing an Apple ID via Apple’s Data and Privacy 
 **Step 6:** This submission will give you your access code which you can later use for clarification and, now you can click on the “Delete Account” option
 
 ![erase a iphone without apple id 7](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -317,6 +336,10 @@ After downloading and installing the platform on your desktop, you need to conne
 
 ![select-the-option-of-screen-unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Initiate Unlock**
 
 On the next screen, you are required to select the option of “Unlock Apple ID” from the list and proceed. Open up your Apple device and “Trust” the computer with the provided prompt message.
@@ -327,10 +350,11 @@ On the next screen, you are required to select the option of “Unlock Apple ID�
 
 Approach the Settings of your device and initiate its reboot. As soon as the reboot starts, the procedure for unlocking the Apple ID initiates across the platform.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![follow-on-screen-instructions](https://images.wondershare.com/drfone/drfone/interface.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4: Execution of the Process**
 
@@ -374,9 +398,6 @@ Security questions are referred to as the extra protective layer that is respons
 
 The article considered discussing various reasons and remedies to unlocking an Apple ID without the aid of security questions. You need to look over the guide to develop an understanding of the systems that are involved.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -389,9 +410,21 @@ The article considered discussing various reasons and remedies to unlocking an A
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-premium-vector-graphics-the-ultimate-10-site-list-for-2024/"><u>[New] Premium Vector Graphics The Ultimate 10 Site List for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-inside-the-score-understanding-aspect-ratios-for-video-success/"><u>[Updated] Inside The Score Understanding ASPECT RATIOS for Video Success</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-urgent-top-ten-todays-rapid-video-views/"><u>[Updated] Urgent Top Ten Today's Rapid Video Views</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-epic-journey-through-memory-lane-advanced-methods-for-capturing-your-sims-digital-adventures/"><u>2024 Approved The Epic Journey Through Memory Lane Advanced Methods for Capturing Your Sims' Digital Adventures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-leading-car-battery-chargers-analyzed-and-ranked-by-auto-experts-cnet-review/"><u>2024'S Leading Car Battery Chargers Analyzed and Ranked by Auto Experts | CNET Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-assisted-stress-reduction-leveraging-chatgpt-to-improve-your-wellbeing/"><u>AI-Assisted Stress Reduction: Leveraging ChatGPT to Improve Your Wellbeing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-oneplus-ace-2-pro-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-apple-iphone-se-by-drfone-ios/"><u>How to Fix when Apple Account Locked On Apple iPhone SE?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-12-pro-max-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your iPhone 12 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-apple-iphone-15-pro-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On Apple iPhone 15 Pro? Find the Best Solution Here</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-apple-iphone-7-plus-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your Apple iPhone 7 Plus From Your Apple ID</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-se-2022-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On iPhone SE (2022)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-apple-iphone-6-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From Apple iPhone 6</u></a></li>
+</ul></div>
 

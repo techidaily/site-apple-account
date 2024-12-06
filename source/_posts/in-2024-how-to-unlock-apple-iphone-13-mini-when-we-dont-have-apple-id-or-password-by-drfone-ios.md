@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone 13 mini When We Dont Have Apple ID or Password?
-date: 2024-09-19T20:18:27.386Z
-updated: 2024-09-21T19:53:17.026Z
+date: 2024-11-30T16:03:00.843Z
+updated: 2024-12-06T16:05:25.315Z
 tags: 
   - unlock
   - remove apple account
@@ -113,6 +113,10 @@ Apple's ecosystem offers convenience with services like Apple ID and Apple Pay. 
 
 In this comprehensive guide, we'll learn how to **change the credit card on Apple** ID and Apple Pay. Additionally, we will introduce you to a helpful tool for [<u>unlocking your Apple ID</u>](https://drfone.wondershare.com/reset-iphone/reset-iphone-without-apple-id.html) if you ever encounter access issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: 3 Ways To Change the Credit Card on Apple ID
 
 We'll explore 3 different methods to change the credit card details associated with your Apple ID in this section. These methods allow you to update your payment information effortlessly, ensuring uninterrupted access to Apple services.
@@ -153,6 +157,10 @@ Now, we shift our focus to those who prefer managing their payment information o
 
 ![click the delete button](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 3: Update the Credit Card Details on Windows PC
 
 To update the credit card information linked to your Apple ID, we'll now provide instructions specifically tailored for Windows PC users. This approach offers flexibility for individuals looking to maintain accurate payment details. With the help of the simplified steps given below, you can easily **change the credit card on the Apple account**:
@@ -175,13 +183,6 @@ While learning **how to change a credit card on your Apple Account**, you encoun
 
 The solution is [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/), a tool that is able to [<u> remove Apple ID from your iOS devices without needing the password</u>](https://drfone.wondershare.com/unlock/how-to-get-someones-apple-id-off-iphone-without-password.html). It is a comprehensive tool that has the ability to remove your Apple ID from your device permanently. This tool works its magic in removing Apple ID, whereas other tools fail when the Find My feature is enabled.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
@@ -192,6 +193,10 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - Supports the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
 **4,395,218** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Dr.Fone
 
@@ -209,19 +214,6 @@ To initiate the Apple ID unlocking process, you will need to install and launch 
 
 ![access the screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Step 2: Proceed to Activate Recovery Mode
 
 Now is the time to connect your iOS device to the computer using a respective cable and click "Unlock Now." Now, Wondershare Dr.Fone will ask you about having a screen lock and 2FA on the iOS device. The answer needs to be affirmative to proceed further. When done with it, enable [<u>Recovery Mode</u>](https://drfone.wondershare.com/recovery-mode/iphone-stuck-in-recovery-mode.html) on your iOS device with the help of on-screen instructions.
@@ -233,19 +225,6 @@ Now is the time to connect your iOS device to the computer using a respective ca
 Wondershare Dr.Fone will detect your device model once it is in Recovery Mode. Choose a system version to download by clicking “Start.” Once it has been downloaded and verified, tap "Unlock Now." It will lead to a prompt warning about data loss. Here, enter "000000" to confirm your choice and click "Unlock." Dr.Fone will go on to remove Apple ID from your device.
 
 ![add the confirmation code](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: 3 Methods To Change the Default Credit Card on Apple Pay
 
@@ -259,6 +238,10 @@ We start by exploring how to change the default credit card on Apple Pay using y
 
 ![change apple pay default card iphone](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Set New Card as Default on iPad or Mac
 
 Whether you prefer using your iPad for managing your payment methods or you're on your Mac, you can easily set a new card as the default option. Use the following instructions to set a credit card as the default card on Apple Pay:
@@ -268,6 +251,10 @@ Whether you prefer using your iPad for managing your payment methods or you're o
 **Instructions:** Access System Settings through the Dock or Apple menu and move to Wallet & Apple Pay. Afterward, once you're in Wallet & Apple Pay, choose a card from the "Default Card" settings and set it as the default card.
 
 ![click on the default card option](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### For iPad
 
@@ -327,6 +314,10 @@ If you have an active AppleCare plan for your Apple iPhone 13 mini, cancel it on
 
 ![cancel an applecare plan](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sign Out of iCloud
 
 If your Apple iPhone 13 mini has iOS 10.3 or later, open the **Settings** app, then tap on your name at the top. Next, scroll down, tap **Sign Out**, enter your Apple ID password, and tap **Turn Off**.
@@ -351,6 +342,10 @@ However, if you've forgotten your Apple ID password, don't fret. Follow the guid
 
 ![erase all content and settings interface](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Input your Apple ID password or your passcode when prompted.
 - **Step 6:** Click **Continue** to confirm. Then, wait while the contents are being removed from your Apple iPhone 13 mini device.
 
@@ -361,13 +356,6 @@ Activation lock is a security feature. It prevents anyone from activating an iPh
 Go to **Settings** > **\[your name\]** > **Find My** or **Find My iPhone** to check.
 
 ![find my iphone settings](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-07.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you want to **erase an iPhone without Apple ID** password on your computer, you can do so as long as you turn off the Find My. However, you'll need to put your Apple iPhone 13 mini into Recovery Mode first.
 
@@ -388,6 +376,10 @@ If you want to **erase an iPhone without Apple ID** password on your computer, y
 
 ![restore iphone on mac device](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - For macOS 10.14 or earlier or Windows: Click the Apple iPhone 13 mini in the top left window, click **Summary**, then click **Restore iPhone**.
 - **Step 7:** Click **Restore** in the dialogue box. iTunes or Finder will download your Apple iPhone 13 mini's latest iOS software and restore the Apple iPhone 13 mini to its factory settings.
 
@@ -407,6 +399,10 @@ To start this request, follow these steps:
 - **Step 2:** Scroll down the page, select the agreement checkbox, click **Continue**, and it will redirect you to a new page.
 
 ![apple activation lock support page](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Enter your email address and other required information, then click **Continue**.
 
@@ -474,10 +470,7 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 ![iphone apple id unlocked](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -498,5 +491,26 @@ If you're seeking a straightforward method on "**how to erase an iPhone without 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-crafting-compelling-obs-livestreams-for-facebook-fans/"><u>[New] 2024 Approved Crafting Compelling OBS Livestreams for Facebook Fans</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cutting-edge-computing-select-the-optimal-device-for-video-editing/"><u>[New] 2024 Approved Cutting Edge Computing Select the Optimal Device for Video Editing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-your-ultimate-guide-to-storing-and-saving-live-tv-broadcasts/"><u>[New] 2024 Approved Your Ultimate Guide to Storing and Saving Live TV Broadcasts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-best-video-grabbers-for-mac-for-2024/"><u>[Updated] Best Video Grabbers for Mac for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-guide-to-resolve-unresponsive-behavior-of-playerunknowns-battlegrounds-on-desktops/"><u>Comprehensive Guide to Resolve Unresponsive Behavior of PlayerUnknown's Battlegrounds on Desktops</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/einfach-und-schnell-iso-dateien-auf-dvd-brennen-lernen-sie-die-winx-dvd-copy-profi-methode-fur-windows-10-kennen/"><u>Einfach Und Schnell Iso-Dateien Auf DVD Brennen: Lernen Sie Die WinX DVD Copy Profi-Methode Für Windows 10 Kennen!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expanding-low-codeno-code-landscape-implications-for-tech-job-evolution-insights-by-zdnet/"><u>Expanding Low-Code/No-Code Landscape: Implications for Tech Job Evolution - Insights by ZDNet</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-se-2020-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone SE (2020) without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-11-pro-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone 11 Pro without Apple ID?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-iphone-11-pro-max-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From iPhone 11 Pro Max in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-15-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 15?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-15-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone 15?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-6-plus-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 6 Plus From Your Apple ID</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-the-full-potential-of-high-dynamic-range-photos-using-lightroom/"><u>In 2024, Unlocking the Full Potential of High Dynamic Range Photos Using Lightroom</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/key-principles-to-deliver-dynamic-ppt-in-online-meets/"><u>Key Principles to Deliver Dynamic PPT in Online Meets</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-14-pro-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on 14 Pro, is it possible?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-iphone-12-pro-max-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From iPhone 12 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-apple-iphone-14-plus-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On Apple iPhone 14 Plus? 5 Tips You Must Know</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-apple-iphone-8-plus-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your Apple iPhone 8 Plus? How to Fix</u></a></li>
+</ul></div>
 

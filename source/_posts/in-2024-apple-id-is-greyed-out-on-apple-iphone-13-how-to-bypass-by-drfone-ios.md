@@ -1,7 +1,7 @@
 ---
 title: In 2024, Apple ID is Greyed Out On Apple iPhone 13 How to Bypass?
-date: 2024-07-14T13:47:31.995Z
-updated: 2024-07-15T13:47:31.995Z
+date: 2024-12-04T16:10:39.330Z
+updated: 2024-12-06T16:12:37.741Z
 tags: 
   - unlock
   - remove apple account
@@ -50,6 +50,10 @@ Periodic maintenance or unexpected server outages on Apple's end can disrupt the
 
 Encountering a greyed-out Apple ID can be a daunting experience. However, there exist many resolutions to this issue that can be implemented. This article aims to guide you through several effective remedies that can help resolve the problem. By following the solution outlined below, you can fix the **Apple ID greyed out on iPad**:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 1: Checking Screen Time Passcode Settings
 
 In some instances, the greying out of the Apple ID can be attributed to specific settings, such as the Screen Time passcode. Checking and [<u>adjusting the Screen Time passcode settings</u>](https://drfone.wondershare.com/unlock/how-to-disable-screen-time.html) can help ensure your Apple ID is not inadvertently restricted. Follow the steps below to check and manage your Screen Time passcode settings for fixing the **Apple ID that is greyed out in the settings** option:
@@ -72,6 +76,14 @@ Checking the Apple System Status page can help determine if the problem lies at 
 
 ![check for apple id server status](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 3: By Turning Off Screen Time
 
 If the greying out issue persists and is related to Screen Time settings, disabling Screen Time can serve as a potential solution. By turning off Screen Time, you can potentially resolve any conflicts or restrictions that might be causing the greying out of your Apple ID.
@@ -81,9 +93,6 @@ This simple solution can help restore full access to your Apple ID and associate
 - **Step 1:** From the Settings of your Apple iPhone 13, access "Screen Time." On the following screen, scroll to the last option, "Turn Off Screen Time."
 - **Step 2:** Now tap "Turn Off Screen Time" and provide the screen time passcode for confirmation. Finally, confirm the action by selecting "Turn Off Screen Time" in the pop-up confirmation message.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off the screen time passcode](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-5.jpg)
 
 ### Solution 4: Restarting the iOS Device
@@ -94,6 +103,10 @@ Performing a simple restart on your iOS device can resolve various software-rela
 - **Step 2:** Drag the slider towards the right to power off your device. Allow a few moments to pass before using the "Side" button to switch on your Apple iPhone 13.
 
 ![turn off your iphone](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 5: Checking Internet Connectivity Status on Device
 
@@ -127,11 +140,10 @@ Dr.Fone does this resolving procedure through its powerful Screen Time Passcode 
 
 ### Key Features of Wondershare Dr.Fone
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
@@ -157,7 +169,6 @@ You need to start the process by opening Wondershare Dr.Fone and moving towards 
 
 ![choose the screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - Step 2: Start the Unlocking Process and Connect Your iDevice
 
 You will find yourself in a list of options from where you need to continue with the "Unlock Screen Time Passcode" option. Next, connect your iOS device to the computer via a USB cable. Then, wait for Wondershare Dr.Fone to detect your Apple iPhone 13.
@@ -168,9 +179,6 @@ You will find yourself in a list of options from where you need to continue with
 
 After the connection, select the "Unlock Now" button to unlock your screen time passcode, and turn off the "Find My iPhone" feature by following the on-screen instructions. Completion of the screen time passcode unlocking process will start to display after clicking the "OK" button. Finally, after the completion message, hit "Done" to end the entire operation.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![press the unlock now button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-2.png)
 
 ## Final Words
@@ -178,8 +186,6 @@ After the connection, select the "Unlock Now" button to unlock your screen time 
 Throughout this article, we have explored the perplexing issue of the **Apple ID grayed out in settings**. It can hinder the smooth functioning of your iOS device and access to various Apple services. By going through the root causes behind this problem, we have outlined several solutions. These can help users address the issue and regain access to their Apple ID.
 
 We recommend that users diligently follow the steps provided in each solution. So that they can identify and rectify the specific cause of the problem. However, in cases where the issue persists, we highlighted the significance of using Wondershare Dr.Fone. It offers a specialized Screen Time Passcode Unlock feature. Moreover, this ensures the smooth operation of Apple ID and associated services.
-
-
 
 ## How to Sign Out of Apple ID On Apple iPhone 13 without Password?
 
@@ -204,8 +210,6 @@ Before delving into methods for signing out of your Apple ID without a password,
 ## Part 2: Sign out of Apple ID without Password by Apple ID Unlocker
 
 If you have forgotten the password of your Apple ID and don't have a way to recover it, there is no need to panic. You can easily remove passwords from your iOS device using Wondershare [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). Its "[Remove Apple ID](https://drfone.wondershare.com/solutions/forgot-apple-id.html)" feature can effectively assist you in signing out of your Apple ID without requiring a password. This method provides a smooth solution for users facing issues related to forgotten passwords.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -244,7 +248,6 @@ Upon the identification of the Apple iPhone 13 device Model, you will simply be 
 
 ![hit the start button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
-
 ## Part 3: Sign Out of Apple ID Without Password by Resetting Your Apple ID Password
 
 If you find yourself unable to recall your Apple ID password, you can reset it through a simple process. Here's how to sign out of your Apple ID without a password by resetting your Apple ID password:
@@ -273,6 +276,10 @@ Follow these instructions to reset your password and then sign out of the Apple 
 - If you’ve added a recovery e-mail while creating your Apple ID, you can also use it to reset the password. In this case, select “**Get an E-mail**”. You’ll receive a password reset e-mail on your registered email.
 
     ![recovery email](https://images.wondershare.com/drfone/article/2020/05/recovery-email.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Whichever recovery method you choose, make sure to follow the on-screen instructions carefully. Once your password reset process completes, you’ll have to individually update the password in every iCloud service, be it iTunes or iMessage.
 
@@ -304,6 +311,10 @@ If you're unable to reset your Apple ID password on your own, you can seek assis
 
 ![add the required details](https://images.wondershare.com/drfone/article/2023/11/sign-out-apple-id-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 That wraps up our tips on **how to sign out of Apple ID without password**. No doubt, Apple products are probably the most secure devices on the planet, but it can become extremely challenging to access the features of your iDevice when you’ve forgotten the password. If that’s the case, make sure to follow the above-mentioned tactics to [sign out of the previous Apple ID](https://drfone.wondershare.com/solutions/forgot-apple-id.html) and create a new one to regain control over your iDevice.
@@ -332,6 +343,10 @@ To request a copy of your data, go to Privacy Apple on your web browser. Under t
 
 ![request a copy of your data](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Review Your Active Subscriptions
 
 Also, to "**delete iCloud account**," first review any active subscriptions you may have, such as Apple Music, Apple TV+, or iCloud+ storage. If you don't want to continue these subscriptions, cancel them before deleting your account.
@@ -347,6 +362,10 @@ Pay Loan Installments You Have With Apple Pay Later
 If you have an outstanding loan with Apple Pay Later, pay off any remaining installments before you delete your iCloud account. Otherwise, you may incur late fees or other penalties.
 
 ![pay apple store purchase](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sign Out of Your Devices and Web Browser
 
@@ -370,9 +389,6 @@ Here's "**how to remove iCloud account**" from your Apple iPhone 13 without dele
 - **Step 1:** Open the **Settings** app, then tap the **Apple ID** at the top of the Apple iPhone 13 screen.
 - **Step 2:** Scroll down, tap on **Sign Out**, enter your Apple ID password, and tap on **Turn Off**.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![sign out apple id on iphone](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-05.jpg)
 
 - **Step 3:** Tap on **Sign Out** to verify.
@@ -384,10 +400,11 @@ Follow these steps below to remove an iCloud account from your macOS Ventura or 
 - **Step 1:** Click on the Apple logo in the top left corner of your screen, then choose **System Settings**.
 - **Step 2:** Click on the **Apple ID** icon and click **Sign Out**.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![sign out apple id on mac](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Select the data files you want to save, then click **Keep a Copy**.
 
@@ -439,7 +456,6 @@ You're not alone if you've forgotten your Apple ID password or bought a used iPh
 Here's a step-by-step guide on how to use Dr.Fone to [<u>remove an iCloud account</u>](https://drfone.wondershare.com/icloud/how-to-remove-icloud-account.html) without a password:
 
 - **Step 1:** Download and install Dr.Fone on your desktop.
-
 
 - **Step 2:** Launch the software and go to **My Device**. Follow the in-app instructions to connect your Apple iPhone 13 to your computer using a USB cable.
 
@@ -533,7 +549,6 @@ As you've learned, deleting an iCloud account is a permanent decision you cannot
 
 Apps like Dr.Fone provide a comprehensive solution for backing up your data and removing an iCloud account without a password. Its user-friendly interface and streamlined processes make it an ideal choice for those seeking a quick and hassle-free experience. Whether you're looking for an answer on "**how to delete iCloud account**" or "**remove iCloud account**," Dr.Fone is the ultimate tool to guide you through the process.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -546,9 +561,26 @@ Apps like Dr.Fone provide a comprehensive solution for backing up your data and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-androids-5-prime-photo-tools-ultimate-editing-companion/"><u>[New] Android's 5 Prime Photo Tools Ultimate Editing Companion</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-guardians-of-the-screen-the-best-webcam-cover-options-for-2024/"><u>[New] Guardians of the Screen - The Best Webcam Cover Options for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-beatniks-guide-to-music-enhanced-snapchats/"><u>[Updated] Beatniks' Guide to Music-Enhanced Snapchats</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-heritage-on-display-post-copyright-masterpieces/"><u>[Updated] In 2024, Heritage on Display Post-Copyright Masterpieces</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-iphoneipad-podcasting-for-excellent-travel-sessions/"><u>[Updated] IPhone/iPad Podcasting for Excellent Travel Sessions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-proven-techniques-for-counteracting-virtual-insults/"><u>2024 Approved Proven Techniques for Counteracting Virtual Insults</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-11-pro-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone 11 Pro? How to Fix it?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chatgpt-microsoft-discover-who-runs-this-ai/"><u>ChatGPT' Microsoft: Discover Who Runs This AI</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/delayed-launch-of-innovative-apple-intelligence-tech-set-for-october-release-reveals-insider-info/"><u>Delayed Launch of Innovative 'Apple Intelligence' Tech Set for October Release, Reveals Insider Info</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>How to Fix when Apple Account Locked On Apple iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-iphone-6-plus-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From iPhone 6 Plus</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Identify malfunctioning hardware drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-apple-iphone-7-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For Apple iPhone 7</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From Apple iPhone 6 Plus?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-apple-iphone-6-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your Apple iPhone 6 without Security Questions?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-iphone-se-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From iPhone SE</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-iphone-xs-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From iPhone XS? 5 Tips You Must Know</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-iphone-12-pro-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your iPhone 12 Pro? How to Fix</u></a></li>
+</ul></div>
 
