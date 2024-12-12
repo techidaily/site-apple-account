@@ -1,7 +1,7 @@
 ---
 title: How to Fix when Apple Account Locked From Apple iPhone 13?
-date: 2024-07-14T13:45:45.973Z
-updated: 2024-07-15T13:45:45.973Z
+date: 2024-12-11T16:00:22.560Z
+updated: 2024-12-12T16:00:10.804Z
 tags: 
   - unlock
   - remove apple account
@@ -74,6 +74,10 @@ When the process finishes, a pop-up message will notify you. It will point out t
 
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 2. Use iTunes to Unlock Apple Account
 
 Apple also offers the services of its built-in utilities such as iTunes to unlock Apple account. Here before doing anything else, you will need to get your Apple iPhone 13 into recovery mode. For added convenience, we have listed how to get into recovery mode with iPhone so you can smoothly proceed with the process.
@@ -97,6 +101,10 @@ Now that you have entered into recovery mode, the next step is to restore the iP
 **Step 5.** Access your Apple iPhone 13, and you will find that the Apple account will be disabled.
 
 ![apple account locked 1](https://images.wondershare.com/drfone/article/2020/11/apple-account-locked-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 3. Recover Your Apple ID via Apple (Reset Password)
 
@@ -130,11 +138,17 @@ If you have purchased a refurbished iPhone and the previous owner’s Apple ID a
 
 ![apple account locked 3](https://images.wondershare.com/drfone/article/2020/11/apple-account-locked-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Getting your Apple account can ruin your day and hinder your work. Luckily, there are suitable methods to fix the Apple Account Locked issue quickly and without any damage. Here, we have discussed the top techniques to unlock the Apple account. Hopefully, these tips have helped you can access the contents of your Apple iPhone 13.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Change Your Apple iPhone 13 Apple ID on MacBook
 
@@ -153,6 +167,10 @@ Changing your Apple ID allows you to customize your MacBook according to your pr
 ### 2\. App Store and iTunes Purchases
 
 You can access a distinct collection of applications, music, films, and books by creating or logging in with a different Apple ID. This proves especially beneficial when considering a change of region. It also helps when sharing your MacBook with family members, each of whom has their individual Apple ID.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. iCloud Storage
 
@@ -185,9 +203,6 @@ Changing your Apple ID on your MacBook through Settings is a straightforward pro
 
 In such instances, you'll need to contact the previous owner and request them to disassociate their Apple ID. Here are two practical methods for **how to change Apple ID on MacBook Air**:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Way 1: Using the iPhone
 
 The first way the previous owner can remove the Apple ID from your MacBook is by using his iPhone. You can ask the previous owner to follow these steps on their iPhone:
@@ -258,6 +273,9 @@ Click "Toolbox" from the left sidebar after launching Wondershare Dr.Fone. From 
 
 ![click on remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Step 2: Enable Recovery Mode on Your Device
 
@@ -271,15 +289,15 @@ Once your device is in [<u>Recovery Mode</u>](https://drfone.wondershare.com/rec
 
 ![press the unlock now button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 In conclusion, this article has provided you with valuable insights into the process of **how to change Apple ID on MacBook**. We began by highlighting the primary purpose of the Apple ID and discussing the countless benefits it offers. We've walked you through two main methods for changing your Apple ID. The first one is using the Settings on your MacBook.
 
 The other included alternative approaches for scenarios like purchasing a second-hand MacBook. We also addressed the issue of forgetting your Apple ID password on iOS devices. For it, we used the specialized software Wondershare Dr.Fone to remove Apple ID without needing a password.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Reset Apple ID and Apple Password On Apple iPhone 13
 
@@ -315,8 +333,9 @@ However, this process will only work if you know either your Apple ID, or your P
 You May Like: [How to Reset iPhone Without Apple ID >>](https://drfone.wondershare.com/reset-iphone/reset-iphone-without-apple-id.html)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Recover/Reset Apple Password via Email or Security Questions
 
 This method only works if you have a verified recovery email for your Apple account or a set of security questions that you set up. The recovery instructions can be sent to your recovery email or you can answer the security questions on the Apple website. Here is a step-by-step guide:
@@ -336,8 +355,6 @@ Also Read: [How to Remove iCloud Account with or without Password >>](https://dr
 ## Part 4: Reset Apple ID with no need to remember Password and Email
 
 If you want to try a 100% working technique to reset Apple ID, then use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). The application would get rid of the Apple ID linked to the Apple iPhone 13 device without any related details like email id or password. Though, you should know that this will cause the loss of stored data on your device. You can reset Apple ID using Dr.Fone – Screen Unlock (iOS) easily, but make sure that you don't use it for any illegal activity.
-
-
 
 ### Dr.Fone - Screen Unlock
 
@@ -372,9 +389,6 @@ To proceed, the application would require erasing the Apple iPhone 13 device. As
 
 As the Apple iPhone 13 device restarted, the application would follow the needed process to reset its Apple ID. You can wait for a few minutes for the process to be completed.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![process-of-unlocking](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
 
 When the Apple ID is unlocked, you will be notified. You can now safely remove the Apple iPhone 13 device and use it the way you like.
@@ -419,9 +433,17 @@ Now if you happen to lose any two of the above at the same time, there is no way
 
 Also Read: [How to Factory Reset iPhone without Passcode >>](https://drfone.wondershare.com/reset-iphone/factory-reset-iphone-without-passcode.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 7: Using Apple's Two-Factor Authentication (Forgot Apple ID Password)
 
 This is a new account recovery option that is built into iOS 9 and OS X El Capitan. If you have enabled it for your account, you can change or reset Apple password from [iforgot.apple.com](http://iforgot.apple.com/) or from any trusted iPad, iPhone, or iPod touch if you forgot your Apple ID password. The trusted device, however, only works if it has a passcode enabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to reset Apple password on Your own iPhone
 
@@ -454,11 +476,6 @@ If you can't log into your Apple account even after all this hassle, and if you'
 
 Because the iCloud and Apple passwords are the same, you would also lose all the data that you've kept in your iCloud. However, you can retrieve it all using third-party software called [Dr.Fone - Data Recovery (iOS)](https://drfone.wondershare.com/data-recovery-iphone.html).
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Data Recovery (iOS)
 
 World's 1st iPhone and iPad data recovery software.
@@ -477,7 +494,6 @@ With this guide, we now hope that you have been reunited with your estranged App
 
 If you get permanently locked out of your Apple or iCloud accounts, you could also use the Dr.Fone solution we mentioned to recover whatever data you can. Have they been able to help you? Do you know of other solutions to the problem of [losing your Apple ID and Password](https://drfone.wondershare.com/solutions/forgot-apple-id.html)? If so, we'd love to hear from you Do leave a comment and let us know what you think about our solutions.!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -490,9 +506,22 @@ If you get permanently locked out of your Apple or iCloud accounts, you could al
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/nhance-audio-visual-fidelity-use-av1-on-youtube/"><u>[New] Enhance Audio-Visual Fidelity Use AV1 on YouTube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-recordcast-review/"><u>[New] RecordCast Review</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-14-pro-max-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone 14 Pro Max? How to Fix it?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/dual-display-audio-preservation-for-2024/"><u>Dual-Display Audio Preservation for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/free-download-ultimate-guide-to-the-official-google-usb-driver/"><u>Free Download: Ultimate Guide to the Official Google USB Driver</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-12-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone 12 Apple ID on MacBook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-se-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone SE without Apple ID?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-7-plus-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-apple-iphone-14-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From Apple iPhone 14 Pro? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-x-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone X to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-iphone-15-pro-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect iPhone 15 Pro and iPad</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pushing-boundaries-in-visual-storytelling-with-hdr-for-2024/"><u>Pushing Boundaries in Visual Storytelling with HDR for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-apple-iphone-xs-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From Apple iPhone XS? 5 Tips You Must Know</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-realme-gt-5-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Realme GT 5 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>
 

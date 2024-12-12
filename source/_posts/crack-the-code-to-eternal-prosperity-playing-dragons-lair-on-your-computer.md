@@ -1,7 +1,7 @@
 ---
 title: "Crack the Code to Eternal Prosperity: Playing 'Dragon's Lair' On Your Computer"
-date: 2024-11-30T16:06:19.798Z
-updated: 2024-12-06T16:03:23.236Z
+date: 2024-12-10T16:01:09.752Z
+updated: 2024-12-12T16:04:34.151Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/fb4a67269b09db2a7f2f5849b8bae34d180258d63
 Since the release of Pathfinder: Wrath of the Righteous, you can scroll through hundreds of Reddit threads that are about bug reports on the game. One of the issues plaguing many gamers is that **the game keeps freezing, especially when they click on the two classes – inquisitor and rogue** . For some, they can’t even start the game because it’s stuck at 92% after the character creation. If you’re on the same boat, don’t worry. In this post, we’ve got you covered with some methods.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -46,6 +46,10 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1 – Manually update your graphics driver
 
  To update your graphics driver manually, you can go to the official website:
@@ -66,13 +70,13 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -83,7 +87,7 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
  A variety of issues may be caused by corrupted game files, whether it’s glitched graphics or inability to launch the game. When the Pathfinder: Wrath of the Righteous freezing issue arise, you should check the integrity of the game files on Steam or GOG Galaxy:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Verify on Steam
@@ -94,14 +98,10 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 2. Select the**LOCAL FILES** tab and click on the**VERIFY INTEGRITY OF GAME FILES…** button. Then Steam will verify the game files. Simply wait for the process to complete.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Verify on GOG Galaxy
 
@@ -115,10 +115,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
  When it’s all done, relaunch your game. If the freezing issue persists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Disable overlays
 
  Commonly used in various programs, overlay technology allows you to enjoy some exclusive features, but can also cause performance issues with some games. Therefore, you should disable the Steam overlay and check if it can give you a performance boost. Here’s how you can do this:
@@ -131,10 +127,14 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After applying the changes, play Pathfinder: Wrath of the Righteous and your problem should be alleviated. However, if the freezing issue still occurs, don’t worry. Below are other fixes for you to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Launch your game from .exe file
@@ -142,6 +142,10 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
  Most of the time, we just launch a program by simply clicking on the shortcut or launch a game from the gaming platform. But there is one other way you can launch your game. That is through the .exe file. Simply go to your game’s installation directory and**double-click on the executable** . Sometimes running your game directly from the executable (suggested by some players) can work like magic. So if the above methods didn’t work for you, definitely give it a shot. Players who **can’t launch the Pathfinder along with the disk write error** can also benefit from this trick.
 
 However, if it doesn’t give you any luck, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Delete the registry key
 
@@ -167,10 +171,6 @@ Once done, restart your game and test the gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
  That’s it. Feel free to drop a comment below if any fixes listed above worked for you. We also welcome alternate methods in case you’ve found one that worked for you.
@@ -190,24 +190,24 @@ Once done, restart your game and test the gameplay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-why-cant-i-watch-video-on-sony-a6400-camera/"><u>[New] 2024 Approved Why Can't I Watch Video on Sony A6400 Camera?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-secure-simplified-recording-of-video-conferencing/"><u>[Updated] Secure, Simplified Recording of Video Conferencing</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-designing-powerful-summaries-insights-and-real-world-use/"><u>2024 Approved Designing Powerful Summaries Insights & Real World Use</u></a></li>
-<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-se-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone SE without the Previous Owner?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-solutions-to-restore-and-enhance-laptop-sound-performance/"><u>Expert Solutions to Restore and Enhance Laptop Sound Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-modern-ar-laptops-without-displays-are-outshining-their-predecessors-in-both-features-and-price/"><u>How Modern AR Laptops Without Displays Are Outshining Their Predecessors in Both Features and Price</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-disable-conversational-ai-on-win11/"><u>How to Disable Conversational AI on Win11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-apple-iphone-15-by-drfone-ios/"><u>How to Fix when Apple Account Locked On Apple iPhone 15?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-12-mini-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your iPhone 12 mini</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-apple-iphone-12-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From Apple iPhone 12? Find the Best Solution Here</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-iphone-se-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From iPhone SE? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For iPhone 11 Pro Max</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-itel-s23-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-iphone-7-plus-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On iPhone 7 Plus in the Best Ways</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From iPhone 14 Pro Max</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo Y200? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/prime-picks-the-top-6-online-networks-for-corporate-success-for-2024/"><u>Prime Picks The Top 6 Online Networks for Corporate Success for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/unlock-the-full-potential-of-zoom-meetings-for-win10-users/"><u>Unlock the Full Potential of Zoom Meetings for WIN10 Users</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-apple-iphone-12-mini-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your Apple iPhone 12 mini? How to Fix</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-optimize-video-quality-on-youtube-with-size-settings/"><u>[New] 2024 Approved How to Optimize Video Quality on YouTube with Size Settings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-unleashing-potential-in-screen-recording-expertise-in-adobe-captivate/"><u>[New] Unleashing Potential in Screen Recording Expertise in Adobe Captivate</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-leveraging-luts-for-rich-color-grading-in-ar-apps/"><u>[Updated] In 2024, Leveraging LUTs for Rich Color Grading in AR Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-screen-capture-connoisseurs-your-guide-to-preserving-twitvid-media/"><u>[Updated] Screen Capture Connoisseurs Your Guide to Preserving TwitVid Media</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-iphone-xr-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From iPhone XR? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-unknown-disk-error-in-windows-systems/"><u>Handling 'Unknown' Disk Error in Windows Systems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-apple-iphone-12-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your Apple iPhone 12 Pro Max Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-apple-iphone-xs-max-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From Apple iPhone XS Max in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-apple-iphone-6-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On Apple iPhone 6 Plus? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-iphone-14-plus-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By iPhone 14 Plus without the Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-iphone-14-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On iPhone 14 without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-7-plus-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an Apple iPhone 7 Plus Without Apple ID Password?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-ideas-for-customized-gif-art/"><u>In 2024, Innovative Ideas for Customized GIF Art</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perfect-prompt-engineering-made-easy-top-7-web-based-tools/"><u>Perfect Prompt Engineering Made Easy: Top 7 Web-Based Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/profit-power-up-maximize-youtube-studio-dollars-across-platforms-for-2024/"><u>Profit Power-Up Maximize YouTube Studio Dollars Across Platforms for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-15-pro-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 15 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/revive-your-system-5-strategies-for-wins-secure-boot-errors/"><u>Revive Your System: 5 Strategies for Win's Secure Boot Errors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/understanding-computing-gear-with-toms-hardware-expertise/"><u>Understanding Computing Gear with Tom's Hardware Expertise</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Erase an iPhone 12 Pro Without Apple ID Password?
-date: 2024-07-14T13:40:41.217Z
-updated: 2024-07-15T13:40:41.217Z
+date: 2024-12-11T16:01:26.334Z
+updated: 2024-12-12T16:01:11.614Z
 tags: 
   - unlock
   - remove apple account
@@ -111,6 +111,10 @@ If you want to **erase an iPhone without Apple ID** password on your computer, y
 
 ![restore iphone to factory settings](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 8:** Once the restore is complete, the Apple iPhone 12 Pro will restart.
 
 ## Part 4: Erase an iPhone Without Apple ID via Activation Lock Support Request
@@ -143,7 +147,6 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 - **Step 1:** Download and install Dr.Fone on your desktop. Launch the app and connect your Apple iPhone 12 Pro using a USB cable.
 
-
 - **Step 2:** From the **Toolbox** homepage, select **Screen Unlock**, then choose **iOS**.
 
 ![dr.fone toolbox interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -152,9 +155,17 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 ![dr.fone screen unlock tools](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** The next screen shows the connected device. Click **Unlock Now**.
 
 ![unlock connected ios device](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Click **Yes** to confirm you have set up a screen lock.
 
@@ -292,7 +303,6 @@ It is great to learn more about the tool to process the method perfectly. For th
 - The tool supports removing all kinds of locks, including Face ID, Touch ID, screen time passcode, etc.
 - It can also remove Apple ID from the Apple iPhone 12 Pro device without requiring iTunes.
 
-
 ### Steps For Unlocking Apple ID From Apple Device with Dr.Fone - Screen Unlock (iOS)
 
 We will now shift to knowing more about how to bypass Apple ID from a device whose password is forgotten:
@@ -302,6 +312,10 @@ We will now shift to knowing more about how to bypass Apple ID from a device who
 To start the process, it is best to download and install the latest version of Wondershare Dr.Fone on your computer. As it launches, continue to select "Screen Unlock" from the options.
 
 ![select screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Proceed to Remove the Apple ID**
 
@@ -321,6 +335,9 @@ Put your Apple device into the Recovery Mode by following the on-screen instruct
 
 ![activate the recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: FAQs about Apple ID
 
@@ -362,9 +379,6 @@ At the heart of your Apple experience is an Apple ID. But what exactly is it, an
 
 ![apple id account](https://images.wondershare.com/drfone/article/2023/11/finding-your-apple-id-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What Is My Apple ID?
 
 Think of your Apple ID as your unique passkey to the entire Apple ecosystem. It's a combination of your email address and a secure password that you use to sign in to all things Apple. Whether it's your cherished iPhone, trusty iPad, or reliable Mac, your Apple ID ties them all together, making your digital life seamless.
@@ -412,9 +426,6 @@ Here's how to locate your Apple ID on a Mac device:
 
 - **Step 4:** Your Apple ID is now right in front of you, under your profile picture. Jot it down or take a screenshot – just in case.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![mac apple id settings](https://images.wondershare.com/drfone/article/2023/11/finding-your-apple-id-07.jpg)
 
 ### On Windows PC
@@ -425,9 +436,6 @@ If you've lost your Apple ID and need to find it on your Windows device, follow 
 
 **Note:** You can use iTunes instead of iCloud if you don't have one on your Windows PC yet.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icloud apple id settings](https://images.wondershare.com/drfone/article/2023/11/finding-your-apple-id-08.jpg)
 
 - **Step 2:** And that's it! Your Apple ID should be there. Your Apple ID will be associated with your name as long as you are logged in.
@@ -449,7 +457,6 @@ Have you ever found yourself locked out of your Apple device, desperately seekin
 So, what is Dr.Fone - Screen Unlock? It's a nifty tool designed to simplify unlocking your Apple devices. Whether it's a forgotten passcode, a [<u>locked screen</u>](https://drfone.wondershare.com/unlock/bypass-android-lock-screen.html), or an Apple ID issue, Dr.Fone - Screen Unlock is your go-to solution.
 
 ![drfone v13 home](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 ### Key Features and Benefits
 
@@ -476,18 +483,23 @@ Unlocking your Apple device with Dr.Fone - Screen Unlock is as easy as 1-2-3. He
 
 - **Step 4:** The next step is to enter **Recovery Mode** on your iOS device. Put your iDevice into the appropriate mode by following the on-screen prompts. If you cannot get your iDevice to boot into **Recovery Mode**, you can attempt putting it into [<u>DFU mode</u>](https://drfone.wondershare.com/dfu-mode/tools-for-iphone-to-enter-dfu-mode.html) by tapping the **Try to enter DFU Mode** button at the bottom.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone enters dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 - **Step 5:** The platform automatically recognizes the **Device Model** after users successfully enter **Recovery Mode** on their iDevice. Make any necessary adjustments to the model and pick the **System Version**. After that, tap the **Start** button to continue the screen unlocking process.
 
 ![drfone recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 6:** The next screen will show you where your device's iOS firmware download stands. If you want to cancel the operation, just hit the **Stop** button. If the iOS firmware takes a long time to download on your platform, you can copy the download link by clicking the **Copy** option.
 
 ![drfone downloading firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 7:** Once the iOS firmware has been downloaded and verified, it will be displayed on the following screen. Continue by clicking the **Unlock Now** button.
 
@@ -504,6 +516,10 @@ Unlocking your Apple device with Dr.Fone - Screen Unlock is as easy as 1-2-3. He
 
 It's important to note that Dr.Fone - Screen Unlock is a trusted solution that prioritizes data security and ease of use. So, if you ever find yourself locked out of your Apple device and need a quick and reliable way to unlock it, Dr.Fone - Screen Unlock should be your first choice.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part IV. Additional Tips and Troubleshooting
 
 While this guide has covered the basics of finding your Apple ID and using Dr.Fone - Screen Unlock, there are some common issues that Apple users might encounter. Here are some tips and troubleshooting solutions to help you navigate these problems:
@@ -518,8 +534,9 @@ While this guide has covered the basics of finding your Apple ID and using Dr.Fo
 - Enter your Apple ID and follow the prompts to reset your password.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Two-Factor Authentication Issues
 
 **Issue:** Sometimes, [<u>two-factor authentication</u>](https://drfone.wondershare.com/remove-apple-account/remove-apple-two-factor-authentication.html) can cause access problems. Here's what you can do:
@@ -543,6 +560,10 @@ While this guide has covered the basics of finding your Apple ID and using Dr.Fo
 - Check your email for a verification link.
 - Follow the on-screen prompts for verification.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Unable To Sign Into iCloud
 
 **Issue:** [<u>If you can't sign in to iCloud</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html), follow these steps:
@@ -559,9 +580,6 @@ In the vast Apple universe, your Apple ID is your golden ticket to an array of s
 
 So, explore Dr.Fone - Screen Unlock and make your Apple experience hassle-free. And don't forget to safeguard your Apple ID like the treasure it is. Because with your Apple ID secure, you're ready to unlock a world of endless possibilities!
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -574,9 +592,22 @@ So, explore Dr.Fone - Screen Unlock and make your Apple experience hassle-free. 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-become-audio-prodigy-installing-vrecorder-made-ahead/"><u>[New] 2024 Approved Become Audio-Prodigy - Installing VRecorder Made Ahead</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-dominate-your-niche-on-fb-with-these-10-keyword-strategies/"><u>[Updated] Dominate Your Niche on FB with These 10 Keyword Strategies</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-pioneering-profit-navigating-the-path-to-money-making-on-vimeo-for-2024/"><u>[Updated] Pioneering Profit Navigating the Path to Money-Making on Vimeo for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-14-plus-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 14 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-iphone-xr-device-from-icloud-by-drfone-ios/"><u>How to Remove Apple iPhone XR Device from iCloud</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-6s-plus-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-11-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your iPhone 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-oppo-a38-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Oppo A38 Through Google Earth?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-apple-iphone-11-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From Apple iPhone 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-iphone-12-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your iPhone 12 without Security Questions?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-license-free-meditation-songs-your-ultimate-selection/"><u>In 2024, License-Free Meditation Songs – Your Ultimate Selection</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/selecting-excellent-steadicams-for-dslr-cinematography-for-2024/"><u>Selecting Excellent Steadicams for DSLR Cinematography for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/swift-transfer-methods-getting-files-onto-computers/"><u>Swift Transfer Methods Getting Files Onto Computers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-oppo-a1-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Oppo A1 5G Android SIM Unlock APK</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixes and Solutions for NieR Replicant Remaster Failed Launching Problems
-date: 2024-12-03T16:10:04.388Z
-updated: 2024-12-06T16:06:18.177Z
+date: 2024-12-09T16:03:47.775Z
+updated: 2024-12-12T16:07:49.275Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/670a3d23e314a574aa8e5af4448af6d1aaae62996
 Team Fortress 2 gameplay is endlessly fun but many players report the problem of the game not launching. If you happened to be one of them, don’t worry. We’ve got some fixes for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5 fixes to try
@@ -50,6 +50,10 @@ By checking your system specs, just follow the instructions below:
 
 ![bring up DirectX Diagnostic Tool](https://images.drivereasy.com/wp-content/uploads/2020/09/dxdiag.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Now you can check your system specs.
 
 ![check system specs
@@ -66,10 +70,6 @@ By checking your system specs, just follow the instructions below:
  You might not be able to launch your games if your graphics drivers are corrupt or out-of-date. So to have a better gaming experience, have them updated.
 
  There are mainly two options you can take to update your graphics drivers:[manually](https://tools.techidaily.com/drivereasy/download/) or[automatically](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics drivers
 
@@ -106,6 +106,10 @@ OR
 
  If you’ve had all your drivers updated and the problem persists, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Run TF2 in compatibility mode & as an administrator
 
  When your game keeps hanging on “Preparing to launch…” and it never launches, try running it in compatibility mode & as an administrator.
@@ -114,13 +118,13 @@ OR
 
 ![run the game in compatibility mode; Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Open the**steamapps** folder.
 
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-2-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Then open the**common** folder >**Team Fortress 2** folder.
 
@@ -129,16 +133,12 @@ OR
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-3-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Select the**Compatibility** tab and check**Run this program in compatibility mode** and**Run this program as an administrator** . Then click**OK** .
 
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-as-an-administrator.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Verify the integrity of game files
 
@@ -148,20 +148,20 @@ OR
 
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-1-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select the**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES…** .
 
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-integrity-of-game-files.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Steam will verify the game’s files and this process may take several minutes.
 
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-integrity-of-game-files-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Set Launch Options
@@ -172,10 +172,6 @@ OR
 
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the**GENERAL** tab, click**SET LAUNCH OPTIONS** .
 
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-2.png)
@@ -183,6 +179,10 @@ OR
  3) When the window pops up, type**autoconfig** and click**OK** .
 
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Till then, try running the game. If you want to go back to the previous launch options, just delete**autoconfig** following the steps listed above.
 
@@ -216,22 +216,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-essential-steps-for-clear-quality-iphone-recordings/"><u>[New] 2024 Approved Essential Steps for Clear, Quality iPhone Recordings</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-voice-reinvention-with-technology-rankings-of-7-innovative-audio-tools-for-2024/"><u>[Updated] Voice Reinvention with Technology Rankings of 7 Innovative Audio Tools for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-apple-iphone-14-pro-max-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On Apple iPhone 14 Pro Max How to Bypass?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-6-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone 6? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-xs-max-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone XS Max?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-apple-iphone-11-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On Apple iPhone 11? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-breakthrough-techniques-for-enhancing-video-quality-in-meet/"><u>In 2024, Breakthrough Techniques for Enhancing Video Quality in Meet</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 13 Pro Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-13-pro-max-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone 13 Pro Max without Apple ID?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/monoprices-affordable-graphics-tablet-tested-top-features-low-cost/"><u>Monoprice's Affordable Graphics Tablet Tested: Top Features, Low Cost</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-easy-setup-download-wacom-intuos-pro-software-for-windows-11-users/"><u>Quick & Easy Setup: Download Wacom Intuos Pro Software for Windows 11 Users</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/1726224457959-swf-movavi/"><u>SWF 비디오를 정교하게 조리하고 전통 제품에서 MOVavi 라이브 스타일로 커스터마이트화</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-iphone-xs-max-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From iPhone XS Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-iphone-11-pro-max-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From iPhone 11 Pro Max? 5 Tips You Must Know</u></a></li>
-<li><a href="https://facebook.techidaily.com/unwinding-the-facebook-tiktok-rivalry-with-reel-innovation/"><u>Unwinding the Facebook-TikTok Rivalry with Reel Innovation</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-infinix-hot-40-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Infinix Hot 40 Device</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-nostalgic-snapshots-from-your-camera-roll-on-snapchat-for-2024/"><u>[Updated] Nostalgic Snapshots From Your Camera Roll on Snapchat for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-cash-growth-forecasts-at-no-cost/"><u>2024 Approved YouTube Cash Growth Forecasts at No Cost</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726221222630-mkvwma-movavi/"><u>在線無成本MKV變更為WMA - 利用 Movavi的編輯器</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/archivos-ogg-explicados-todo-lo-que-necesitas-saber-sobre-este-codec-multimedia-y-sus-funciones-basicas/"><u>Archivos Ogg Explicados: Todo Lo Que Necesitas Saber Sobre Este Códec Multimedia Y Sus Funciones Básicas</u></a></li>
+<li><a href="https://program-issues.techidaily.com/google-chrome-crash-woes-here-are-effortless-remedies/"><u>Google Chrome Crash Woes? Here Are Effortless Remedies</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-se-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone SE</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-xs-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone XS</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-apple-iphone-15-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On Apple iPhone 15</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-functionality-in-windows-7-systems/"><u>How To Restore Audio Functionality in Windows 7 Systems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone 15 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-iphone-13-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On iPhone 13?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-to-address-missing-coprocessor-drivers-on-your-windows-10-machine/"><u>Step-by-Step Solution to Address Missing Coprocessor Drivers on Your Windows 10 Machine</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "No More Quiet Tunes: Resolving Firefox's Sound Malfunction Successfully"
-date: 2024-11-29T16:00:39.290Z
-updated: 2024-12-06T16:04:47.543Z
+date: 2024-12-08T16:08:44.061Z
+updated: 2024-12-12T16:03:58.378Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ External speakers such as Creative Pebble speakers are engineered with clear dia
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install all Windows updates
 
  Windows updates are used to keep Microsoft Windows and several other Microsoft programs updated. They often include feature enhancements and security updates to protect Windows from the malware attacks which would probably lead to sound failures. Therefore, you should download and install the latest Windows updates to check if this helps you fix the issue.
@@ -42,15 +46,11 @@ Here’s how you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
@@ -67,19 +67,11 @@ Here’s how you can do this:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 2. Click**Sound Control Panel** .![open sound control panel](https://images.drivereasy.com/wp-content/uploads/2021/03/sound-control-panel.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Under the**Playback** tab, click on your Creative Pebble speakers and click**Set Default** .
 
  Once you’ve done that, verify via the speaker icon in the taskbar that the audio is not muted and is turned up. Then you can test by playing a song. If your Creative Pebble speakers still won’t produce any sound, don’t worry, there are a few other fixes you can try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Update your sound driver
 
@@ -96,6 +88,10 @@ Here’s how to update drivers with Driver Easy:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/de-update-all-Realtek-Audio.jpg)
@@ -107,6 +103,10 @@ Here’s how to update drivers with Driver Easy:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Run the audio troubleshooter
 
  Windows offers a built-in audio troubleshooter that scans your system and helps identify and fix a variety of common sound problems. To use it, take these steps:
@@ -117,7 +117,7 @@ Here’s how to update drivers with Driver Easy:
 2. Select your device and click**Next** to start the troubleshooting process. Then wait for it to complete and you may be asked to restart your computer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/next.png)
@@ -151,19 +151,22 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-new-windows-11-hacks-for-efficiency-experts/"><u>[New] New Windows 11 Hacks for Efficiency Experts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-ideal-websites-for-accessing-free-licensed-audio-files/"><u>[Updated] Ideal Websites for Accessing Free, Licensed Audio Files</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-y55s-5g-2023-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo Y55s 5G (2023) Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-6-plus-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 6 Plus? Find the Best Solution Here</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-ambient-weathers-ws-1/"><u>Comprehensive Review of Ambient Weather's WS-1</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-breathtaking-tiled-photographic-artistry-for-2024/"><u>Crafting Breathtaking Tiled Photographic Artistry for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-6s-plus-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From iPhone 6s Plus</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-iphone-6-by-drfone-ios/"><u>How to Fix Locked Apple ID from iPhone 6</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-customize-your-windows-photos-experience-with-unique-audio-and-aesthetic-choices/"><u>In 2024, Customize Your Windows Photos Experience with Unique Audio & Aesthetic Choices</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-iphone-11-pro-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on iPhone 11 Pro</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From iPhone 13 Pro</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-perfectly-prepared-videos-a-guide-to-instagram-fitness/"><u>In 2024, Perfectly Prepared Videos A Guide to Instagram Fitness</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-6s-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From iPhone 6s</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/vimeoifytweets-audiovideo-tweet-tool/"><u>VimeoifyTweets Audio/Video Tweet Tool</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-educators-guide-to-thriving-youtube-channels-10-must-know-secrets/"><u>[New] In 2024, Educators' Guide to Thriving YouTube Channels – 10 Must-Know Secrets</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oppo-find-x7-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo Find X7 Ultra Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-images-cache-websites/"><u>Elite Images Cache Websites</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-making-your-lucidsound-ls30-microphone-work-again/"><u>Expert Tips: Making Your LucidSound LS30 Microphone Work Again</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-apple-iphone-xr-by-drfone-ios/"><u>How To Create an Apple Developer Account From Apple iPhone XR</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-15-pro-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone 15 Pro Without Apple ID Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-11-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 11? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-apple-iphone-12-pro-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From Apple iPhone 12 Pro without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-apple-iphone-14-plus-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your Apple iPhone 14 Plus? How to Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/microsoft-solves-wins-basic-drive-problems/"><u>Microsoft Solves Win's Basic DRIVE Problems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-error-resolved-on-windows-7-laptop/"><u>Printer Error Resolved on Windows 7 Laptop</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-iphone-15-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From iPhone 15</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-rich-tapestry-of-ajeys-channel-wealth-for-2024/"><u>The Rich Tapestry of Ajey's Channel Wealth for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tomahawk-compatible-msi-b350-motherboard-drivers-free-downloads-for-windows-10-8-and-7/"><u>Tomahawk-Compatible MSI B350 Motherboard Drivers: Free Downloads for Windows 10, 8 & 7</u></a></li>
 </ul></div>
 

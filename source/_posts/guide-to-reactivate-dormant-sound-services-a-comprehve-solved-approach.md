@@ -1,7 +1,7 @@
 ---
 title: "Guide to Reactivate Dormant Sound Services: A Comprehve Solved Approach"
-date: 2024-12-04T16:10:33.591Z
-updated: 2024-12-06T16:13:48.082Z
+date: 2024-12-05T16:01:21.954Z
+updated: 2024-12-12T16:07:28.923Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
  **Don’t know how to test your microphone on your Windows computer?** Don’t worry! You’ve come to the right place. It’s pretty easy. After reading this post, you should be able to test your mic quickly and easily!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## There’re two methods to test your microphone
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
 3. **[Bonus tip: How to fix microphone not working on your computer?](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Mic testing in Windows audio settings
 
@@ -48,12 +52,12 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-37-58.png)
 3. Click**Set up microphone** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-38-40.png)
 4. Select the correct type of your microphone and click**Next** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-39-30.png)
 5. Follow the**Microphone Setup Wizard** to configure your microphone. Close the wizard when it completes.  
@@ -61,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-40-26.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 2: Test your microphone
@@ -72,19 +76,15 @@ Follow the steps below to test your microphone in Windows audio settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-41-21.png)
 2. Navigate to**the Recording tab** . Select the microphone you’re going to test, then try speaking into your microphone to test if it works properly. If it is, you should see some green in the bar on the right. Click**OK** to close the window after testing.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-42-45.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the microphone you’re going to test is not the default device for recording, you need to click**the Set Default button** to set it as the default device first.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Mic testing with the built-in Voice Recorder app
 
@@ -121,12 +121,12 @@ Follow the steps below to test your microphone in Windows audio settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-48-18.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively if you’re comfortable manually installing drivers, you can click**Update** next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-49-09.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; it comes with a**30-day money-back guarantee** , so if you don’t like it you can get a full refund, no questions asked.
 
@@ -150,20 +150,16 @@ Follow the steps below to test your microphone in Windows audio settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-mastering-iphones-screen-capture-features/"><u>[New] 2024 Approved Mastering iPhone's Screen Capture Features</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-face-id-vs-snapchats-face-unlock-the-apple-vs-samsung-debate/"><u>[New] Face ID Vs. Snapchat's Face Unlock The Apple Vs. Samsung Debate</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-restoring-lost-eyes-only-snapshots-on-snapchat-for-2024/"><u>[New] Restoring Lost Eyes-Only Snapshots on Snapchat for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-step-by-step-guide-using-nvidia-recorder/"><u>[Updated] Step-by-Step Guide Using NVIDIA Recorder</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-tiny-tale-telling-framework/"><u>2024 Approved Tiny Tale Telling Framework</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/geoengineerings-promise-or-peril-in-combatting-warming/"><u>Geoengineering's Promise or Peril in Combatting Warming?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-8-plus-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-iphone-11-by-drfone-ios/"><u>How to Fix when Apple Account Locked On iPhone 11?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-iphone-12-pro-max-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From iPhone 12 Pro Max How to Bypass?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from Apple iPhone 11 Pro</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone 6s Plus</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-11-pro-max-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 11 Pro Max? How to Fix</u></a></li>
-<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-iphone-xs-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From iPhone XS</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/retail-marketing-through-vr-technology/"><u>Retail Marketing Through VR Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-a-comprehensive-guide/"><u>Tom's Tech Reviews: A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-desktop-and-mobile-solutions-how-to-rotate-videos-for-instagram-in-2024/"><u>[Updated] [Desktop & Mobile Solutions] How to Rotate Videos for Instagram, In 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-20-top-free-cloud-storage-options-maximize-your-upload-limit-1tbplus-for-2024/"><u>[Updated] 20 Top Free Cloud Storage Options, Maximize Your Upload Limit (1TB+) for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-max-360-vs-hero-11-gopro-cameras-face-off/"><u>[Updated] Max 360 Vs. Hero 11 - GoPro Cameras Face Off</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/commanding-machine-consciousness-towards-goodness/"><u>Commanding Machine Consciousness Towards Goodness</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/crucial-notions-for-online-story-craftsmanship/"><u>Crucial Notions for Online Story Craftsmanship</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-12-mini-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone 12 mini without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-apple-iphone-7-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From Apple iPhone 7 without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-iphone-6s-plus-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From iPhone 6s Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-explore-the-best-kept-facebook-meme-secrets/"><u>In 2024, Explore The Best-Kept Facebook Meme Secrets</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-apple-iphone-8-plus-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your Apple iPhone 8 Plus? How to Fix</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-13-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 13</u></a></li>
 </ul></div>
 

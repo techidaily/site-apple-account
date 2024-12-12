@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Erase an iPhone 12 Pro Without Apple ID Password?
-date: 2024-07-14T13:43:33.105Z
-updated: 2024-07-15T13:43:33.105Z
+date: 2024-12-11T16:00:00.610Z
+updated: 2024-12-12T16:01:04.365Z
 tags: 
   - unlock
   - remove apple account
@@ -31,6 +31,10 @@ Backup Your Apple iPhone 12 Pro
 You can [<u>back up to iCloud</u>](https://drfone.wondershare.com/iphone-backup-and-restore.html) or use Finder on macOS 10.15 or later. Remember that iCloud backups are stored on Apple's servers and always encrypts backups. On the other hand, computer backups are stored on your computer's hard drive and require a connection to the backup computer. Consider what your needs and preferences are when choosing between these two backup options.
 
 ![several ways to backup iphone](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Prepare Your Apple iPhone 12 Pro Passcode
 
@@ -79,6 +83,10 @@ However, if you've forgotten your Apple ID password, don't fret. Follow the guid
 - **Step 5:** Input your Apple ID password or your passcode when prompted.
 - **Step 6:** Click **Continue** to confirm. Then, wait while the contents are being removed from your Apple iPhone 12 Pro device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How To Erase iPhone Without Apple ID Password on Computer?
 
 Activation lock is a security feature. It prevents anyone from activating an iPhone without your Apple ID password. If you try to factory reset your Apple iPhone 12 Pro without turning off Find My iPhone, the [<u>activation lock </u>](https://drfone.wondershare.com/icloud/unlock-icloud-activation.html) will be in place. It means you need to enter your Apple ID password to activate the Apple iPhone 12 Pro again. To turn it off, also ensure to turn off Find My on your device.
@@ -98,6 +106,10 @@ If you want to **erase an iPhone without Apple ID** password on your computer, y
 
 ![iphone in recovery mode](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Switch on your Apple iPhone 12 Pro. Then, connect it to a Mac or Windows computer using a USB cable.
 - **Step 5:** When prompted, follow the on-screen instructions to enter your device passcode or click **Trust This Computer**.
 - **Step 6:** Depending on your computer, open Finder or iTunes. Then, do either of the following:
@@ -112,6 +124,10 @@ If you want to **erase an iPhone without Apple ID** password on your computer, y
 ![restore iphone to factory settings](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-10.jpg)
 
 - **Step 8:** Once the restore is complete, the Apple iPhone 12 Pro will restart.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Erase an iPhone Without Apple ID via Activation Lock Support Request
 
@@ -143,7 +159,6 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 - **Step 1:** Download and install Dr.Fone on your desktop. Launch the app and connect your Apple iPhone 12 Pro using a USB cable.
 
-
 - **Step 2:** From the **Toolbox** homepage, select **Screen Unlock**, then choose **iOS**.
 
 ![dr.fone toolbox interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -159,6 +174,10 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 - **Step 5:** Click **Yes** to confirm you have set up a screen lock.
 
 ![validate iphone screen lock set up](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Click **Yes** to verify you have enabled [<u>two-factor authentication</u>](https://drfone.wondershare.com/remove-apple-account/how-to-get-apple-id-verification-code.html) on your Apple iPhone 12 Pro.
 
@@ -192,20 +211,12 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 ![iphone apple id unlocked](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 It can be challenging to **erase an iPhone without an Apple ID** password, but it's achievable by following the right steps. Remember to weigh the security implications and back up your data beforehand.
 
 If you're seeking a straightforward method on "**how to erase an iPhone without Apple ID**," Dr.Fone Screen Unlock tool is a good solution. With its user-friendly interface and efficient operation, Dr.Fone simplifies the process, making it accessible to users of all technical levels. Don't let a forgotten Apple ID password hinder your device's functionality. Try Dr.Fone Screen Unlock and reclaim control of your Apple iPhone 12 Pro.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 12 Pro
 
 In the world of Apple devices and services, your Apple ID is your key to unlocking a world of possibilities. The digital fingerprint connects you to your Apple iPhone 12 Pro, iPad, Mac, and all the apps and services you love. But if you're asking, "**How do I find my Apple ID**?" you've come to the right place.
@@ -261,6 +272,10 @@ Here's how to locate your Apple ID on a Mac device:
 
 ![mac system preferences](https://images.wondershare.com/drfone/article/2023/11/finding-your-apple-id-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** In the **System Preferences** window, click on **Apple ID**.
 
 ![mac apple id](https://images.wondershare.com/drfone/article/2023/11/finding-your-apple-id-06.jpg)
@@ -268,6 +283,10 @@ Here's how to locate your Apple ID on a Mac device:
 - **Step 4:** Your Apple ID is now right in front of you, under your profile picture. Jot it down or take a screenshot – just in case.
 
 ![mac apple id settings](https://images.wondershare.com/drfone/article/2023/11/finding-your-apple-id-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### On Windows PC
 
@@ -299,10 +318,6 @@ So, what is Dr.Fone - Screen Unlock? It's a nifty tool designed to simplify unlo
 
 ![drfone v13 home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Features and Benefits
 
 Let's explore the key features and benefits of Dr.Fone - Screen Unlock:
@@ -322,15 +337,16 @@ Unlocking your Apple device with Dr.Fone - Screen Unlock is as easy as 1-2-3. He
 
 ![drfone unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** To begin unlocking the iOS device, tap **Start** on the following screen. Check to see if your gadget has adequate battery life.
 
 ![drfone remove ios screen lock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
 - **Step 4:** The next step is to enter **Recovery Mode** on your iOS device. Put your iDevice into the appropriate mode by following the on-screen prompts. If you cannot get your iDevice to boot into **Recovery Mode**, you can attempt putting it into [<u>DFU mode</u>](https://drfone.wondershare.com/dfu-mode/tools-for-iphone-to-enter-dfu-mode.html) by tapping the **Try to enter DFU Mode** button at the bottom.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![drfone enters dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 - **Step 5:** The platform automatically recognizes the **Device Model** after users successfully enter **Recovery Mode** on their iDevice. Make any necessary adjustments to the model and pick the **System Version**. After that, tap the **Start** button to continue the screen unlocking process.
@@ -416,7 +432,6 @@ Out of these problems, users aren't able to update or download applications that
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jmU_WBObOEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-
 ## Part 1: How to get someone else's Apple ID off iPhone without a password using Dr. Fone – Screen Unlock (iOS)
 
 There are many prompt notifications you would receive when trying to log into the Apple ID. In many cases, we might see that the users either would have [forgotten their Apple ID passwords](https://drfone.wondershare.com/icloud/forgot-icloud-password.html) or couldn’t find the password of someone else’s Apple ID. But here’s the kicker, with [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) your ID can be unlocked by keenly following a few steps as described below:
@@ -441,6 +456,10 @@ Log out iPhone's Apple ID without Password
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** Unlock the phone's lock screen for trusting on the computer to further scan the data on the phone.
 
 ![trust computer](https://images.wondershare.com/drfone/drfone/trust-computer.jpg)
@@ -457,10 +476,13 @@ Log out iPhone's Apple ID without Password
 
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
-
 ## Part 2: How to get rid of someone’s Apple ID off iPhone with the previous owner’s help?
 
 Signing out of the Apple ID on your Apple iPhone 12 Pro is very easy if you are in contact with the previous owner. There are a few methods that are available for understanding how to remove the Apple ID from the Apple iPhone 12 Pro with their help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1st Method
 
@@ -479,9 +501,6 @@ There is another alternative method available to check if the previous owner has
 - The screen on the Apple iPhone 12 Pro should be black. Following this, a message would appear on the desktop screen showing an iPhone in recovery mode.
 - By clicking "Ok," the restoration of the Apple iPhone 12 Pro shall start.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to get rid of someone’s Apple ID off iPhone on the App Store?
 
 There might be a case where your subordinates or relative might have downloaded an app on your Apple iPhone 12 Pro from the App Store by using their IDs and would have forgotten to sign themselves out of it. For understanding the method on how to sign out of the Apple ID without passwords and credentials, users need to follow a few simple steps.
@@ -489,7 +508,6 @@ There might be a case where your subordinates or relative might have downloaded 
 ## Conclusion
 
 Having another Apple ID logged in doesn't mean that everything is long lost. Several ways and scenarios help users to counter this problem easily. It's easy to bypass Apple ID without a password remotely if you have the right tool. In that case, [Dr.Fone - Screen Unlock (iOS)](https://download.wondershare.com/drfone_unlock_full3372.exe) can definitely be your right choice. This article is a complete guide on how to combat the issue of having someone else's Apple ID logged in to your Apple iPhone 12 Pro.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -503,9 +521,17 @@ Having another Apple ID logged in doesn't mean that everything is long lost. Sev
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-step-up-video-playback-enable-youtubes-advanced-av1-setting/"><u>[New] Step Up Video Playback Enable YouTube's Advanced AV1 Setting</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-end-screen-design-made-easy-with-our-templates-and-tutorials/"><u>[Updated] In 2024, End-Screen Design Made Easy with Our Templates & Tutorials</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-techniques-for-fabulous-photo-collage-artistry/"><u>[Updated] In 2024, Techniques for Fabulous Photo Collage Artistry</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-premium-platforms-for-hearing-westeros-tones/"><u>[Updated] Premium Platforms for Hearing Westeros Tones</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-zte-nubia-z60-ultra-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset ZTE Nubia Z60 Ultra in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-iphone-x-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From iPhone X? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 12 mini</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-nikons-masterpiece-unveiling-the-4k-capabilities-of-j5/"><u>In 2024, Nikon's Masterpiece Unveiling The 4K Capabilities of J5</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From Apple iPhone XS Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-14-pro-max-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone 14 Pro Max Making It Possible</u></a></li>
+</ul></div>
 

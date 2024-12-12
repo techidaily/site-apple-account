@@ -1,7 +1,7 @@
 ---
 title: How To Erase an iPhone 13 Without Apple ID Password?
-date: 2024-07-14T13:46:23.212Z
-updated: 2024-07-15T13:46:23.212Z
+date: 2024-12-07T10:55:13.530Z
+updated: 2024-12-11T16:36:08.648Z
 tags: 
   - unlock
   - remove apple account
@@ -31,6 +31,10 @@ Backup Your Apple iPhone 13
 You can [<u>back up to iCloud</u>](https://drfone.wondershare.com/iphone-backup-and-restore.html) or use Finder on macOS 10.15 or later. Remember that iCloud backups are stored on Apple's servers and always encrypts backups. On the other hand, computer backups are stored on your computer's hard drive and require a connection to the backup computer. Consider what your needs and preferences are when choosing between these two backup options.
 
 ![several ways to backup iphone](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Prepare Your Apple iPhone 13 Passcode
 
@@ -69,15 +73,16 @@ However, if you've forgotten your Apple ID password, don't fret. Follow the guid
 - **Step 1:** Open the **Settings** application, then tap **\[name\]**.
 - **Step 2:** Go to **Sign-In & Security** > **Change Password**.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change apple id password](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-05.jpg)
 
 - **Step 3:** Follow the on-screen instructions to reset your Apple ID password.
 - **Step 4:** Go to **General** > **Reset** from the **Settings** app, then tap **Erase All Content and Settings**.
 
 ![erase all content and settings interface](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Input your Apple ID password or your passcode when prompted.
 - **Step 6:** Click **Continue** to confirm. Then, wait while the contents are being removed from your Apple iPhone 13 device.
@@ -88,9 +93,6 @@ Activation lock is a security feature. It prevents anyone from activating an iPh
 
 Go to **Settings** > **\[your name\]** > **Find My** or **Find My iPhone** to check.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![find my iphone settings](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-07.jpg)
 
 If you want to **erase an iPhone without Apple ID** password on your computer, you can do so as long as you turn off the Find My. However, you'll need to put your Apple iPhone 13 into Recovery Mode first.
@@ -104,6 +106,10 @@ If you want to **erase an iPhone without Apple ID** password on your computer, y
 
 ![iphone in recovery mode](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Switch on your Apple iPhone 13. Then, connect it to a Mac or Windows computer using a USB cable.
 - **Step 5:** When prompted, follow the on-screen instructions to enter your device passcode or click **Trust This Computer**.
 - **Step 6:** Depending on your computer, open Finder or iTunes. Then, do either of the following:
@@ -111,6 +117,10 @@ If you want to **erase an iPhone without Apple ID** password on your computer, y
 - For macOS 10.15 or later: Select your Apple iPhone 13 under the **Locations**section, then click **Restore iPhone**.
 
 ![restore iphone on mac device](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - For macOS 10.14 or earlier or Windows: Click the Apple iPhone 13 in the top left window, click **Summary**, then click **Restore iPhone**.
 - **Step 7:** Click **Restore** in the dialogue box. iTunes or Finder will download your Apple iPhone 13's latest iOS software and restore the Apple iPhone 13 to its factory settings.
@@ -132,6 +142,10 @@ To start this request, follow these steps:
 
 ![apple activation lock support page](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Enter your email address and other required information, then click **Continue**.
 
 ![request activation lock support online](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-12.jpg)
@@ -148,7 +162,6 @@ The time it takes to process an unlock Activation Lock support request can take 
 Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest iOS models. Follow these steps to remove the Apple ID from your Apple iPhone 13 and erase all its contents within minutes:
 
 - **Step 1:** Download and install Dr.Fone on your desktop. Launch the app and connect your Apple iPhone 13 using a USB cable.
-
 
 - **Step 2:** From the **Toolbox** homepage, select **Screen Unlock**, then choose **iOS**.
 
@@ -193,6 +206,10 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 - **Step 12:** Keep your Apple iPhone 13 connected to your computer while the process progresses.
 
 ![unlocking apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 13:** Click **Done** and check that your Apple iPhone 13's data and Apple ID have been removed.
 
@@ -240,9 +257,6 @@ After adding the AirTag to any object, it instantly syncs with the Apple ID of t
 
 **Step 4:** Choose the selected items and swipe upwards on the screen. Then, find the Remove Item button and press it.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![find the remove item button](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-airtag-from-apple-id-4.jpg)
 
 **Step 5:** Following this, select and press the Remove button. Repeat for confirmation.
@@ -278,7 +292,6 @@ The process of bypassing Apple ID as a feature is available for iOS 14.0 or its 
 3. Works to bypass Apple ID account locking without a password within seconds.
 4. It allows Apple ID lock removal even with the active Find My iPhone feature on the smartphone.
 
-
 **How to use it?**
 
 **Step 1:** Install the Dr.Fone app and launch it on the computer. Choose Screen Unlock.
@@ -287,9 +300,6 @@ The process of bypassing Apple ID as a feature is available for iOS 14.0 or its 
 
 **Step 2:** On the next page, tap the Remove Apple ID option. Then enter the necessary passcode to verify that you trust the PC. Then, do further scanning.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove apple id](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 3:** Back up all devices before the procedure. Then, visit the Settings page > user profile > Password & Security. Then, toggle the Two Factor Authentication feature to the ON part. Then, press Unlock Now.
@@ -303,7 +313,6 @@ The process of bypassing Apple ID as a feature is available for iOS 14.0 or its 
 **Step 5:** Verify on your device that the Apple ID is unlocked. Then, go to the Find My app and remove the AirTag feature as detailed previously.
 
 ![verify on your device](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
-
 
 ## Part 4. FAQs about AirTag
 
@@ -323,11 +332,6 @@ With the Bluetooth connection switched on, one can track Apple AirTag for approx
 
 The added AirTag stays connected with one Apple ID account until you reset it. So, use the process mentioned to remove the AirTag via iPhone or iPad. If the iPad or iPhone you are using has locked the Apple ID, you can use another software [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/), to access it without data loss securely. Then, follow the steps mentioned to reset the AirTag here.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## iCloud Separation: How To Disconnect Apple iPhone 13 and iPad
 
 Managing your iCloud is important to maintain the security of your Apple devices. Your iCloud account is the central hub for your photos, documents, contacts, and more. It’s essential to ensure that your devices are safe and secure. However, there are scenarios when you might want to remove it.
@@ -341,6 +345,10 @@ The page below will guide you on **how to disconnect your Apple iPhone 13 from i
 iCloud is one of the most integral parts of the Apple ecosystem. It syncs your data across devices and ensures a connected digital experience. Yet, there are times when disconnecting from iCloud is necessary. Below are some specific reasons why you should learn **how to disconnect your iPad/iPhone from iCloud**.
 
 ![icloud screen on iphone](https://images.wondershare.com/drfone/article/2023/11/how-to-disconnect-to-icloud-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Privacy Concerns
 
@@ -380,6 +388,10 @@ You can also remove your iCloud account on your Apple iPhone 13/iPad by visiting
 
 ![icloud main window on browser](https://images.wondershare.com/drfone/article/2023/11/how-to-disconnect-to-icloud-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Click **AccountSettings**in the interface and scroll down. Choose the option to **Sign Out of All Browsers**. Next, confirm your choice to disconnect your iCloud from your Apple iPhone 13 or iPad.
 
 ### Factory Reset
@@ -405,6 +417,10 @@ You can use the Find My app to remove an iCloud account from a specific device. 
 
 ![removing device on find my app](https://images.wondershare.com/drfone/article/2023/11/how-to-disconnect-to-icloud-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Contact Apple Support
 
 If you encounter issues disconnecting your device from iCloud, contacting Apple support is a wise choice. It’s a good option if you have difficulties using the previous methods. They can guide you through the process and offer personalized assistance.
@@ -423,7 +439,6 @@ Dr.Fone is a flexible alternative tool that can remove iCloud from your Apple iP
 
 ![dr.fone main program interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - **Step 2:** On the next window, select iCloud Activation Lock Removal to initiate the process. Next, connect your Apple iPhone 13/iPad to the computer with a USB cable. Wait for Dr.Fone to recognize your device, and it will lead to the next screen.
 
 ![dr.fone icloud activation lock tool](https://images.wondershare.com/drfone/guide/bypass-activation-lock-1.png)
@@ -435,6 +450,10 @@ Dr.Fone is a flexible alternative tool that can remove iCloud from your Apple iP
 Once the process is completed, you should see the completion message below. Select Done to finish the removal of the iCloud Activation Lock on your Apple iPhone 13 or iPad. A successful process will automatically remove the iCloud on your device.
 
 ![icloud successfully removed using dr.fone](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. How Dr.Fone Can Benefit You in Other Aspect
 
@@ -466,7 +485,6 @@ Managing your iCloud is essential for maintaining privacy and control over your 
 
 With these options at your disposal, you can tailor your data to meet your specific needs. Always remember that having a handy third-party tool like Dr.Fone can put your data worries at ease. It ensures you have another method of **how to disconnect from iCloud**for any iCloud-related concerns.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -479,9 +497,18 @@ With these options at your disposal, you can tailor your data to meet your speci
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-precision-techniques-the-most-essential-8-tools-for-microphone-and-speaker-recording-for-2024/"><u>[New] Precision Techniques The Most Essential 8 Tools for Microphone & Speaker Recording for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-cross-platform-filmography-syncing-smartphones-and-systems/"><u>[Updated] In 2024, Cross-Platform Filmography Syncing Smartphones and Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavi-oggflac/"><u>「Movaviで簡単に自由体制: OGGからFLACへの無料オンラインファイル変換」</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-iphone-13-pro-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From iPhone 13 Pro? Find the Best Solution Here</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-iphone-12-mini-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From iPhone 12 mini in the Best Ways</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-gt-10-pro-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Infinix GT 10 Pro Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-plus-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 14 Plus, Apples New iPhone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-14-pro-max-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 14 Pro Max? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-6-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone 6</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mxf-mpeg-movavi/"><u>MXF 및 MPEG 파일을 원격화하여 이점: Movavi 비용 없는 온라인 전환기</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-11-pro-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 11 Pro?</u></a></li>
+</ul></div>
 

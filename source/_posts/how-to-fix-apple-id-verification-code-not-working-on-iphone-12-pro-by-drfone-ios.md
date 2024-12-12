@@ -1,7 +1,7 @@
 ---
 title: How To Fix Apple ID Verification Code Not Working On iPhone 12 Pro
-date: 2024-07-14T13:40:29.740Z
-updated: 2024-07-15T13:40:29.740Z
+date: 2024-12-11T16:04:55.007Z
+updated: 2024-12-12T16:06:19.093Z
 tags: 
   - unlock
   - remove apple account
@@ -20,21 +20,23 @@ In smartphones, the Apple ID stands out as a cornerstone of security for iPhone 
 
 Sometimes, you might need help with the issue of the **Apple ID verification code not working**. This leads to frustration, especially if you need to remember your Apple iPhone 12 Pro ID details. This 2024 guide will delve into practical solutions to fix issues with Apple ID verification codes, helping you [<u>regain access </u> <u>t</u><u>o Apple ID</u>](https://drfone.wondershare.com/icloud/how-recover-forgot-apple-id-password-from-icloud-itunes-and-app-store.html) and peace of mind.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![verification failed prompt apple](https://images.wondershare.com/drfone/article/2024/01/apple-id-verification-not-working-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: When Does the Apple Verification ID Failed Prompt Appear?
 
 Before diving into solutions, it’s essential to understand the various scenarios that can trigger the “**Apple Verification ID Failed**” prompt. Recognizing the cause of the problem is the first step toward the right fix. Let’s explore the common reasons you might encounter this issue:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Wrong Password Input
 
 One of the most straightforward reasons for a failed verification is entering the wrong password. This could be a simple typing error or misremembering your password. Repeated wrong attempts can also lead to your account being temporarily disabled as a security measure.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Apple Server Issues
 
@@ -42,9 +44,6 @@ At times, the problem may not be on your end. Apple’s servers can experience d
 
 ![apple server status page](https://images.wondershare.com/drfone/article/2024/01/apple-id-verification-not-working-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Slow Internet or Intermittent Connection
 
 A stable and reliable internet connection is improtant for the verification process. If your internet is slow or experiencing intermittent connectivity, it can disrupt the communication between your device and Apple’s servers, leading to verification failure.
@@ -109,7 +108,6 @@ Here’s how to use powerful Dr.Fone’s - Screen Unlock (iOS) to remove Apple I
 
 - **Step 1:** Download, install, and launch Wondershare Dr.Fone.
 
-
 - **Step 2:** Go to **Toolbox > Screen Unlock > iOS**.
 
 ![dr.fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -138,9 +136,17 @@ Here’s how to use powerful Dr.Fone’s - Screen Unlock (iOS) to remove Apple I
 
 ![remove apple id confirm](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 9:** After the process is completed, click **Done.** If it still doesn’t work, then click **Try again**.
 
 ![dr.fone complete screen unlock](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -188,13 +194,14 @@ Have resetting the Apple ID password from the settings on your iOS device or Mac
 
 ![tap on the reset password button](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** You will receive a confirmation code on one of your trusted Apple devices by proceeding to the next screen. Tap “Allow” on the confirmation pop-up, and you will be redirected to enter your trusted Apple device passcode. This will allow you to set a new password for your Apple ID.
 
 ![enter idevice old password](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 3: Reset Apple ID Password Using the Apple Support App
 
 The official Apple Support app is another way to reset your Apple ID password. It is a blessing in disguise for those who don't have access to trusted devices or recovery email/phone numbers. This method can be easily accessed from another iOS device. Below are the necessary procedures you must follow to **reset your Apple ID password with email** using the Apple Support app:
@@ -211,6 +218,10 @@ The official Apple Support app is another way to reset your Apple ID password. I
 
 You are in luck if you have added an account recovery contact before losing your Apple ID password. To guarantee that you never face lockouts on your Apple ID or devices, Apple permits the addition of up to 5 recovery contacts. Simply contact your account recovery contact for assistance. Here are the steps they can follow to aid you:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### On iOS Devices
 
 - **Step 1:** You can begin by accessing the iOS device's Settings and tapping the Apple ID. On the following screen, press "Sign-In & Security" and go on to "Account Recovery."
@@ -219,9 +230,6 @@ You are in luck if you have added an account recovery contact before losing your
 
 - **Step 2:** Here, press the account's name that has added them as recovery contact. Press "Get Recovery Code" on the following screen and share it with the person who needs to regain access to his devices.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on get recovery mode](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-10.jpg)
 
 ### On Mac
@@ -229,6 +237,10 @@ You are in luck if you have added an account recovery contact before losing your
 - **Step 1:** Start by accessing "System Settings" using the Finder and click on your name from the top left corner. Following this, access the "Sign-In & Security" settings and tap "Account Recovery."
 
 ![proceed with system settings](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Select the contact who has asked you for help recovering their account. Then, tap "Get Recovery Code" to receive a code that you need to share with the targeted person.
 
@@ -249,8 +261,6 @@ If you have been trying all the solutions and the Apple ID account has not yet r
 That's why it's necessary to recover your Apple ID as soon as possible. [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a robust feature to unlock your Apple ID and resolve this problem permanently. This software can also bypass your Screen Time Passcode if you have forgotten your password. You will be able to use your Apple ID effectively after using this iOS screen unlock toolkit.
 
 ### Key Features of Wondershare Dr.Fone
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -277,7 +287,6 @@ At first, you will have to launch Wondershare Dr.Fone on your system and access 
 
 ![proceed with remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
-
 - Step 2: Get Your Apple iPhone 12 Pro into the Recovery Mode
 
 In the next step, proceed with unlocking your Apple iPhone 12 Pro and selecting the "Trust" option for system authentication. After doing this, you need to press the "Unlock Now" icon and follow the on-screen instructions to confirm the status of Screen Lock and [<u>Two-Factor Authentication</u>](https://drfone.wondershare.com/remove-apple-account/remove-apple-two-factor-authentication.html). Next, you will be required to enable Recovery Mode on your iDevice.
@@ -296,13 +305,15 @@ In summary, the Apple ID serves as the fundamental key to unlocking a world of a
 
 It ensures that users regain control over their accounts within the Apple ecosystem. Furthermore, for more intricate and robust solutions, Wondershare Dr.Fone stands as the best choice. It offers a dedicated Unlock Apple ID feature. This presents an invaluable help to resolve Apple ID-related issues swiftly.
 
-
-
 ## Apple ID Unlock On Apple iPhone 12 Pro? How to Fix it?
 
 Apple follows a strict set of rules when it comes to security. If someone tries to hack into your Apple ID or account by entering the wrong password for too many times, it will disable your account. Well, this can create a hassle for you and we are to help you out of this.
 
 There are various ways that you can use to fix your disable Apple ID. You can follow whatever suits you or whatever works with your Apple iPhone 12 Pro. If you are still wondering about ‘How to unlock apple id’, here is a guide for you. As a whole, locking of your account is good than releasing your data to a hacker.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Reasons why Apple ID locked?
 
@@ -364,11 +375,19 @@ On the new screen, click on “Unlock Apple ID” to get started.
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Enter Screen Password**
 
 After that step, you will be asked to unlock your Apple iPhone 12 Pro. Once you do it, a new pop up message will appear. Click on “trust” and move on to the next step. With accepting, your data on your phone will be removed permanently.
 
 ![trust computer](https://images.wondershare.com/drfone/drfone/trust-computer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Reset Settings and Reboot your Device**
 
@@ -422,7 +441,6 @@ However, you can always look out for the Apple ID using the first and last name 
 
 This is all you need to know about unlocking your Apple ID in some easy steps. If you can get help from any professional, that would be much safe as, it will prevent any damage to your phone. If this is something new to you, you need someone who knows about it all. Unlocking your smartphone is easy with all these tools as mentioned above. Make sure you use them as per their terms and conditions for the betterment.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -435,9 +453,23 @@ This is all you need to know about unlocking your Apple ID in some easy steps. I
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-insights-tracking-your-insta-posts-viewers/"><u>[Updated] 2024 Approved Mastering Insights Tracking Your Insta Posts' Viewers</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725284966525-dvd/"><u>無料 DVDコピーワンクラス解除ソフトウェア「窓の杜」使用方法</u></a></li>
+<li><a href="https://facebook.techidaily.com/break-through-the-competition-with-unique-facebook-reels/"><u>Break Through the Competition with Unique Facebook Reels</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/digital-image-synergy-tactics/"><u>Digital Image Synergy Tactics</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-7-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your iPhone 7 Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-xr-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone XR without Apple ID?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-iphone-6s-plus-by-drfone-ios/"><u>How to Fix Locked Apple ID from iPhone 6s Plus</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-y27-4g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo Y27 4G?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-xr-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone XR</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-13-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 13</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-vivo-x-flip-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Vivo X Flip to Gmail | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-15-plus-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-keyboard-latency-on-your-windows-11-pc-solved/"><u>Troubleshooting Keyboard Latency on Your Windows 11 PC: Solved</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/urban-construction-meets-martian-adventure-epic-chaos-and-joy/"><u>Urban Construction Meets Martian Adventure: Epic Chaos and Joy</u></a></li>
+</ul></div>
 

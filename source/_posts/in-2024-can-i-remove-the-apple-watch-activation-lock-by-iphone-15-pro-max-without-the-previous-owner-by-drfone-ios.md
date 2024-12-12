@@ -1,7 +1,7 @@
 ---
 title: In 2024, Can I Remove the Apple Watch Activation Lock By iPhone 15 Pro Max without the Previous Owner?
-date: 2024-11-29T16:02:35.660Z
-updated: 2024-12-06T16:08:54.797Z
+date: 2024-12-09T16:04:22.071Z
+updated: 2024-12-12T16:04:50.821Z
 tags: 
   - unlock
   - remove apple account
@@ -80,21 +80,17 @@ This section focuses on how you can unlock an iPhone or iPad using an expert rec
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Connect your device to the PC through a lightning connector. Then click the "iCloud Activation Lock Removal" on the program.
 
 ![unlock ios](https://images.wondershare.com/drfone/guide/bypass-activation-lock-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** Before bypassing the activation lock, please select "Start".
 
 ![select start](https://images.wondershare.com/drfone/guide/bypass-activation-lock-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3.** After the phone in the "start" page, Dr.Fone will bypass the activation lock according to 2 sorts of iPhone devices, GSM and CDMA.
 
@@ -106,6 +102,10 @@ _(GSM with all normal functions)_
 
 ![gsm with all normal functions](https://images.wondershare.com/drfone/guide/bypass-activation-lock-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _(CDMA with most functions, but no phone call, cellular data use.)_
 
 **Step 4.** Before the process of bypassing, you should jailbreak your Apple iPhone 15 Pro Max first. We provide you with a video tutorial.
@@ -116,13 +116,17 @@ _(CDMA with most functions, but no phone call, cellular data use.)_
 
 ![without the activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 And with this image, you will know the activation lock is bypassed.
 
 ![activation lock is bypassed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -151,6 +155,10 @@ Deleting your Apple ID is not insignificant because it is your key to the Apple 
 
 You won't be able to purchase or access purchased items from the App Store, iTunes Store, or other Apple services. Remember, deleting your Apple ID is a permanent action and cannot be undone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Remove Apple ID/iCloud Account from Mac with Password?
 
 The process of removing Apple ID from a Mac is easy and quick. Before removing the Apple ID, you need to remember that all the services that require Apple ID will no longer work. To **remove the Apple ID from your** **MacBook**, follow these steps:
@@ -158,10 +166,6 @@ The process of removing Apple ID from a Mac is easy and quick. Before removing t
 **Step 1:** Open your Mac and access the "System Settings" from the "Apple Logo" icon. Here, click on your Apple ID name from the top of the left sidebar. Scroll to the bottom of the Apple ID tab to locate the "Sign Out" button.
 
 ![access the apple id settings](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-apple-id-from-your-mac-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2:** Press the "Sign Out" button to remove your Apple ID from the Mac. A prompt will appear asking if you want to keep a copy of your passwords and contacts on your laptop. Select them according to your needs.
 
@@ -212,15 +216,15 @@ The answer to **how to remove Apple ID from MacBook** is a straightforward proce
 
 Removing the Apple ID with forgotten credentials is complex, but [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) has also made it easier. It is an excellent and must-have toolbox to deal with all password-related iPhone problems.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How To Get the Apple ID Verification Code On Apple iPhone 15 Pro Max in the Best Ways
 
 Your digital identity serves as a vital safeguard for your personal information. This significance is particularly pronounced within the Apple ecosystem. A pivotal element of this digital identity is the Apple ID verification code. It might appear as a mere sequence of characters, but it carries immense significance. The verification code serves as a safeguard for your Apple account and all the Apple iPhone 15 Pro Max devices linked to it.
 
 Whether you've been an Apple user for years or are just starting out in the ecosystem, grasping the process of obtaining this code is essential. This article will take you through the importance of **how to get an Apple ID verification code**and discover the most effective methods to acquire it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How Verification Code Helps Apple Users Keeping Their Devices and Account Safe
 
@@ -228,13 +232,13 @@ Apple has maintained a leading position in technological innovation. It also enc
 
 The basic idea behind verification codes is to require users to provide a temporary code in addition to their regular password. This code is commonly dispatched to a trusted device, such as an iPhone. This is to introduce an additional layer of security that proves challenging for hackers to bypass. Apple users have several methods that will help them in **how to get the Apple ID verification code** scenario**.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. SMS or Text Messages
 
 Apple can provide you with a verification code through SMS or text message on a trusted phone number. This offers a hassle-free option for users who wish to avoid using extra applications or devices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Trusted Devices
 
@@ -263,20 +267,12 @@ It is worth highlighting that Apple employs verification codes in numerous funda
 
 ![press get verification code](https://images.wondershare.com/drfone/article/2023/10/get-the-apple-verification-code-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: How To Get an Apple ID Verification Code Without a Phone?
 
 Many users rely heavily on our trusted iPhones or iPads to receive Apple ID verification codes. Nonetheless, there may be situations in which you could be without your main device. Whether it's due to misplacement or setting up a new one, Apple offers alternative methods to assist you. Here, we will explore two methods for **how to get an Apple ID verification code without a phone**:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 1: Take Help of Apple Watch
@@ -291,10 +287,6 @@ The Apple Watch serves as a versatile partner to complement your Apple iPhone 15
 
 ![press get verification code](https://images.wondershare.com/drfone/article/2023/10/get-the-apple-verification-code-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Way 2: Use Get Verification Code on Mac
 
 If you find yourself without your primary iPhone but have access to your Mac, you can still obtain an Apple ID verification code. Apple has integrated the "Get Verification Code" feature into the macOS system settings. That makes it easy to retrieve the code on your computer. Use the following guide to get the verification code from your Mac:
@@ -303,6 +295,10 @@ If you find yourself without your primary iPhone but have access to your Mac, yo
 - **Step 2.** Within the Sign-In & Security settings, tap "Two-Factor Authentication." Follow it by clicking "Get a Verification Code," and a code will be displayed for your use.
 
 ![click on get a verification code](https://images.wondershare.com/drfone/article/2023/10/get-the-apple-verification-code-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tip: The Best Screen Unlock Tool To Remove the Apple ID Without Password
 
@@ -318,6 +314,10 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - Unlock screen passwords from all iPhone and iPad.
 - No tech knowledge required, everybody can handle it.
 - Supports the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,395,218** people have downloaded it
 
@@ -369,21 +369,24 @@ We've also delved into the importance of having a reliable tool like Wondershare
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagrams-time-travelling-method-master-reversal-of-videos/"><u>[New] 2024 Approved Instagram's Time-Travelling Method Master Reversal of Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-clash-for-dominance-leading-royale-games/"><u>[New] Clash for Dominance Leading Royale Games</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-engaging-everyone-quickly-which-platform-triumphs-for-shorter-videos/"><u>[Updated] 2024 Approved Engaging Everyone Quickly Which Platform Triumphs for Shorter Videos?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-ace-your-earnings-game-in-youtube-shorts/"><u>[Updated] Ace Your Earnings Game in YouTube Shorts</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-honor-magic-5-lite-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Honor Magic 5 Lite Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-13-pro-max-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 13 Pro Max without Password?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-6-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 6 without Password?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-apple-iphone-13-pro-max-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From Apple iPhone 13 Pro Max in the Best Ways</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-iphone-se-2020-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From iPhone SE (2020) in the Best Ways</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-iphone-se-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On iPhone SE? 5 Tips You Must Know</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-overview-of-best-luts-for-vlog/"><u>New 2024 Approved Overview of Best LUTs for Vlog</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-evolution-of-hiring-in-tech-moving-beyond-traditional-resumes/"><u>The Evolution of Hiring in Tech: Moving Beyond Traditional Resumes</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-iphone-6s-plus-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On iPhone 6s Plus</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-error-4201-in-genshin-impact-expert-solutions-revealed/"><u>Troubleshooting Error 4201 in Genshin Impact - Expert Solutions Revealed</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/unveiling-the-core-function-understanding-directories-with-yl-computing/"><u>Unveiling the Core Function: Understanding Directories with YL Computing</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-se-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone SE? How to Fix</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-ultimate-hunt-cut-to-7-fps-giants/"><u>[New] The Ultimate Hunt Cut to 7 FPS Giants</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-ultimate-list-of-drones-working-with-gopro-hero-series/"><u>[New] Ultimate List of Drones Working with GoPro Hero Series</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-vuephoto-intelligent-design-demo/"><u>2024 Approved VuePhoto Intelligent Design Demo</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-14-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone 14? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/artists-playground-the-prime-6-platforms-for-nft-creation/"><u>Artists' Playground The Prime 6 Platforms for NFT Creation</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-12-mini-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By Apple iPhone 12 mini without the Previous Owner?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722975811324-get-the-updated-epson-wf-2750-printer-driver-here/"><u>Get the Updated Epson WF-2750 Printer Driver Here</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-15-pro-max-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone 15 Pro Max Apple ID on MacBook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-iphone-11-by-drfone-ios/"><u>How To Create an Apple Developer Account From iPhone 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-iphone-13-by-drfone-ios/"><u>How To Create an Apple Developer Account From iPhone 13</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-defy-2-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Motorola Defy 2 Phone without Any Data Loss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-iphone-15-pro-max-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From iPhone 15 Pro Max in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-narzo-n53frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme Narzo N53FRP Lock</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/tiktok-to-facebook-social-media-linking-guide-for-2024/"><u>TikTok-to-Facebook Social Media Linking Guide for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-7-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone 7 Making It Possible</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-uninterruptible-power-supply-ups-units/"><u>Top-Rated Uninterruptible Power Supply (UPS) Units</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-12-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone 12?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 12 Pro
-date: 2024-07-14T13:40:55.139Z
-updated: 2024-07-15T13:40:55.139Z
+date: 2024-12-11T16:05:50.603Z
+updated: 2024-12-12T16:04:12.059Z
 tags: 
   - unlock
   - remove apple account
@@ -66,7 +66,6 @@ With Dr.Fone - Screen Unlock (iOS), you can remove the Apple ID from your Apple 
 - If you have forgotten the username or password of your Apple iPhone 12 Pro MDM, this tool allows you to bypass or remove MDM to access the Apple iPhone 12 Pro device.
 - It can also unlock SM Lock or Carrier Lock on your Apple iPhone 12 Pro. That allows you to use your Apple iPhone 12 Pro freely if you want to travel internationally.
 
-
 ### Steps to use Dr.Fone - Screen Unlock (iOS) for Removing Apple ID
 
 Dr.Fone - Screen Unlock (iOS) has a straightforward interface and provides clear instructions for removing Apple ID from your Apple iPhone 12 Pro. Your Apple iPhone 12 Pro will be reset during the process, and you will lose the data. It is advised you create a backup before starting the procedure. To start the process of removing Apple ID from your Apple iPhone 12 Pro, follow the steps given below:
@@ -89,6 +88,9 @@ Wait for the program to complete the process of removing your Apple ID from your
 
 ![check the apple id status](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -96,6 +98,9 @@ The answer to **how to remove Apple ID from MacBook** is a straightforward proce
 
 Removing the Apple ID with forgotten credentials is complex, but [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) has also made it easier. It is an excellent and must-have toolbox to deal with all password-related iPhone problems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 Ways of How to Get Someone's Apple ID Off Apple iPhone 12 Pro without Password
 
@@ -105,10 +110,6 @@ Out of these problems, users aren't able to update or download applications that
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jmU_WBObOEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: How to get someone else's Apple ID off iPhone without a password using Dr. Fone – Screen Unlock (iOS)
 
 There are many prompt notifications you would receive when trying to log into the Apple ID. In many cases, we might see that the users either would have [forgotten their Apple ID passwords](https://drfone.wondershare.com/icloud/forgot-icloud-password.html) or couldn’t find the password of someone else’s Apple ID. But here’s the kicker, with [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) your ID can be unlocked by keenly following a few steps as described below:
@@ -127,9 +128,6 @@ Log out iPhone's Apple ID without Password
 
 **Step 1.** Connect your Apple Device (iPhone or iPad) to the desktop with the help of a USB cable. After downloading and installing Dr.fone, you need to select the “Screen Unlock” section on its home interface.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2.** A new screen appears after selecting the tool. Apple ID can be unlocked by selecting the third and last option of "Remove Apple ID."
@@ -150,11 +148,7 @@ Log out iPhone's Apple ID without Password
 
 **Step 6.** Another screen comes on the front after the completion of the task, which tells the users to check whether their Apple ID has been unlocked or not.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
-
 
 ## Part 2: How to get rid of someone’s Apple ID off iPhone with the previous owner’s help?
 
@@ -169,6 +163,10 @@ Signing out of the Apple ID on your Apple iPhone 12 Pro is very easy if you are 
 
 There is another alternative method available to check if the previous owner has considerable trust in you. They would have to share their Apple ID credentials, which then can be easily removed by following the steps while using the same iPhone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3rd Method
 
 - In cases where the previous account is not activated, users can apply this method for iPhone models later than iPhone 6S.
@@ -180,6 +178,10 @@ There is another alternative method available to check if the previous owner has
 ## Part 3: How to get rid of someone’s Apple ID off iPhone on the App Store?
 
 There might be a case where your subordinates or relative might have downloaded an app on your Apple iPhone 12 Pro from the App Store by using their IDs and would have forgotten to sign themselves out of it. For understanding the method on how to sign out of the Apple ID without passwords and credentials, users need to follow a few simple steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -196,6 +198,10 @@ So, in this guide, we’re going to share some insight into how to delete iCloud
 ## Part 1: How to delete iCloud account without password on iPhone?
 
 If you have an iPhone at the moment, here are three different ways to delete an iCloud account using your phone itself.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.1 Remove iCloud from settings on iPhone
 
@@ -217,11 +223,16 @@ Follow these instructions to delete the iCloud account from the “Settings” m
 
 ![select delete account](https://images.wondershare.com/drfone/article/2020/05/select-delete-account.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That’s how to delete iCloud account without password directly from “Settings” on your Apple iPhone 12 Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1.2 Delete iCloud account via iTunes
 
 Another convenient way to delete the iCloud account is to use iTunes on your Apple iPhone 12 Pro. Let’s walk you through the process of deleting an iCloud account using iTunes.
@@ -237,6 +248,10 @@ Another convenient way to delete the iCloud account is to use iTunes on your App
 **Step 3:** Tap on your “Account” at the top. A pop-up will appear on your screen. Here, click “Sign Out” and the iCloud account will be removed from your iDevice.
 
 ![apple id itunes](https://images.wondershare.com/drfone/article/2020/05/apple-id-itunes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.3 Create a new password
 
@@ -254,9 +269,6 @@ Here’s how to delete iCloud account without password by creating a new passwor
 
 **Step 4:** Enter the recovery key and tap “Continue”. Now, select a trusted device where you want to receive the verification code. Enter this verification code to continue with the process.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enter recovery key](https://images.wondershare.com/drfone/article/2020/05/enter-recovery-key.jpg)
 
 **Step 5:** In the next window, you can reset the password. Simply, add the new password and click the “Reset Password” button.
@@ -291,6 +303,10 @@ Now, in the main interface of Dr. Fone Screen Unlock, select “Screen Unlock”
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Choose the Option**
 
 In the next window, you’ll see three different options. Select “Remove Apple ID” as we want to delete the iCloud account.
@@ -309,6 +325,10 @@ Once the two devices are successfully connected, tap “Unlock Now” on your co
 
 ![attention](https://images.wondershare.com/drfone/drfone/attention.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 At this point, you’ll be asked to enter recovery mode. You can follow the on-screen instructions to successfully enter recovery mode.
 
 ![interface](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
@@ -325,13 +345,9 @@ As soon as your Apple ID gets unlocked, a confirmation message will pop up on yo
 
 It doesn’t matter if you’re using Windows or Mac, Dr.Fone – Screen Unlock for iOS will make it extremely easy to delete the iCloud account without the password. So, if you are looking for a reliable and convenient way to remove an iCloud account, make sure to use Dr.Fone – Screen Unlock.
 
-
 ## Conclusion
 
 That’s the entire guide on how to delete iCloud account without password. Even though iCloud is an exceptional feature, one is likely to forget the password to his iCloud account. If you’re stuck in a similar situation and want to create a new iCloud account, make sure to use the above tactics to delete the previous iCloud account, even if you don’t remember the password.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -345,9 +361,17 @@ That’s the entire guide on how to delete iCloud account without password. Even
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-best-8-evidenced-tools-for-video-propagation/"><u>[New] 2024 Approved Best 8 Evidenced Tools for Video Propagation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-digital-time-machine-tracking-back-through-facebooks-history-device-based/"><u>[New] 2024 Approved Digital Time Machine Tracking Back Through Facebook's History (Device-Based)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-easy-steps-for-harvesting-free-video-frames/"><u>[New] In 2024, Easy Steps for Harvesting Free Video Frames</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-iphone-14-plus-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off iPhone 14 Plus without Password</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-iphone-6-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove iPhone 6 Device from iCloud</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-for-android-users-on-vr-content/"><u>In 2024, The Ultimate Guide for Android Users on VR Content</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-13-mini-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone 13 mini Making It Possible</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-15-pro-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unboxing-the-new-ios-18-update-for-iphone-installation-steps-and-device-compatibility-mobiletech-hub/"><u>Unboxing the New iOS 18 Update for iPhone – Installation Steps and Device Compatibility | MobileTech Hub</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-redmi-k70e-by-fonelab-android-recover-data/"><u>Undelete lost data from Redmi K70E</u></a></li>
+</ul></div>
 

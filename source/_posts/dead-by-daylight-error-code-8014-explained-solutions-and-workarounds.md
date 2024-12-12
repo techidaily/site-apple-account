@@ -1,7 +1,7 @@
 ---
 title: "Dead by Daylight Error Code 8014 Explained: Solutions and Workarounds"
-date: 2024-11-30T16:06:38.116Z
-updated: 2024-12-06T16:02:53.096Z
+date: 2024-12-06T16:02:52.595Z
+updated: 2024-12-12T16:04:22.898Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ Mount & Blade 2: Bannerlord keeps crashing to the desktop? Donâ€™t panic. Hereâ€
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_14-38-40.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Right-click**Mount & Blade II: Bannerlordand** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_14-41-15-2.jpg)
@@ -50,6 +46,10 @@ Mount & Blade 2: Bannerlord keeps crashing to the desktop? Donâ€™t panic. Hereâ€
 **3)**  Click the **LOCAL FILES**  tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_14-42-46.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Wait for the scans to be complete, then relaunch the game.
 
@@ -84,10 +84,6 @@ If Mount & Blade 2 still crashes, try the next solution.
 
 If the Bannerlord is still unplayable, continue with the next solution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 3: Reinstall the game
 
  If your game was working previously but is now crashing and you have completed verifying the game files with no results, try this next.
@@ -95,6 +91,10 @@ If the Bannerlord is still unplayable, continue with the next solution.
 **1)**  If youâ€™re running Steam now, right-click the Steam icon on the taskbar, and then select **Exit** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-494.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
@@ -113,7 +113,7 @@ If the Bannerlord is still unplayable, continue with the next solution.
  If the Bannerlord still crashes on your PC, move on and try the solution below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 4: Increase virtual memory
@@ -137,28 +137,28 @@ If the Bannerlord is still unplayable, continue with the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-881.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Click the **Advanced**  tab, and then click **Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-880.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/paging-file.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Click your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-879.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
@@ -167,10 +167,6 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-39-55.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **8)** Click **Set** , and then click **OK** .
 
 **9)** Restart your computer and your game.
@@ -178,7 +174,7 @@ If the Bannerlord is still unplayable, continue with the next solution.
  You should be able to run Mount & Blade 2: Bannerlord without crashing now. If not, check the solution below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 5: Check for Windows updates
@@ -188,6 +184,10 @@ If the Bannerlord is still unplayable, continue with the next solution.
 **1)**  On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
 
 ![This image has an empty alt attribute; its file name is image-575.jpg](https://images.drivereasy.com/wp-content/uploads/2019/10/image-575.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
@@ -212,22 +212,24 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-elevate-your-ppt-shows-with-advanced-techniques/"><u>[New] In 2024, Elevate Your PPT Shows with Advanced Techniques</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-trailblazers-in-vr-eyewear-design/"><u>[Updated] In 2024, Trailblazers in VR Eyewear Design</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-apple-iphone-13-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On Apple iPhone 13 Pro? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://win-top.techidaily.com/convertissez-gratuitement-un-fichier-mka-en-format-wav-en-ligne-avec-movavi/"><u>Convertissez Gratuitement Un Fichier MKA en Format WAV en Ligne Avec Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-apple-can-revive-to-rescue-the-vision-pro-with-three-key-strategies/"><u>How Apple Can Revive To Rescue the Vision Pro with Three Key Strategies</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-x-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone X With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-12-pro-max-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 12 Pro Max without Password?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-iphone-7-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On iPhone 7? Find the Best Solution Here</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-8-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 8</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-realme-gt-5-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Realme GT 5 Pro Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-iphone-14-plus-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your iPhone 14 Plus?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-13-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone 13</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-masterclass-refining-youtube-videos-through-imovie/"><u>In 2024, Masterclass Refining YouTube Videos Through iMovie</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learn-multiple-languages-at-once/"><u>Learn Multiple Languages At Once</u></a></li>
-<li><a href="https://driver-download.techidaily.com/seamless-hd-streaming-and-gaming-download-updated-usb-to-hdmi-video-drivers/"><u>Seamless HD Streaming and Gaming: Download Updated USB-to-HDMI Video Drivers</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-13-mini-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On iPhone 13 mini</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-apple-iphone-x-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From Apple iPhone X</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-7-easy-steps-for-a-subscriber-surge-on-youtube/"><u>[New] 2024 Approved 7 Easy Steps for a Subscriber Surge on YouTube</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-a-step-by-step-guide-to-youtube-stats-analysis-via-social-blade-platform/"><u>[New] A Step-by-Step Guide to YouTube Stats Analysis via Social Blade Platform</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-complete-slomo-recording-app-analysis-consumers/"><u>[New] Complete SloMo Recording App Analysis Consumers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-navigating-the-world-of-youtube-keywords/"><u>[Updated] 2024 Approved Navigating the World of YouTube Keywords</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-enabling-youtube-and-facebook-on-apple-tv-for-2024/"><u>[Updated] Enabling YouTube and Facebook on Apple TV for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-meme-titans-reddit-and-twitters-biggest-sensations-for-2024/"><u>[Updated] The Meme Titans Reddit & Twitter's Biggest Sensations for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-iphone-14-pro-max-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off iPhone 14 Pro Max without Password</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-iphone-7-plus-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off iPhone 7 Plus without Password</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-apple-iphone-12-by-drfone-ios/"><u>How To Unlink Apple ID From Apple iPhone 12</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from iPhone 15 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-iphone-8-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from iPhone 8 without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-7-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your Apple iPhone 7?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-windows-update-issue-code-0x8024402c-explained-and-solved/"><u>Resolving the Windows Update Issue: Code 0X8024402C Explained and Solved</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-refreshing-driver-software-for-your-dell-xps-15-windows-laptop/"><u>Step-by-Step Tutorial: Refreshing Driver Software for Your Dell XPS 15 Windows Laptop</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamline-overload-efficiently-editing-oversized-tiktok-drafts/"><u>Streamline Overload Efficiently Editing Oversized TikTok Drafts</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-7-plus-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-iphone-xs-max-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On iPhone XS Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-iphone-13-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From iPhone 13? 5 Tips You Must Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-code-power-10-ways-to-merge-chatgpt-and-vs-code/"><u>Unleashing Code Power: 10 Ways to Merge ChatGPT and VS Code</u></a></li>
 </ul></div>
 

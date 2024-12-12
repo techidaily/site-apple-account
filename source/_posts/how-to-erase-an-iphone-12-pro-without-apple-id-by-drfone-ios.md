@@ -1,7 +1,7 @@
 ---
 title: How to Erase an iPhone 12 Pro without Apple ID?
-date: 2024-07-14T13:40:40.044Z
-updated: 2024-07-15T13:40:40.044Z
+date: 2024-12-07T16:03:48.638Z
+updated: 2024-12-12T16:06:12.890Z
 tags: 
   - unlock
   - remove apple account
@@ -65,10 +65,11 @@ After a successful reboot into Recovery mode, the tool will automatically detect
 
 Once the download is complete, you can get started with erasing an iPhone without an Apple ID password. Hit the “Unlock Now” button, and voila! In no time, you’ve successfully erased an iPhone without an Apple ID password.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ios unlock 4](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Erase an iPhone without Apple ID via iTunes
 
@@ -82,6 +83,10 @@ In iPhone 8 or later: Tap the Volume Up, then quickly tap Volume Down and hold d
 
 ![erase a iphone without apple id 1](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In the case of iPhone 7/7Plus: Press the “Sleep/Power” and “Volume Down” keys together.
 
 Hold down the keys until you see the message on your iTunes screen about “your iPhone has been detected in recovery mode.”
@@ -89,6 +94,10 @@ Hold down the keys until you see the message on your iTunes screen about “your
 **Step 3:** Once done, click on “Ok” and choose the “Restore iPhone” option. Confirm your actions, and you’re done.
 
 ![erase a iphone without apple id 2](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. How to erase an iPhone without Apple ID via Settings
 
@@ -118,6 +127,10 @@ Now, just in case you wish to delete your Apple ID completely, you need to perfo
 
 ![erase a iphone without apple id 4](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to erase an Apple ID via Apple's Data and Privacy website
 
 Now let’s get started with erasing an Apple ID via Apple’s Data and Privacy website are simple and, we have mentioned a simple way to take care of the same:
@@ -130,9 +143,6 @@ Now let’s get started with erasing an Apple ID via Apple’s Data and Privacy 
 
 **Step 3:** Once you click on the “Get started” prompt on the screen, you will get a tab to “Delete your account.” This will prompt you with an Apple message indicating the information regarding the deletion process time.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase a iphone without apple id 6](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-6.jpg)
 
 **Step 4:** Before everything, make sure you back up your data and follow the instructions steps prompted by Apple’s website. This will lead you to choose a reason for deletion from the click-down option and click “Continue.”
@@ -171,6 +181,10 @@ You can access a distinct collection of applications, music, films, and books by
 
 Your Apple ID is closely linked with iCloud, Apple's cloud storage service. Changing your Apple ID allows you to gain access to an alternative iCloud account with its dedicated storage capacity. This can be advantageous when you require additional storage or wish to keep your data separate from a previous account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Privacy and Security Settings
 
 Frequently updating your Apple ID can enhance your online privacy and security. It enhances the challenge for unauthorized parties to acquire your personal information. This, consequently, reduces the risk of accessing your MacBook's sensitive information.
@@ -186,14 +200,15 @@ In summary, there are many advantages to updating your Apple ID on your MacBook.
 - **Step 1:**Access your Mac's System Setting through the Dock. Tap the Apple ID icon from the left sidebar within the “System Settings.”
 - **Step 2:**Here, scroll down to find and tap "Sign Out." The option is located at the bottom near the left corner. Afterward, tap "Sign Out" again to confirm your choice, and then, if your device asks, provide your Apple ID password to move ahead.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![press the sign out button](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-1.jpg)
 
 - **Step 3:**After logging out of your Apple ID, reboot your device, and when it is done, go back to System Settings. From there, hit the "Sign in to with your Apple ID" option so that you can quickly log in with a new Apple ID.
 
 ![login with new apple id](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Other Ways To Change the Apple ID With Ease
 
@@ -239,6 +254,10 @@ Wait for the iCloud backup to complete before attempting to log out. You can acc
 
 ![stop icloud backup process](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Bug in macOS
 
 Occasionally, macOS may encounter bugs or glitches that prevent you from logging out of your Apple ID. These issues can usually be resolved with software updates or troubleshooting steps.
@@ -248,6 +267,10 @@ Occasionally, macOS may encounter bugs or glitches that prevent you from logging
 To resolve the bugs and glitches within the MacBook, the best option is to update macOS to its latest version. For that, access "System Settings" through Dock and move to the "General" tab. Here, select "[<u>Software Update</u>](https://drfone.wondershare.com/iphone-data-recovery/recover-lost-date-after-ios-17-update.html)" to verify if an update is available and if an update is available, use “Update Now” to update the macOS.
 
 ![press the update now button](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Apple Server Inactivity
 
@@ -271,7 +294,6 @@ Click "Toolbox" from the left sidebar after launching Wondershare Dr.Fone. From 
 
 ![click on remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
-
 - Step 2: Enable Recovery Mode on Your Device
 
 Tap “Unlock Now” and proceed to confirm that your device has setup screen lock and 2FA is enabled. These are necessary steps for the removal process of Apple ID. Next, put your device into Recovery Mode following the guidelines available on-screen.
@@ -290,10 +312,6 @@ In conclusion, this article has provided you with valuable insights into the pro
 
 The other included alternative approaches for scenarios like purchasing a second-hand MacBook. We also addressed the issue of forgetting your Apple ID password on iOS devices. For it, we used the specialized software Wondershare Dr.Fone to remove Apple ID without needing a password.
 
-
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How To Remove Phone Number From Your Apple ID on Your Apple iPhone 12 Pro?
 
 After getting a new device, iPhone users must prepare a unique identification term for their Apple ID. Creating and setting up this ID is not different each time. Not to mention, one can use this one registered ID to access multiple Apple-based features like podcast subscriptions, apps, etc.
@@ -370,6 +388,10 @@ It is possible to change the password for Apple ID in the matter of **how to rem
 
 **Step 6:** You will get logged out of the account. Sign in with the new password, and the phone number will get removed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. How to Remove Apple ID without Password?
 
 All the methods mentioned help remove phone numbers associated with the Apple ID but still require you to access the Apple iPhone 12 Pro device. What if the Apple iPhone 12 Pro device is locked and the necessary details are unavailable, like the password? You can use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) to remove the Apple ID by bypassing the passcode.
@@ -382,7 +404,6 @@ It is possible to **remove phone number from Apple ID** by accessing the Apple i
 - Remove all types of lock screens, like Apple ID, Face ID, Touch ID, Screen Time Passcode, etc.
 - Fast process of screen and password bypassing.
 
-
 **How to use it?**
 
 **Step 1:** Download/install/launch the app on Mac/Windows. Select Screen Unlock when the app opens on the interface.
@@ -391,9 +412,6 @@ It is possible to **remove phone number from Apple ID** by accessing the Apple i
 
 **Step 2:** Choose the "Remove Apple ID" option and add the passcode, as instructed. Allow the system to trust the Apple iPhone 12 Pro device for authentication through the following prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![choose to remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
 **Step 3:** Put the Apple iPhone 12 Pro device into recovery mode following the on-screen instructions. Then, restart the Apple iPhone 12 Pro device. This will automatically kickstart the unlocking process and will take some seconds.
@@ -407,7 +425,6 @@ It is possible to **remove phone number from Apple ID** by accessing the Apple i
 **Video Guide: How to Remove Apple ID without Password?**
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/iFMAR09R9x4"></iframe>
-
 
 ## Part 5. FAQs about Apple ID Phone Number
 
@@ -423,12 +440,13 @@ Apple ID accepts phone numbers for linking for two-factor authentication. The lo
 
 No, the Apple ID and phone number are not connected as features or codes. So, adjusting the Apple ID will not affect your device's phone number.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 Indeed, there are multiple methods you can take to remove the phone number registered to your Apple ID successfully. They are accessible in multiple ways through Mac, iPad, or iPhone settings. If you forgot the Apple ID, you could even remove it using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). Ultimately, choose the process to trust based on your specific needs.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -442,9 +460,26 @@ Indeed, there are multiple methods you can take to remove the phone number regis
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-step-by-step-setting-up-your-first-xbox-record-session/"><u>[New] Step-by-Step Setting Up Your First Xbox Record Session</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-innovative-tools-for-cutting-edge-xbox-gaming-recordings-for-2024/"><u>[Updated] Innovative Tools for Cutting-Edge Xbox Gaming Recordings for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-navigating-the-intricacies-of-previewing-off-facebook-activities-for-2024/"><u>[Updated] Navigating the Intricacies of Previewing Off-Facebook Activities for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-secrets-phantoms-slow-motion-techniques/"><u>2024 Approved Unveiling Secrets Phantom's Slow Motion Techniques</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-6s-plus-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your iPhone 6s Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-13-mini-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone 13 mini? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/best-10-free-recording-apps-for-slack-chats-for-2024/"><u>Best 10 Free Recording Apps for Slack Chats for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y78plus-t1-edition-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y78+ (T1) Edition Phones with/without a PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-11-pro-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone 11 Pro Apple ID on MacBook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-12-pro-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From iPhone 12 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-xiaomi-13t-pro-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Xiaomi 13T Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-6s-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone 6s without Security Questions?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-iphone-8-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your iPhone 8 Plus Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-iphone-14-plus-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your iPhone 14 Plus</u></a></li>
+<li><a href="https://facebook.techidaily.com/stop-fb-watchfulness-master-the-off-facebook-activity-strategy/"><u>Stop FB Watchfulness: Master the Off-Facebook Activity Strategy</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-best-screen-record-apps-for-classroom-use-for-2024/"><u>The Best Screen Record Apps for Classroom Use for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-iphone-15-pro-max-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On iPhone 15 Pro Max</u></a></li>
+<li><a href="https://discover-able.techidaily.com/unlimited-sing-along-fun-get-your-own-abba-and-more-on-our-party-tyme-karaoke-membership-plan/"><u>Unlimited Sing-Along Fun: Get Your Own ABBA & More on Our Party Tyme Karaoke Membership Plan</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 14 Pro Max</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Fix Windows 11 or 10 Spatial Audio Not Working Correctly
-date: 2024-12-02T16:08:26.421Z
-updated: 2024-12-06T16:11:51.628Z
+date: 2024-12-10T16:07:15.977Z
+updated: 2024-12-12T16:00:05.866Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 [THX Spatial Audio](https://tools.techidaily.com/drivereasy/download/) is a software suite that is engineered to level up your gaming audio with more authentic and detailed soundscapes, and better control of your gaming sound. However, some users reported that**it is not working** . For some,**there’s no sound** . For others, they **can’t hear any difference or the sound is just crackling/ buzzing** . Whatever the problems you’re having, you may hopefully be able to solve them by trying the solutions in this post.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -31,17 +31,9 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Perform a system restore](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Download and install all Windows updates
 
  Before diving into any advanced tweaks, ensure you **restart both the Synapse software and the THX Spatial Audio app.** Then you would need to install the latest Windows updates. They usually come with bug fixes, and bring new features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### On Windows 10
 
@@ -51,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
@@ -66,17 +58,13 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Upon reboot, play supported content to check if it works. If your THX Spatial Audio is still not working, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run the audio troubleshooter
 
@@ -90,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/update-and-security.png)
 3. Select**Troubleshoot** from the left pane. Then highlight the**Playing Audio** troubleshooter and click**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/audio-run-the-troubleshooter.png)  
 
  If there are no troubleshooters showing up here, click**Additional troubleshooters** .  
@@ -97,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/troubleshoot-additional-troubleshooters.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### On Windows 11
@@ -106,8 +98,16 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/control.jpg)
 2. On the top right corner, click View by **Large icons** . Scroll down and select **Troubleshooting** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/troubleshooting.jpg)
 3. Click **Run** for **Audio**  troubleshooter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/sound-troubleshooter.png)
 4. Follow the on-screen instructions to run the troubleshooter and apply any fix if you see it.
@@ -127,15 +127,7 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/application-mixer.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you’ve done these, you should be able to enjoy the THX Spatial feature on your audio device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Update your audio drivers
 
@@ -152,6 +144,10 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. After updating, restart your computer to take effect.
@@ -159,6 +155,10 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  When the update completes, restart your computer. Then play supported content to check for changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Perform a system restore
 
@@ -183,6 +183,10 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/type-a-descriptin.png)
 6. When it successfully created the restore point, click**Close** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/close-the-window.png)
 
  However, if none of the solutions listed above gives you any luck, you may need to check if there are any missing or corrupted system files. You can use the System File Checker tool (sfc /scannow) to look for any critical system issues, but most of the time it only scans major files and may miss minor issues.
@@ -194,10 +198,6 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 3. Once the scan is finished, you’ll see a complete overview of your system and issues. Click**Start Repair** to start the repair process and wait for Fortect to fix the problem.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues while using Fortect, feel free to contact their support team.
 
@@ -220,22 +220,16 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-innovate-how-you-connect-with-tech-best-text-interpretation-tools-on-mac/"><u>[New] In 2024, Innovate How You Connect with Tech Best Text Interpretation Tools on Mac</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-comparing-reels-and-stories-whats-the-best-choice/"><u>[Updated] Comparing Reels & Stories What's the Best Choice?</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-leading-sound-transformation-tools-magic-edition-included-for-2024/"><u>[Updated] Leading Sound Transformation Tools, Magic Edition Included for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-premium-4k-displays-top-ten-elite-selections-for-2024/"><u>[Updated] Premium 4K Displays Top Ten Elite Selections for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-iphone-11-pro-max-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off iPhone 11 Pro Max without Password</u></a></li>
-<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-apple-iphone-12-mini-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing Apple iPhone 12 mini Activation Lock without Previous Owner?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-iphone-11-by-drfone-ios/"><u>How to Fix Locked Apple ID from iPhone 11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-11-pro-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone 11 Pro without Password?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-iphone-6-plus-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your iPhone 6 Plus From Your Apple ID</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-apple-iphone-se-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From Apple iPhone SE in the Best Ways</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-iphone-xr-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From iPhone XR? 5 Tips You Must Know</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-iphone-14-plus-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From iPhone 14 Plus</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/organizacion-efectiva-de-archivos-para-varios-medios-de-almacenamiento-una-guia-completa/"><u>Organización Efectiva De Archivos Para Varios Medios De Almacenamiento: Una Guía Completa</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-the-rockstar-games-launcher-malfunction-expert-tips-for-2n4/"><u>Troubleshoot the Rockstar Games Launcher Malfunction - Expert Tips for 2N4</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-rapid-pause-video-snapshot-manual/"><u>[New] In 2024, Rapid Pause Video Snapshot Manual</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-leading-selections-ultimate-mac-video-grabber-devices-for-2024/"><u>[New] Leading Selections Ultimate Mac Video Grabber Devices for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-expert-guide-to-mastering-zero-cost-timer-functionality/"><u>[Updated] 2024 Approved Expert Guide to Mastering Zero Cost Timer Functionality</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-xs-max-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone XS Max</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-pixel-8-pro-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Pixel 8 Pro.</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-iphone-14-pro-max-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From iPhone 14 Pro Max</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-cinematic-clips-reviewed-best-in-the-business/"><u>In 2024, Cinematic Clips Reviewed Best in the Business</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-11-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone 11 Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-v29e-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo V29e Lock Screen Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-apple-iphone-13-mini-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From Apple iPhone 13 mini without Password?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/step-by-step-integrating-comments-in-youtube-videos/"><u>Step-by-Step Integrating Comments in YouTube Videos</u></a></li>
 </ul></div>
 

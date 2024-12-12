@@ -1,7 +1,7 @@
 ---
 title: PC Players Struggle as Dread Hunger Frequently Fails on Desktops
-date: 2024-12-04T16:02:28.243Z
-updated: 2024-12-06T16:06:53.369Z
+date: 2024-12-05T16:08:00.622Z
+updated: 2024-12-12T16:07:04.840Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 A screenshot of ELEX II from Steam
 
  Although ELEX II has received generally positive reviews on Steam, there are still many PC gamers complaining that**ELEX II keeps crashing** on their Windows PC. If you’re running into the exact same issue, don’t worry! You should be able to fix this issue easily after reading this article.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## System requirements of ELEX II for Windows PC
 
@@ -86,16 +82,24 @@ ELEX II system requirements
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Install the latest ELEX II patch
 
@@ -113,19 +117,15 @@ ELEX II system requirements
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
-![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
  If you’re using other apps with overlay features (e.g. Xbox Game Bar, Discord, Nvidia GeForce Experience, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
 
  Run ELEX II and check if the it crashes again. If the game still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
 
@@ -136,6 +136,10 @@ ELEX II system requirements
  Launch ELEX II and see if the game crashes after you disabled the anti-virus software on your PC.
 
 If this fix didn’t work, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Repair corrupted system files
 
@@ -154,21 +158,13 @@ If this fix didn’t work, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Perform a clean boot
 
@@ -183,6 +179,10 @@ If this fix didn’t work, try the next fix, below.
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
@@ -190,7 +190,7 @@ If this fix didn’t work, try the next fix, below.
 5. Go back to the **System Configuration** window and click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
@@ -235,16 +235,18 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-top-5-video-and-photography-mobile-apps-for-iphoneandroid-users/"><u>[New] 2024 Approved Top 5 Video & Photography Mobile Apps for iPhone/Android Users</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-demystifying-youtube-a-guide-to-viewing-video-comments/"><u>[Updated] 2024 Approved Demystifying YouTube A Guide to Viewing Video Comments</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-customizing-characters-the-ae-font-guide/"><u>[Updated] Customizing Characters The AE Font Guide</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/galaxy-of-tech-sql-database-restoration/"><u>Galaxy of Tech: SQL Database Restoration</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-11-pro-max-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 11 Pro Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-6-plus-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 6 Plus</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-11-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone 11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-iphone-6-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect iPhone 6 and iPad</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/precision-methods-overcoming-common-windows-anydesk-errors/"><u>Precision Methods: Overcoming Common Windows AnyDesk Errors</u></a></li>
-<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-6s-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 6s</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-guide-top-five-ways-to-restart-non-functioning-chatgpt/"><u>Troubleshooting Guide: Top Five Ways to Restart Non-Functioning ChatGPT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-6-superior-nft-tools-for-artistic-innovation/"><u>2024 Approved Explore 6 Superior NFT Tools for Artistic Innovation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-sensational-no-cost-visual-collaboration-games/"><u>2024 Approved Sensational No-Cost Visual Collaboration Games</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-poco-x6-pro-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Poco X6 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-15-pro-max-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone 15 Pro Max without the Previous Owner?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-mp4-play-on-samsung-galaxy-a24-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Does MP4 play on Samsung Galaxy A24?</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-wait-time-woes-7-proven-techniques-to-unstick-the-loading-screen-of-forza-horizon/"><u>Eliminate Wait Time Woes: 7 Proven Techniques to Unstick the Loading Screen of Forza Horizon</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-15-plus-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 15 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-iphone-14-plus-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On iPhone 14 Plus? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-apple-iphone-6s-plus-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From Apple iPhone 6s Plus How to Bypass?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-you-dont-have-to-be-a-skilled-video-editor-to-convert-image-to-videos-because-there-are-a-lot-of-online-image-to-video-maker-tools-that-en/"><u>New 2024 Approved You Dont Have to Be a Skilled Video Editor to Convert Image to Videos, because There Are a Lot of Online Image to Video Maker Tools that Enable You to Create a New Video From Photos in Just a Few Eas</u></a></li>
+<li><a href="https://article-helps.techidaily.com/optimal-cinematography-best-lenses-for-immaculate-4k-output/"><u>Optimal Cinematography Best Lenses for Immaculate 4K Output</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/pedagogical-approaches-to-learning-mandarin-script/"><u>Pedagogical Approaches to Learning Mandarin Script</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/systemabbild-von-windows-10-auf-neuer-hardware-ubertragen-schritt-fur-schritt-anleitungen/"><u>Systemabbild Von Windows 10 Auf Neuer Hardware Übertragen - Schritt-Für-Schritt Anleitungen</u></a></li>
 </ul></div>
 

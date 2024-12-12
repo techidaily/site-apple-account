@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone 12 Pro When We Dont Have Apple ID or Password?
-date: 2024-07-14T13:43:53.712Z
-updated: 2024-07-15T13:43:53.712Z
+date: 2024-12-09T16:01:31.487Z
+updated: 2024-12-12T16:01:46.225Z
 tags: 
   - unlock
   - remove apple account
@@ -36,6 +36,10 @@ This method is good for you if you are fortunate to have another iOS device, lik
 
 ![id on mac](https://images.wondershare.com/drfone/article/2022/10/unlock-ipad-without-apple-id-password-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **If your Apple ID is signed in on your Apple iPhone 12 Pro:**
 
 - Go to the Settings app and tap your name. Then go to the "Password and Security" tab and click the "Change Password" option.
@@ -65,6 +69,10 @@ You can change this technique and unlock an iPad you haven't recently connected 
 
 - Unlocking the phone from Recovery mode will erase saved data and return the Apple iPhone 12 Pro to its initial settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3. Enter DFU Mode
 
 Another strategy to unlock an iPad without Mac ID is to set it to DFU Mode. It implies that all data on it will be gone, and the iPad will reset to default settings. If you have your iPad's screen passcode, you can get to the Settings Application and set your iPad to DFU Mode there.
@@ -85,10 +93,13 @@ As a one-stop iOS unlocker, Dr.Fone can unlock an iPhone/iPad without too much p
 
 **Step 1.** Install and open the Dr.Fone program and choose Screen Unlock > iOS.
 
-
 **Step 2.** Pick the "iCloud Activation Lock Removal" tool.
 
 ![bypass activate lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3.** Start your process to unlock activation lock of iCloud.
 
@@ -102,8 +113,11 @@ As a one-stop iOS unlocker, Dr.Fone can unlock an iPhone/iPad without too much p
 
 ![remove the activation lock immediately](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
-Your iPad will start with no activation lock. So, you can access and utilize the tablet now. However, you must remember that you can't use your new ID's call, cellular, and iCloud feature after the bypass.
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
+Your iPad will start with no activation lock. So, you can access and utilize the tablet now. However, you must remember that you can't use your new ID's call, cellular, and iCloud feature after the bypass.
 
 ## Conclusion
 
@@ -121,6 +135,10 @@ So, in this guide, we’re going to share some insight into how to delete iCloud
 
 If you have an iPhone at the moment, here are three different ways to delete an iCloud account using your phone itself.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1.1 Remove iCloud from settings on iPhone
 
 Follow these instructions to delete the iCloud account from the “Settings” menu on your Apple iPhone 12 Pro.
@@ -130,6 +148,10 @@ Follow these instructions to delete the iCloud account from the “Settings” m
 **Step 2:** You’ll be asked to enter your password. Here enter any random number and click “Done”.
 
 ![enter random password](https://images.wondershare.com/drfone/article/2020/05/enter-random-password.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** iCloud will tell you the password is incorrect. Tap “Ok” and you’ll be prompted back to the iCloud screen.
 
@@ -159,9 +181,6 @@ Another convenient way to delete the iCloud account is to use iTunes on your App
 
 ![apple id itunes](https://images.wondershare.com/drfone/article/2020/05/apple-id-itunes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1.3 Create a new password
 
 If you have enabled two-way verification on your Apple iPhone 12 Pro, you can also delete the iCloud account by resetting the password. In this case, however, you’ll have to visit the [Apple ID Account Page](https://appleid.apple.com/) and use it to reset the password.
@@ -210,9 +229,6 @@ Install Dr.Fone Screen Unlock on your PC and double-tap its icon to launch the s
 
 Now, in the main interface of Dr. Fone Screen Unlock, select “Screen Unlock”.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 3: Choose the Option**
@@ -233,6 +249,10 @@ Once the two devices are successfully connected, tap “Unlock Now” on your co
 
 ![attention](https://images.wondershare.com/drfone/drfone/attention.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 At this point, you’ll be asked to enter recovery mode. You can follow the on-screen instructions to successfully enter recovery mode.
 
 ![interface](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
@@ -249,24 +269,13 @@ As soon as your Apple ID gets unlocked, a confirmation message will pop up on yo
 
 It doesn’t matter if you’re using Windows or Mac, Dr.Fone – Screen Unlock for iOS will make it extremely easy to delete the iCloud account without the password. So, if you are looking for a reliable and convenient way to remove an iCloud account, make sure to use Dr.Fone – Screen Unlock.
 
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 That’s the entire guide on how to delete iCloud account without password. Even though iCloud is an exceptional feature, one is likely to forget the password to his iCloud account. If you’re stuck in a similar situation and want to create a new iCloud account, make sure to use the above tactics to delete the previous iCloud account, even if you don’t remember the password.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Unlock Apple ID without Phone Number On Apple iPhone 12 Pro
 
@@ -293,6 +302,10 @@ Install and open Dr.Fone software on your PC. The home interface of the software
 Afterward, a new screen will pop up on the screen of your system. Just click on the last option, “Unlock Apple ID” to begin the process.
 
 ![drfone home](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Enter the required credentials**
 
@@ -346,9 +359,6 @@ Let’s know how to unlock Apple ID without a trusted phone number using iforgot
 
 **Step 1:** Click on the [https://iforgot.apple.com/](https://iforgot.apple.com/) and enter your Apple ID to begin the process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock apple id without phone number](https://images.wondershare.com/drfone/article/2021/04/unlock-apple-id-without-phone-number-3.jpg)
 
 **Step 2:** Enter the registered phone number and tap on continue.
@@ -373,9 +383,6 @@ You need to follow few steps to change your Apple ID password.
 
 **Step 2:** Tap on your name.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![unlock apple id without phone number](https://images.wondershare.com/drfone/article/2021/04/unlock-apple-id-without-phone-number-6.jpg)
 
 **Step 3:** Select the “Password and Security” option.
@@ -394,8 +401,11 @@ You need to follow few steps to change your Apple ID password.
 
 ![unlock apple id without phone number](https://images.wondershare.com/drfone/article/2021/04/unlock-apple-id-without-phone-number-10.jpg)
 
-**Step 7:** Hurray! You have changed your password. Now, you can log in to your Apple ID with this new password.
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
+**Step 7:** Hurray! You have changed your password. Now, you can log in to your Apple ID with this new password.
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -409,9 +419,23 @@ You need to follow few steps to change your Apple ID password.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-xsplit-reviews-in-depth-game-split-analysis/"><u>[New] In 2024, XSplit Reviews In-Depth Game Split Analysis</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagrams-edge-infusing-artistry-with-slow-motion/"><u>[Updated] 2024 Approved Instagram's Edge Infusing Artistry with Slow Motion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-value-packed-skyspace-service-big-data-at-low-cost/"><u>[Updated] Value-Packed SkySpace Service Big Data at Low Cost</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-12-mini-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone 12 mini How to Bypass?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effective-fixes-for-logitech-f710-drivers-compatibility-on-windows-11-10-8-and-7/"><u>Effective Fixes for Logitech F710 Drivers Compatibility on Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-8-plus-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 8 Plus? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-12-pro-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone 12 Pro Apple ID and Apple Pay</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-find-x7-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Oppo Find X7 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-iphone-xs-max-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On iPhone XS Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-unveiling-of-facebooks-open-policy-initiative-centre/"><u>The Unveiling of Facebook's Open Policy Initiative Centre</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-se-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone SE</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-9-irritating-windows-11-layouts/"><u>Unraveling 9 Irritating Windows 11 Layouts</u></a></li>
+</ul></div>
 

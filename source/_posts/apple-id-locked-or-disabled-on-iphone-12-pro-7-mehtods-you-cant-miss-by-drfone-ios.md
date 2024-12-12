@@ -1,7 +1,7 @@
 ---
 title: Apple ID Locked or Disabled On iPhone 12 Pro? 7 Mehtods You Cant-Miss
-date: 2024-07-14T13:40:25.598Z
-updated: 2024-07-15T13:40:25.598Z
+date: 2024-12-06T16:05:50.092Z
+updated: 2024-12-12T16:03:56.105Z
 tags: 
   - unlock
   - remove apple account
@@ -34,8 +34,6 @@ If you frequently change your Apple ID or passcode on the Apple iPhone 12 Pro de
 ## Method 1: Professional iPhone Apple ID Lock Removal Tool \[Recommended\]
 
 If you have forgotten your Apple ID password, you are suggested not to enter the wrong passcode in a row. That may lead to data loss. You can download the Dr.Fone– Screen Unlock, which is compatible with different lock screens and will **unlock Apple ID easily**. [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) helps remove almost all sorts of iPhone passwords without the requirement of technical knowledge.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -72,9 +70,6 @@ To unlock your Apple ID, you have to click on the “Unlock Apple ID” option.
 
 **Step 4:** Once the restart process gets completed, Dr. Fone will automatically kick off the unlocking process of Apple ID and get it ended in a few seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock in progress](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
 
 **Step 5:** When the Apple ID is unlocked successfully, the following window will indicate that you have to check if your Apple ID gets unlocked.
@@ -110,6 +105,10 @@ If your Apple ID is disabled, follow these simple steps listed below:
 **Step 2**: You have to enter the registered E-mail address in the box available on the screen.
 
 ![confirm phone number](https://images.wondershare.com/drfone/article/2022/03/unlock-disabled-apple-id2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**: Enter the captcha available on the screen and click on the “Continue “option to proceed further. (If you have set up the two-factor authentication, you will receive a code that you need to enter on your device.)
 
@@ -171,6 +170,10 @@ If you want to unlock **iPhone 13 Apple ID** and don't remember the password**,*
 
 ![configure dns server](https://images.wondershare.com/drfone/article/2022/03/dns-bypass-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You have to select the DNS from the option available according to your region.
 
 - USA/North America: 104.154.51.7
@@ -183,6 +186,10 @@ You have to select the DNS from the option available according to your region.
 **Step 7:** You need to wait for your device to get connected with the iCloud DNS bypass server automatically.
 
 ![iclouddnsbypass home](https://images.wondershare.com/drfone/article/2022/03/dns-bypass-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 8:** Once you are connected to the DNS server successfully, you can then use apps and features available on your Apple iPhone 12 Pro in an alternative way.
 
@@ -198,8 +205,6 @@ We are positive that the solutions above will get your issue resolved. However, 
 
 From this article, you can know how to unlock your Apple ID and reset your password. There are different ways available that will resolve your **unlock iPhone issue**. However, Dr.Fone is the most recommended tool as it provides a screen lock solution and recognizes it as a one-stop solution for all iPhone problems. You can also share the effective methods in this article with your families and friends.
 
-
-
 ## How to Change Credit Card on Your Apple iPhone 12 Pro Apple ID and Apple Pay
 
 Apple's ecosystem offers convenience with services like Apple ID and Apple Pay. Managing your digital life has never been more convenient. In this interconnected system, your credit card plays a crucial role. It's essential to understand that your credit card details can be associated with both your Apple ID and Apple Pay, each serving unique functions.
@@ -210,15 +215,16 @@ In this comprehensive guide, we'll learn how to **change the credit card on Appl
 
 We'll explore 3 different methods to change the credit card details associated with your Apple ID in this section. These methods allow you to update your payment information effortlessly, ensuring uninterrupted access to Apple services.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 1: Update Credit Card on iPhone/iPad
 
 The first method involves updating your payment information directly from your Apple iPhone 12 Pro or iPad's settings. This method is convenient for those who prefer managing their Apple ID details on their iOS devices. Here is **how to change your credit card on Apple ID** via iPhone or iPad:
 
 - **Step 1:** Begin by launching the Settings app on your device and then touch your name to enter your Apple ID settings. Afterward, choose the "Payment & Shipping" option to move ahead. In addition, log in using your Apple ID credentials if necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on payment and shipping](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-1.jpg)
 
 - **Step 2:** Next, press "Add Payment Method" and provide information for your new payment method. Once you've entered all the required details, tap "Done" to confirm and save your updates.
@@ -250,8 +256,9 @@ Now, we shift our focus to those who prefer managing their payment information o
 ![click the delete button](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Way 3: Update the Credit Card Details on Windows PC
 
 To update the credit card information linked to your Apple ID, we'll now provide instructions specifically tailored for Windows PC users. This approach offers flexibility for individuals looking to maintain accurate payment details. With the help of the simplified steps given below, you can easily **change the credit card on the Apple account**:
@@ -273,8 +280,6 @@ To update the credit card information linked to your Apple ID, we'll now provide
 While learning **how to change a credit card on your Apple Account**, you encounter an unexpected hurdle - your Apple ID has become locked. This can undoubtedly be a frustrating and troublesome scenario, considering the crucial role your Apple ID plays within the Apple ecosystem. Nevertheless, there's no cause for alarm, as we've got a solution ready to promptly unlock your Apple ID and have you back on course.
 
 The solution is [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/), a tool that is able to [<u> remove Apple ID from your iOS devices without needing the password</u>](https://drfone.wondershare.com/unlock/how-to-get-someones-apple-id-off-iphone-without-password.html). It is a comprehensive tool that has the ability to remove your Apple ID from your device permanently. This tool works its magic in removing Apple ID, whereas other tools fail when the Find My feature is enabled.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -303,7 +308,6 @@ To initiate the Apple ID unlocking process, you will need to install and launch 
 
 ![access the screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - Step 2: Proceed to Activate Recovery Mode
 
 Now is the time to connect your iOS device to the computer using a respective cable and click "Unlock Now." Now, Wondershare Dr.Fone will ask you about having a screen lock and 2FA on the iOS device. The answer needs to be affirmative to proceed further. When done with it, enable [<u>Recovery Mode</u>](https://drfone.wondershare.com/recovery-mode/iphone-stuck-in-recovery-mode.html) on your iOS device with the help of on-screen instructions.
@@ -328,6 +332,14 @@ We start by exploring how to change the default credit card on Apple Pay using y
 
 ![change apple pay default card iphone](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Set New Card as Default on iPad or Mac
 
 Whether you prefer using your iPad for managing your payment methods or you're on your Mac, you can easily set a new card as the default option. Use the following instructions to set a credit card as the default card on Apple Pay:
@@ -337,6 +349,10 @@ Whether you prefer using your iPad for managing your payment methods or you're o
 **Instructions:** Access System Settings through the Dock or Apple menu and move to Wallet & Apple Pay. Afterward, once you're in Wallet & Apple Pay, choose a card from the "Default Card" settings and set it as the default card.
 
 ![click on the default card option](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### For iPad
 
@@ -374,9 +390,6 @@ Before doing anything else, it may just happen that you have not forgotten Apple
 
 If none of the above solutions work, you can safely conclude that you forgot Apple ID password but not to worry, we've has got you covered. Also, before we proceed with any solutions, it's better to [backup iPhone without passcode](https://drfone.wondershare.com/backup-iphone/backup-locked-iphone-data.html), to invoid any data loss during the process.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Recover or Reset Forgotten Apple ID or Password on iPhone/iPad
 
 The following is the first method you should try out to log back into your Apple account. This is because even though it isn't a guaranteed method, it is the simplest method by which to recover forgotten Apple ID.
@@ -414,8 +427,6 @@ Also Read: [How to Remove iCloud Account with or without Password >>](https://dr
 
 If you want to try a 100% working technique to reset Apple ID, then use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). The application would get rid of the Apple ID linked to the Apple iPhone 12 Pro device without any related details like email id or password. Though, you should know that this will cause the loss of stored data on your device. You can reset Apple ID using Dr.Fone – Screen Unlock (iOS) easily, but make sure that you don't use it for any illegal activity.
 
-
-
 ### Dr.Fone - Screen Unlock
 
 Unlock Disabled iPhone in 5 Minutes.
@@ -425,6 +436,10 @@ Unlock Disabled iPhone in 5 Minutes.
 - Works for all models of iPhone, iPad and iPod touch.
 - Fully compatible with the latest iOS/iPadOS version.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4,395,216** people have downloaded it
 
 **Step 1: Connect your Apple iPhone 12 Pro to the system**
@@ -433,9 +448,6 @@ Firstly, connect your iOS device to the system using a working lightning cable. 
 
 Now, you will be given an option to either unlock an Android or an iOS device. Simply select the option to unlock Apple ID of the Apple iPhone 12 Pro device.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![new-interface](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
 **Step 2: Trust the computer**
@@ -457,6 +469,10 @@ As the Apple iPhone 12 Pro device restarted, the application would follow the ne
 When the Apple ID is unlocked, you will be notified. You can now safely remove the Apple iPhone 12 Pro device and use it the way you like.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: Forgot Apple ID? How to Reset Apple ID
 
@@ -531,8 +547,6 @@ If you can't log into your Apple account even after all this hassle, and if you'
 
 Because the iCloud and Apple passwords are the same, you would also lose all the data that you've kept in your iCloud. However, you can retrieve it all using third-party software called [Dr.Fone - Data Recovery (iOS)](https://drfone.wondershare.com/data-recovery-iphone.html).
 
-
-
 ### Dr.Fone - Data Recovery (iOS)
 
 World's 1st iPhone and iPad data recovery software.
@@ -551,7 +565,6 @@ With this guide, we now hope that you have been reunited with your estranged App
 
 If you get permanently locked out of your Apple or iCloud accounts, you could also use the Dr.Fone solution we mentioned to recover whatever data you can. Have they been able to help you? Do you know of other solutions to the problem of [losing your Apple ID and Password](https://drfone.wondershare.com/solutions/forgot-apple-id.html)? If so, we'd love to hear from you Do leave a comment and let us know what you think about our solutions.!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -564,9 +577,24 @@ If you get permanently locked out of your Apple or iCloud accounts, you could al
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-demystifying-the-process-of-checking-subs/"><u>[New] 2024 Approved Demystifying The Process of Checking Subs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-leading-free-graphic-resource-hubs-to-elevate-your-artistry-for-2024/"><u>[New] Leading Free Graphic Resource Hubs to Elevate Your Artistry for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/best-zero-cost-malware-scrubbers-comprehensive-guide-to-keeping-your-devices-clean-with-malwarefox-and-others/"><u>Best Zero-Cost Malware Scrubbers : Comprehensive Guide to Keeping Your Devices Clean with MalwareFox and Others</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/convert-music-files-effortlessly-get-your-mp3-in-ogg-format-with-movavis-free-web-service/"><u>Convert Music Files Effortlessly: Get Your MP3 in OGG Format with Movavi's Free Web Service!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-voice-back-to-work-in-modern-warfare-comprehensive-guide/"><u>Get Your Voice Back to Work in Modern Warfare - Comprehensive Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-13-mini-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 13 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-iphone-14-pro-max-by-drfone-ios/"><u>How to Fix Locked Apple ID from iPhone 14 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-iphone-se-2022-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect iPhone SE (2022) and iPad</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-achieve-social-stardom-essential-tips-for-thriving-instagram-unboxings/"><u>In 2024, Achieve Social Stardom Essential Tips for Thriving Instagram Unboxings</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-xr-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone XR How to Bypass?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-crafting-captivating-narratives-on-snapchat-a-treasury-of-over-a-hundred-ideas-for-stories/"><u>In 2024, Crafting Captivating Narratives on Snapchat A Treasury of Over a Hundred Ideas for Stories</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-11-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From Apple iPhone 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From iPhone 6s Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-14-pro-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone 14 Pro Making It Possible</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/is-your-old-driver-responsible-for-gpu-malfunctions-expert-insights-from-yl-computing/"><u>Is Your Old Driver Responsible for GPU Malfunctions? Expert Insights From YL Computing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-xs-max-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone XS Max</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ling-hidden-details-in-asmr-recordings/"><u>Unveiling Hidden Details in ASMR Recordings</u></a></li>
+</ul></div>
 

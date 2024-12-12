@@ -1,7 +1,7 @@
 ---
 title: How To Erase an Apple iPhone 13 Without Apple ID Password?
-date: 2024-07-14T13:44:57.662Z
-updated: 2024-07-15T13:44:57.662Z
+date: 2024-12-06T16:00:45.972Z
+updated: 2024-12-12T16:00:57.700Z
 tags: 
   - unlock
   - remove apple account
@@ -85,9 +85,6 @@ Activation lock is a security feature. It prevents anyone from activating an iPh
 
 Go to **Settings** > **\[your name\]** > **Find My** or **Find My iPhone** to check.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![find my iphone settings](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-07.jpg)
 
 If you want to **erase an iPhone without Apple ID** password on your computer, you can do so as long as you turn off the Find My. However, you'll need to put your Apple iPhone 13 into Recovery Mode first.
@@ -99,9 +96,6 @@ If you want to **erase an iPhone without Apple ID** password on your computer, y
 - **Step 2:** Connect your Apple iPhone 13 to the computer with the button held down.
 - **Step 3:** Hold the buttons steadily until the Recovery Mode screen is visible.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone in recovery mode](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-08.jpg)
 
 - **Step 4:** Switch on your Apple iPhone 13. Then, connect it to a Mac or Windows computer using a USB cable.
@@ -148,7 +142,6 @@ The time it takes to process an unlock Activation Lock support request can take 
 Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest iOS models. Follow these steps to remove the Apple ID from your Apple iPhone 13 and erase all its contents within minutes:
 
 - **Step 1:** Download and install Dr.Fone on your desktop. Launch the app and connect your Apple iPhone 13 using a USB cable.
-
 
 - **Step 2:** From the **Toolbox** homepage, select **Screen Unlock**, then choose **iOS**.
 
@@ -236,9 +229,6 @@ Software inconsistencies within the Apple iPhone 13 device's operating system ca
 
 Periodic maintenance or unexpected server outages on Apple's end can disrupt the functionality of the Apple ID. As a result, you experience temporary Apple ID grey-out issues. During such occurrences, users may experience difficulties accessing their Apple ID.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: Finding the Proper Solutions to Apple ID Greyed Out \[Highly Effective\]
 
 Encountering a greyed-out Apple ID can be a daunting experience. However, there exist many resolutions to this issue that can be implemented. This article aims to guide you through several effective remedies that can help resolve the problem. By following the solution outlined below, you can fix the **Apple ID greyed out on iPad**:
@@ -254,6 +244,10 @@ In some instances, the greying out of the Apple ID can be attributed to specific
 - **Step 2:** Now, navigate to "Account Changes" and ensure it is set to "Allow." Afterward, check if the Apple ID is working normally again.
 
 ![enable the account changes](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Checking Apple System Status Page
 
@@ -274,9 +268,6 @@ This simple solution can help restore full access to your Apple ID and associate
 - **Step 1:** From the Settings of your Apple iPhone 13, access "Screen Time." On the following screen, scroll to the last option, "Turn Off Screen Time."
 - **Step 2:** Now tap "Turn Off Screen Time" and provide the screen time passcode for confirmation. Finally, confirm the action by selecting "Turn Off Screen Time" in the pop-up confirmation message.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off the screen time passcode](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-5.jpg)
 
 ### Solution 4: Restarting the iOS Device
@@ -287,6 +278,14 @@ Performing a simple restart on your iOS device can resolve various software-rela
 - **Step 2:** Drag the slider towards the right to power off your device. Allow a few moments to pass before using the "Side" button to switch on your Apple iPhone 13.
 
 ![turn off your iphone](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 5: Checking Internet Connectivity Status on Device
 
@@ -299,6 +298,10 @@ Resetting all settings on your iOS device can effectively resolve persistent sof
 - **Step 1:** To start, you access the Settings app and navigate to the "General" settings tab. There, scroll to the bottom till the last option and tap on "Transfer or Reset iPhone."
 
 ![choose transfer or reset iphone](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Navigate to the next screen and tap "Reset." From there, choose the option for "Reset All Settings." A prompt will appear, requesting your device passcode for verification. Once entered, proceed with the "Reset All Settings" to finalize the process.
 
@@ -318,9 +321,15 @@ You have implemented all the methods mentioned above, and your **Apple ID greyed
 
 Dr.Fone does this resolving procedure through its powerful Screen Time Passcode unlock feature. It is also a primary remedy to unlock the locked screen of your Apple devices. Moreover, this tool can [<u>bypass the iCloud activation lock</u>](https://drfone.wondershare.com/icloud/unlock-icloud-activation.html) and Apple ID without any password requirement. Through this Screen Unlock tool, you will be able to resolve your issue quickly and without any technical knowledge.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Features of Wondershare Dr.Fone
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -329,9 +338,6 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - Simple, click-through, process.
 - Unlock screen passwords from all iPhone and iPad.
 - No tech knowledge required, everybody can handle it.
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 - Supports the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
 **4,395,217** people have downloaded it
@@ -339,6 +345,10 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - This enhanced and powerful iDevice toolkit can also help unlock Apple ID for iOS 17 devices.
 - It can also bypass the MDM or remove the MDM profiles to allow you to use your Apple iPhone 13 normally.
 - You can unlock your Apple iPhone 13 or iPad screen lock without a password if you can't remember it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix Apple ID Greyed Out Issues by Unlocking Forgotten Screen Time Passcode
 
@@ -350,12 +360,15 @@ You need to start the process by opening Wondershare Dr.Fone and moving towards 
 
 ![choose the screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - Step 2: Start the Unlocking Process and Connect Your iDevice
 
 You will find yourself in a list of options from where you need to continue with the "Unlock Screen Time Passcode" option. Next, connect your iOS device to the computer via a USB cable. Then, wait for Wondershare Dr.Fone to detect your Apple iPhone 13.
 
 ![tap unlock screen time passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Step 3: Unlock Your iDevice and Toggle off Find My Feature
 
@@ -368,8 +381,6 @@ After the connection, select the "Unlock Now" button to unlock your screen time 
 Throughout this article, we have explored the perplexing issue of the **Apple ID grayed out in settings**. It can hinder the smooth functioning of your iOS device and access to various Apple services. By going through the root causes behind this problem, we have outlined several solutions. These can help users address the issue and regain access to their Apple ID.
 
 We recommend that users diligently follow the steps provided in each solution. So that they can identify and rectify the specific cause of the problem. However, in cases where the issue persists, we highlighted the significance of using Wondershare Dr.Fone. It offers a specialized Screen Time Passcode Unlock feature. Moreover, this ensures the smooth operation of Apple ID and associated services.
-
-
 
 ## How to Unlock Apple iPhone 13 When We Don't Have Apple ID or Password?
 
@@ -434,6 +445,10 @@ The following steps will help you to **unlock iPad without Apple ID** by setting
 - Tap the "Erase All Content and Settings" option.
 - Finally, enter your iPad screen password to affirm that you must erase your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4. Dr.Fone - Screen Unlock (iOS)
 
 Methods in today's market will generally delete your whole data from your iPad, which is not good. If you would rather try an easier one, you might utilize an expert tool. Here we suggest [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) by Wondershare, an all-in iOS tool.
@@ -441,7 +456,6 @@ Methods in today's market will generally delete your whole data from your iPad, 
 As a one-stop iOS unlocker, Dr.Fone can unlock an iPhone/iPad without too much professional knowledge. Not simply unlock the iPad with a Mac ID password, Dr.Fone can unlock or bypass practically every one of the passwords. For instance, you can utilize it to unlock iPhone backup encryption, fingerprint or limitations password, etc. In addition, it offers a ton of extra features for ease of use. Here's how you can use it to **unlock iPad without Apple ID:**
 
 **Step 1.** Install and open the Dr.Fone program and choose Screen Unlock > iOS.
-
 
 **Step 2.** Pick the "iCloud Activation Lock Removal" tool.
 
@@ -459,13 +473,15 @@ As a one-stop iOS unlocker, Dr.Fone can unlock an iPhone/iPad without too much p
 
 ![remove the activation lock immediately](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
-Your iPad will start with no activation lock. So, you can access and utilize the tablet now. However, you must remember that you can't use your new ID's call, cellular, and iCloud feature after the bypass.
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
+Your iPad will start with no activation lock. So, you can access and utilize the tablet now. However, you must remember that you can't use your new ID's call, cellular, and iCloud feature after the bypass.
 
 ## Conclusion
 
 Did the article above assist you with unlocking your iPad? We believe you now know **how to unlock iPad without Apple ID**. The four proposed strategies can help you unlock your iPad without Mac ID. Dr.Fone is your ideal choice for the unlock process. Unlock the iPad at present with [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). If you have any inquiries, kindly go ahead and let us know.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -479,9 +495,18 @@ Did the article above assist you with unlocking your iPad? We believe you now kn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-superior-5-camera-background-modification-utilities/"><u>[New] 2024 Approved Superior 5 Camera Background Modification Utilities</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-precision-in-replication-crafting-a-perfect-clone-on-the-worlds-stage-tiktok/"><u>[New] In 2024, Precision in Replication Crafting a Perfect Clone on the World's Stage, TikTok</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-surpassing-peers-standing-out-in-the-vimeo-staffs-choices/"><u>[New] Surpassing Peers Standing Out in the Vimeo Staff's Choices</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-building-a-robust-brand-partnership-portfolio-on-youtube/"><u>[Updated] In 2024, Building a Robust Brand Partnership Portfolio on YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-fundamentals-of-creating-dynamic-podcast-feeds/"><u>[Updated] In 2024, The Fundamentals of Creating Dynamic Podcast Feeds</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-framework-for-cost-analysis-in-music-video-making/"><u>2024 Approved Framework for Cost Analysis in Music Video Making</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/asus-dvd-drivers-download-get-the-latest-version-now/"><u>ASUS DVD Drivers Download: Get the Latest Version Now!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-13-pro-max-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off Apple iPhone 13 Pro Max without Password</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-iphone-13-pro-max-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From iPhone 13 Pro Max? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-12-pro-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 12 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-8-plus-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From Apple iPhone 8 Plus</u></a></li>
+</ul></div>
 

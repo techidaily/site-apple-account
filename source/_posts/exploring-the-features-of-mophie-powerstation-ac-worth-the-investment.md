@@ -1,7 +1,7 @@
 ---
 title: Exploring the Features of Mophie Powerstation AC - Worth the Investment?
-date: 2024-12-03T16:09:04.047Z
-updated: 2024-12-06T16:01:37.968Z
+date: 2024-12-06T16:07:20.314Z
+updated: 2024-12-12T16:03:29.516Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the Features of Mophie Powerstation AC - Worth the Investment?
@@ -13,9 +13,17 @@ thumbnail: https://www.lifewire.com/thmb/J143XMW0x7S2iPWGvMmttr1RUEI=/400x300/fi
 
 3.8
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bethesda The Elder Scrolls V: Skyrim (Nintendo Switch)
 
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/JA3JlwOuidCKxo4M92FWCfYUoI4=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_1LW415460710-2185a26d460b40978c1e0887900fbc7b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -35,10 +43,6 @@ Lifewire / Kelsey Simon
 [View On Amazon](https://www.amazon.com/dp/B075NFTX36/?tag=lifewire-onsite-prod-20&ascsubtag=4685718%7Cn0dc423de187c40659bf9fd9ffcd5e7ec22%7CB075NFTX36) [View On Walmart](https://www.walmart.com/ip/829171723)
 
 3.8
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bethesda The Elder Scrolls V: Skyrim (Nintendo Switch)
 
@@ -66,10 +70,6 @@ Lifewire / Kelsey Simon
 
  The Elder Scrolls V: Skyrim is an action role-playing game focused on single-player immersion in a fantasy world. It was originally released in 2011 and has most recently been ported over to the Switch. We took a close look at this game on its newest platform, playing it on the go to test the handheld gameplay experience, along with the plot and graphics.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Setup Process: Simple for all users**
 
  As with other games on the Nintendo Switch, you’ll need to insert the cartridge into your device. Skyrim does take a while to launch, so be patient as it loads up. There shouldn’t be any special downloads required, like with other games, and as soon as things load you’ll be able to play.
@@ -77,6 +77,10 @@ Lifewire / Kelsey Simon
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/uXDVHaBrdIlv5tI-qRgiPK0Iig4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW415460721-e6a53664e7eb4e65a75bf5cceb928e28.jpg)
 
  Lifewire / Kelsey Simon
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Plot: A huge world with loads to explore**
 
@@ -95,10 +99,6 @@ Lifewire / Kelsey Simon
  When it comes to role-playing games, Skyrim balances player control perfectly with world immersion. You can learn everything there is to know about the world of Skyrim if you wish, or you can just run along killing things and doing the main missions. It’s really up to you.
 
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/1fxH7ty_kqxpugJDk2tIQndKvI0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW41546078-6bdc67e56311473f9c1edeab00d2caa5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -120,15 +120,15 @@ Lifewire / Kelsey Simon
 
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/2Fk-UTwglmoCdE7IXrXqlnXs9do=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW415460712-6cec58625d13430db671be3144451cbc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
 ## **Graphics: A bit outdated**
 
  The graphics in Skyrim aren’t awful, but they haven't progressed much since 2011\. If you’ve played any other version of Skyrim, you can overlook it, simply because you know what you’re getting into. Bethesda attempted to make Skyrim look realistic, likely in their desire to give you a fully immersive experience. But these days, Skyrim’s graphics just aren’t as realistic as what other, more recent games have accomplished. In places, the mountains look blocky and the grass a little patchy. Character’s faces sometimes seem deeply sunken around the eyes, with the skin looking more like leather than flesh. It’s not that the graphics are overly bad, they’re just not as good as what you can get with better hardware on the PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Platform: Take Skyrim on the go**
 
@@ -142,11 +142,11 @@ Lifewire / Kelsey Simon
 
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/Iik6f_7RIRMWo5R6zGYxgGeL4n0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW41546076-8fb741faa7144fa6bafe386d2b7d8296.jpg)
 
- Lifewire / Kelsey Simon
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Kelsey Simon
 
 ## **Price: A tad expensive**
 
@@ -155,6 +155,10 @@ Lifewire / Kelsey Simon
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/HBIvthh4-o2kkXUP5CB6pSTnyOE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW415460725-46d1960a611c4ea488515c19052068bf.jpg)
 
  Lifewire / Kelsey Simon
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition: Other action RPGs**
 
@@ -171,10 +175,6 @@ Lifewire / Kelsey Simon
 * [The Legend of Zelda: Breath of the Wild](https://www.lifewire.com/the-legend-of-zelda-breath-of-the-wild-review-4685759)
 * [Mario Kart 8 Deluxe](https://www.lifewire.com/mario-kart-8-deluxe-review-4688951)
 * [Splatoon 2](https://www.lifewire.com/splatoon-2-review-4688940)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -198,24 +198,21 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-imovie-masterclass-drawing-viewers-into-your-content-quickly/"><u>[New] IMovie Masterclass Drawing Viewers Into Your Content Quickly</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-decoding-the-dynamics-of-whatsapp-audio-communication/"><u>[New] In 2024, Decoding the Dynamics of WhatsApp Audio Communication</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-top-10-free-youtube-channels-for-exceptional-art-creation/"><u>[New] In 2024, Top 10 FREE YouTube Channels for Exceptional Art Creation</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-11-pro-max-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your iPhone 11 Pro Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-12-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone 12? How to Fix it?</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-on-overcoming-gtfo-software-instability-issues/"><u>Expert Tips on Overcoming GTFO Software Instability Issues</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-iphone-15-by-drfone-ios/"><u>How To Create an Apple Developer Account From iPhone 15</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-14-ultra-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi 14 Ultra Without Password | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone XR</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-apple-iphone-11-pro-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From Apple iPhone 11 Pro without Password?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-se-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone SE without Apple ID?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your iPhone 15 Pro Max?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-social-crosslink-instagram-and-tiktok-guide/"><u>In 2024, Mastering Social Crosslink Instagram & TikTok Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/master-fluid-movement-in-the-ascent-techniques-to-optimize-framerate-and-prevent-freezing-glitches/"><u>Master Fluid Movement in The Ascent: Techniques to Optimize Framerate and Prevent Freezing Glitches</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-10-best-games-for-steam-deck-of-2023/"><u>The 10 Best Games for Steam Deck of 2023</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-why-isnt-my-thaumaturge-game-starting-on-windows/"><u>Troubleshooting Steps: Why Isn't My Thaumaturge Game Starting on Windows?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-comfortable-keyboard-cushions/"><u>Ultimate Guide to Comfortable Keyboard Cushions</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-6s-plus-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-15-pro-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone 15 Pro? How to Fix</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-insights-into-valheim-planting-methods/"><u>[New] Essential Insights Into Valheim Planting Methods</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-aesthetic-ambitions-launching-a-youtube-channel-for-makeup-maven/"><u>[New] In 2024, Aesthetic Ambitions Launching a YouTube Channel for Makeup Maven</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-guide-to-whatsapp-calls-on-your-phone-for-2024/"><u>[Updated] The Ultimate Guide to WhatsApp Calls on Your Phone for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-finalcut-pro-tutorials-for-top-tier-youtube-video-editing/"><u>2024 Approved FinalCut Pro Tutorials for Top-Tier YouTube Video Editing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-steadicam-models-to-transform-your-dslr-filmmaking-experience/"><u>2024 Approved Premium Steadicam Models to Transform Your DSLR Filmmaking Experience</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-apple-iphone-xr-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On Apple iPhone XR How to Bypass?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-xr-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By Apple iPhone XR without the Previous Owner?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-iphone-14-device-from-icloud-by-drfone-ios/"><u>How to Remove iPhone 14 Device from iCloud</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-iphone-14-pro-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By iPhone 14 Pro without the Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-11-pro-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone 11 Pro without Apple ID?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-apple-iphone-15-pro-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your Apple iPhone 15 Pro From Your Apple ID</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-ultimate-racing-game-anthology-the-top-five/"><u>In 2024, Ultimate Racing Game Anthology The Top Five</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/tecno-xs-geekom-mega-mini-g1-a-unique-aquarium-style-pc-powered-by-intel-i9-and-nvidia-rtx-graphics/"><u>Tecno X's GeekOm Mega Mini G1: A Unique Aquarium Style PC Powered by Intel I9 and Nvidia RTX Graphics</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-11-pro-max-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone 11 Pro Max? How to Fix</u></a></li>
 </ul></div>
 

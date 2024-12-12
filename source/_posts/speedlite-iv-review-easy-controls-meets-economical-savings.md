@@ -1,7 +1,7 @@
 ---
 title: "Speedlite IV Review: Easy Controls Meets Economical Savings"
-date: 2024-11-30T16:10:02.710Z
-updated: 2024-12-06T16:10:51.754Z
+date: 2024-12-11T16:00:16.260Z
+updated: 2024-12-12T16:04:19.184Z
 categories:
   - BestProducts
 description: "This Article Describes Speedlite IV Review: Easy Controls Meets Economical Savings"
@@ -13,13 +13,13 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
 4.3
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## GoPro HERO7 Black
 
 ![GoPro HERO7 Black](https://www.lifewire.com/thmb/-ao16__RvzZ8ftZrr0-WWsV13Lk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_02LW4158963-1-2553e26bad2246dea19f86f8fb2c3714.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeff Dojillo
 
@@ -47,10 +47,6 @@ Lifewire / Jeff Dojillo
 ## GoPro HERO7 Black
 
 ![GoPro HERO7 Black](https://www.lifewire.com/thmb/GYZOA14ZRWOM3tJzi8ZbmTTASe8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_02LW4158963-1-2553e26bad2246dea19f86f8fb2c3714.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Jeff Dojillo
 
@@ -100,7 +96,7 @@ Lifewire / Jeff Dojillo
  Lifewire / Jeff Dojillo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup: Updates out of the box**
@@ -119,16 +115,12 @@ Lifewire / Jeff Dojillo
 
  It makes your footage impressively stable even when filming handheld or while riding on rough terrain.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Lens: Great for video**
 
  The fixed lens on the GoPro HERO7 Black shoots wide or in SuperView mode, the latter of which is an extra-wide field of view and can sometimes give a kind of distorted fisheye effect to your footage. This distortion can be frustrating, but there are ways to work around it during editing, including using video editing software to correct. And when shooting at a lower resolution, the camera can shoot with a linear field of view which reduces the distortion of the lens. The SuperView is not available when shooting in a 4:3 aspect ratio.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Video Quality: Amazing 4K quality with variable frame rates**
@@ -171,11 +163,19 @@ Lifewire / Jeff Dojillo
 
  Inside the app, there are also options to edit mode settings, change the original set up, review camera info, changed Wi-Fi remotes, as well as monitor the battery level and[SD card](https://www.lifewire.com/how-to-format-sd-card-camera-4587017) capacity. It also makes it easier to review footage and images that the camera captures.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Battery Life: High-res video drains it quickly**
 
  When recording 4K video at 60 fps, the HERO7 Black’s battery only lasts about 50 minutes, so if you’re going to be shooting all day, it would be smart to have a few extra batteries available.
 
  Another option to extend shooting time would be to connect the GoPro HERO7 Black to an external battery pack via the[USB port.](https://www.lifewire.com/what-is-a-usb-port-818166)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: Fairly priced for what you get**
 
@@ -207,15 +207,15 @@ Lifewire / Jeff Dojillo
 
  Between the amazing video quality and the enhanced HyperSmooth electronic image stabilization, the GoPro HERO7 Black is perfect for adventurers who want to record or even live-stream their most rugged expeditions. It produces beautiful videos with enhanced color and sharpness and is small enough to wear or mount somewhere without it getting in the way.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Similar Products We've Reviewed
 
 * [AKASO EK7000 Pro 4K Action Camera](https://www.lifewire.com/akaso-ek7000-pro-4k-action-camera-review-4770265)
 * [Canon PowerShot G7 X Mark II](https://www.lifewire.com/canon-powershot-g7-x-mark-ii-review-4706895)
 * [Sony DSC-W800](https://www.lifewire.com/sony-dsc-w800-review-4589510)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -248,16 +248,20 @@ Lifewire / Jeff Dojillo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-advanced-screen-recording-methods-on-dell-laptops/"><u>[Updated] In 2024, Advanced Screen Recording Methods on Dell Laptops</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-iphone-se-2020-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On iPhone SE (2020) Online</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/adopting-hdri-for-superior-visual-storytelling-in-video-arts-for-2024/"><u>Adopting HDRI for Superior Visual Storytelling in Video Arts for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-12-pro-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone 12 Pro?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-se-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your Apple iPhone SE</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-7-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 7? How to Fix it?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-11-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone 11? How to Fix it?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-xs-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone XS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-a-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Hub: A Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-screen-capture-simplified-top-choices-for-easy-video-making/"><u>[New] Screen Capture Simplified Top Choices for Easy Video Making</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-directors-eye-15-essential-camera-shots-explained/"><u>[New] The Director's Eye 15 Essential Camera Shots Explained</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-list-of-9-best-online-mic-recorder-hacks-for-2024/"><u>[Updated] The Ultimate List of 9 Best Online Mic Recorder Hacks for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808358553-forgot-your-gmail-password-again-discover-simple-remedies-now/"><u>Forgot Your Gmail Password Again? Discover Simple Remedies Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-updated-logitech-speaker-drivers-for-your-windows-machine-compatible-with-win-1078/"><u>Get Updated Logitech Speaker Drivers for Your Windows Machine - Compatible with Win 10/7/8</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-x-by-drfone-ios/"><u>How To Unlink Apple ID From iPhone X</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-apple-iphone-se-2020-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On Apple iPhone SE (2020)? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-se-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your Apple iPhone SE?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-apple-iphone-xs-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your Apple iPhone XS without Security Questions?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-15-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On Apple iPhone 15</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-picture-landscapes-on-pexelscom-for-2024/"><u>Navigating Picture Landscapes on Pexels.com for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-spin-flip-and-rotate-the-top-online-video-rotation-services/"><u>New 2024 Approved Spin, Flip, and Rotate The Top Online Video Rotation Services</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-15-plus-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/seeking-a-new-laptop-check-out-these-top-6-stores/"><u>Seeking a New Laptop? Check Out These Top 6 Stores!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-your-gaming-potential-with-the-powerful-acer-nitro-16-rtx-4070amd-cpu-at-a-steal-only-1129/"><u>Unleash Your Gaming Potential with the Powerful Acer Nitro 16 (RTX 4070/AMD CPU) at a Steal: Only $1,129</u></a></li>
 </ul></div>
 

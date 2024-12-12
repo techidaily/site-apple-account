@@ -1,7 +1,7 @@
 ---
 title: Apple ID Locked or Disabled From Apple iPhone 12 Pro? 7 Mehtods You Cant-Miss
-date: 2024-07-14T13:39:53.122Z
-updated: 2024-07-15T13:39:53.122Z
+date: 2024-12-08T16:05:50.130Z
+updated: 2024-12-12T16:06:12.918Z
 tags: 
   - unlock
   - remove apple account
@@ -35,8 +35,6 @@ If you frequently change your Apple ID or passcode on the Apple iPhone 12 Pro de
 
 If you have forgotten your Apple ID password, you are suggested not to enter the wrong passcode in a row. That may lead to data loss. You can download the Dr.Fone– Screen Unlock, which is compatible with different lock screens and will **unlock Apple ID easily**. [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) helps remove almost all sorts of iPhone passwords without the requirement of technical knowledge.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone ID.
@@ -58,6 +56,10 @@ To unlock your Apple ID, you have to click on the “Unlock Apple ID” option.
 
 ![screen unlock home](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** You must know the passcode of the Apple iPhone 12 Pro to unlock the phone screen, which trusts the computer system for scanning the data available in the phone.
 
 ![trust this pc](https://images.wondershare.com/drfone/drfone/trust-computer.jpg)
@@ -69,6 +71,10 @@ To unlock your Apple ID, you have to click on the “Unlock Apple ID” option.
 **Step 3:** Before unlocking your Apple ID, you have to reset iPhone settings by following the instruction available on the screen. When you have reset all the settings, restart your device, and the process of unlocking will start automatically.
 
 ![follow steps to reset](https://images.wondershare.com/drfone/drfone/interface.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Once the restart process gets completed, Dr. Fone will automatically kick off the unlocking process of Apple ID and get it ended in a few seconds.
 
@@ -91,6 +97,10 @@ In order to [unlock iPhone](https://drfone.wondershare.com/unlock/unlock-disable
 **Step 2:** When the next screen appears, you will see two options to choose from. Whether you wish to receive a password through email or answer a security question, choose it. Click “Continue”.
 
 ![reset apple id password](https://images.wondershare.com/drfone/article/2022/03/reset-apple-id-password.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Reset the password now. Write down the password and follow the prompts. Your password will be reset now!
 
@@ -116,9 +126,6 @@ If your Apple ID is disabled, follow these simple steps listed below:
 
 **Step 5**: Successfully, you have unlocked your Apple ID.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 4: Unlock Apple ID Using Two-Factor Authentication
 
 This next method only works if you've already enabled the Two-Factor Authentication before getting locked out of your Apple ID. In case you've already enabled it, follow the below-mentioned steps to unlock your Apple ID.
@@ -165,6 +172,10 @@ If you want to unlock **iPhone 13 Apple ID** and don't remember the password**,*
 
 ![click i icon](https://images.wondershare.com/drfone/article/2022/03/dns-bypass-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** In case, you are already connected to a Wi-Fi network, ensure to click on it first and then tap on “Forget This Network” to have the “i” icon visible.
 
 **Step 5:** Now, when you tap on the “i” icon next to any Wi-Fi network (not connected), you need to look for the “Configure DNS” server option. Click on it and then select “Manual”, then click “Add Server.”
@@ -197,8 +208,6 @@ We are positive that the solutions above will get your issue resolved. However, 
 ## Conclusion
 
 From this article, you can know how to unlock your Apple ID and reset your password. There are different ways available that will resolve your **unlock iPhone issue**. However, Dr.Fone is the most recommended tool as it provides a screen lock solution and recognizes it as a one-stop solution for all iPhone problems. You can also share the effective methods in this article with your families and friends.
-
-
 
 ## Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 12 Pro?
 
@@ -247,9 +256,6 @@ If you just forget the password and cannot remember it, you can follow the steps
 
 - **Step 3** Enter the phone number that you use with your Apple ID.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset apple id password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id-2.jpg)
 
 - **Step 4:** Look for the notification on iPhone, Mac, or iPad and follow the instructions to reset the password.
@@ -260,7 +266,9 @@ Note that if you are changing your Apple ID password on an iPhone or iPad, you w
 
 Forgetting the password is particularly troublesome, but there is good news. That is, you can use [Password Manager](https://drfone.wondershare.com/iphone-password-manager.html) to find your passwords on your Apple iPhone 12 Pro/iPad without spending too much time remembering them!
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Password Manager (iOS)
 
@@ -326,25 +334,11 @@ No. The error message “Your account has been disabled in the App Store and iTu
 
 After you see these errors, you will not be able to access some of the features and apps that require your Apple ID for access.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5. How to fix Apple ID disabled by removing Apple ID?
 
 Sometimes the only way to [fix “Apple ID Disabled”](https://drfone.wondershare.com/apple-account/how-to-unlock-apple-id-disabled-activation-lock.html) is to remove the Apple ID from the Apple iPhone 12 Pro device. This may become a viable solution if you lost or forgot the Apple ID password or ID and you have no way to recover them. It is also one of the best solutions when you purchased a second-hand device, and you don’t know the Apple ID password for the account associated with the Apple iPhone 12 Pro device.
 
 One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This third-party unlocking software is designed to easily and effectively remove the Apple ID password from any device. The following are some things it can do;
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -370,6 +364,10 @@ On the next screen, you should see three options. Choose “Remove Apple ID” s
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3: Connect the iOS Device**
 
 Connect the iOS device to the computer using its lightning cable. Then enter the Apple iPhone 12 Pro device’s passcode and, when prompted, tap “Trust” to allow the computer to detect the Apple iPhone 12 Pro device. The program should detect the Apple iPhone 12 Pro device and display information about it. Then click “Unlock Now”.
@@ -383,6 +381,10 @@ Dr.Fone will immediately begin removing the Apple ID from the Apple iPhone 12 Pr
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
 You should then be able to sign in to another Apple ID or create a new Apple ID and password to use on the Apple iPhone 12 Pro device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -443,9 +445,6 @@ However, if you've forgotten your Apple ID password, don't fret. Follow the guid
 - **Step 1:** Open the **Settings** application, then tap **\[name\]**.
 - **Step 2:** Go to **Sign-In & Security** > **Change Password**.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![change apple id password](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-05.jpg)
 
 - **Step 3:** Follow the on-screen instructions to reset your Apple ID password.
@@ -456,9 +455,6 @@ However, if you've forgotten your Apple ID password, don't fret. Follow the guid
 - **Step 5:** Input your Apple ID password or your passcode when prompted.
 - **Step 6:** Click **Continue** to confirm. Then, wait while the contents are being removed from your Apple iPhone 12 Pro device.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How To Erase iPhone Without Apple ID Password on Computer?
 
 Activation lock is a security feature. It prevents anyone from activating an iPhone without your Apple ID password. If you try to factory reset your Apple iPhone 12 Pro without turning off Find My iPhone, the [<u>activation lock </u>](https://drfone.wondershare.com/icloud/unlock-icloud-activation.html) will be in place. It means you need to enter your Apple ID password to activate the Apple iPhone 12 Pro again. To turn it off, also ensure to turn off Find My on your device.
@@ -466,6 +462,10 @@ Activation lock is a security feature. It prevents anyone from activating an iPh
 Go to **Settings** > **\[your name\]** > **Find My** or **Find My iPhone** to check.
 
 ![find my iphone settings](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you want to **erase an iPhone without Apple ID** password on your computer, you can do so as long as you turn off the Find My. However, you'll need to put your Apple iPhone 12 Pro into Recovery Mode first.
 
@@ -523,7 +523,6 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 - **Step 1:** Download and install Dr.Fone on your desktop. Launch the app and connect your Apple iPhone 12 Pro using a USB cable.
 
-
 - **Step 2:** From the **Toolbox** homepage, select **Screen Unlock**, then choose **iOS**.
 
 ![dr.fone toolbox interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -543,6 +542,10 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 - **Step 6:** Click **Yes** to verify you have enabled [<u>two-factor authentication</u>](https://drfone.wondershare.com/remove-apple-account/how-to-get-apple-id-verification-code.html) on your Apple iPhone 12 Pro.
 
 ![confirm two-factor authentication enabled](https://images.wondershare.com/drfone/guide/remove-apple-id-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 7:** Follow the in-app instructions to put your device in Recovery Mode.
 
@@ -568,6 +571,10 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 ![unlocking apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 13:** Click **Done** and check that your Apple iPhone 12 Pro's data and Apple ID have been removed.
 
 ![iphone apple id unlocked](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
@@ -577,7 +584,6 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 It can be challenging to **erase an iPhone without an Apple ID** password, but it's achievable by following the right steps. Remember to weigh the security implications and back up your data beforehand.
 
 If you're seeking a straightforward method on "**how to erase an iPhone without Apple ID**," Dr.Fone Screen Unlock tool is a good solution. With its user-friendly interface and efficient operation, Dr.Fone simplifies the process, making it accessible to users of all technical levels. Don't let a forgotten Apple ID password hinder your device's functionality. Try Dr.Fone Screen Unlock and reclaim control of your Apple iPhone 12 Pro.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -591,9 +597,26 @@ If you're seeking a straightforward method on "**how to erase an iPhone without 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-the-art-of-preserving-instagram-live-moments/"><u>[New] 2024 Approved Mastering the Art of Preserving Instagram Live Moments</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-elevating-engagement-tutorial-that-gains-momentum-fast/"><u>[New] Elevating Engagement Tutorial That Gains Momentum Fast</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-elevating-your-creations-with-instagrams-soundtrack-feature/"><u>[New] In 2024, Elevating Your Creations with Instagram's Soundtrack Feature</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-art-of-amplifying-your-minecraft-scene-for-2024/"><u>[New] The Art of Amplifying Your Minecraft Scene for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-blueprint-for-branding-success-on-snapchat/"><u>[New] The Ultimate Blueprint for Branding Success on SnapChat</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-apple-iphone-se-2020-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing Apple iPhone SE (2020) Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-13-pro-max-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From iPhone 13 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-iphone-12-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On iPhone 12 Pro? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-apple-iphone-14-pro-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On Apple iPhone 14 Pro without Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-xiaomi-13t-pro-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Xiaomi 13T Pro?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-iphone-6-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On iPhone 6 in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone XS Max?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-iphone-6-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On iPhone 6</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-iphone-11-pro-max-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your iPhone 11 Pro Max? How to Fix</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/peak-posts-on-reddit-honoring-10-highly-engaging-threads/"><u>Peak Posts on Reddit Honoring 10 Highly Engaging Threads</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updating-and-installing-latest-epson-printer-drivers-on-windows-10-a-step-by-step-guide/"><u>Updating and Installing Latest Epson Printer Drivers on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo S17 Pro | Dr.fone</u></a></li>
+</ul></div>
 
