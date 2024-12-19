@@ -1,7 +1,7 @@
 ---
 title: In 2024, Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 12 mini?
-date: 2024-07-14T13:31:50.177Z
-updated: 2024-07-15T13:31:50.177Z
+date: 2024-12-17T21:38:55.034Z
+updated: 2024-12-18T23:24:54.238Z
 tags: 
   - unlock
   - remove apple account
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9
 You may see the error message, “**Your account has been disabled in the App Store and iTunes**” when you try to log in. This is often an indication that for some reason your Apple ID is not working as it should. When you consider that you will not be able to download or update apps or even make a purchase using Apple Pay without your Apple ID, it is easy to see why this error message can be a problem.
 
 Why is my account disabled in the App store? Here, we take a look at the reasons why you may see the error messages and what you can do to fix them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Why has my account been disabled in the App Store and iTunes?
 
@@ -61,9 +65,6 @@ If you just forget the password and cannot remember it, you can follow the steps
 
 - **Step 3** Enter the phone number that you use with your Apple ID.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![reset apple id password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id-2.jpg)
 
 - **Step 4:** Look for the notification on iPhone, Mac, or iPad and follow the instructions to reset the password.
@@ -73,8 +74,6 @@ If you just forget the password and cannot remember it, you can follow the steps
 Note that if you are changing your Apple ID password on an iPhone or iPad, you will need to enter your device's six-digit passcode, then reset a new password.
 
 Forgetting the password is particularly troublesome, but there is good news. That is, you can use [Password Manager](https://drfone.wondershare.com/iphone-password-manager.html) to find your passwords on your Apple iPhone 12 mini/iPad without spending too much time remembering them!
-
-
 
 ### Dr.Fone - Password Manager (iOS)
 
@@ -106,6 +105,10 @@ Do you have any unpaid purchases or subscriptions?
 
 It is important to keep track of any purchases or subscriptions that you have signed up for and ensure that you pay for them on time. This not only helps you avoid late fees and penalties, but it also ensures that your account remains active and accessible. If you do have any unpaid charges, it is recommended that you settle them as soon as possible in order to reinstate your account and prevent any further issues. Keep a record of all your expenses and regularly review your bills to avoid missing any payments and keep your accounts in good standing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4. Sign Out and Sign in Again
 
 Signing out of your account and then signing back in may help if this issue is caused by a software glitch.
@@ -132,6 +135,10 @@ When you see the error message “Your account has been disabled in the App Stor
 - Furthermore, you may not be able to access Apple services and any Apple Store orders and repairs may need to be rescheduled.
 - Until you can fix the issue, you will not be able to receive iMessage, FaceTime, and iCloud Mail.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Is “Your account has been disabled in the App Store and iTunes” the same as “Apple ID disabled”?
 
 No. The error message “Your account has been disabled in the App Store and iTunes” differs from “Apple ID disabled”. You will primarily see the “Your account has been disabled in the App Store and iTunes” when you try to access content in the App Store. On the other hand, you may see the message “Apple ID disabled” when you enter the Apple ID and password to [bypass the iCloud Activation Lock screen](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html).
@@ -145,8 +152,6 @@ After you see these errors, you will not be able to access some of the features 
 Sometimes the only way to [fix “Apple ID Disabled”](https://drfone.wondershare.com/apple-account/how-to-unlock-apple-id-disabled-activation-lock.html) is to remove the Apple ID from the Apple iPhone 12 mini device. This may become a viable solution if you lost or forgot the Apple ID password or ID and you have no way to recover them. It is also one of the best solutions when you purchased a second-hand device, and you don’t know the Apple ID password for the account associated with the Apple iPhone 12 mini device.
 
 One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This third-party unlocking software is designed to easily and effectively remove the Apple ID password from any device. The following are some things it can do;
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -190,6 +195,10 @@ You should then be able to sign in to another Apple ID or create a new Apple ID 
 
 In conclusion, encountering a disabled Apple account in the App Store and iTunes can be a frustrating experience. However, by understanding the reasons behind it, following the recommended steps to resolve the issue, and considering the broader impact on your digital life, you can navigate this situation effectively. Remember, prompt action and patience are key to restoring your account and getting back to enjoying the Apple ecosystem hassle-free.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Remove Phone Number From Your Apple ID on Your Apple iPhone 12 mini?
 
 After getting a new device, iPhone users must prepare a unique identification term for their Apple ID. Creating and setting up this ID is not different each time. Not to mention, one can use this one registered ID to access multiple Apple-based features like podcast subscriptions, apps, etc.
@@ -214,6 +223,10 @@ If you want to learn **how to remove the number from Apple ID** and if possible,
 
 If you are wondering about the steps for how to **remove an old phone number from Apple ID,** there are different styles available. Here are the main processes you can utilize.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1. Remove Phone Number via iPhone/iPad's Settings
 
 In the matter of **how to remove a phone number from an Apple ID**, the most effortless process is to go into the Settings app and delete it from there. This is possible if you have your registered phone with you and the Apple ID. Simple access and remove the number.
@@ -235,8 +248,9 @@ In the matter of **how to remove a phone number from an Apple ID**, the most eff
 ![select edit](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-phone-number-from-apple-id-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2. Remove the Phone Number Using a Mac
 
 Users can turn the phone number OFF that they registered to Apple ID through their Mac device. In this context, accessing the FaceTime or Messages app is essential in the context of **how to remove phone number from Apple ID via Mac steps.**
@@ -281,7 +295,6 @@ It is possible to **remove phone number from Apple ID** by accessing the Apple i
 - Remove all types of lock screens, like Apple ID, Face ID, Touch ID, Screen Time Passcode, etc.
 - Fast process of screen and password bypassing.
 
-
 **How to use it?**
 
 **Step 1:** Download/install/launch the app on Mac/Windows. Select Screen Unlock when the app opens on the interface.
@@ -294,9 +307,6 @@ It is possible to **remove phone number from Apple ID** by accessing the Apple i
 
 **Step 3:** Put the Apple iPhone 12 mini device into recovery mode following the on-screen instructions. Then, restart the Apple iPhone 12 mini device. This will automatically kickstart the unlocking process and will take some seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![automatically kickstart the unlocking process](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
 
 **Step 4:** Finally, see that Apple ID's device has been unlocked on the next page.
@@ -306,7 +316,6 @@ It is possible to **remove phone number from Apple ID** by accessing the Apple i
 **Video Guide: How to Remove Apple ID without Password?**
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/iFMAR09R9x4"></iframe>
-
 
 ## Part 5. FAQs about Apple ID Phone Number
 
@@ -325,8 +334,6 @@ No, the Apple ID and phone number are not connected as features or codes. So, ad
 ### Conclusion
 
 Indeed, there are multiple methods you can take to remove the phone number registered to your Apple ID successfully. They are accessible in multiple ways through Mac, iPad, or iPhone settings. If you forgot the Apple ID, you could even remove it using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). Ultimately, choose the process to trust based on your specific needs.
-
-
 
 ## Troubleshooting 'Error Connecting to the Apple ID Server' On Apple iPhone 12 mini
 
@@ -350,9 +357,6 @@ Periodic disruptions in Apple servers can lead to the "**Apple ID verification f
 
 The problem may also stem from a disrupted internet connection. You should investigate your Wi-Fi or cellular data to ensure a stable connection. Restarting routers or switching to an alternative network can also help.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Problems With Apple ID
 
 Authentication issues can arise if users input incorrect Apple ID credentials or if their accounts face security concerns. Verifying and correcting these details or resetting the Apple ID password is crucial.
@@ -361,9 +365,6 @@ Authentication issues can arise if users input incorrect Apple ID credentials or
 
 The device's date and time settings must be accurate to establish a secure connection with the Apple ID server. You should check and adjust these settings, enabling automatic updates for synchronization.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: \[10 Quick Solutions\] There Was an Error Connecting to the Apple ID Server
 
 The section below provides user-friendly fixes tailored to ease frustration and restore seamless connectivity.
@@ -378,6 +379,10 @@ The initial step is to investigate the status of Apple's servers. Server outages
 
 A fundamental yet crucial solution is to examine your network connection. Instabilities in Wi-Fi or cellular data can impede communication with Apple's servers. Ensure a stable connection and troubleshoot any disruptions, considering a switch to an alternative network. You can [<u>follow this guide </u>](https://drfone.wondershare.com/device-diagnostics/check-mobile-signal-stength.html) to check your network signal.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Set Up Another Admin User Account (for macOS Users)
 
 Creating a new admin user account can serve as a strategic move for macOS users. Here's how. It helps isolate issues tied to a specific user account. It provides insights into whether the problem is user-specific. Here's how.
@@ -385,6 +390,10 @@ Creating a new admin user account can serve as a strategic move for macOS users.
 - **Step 1:** Open **System Preferences** on your Mac and choose **Users & Groups**.
 
 ![setting up another admin account](https://images.wondershare.com/drfone/article/2023/11/error-connecting-to-apple-id-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Click the lock icon and enter your admin password. Click the **+** or **Add User…** button to add a new user, selecting **Administrator** as the account type. Log in to the new account and check if the issue persists.
 
@@ -398,6 +407,10 @@ Outdated operating systems often contribute to connectivity issues. Ensure your 
 Download and install any available updates.
 
 ![software update on iphone](https://images.wondershare.com/drfone/article/2023/11/error-connecting-to-apple-id-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Boot macOS in Safe Mode
 
@@ -423,6 +436,10 @@ Temporarily [<u>signing out of your Apple ID account</u>](https://drfone.wonders
 
 Security concerns related to compromised credentials can contribute to the connection problem. If in doubt, initiate a password reset for your Apple ID. It not only enhances account security but also addresses authentication errors. Here's how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Disable VPN
 
 If you use a Virtual Private Network (VPN), consider temporarily disabling it. VPNs can sometimes interfere with the connection to Apple's servers, causing the error. Disabling the VPN allows you to test whether it's the source of the problem.
@@ -440,8 +457,6 @@ If you've tried all the above and you're still getting the error connecting to t
 Wondershare Dr.Fone is renowned for its versatile features. The platform's Screen Unlock function is designed to address Apple ID-related challenges. What's more, Dr.Fone is compatible with various iOS versions. It ensures its applicability across a broad range of devices. Its user-friendly interface makes it accessible for both novice and experienced users.
 
 ![dr.fone main interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -467,7 +482,6 @@ Below are the steps to use Dr.Fone - Screen Unlock.
 
 - **Step 1:** Download and Install Dr.Fone - Screen Unlock on your computer. Launch the app afterward,
 
-
 - **Step 2:** From the main interface, choose the **Screen** **Unlock** option. Next, connect your iOS device to the computer using a USB cable. Click on **iCloud Activation Lock Removal** to initiate the process.
 
 ![dr.fone screen unlock options](https://images.wondershare.com/drfone/guide/bypass-activation-lock-1.png)
@@ -486,7 +500,6 @@ Don't lose hope if you still **can't connect to the Apple ID server**. Take adva
 
 If the **Apple ID verification failed** error persists, reaching out to Apple Support remains a reliable avenue for additional assistance with your Apple ID connectivity concerns. Your resolution journey begins with these steps, ensuring a swift return to hassle-free Apple services.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -499,9 +512,26 @@ If the **Apple ID verification failed** error persists, reaching out to Apple Su
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/63207672-new-in-2024-best-hashtags-for-youtube-to-get-your-views-to-6-figures/"><u>[New] In 2024, Best Hashtags for YouTube to Get Your Views to 6 Figures</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-examining-the-potential-of-4-second-subscriptions/"><u>[Updated] In 2024, Examining the Potential of 4-Second Subscriptions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-ultimate-look-at-samsung-galaxy-s8-in-4k-for-2024/"><u>[Updated] The Ultimate Look at Samsung Galaxy S8 in 4K for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-12-pro-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-15-pro-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone 15 Pro? How to Fix it?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/assessing-the-ergohead-mat-a-detailed-review-of-its-suitability-for-sustained-use/"><u>Assessing the Ergohead Mat - A Detailed Review of Its Suitability for Sustained Use</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-digital-to-analog-converters-are-they-essential-for-quality-sound/"><u>Demystifying Digital-to-Analog Converters – Are They Essential for Quality Sound?</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/free-disk-cloning-tool-for-windows-11-top-replication-apps-like-synology-data-replicator/"><u>Free Disk Cloning Tool for Windows 11 - Top Replication Apps Like Synology Data Replicator</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-apple-iphone-14-pro-max-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From Apple iPhone 14 Pro Max in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-iphone-13-pro-max-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From iPhone 13 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-14-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 14 Pro Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-iphone-15-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On iPhone 15? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-iphone-6-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on iPhone 6</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-xr-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone XR Making It Possible</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-voice-changer-a-detailed-manual-on-morphvox-transformation/"><u>The Ultimate Voice Changer A Detailed Manual on MorphVOX Transformation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-microsoft-surface-laptop-4-why-its-revolutionary-and-superior/"><u>Unveiling the Microsoft Surface Laptop 4 - Why It's Revolutionary and Superior</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-ultimate-8-ranked-apps-mobile-video-tile-masters-freepaid-for-2024/"><u>Unveiling the Ultimate #8 Ranked Apps Mobile Video Tile Masters (Free/Paid) for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/vital-criteria-for-assessing-the-best-mac-based-audio-editors/"><u>Vital Criteria for Assessing the Best Mac-Based Audio Editors</u></a></li>
+</ul></div>
 

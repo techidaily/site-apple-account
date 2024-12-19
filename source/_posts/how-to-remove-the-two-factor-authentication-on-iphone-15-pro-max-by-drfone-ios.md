@@ -1,7 +1,7 @@
 ---
 title: How To Remove the Two Factor Authentication On iPhone 15 Pro Max
-date: 2024-12-06T16:07:05.689Z
-updated: 2024-12-12T16:12:08.627Z
+date: 2024-12-14T23:50:43.948Z
+updated: 2024-12-19T04:16:50.323Z
 tags: 
   - unlock
   - remove apple account
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/fff656b551e024a92bec77f08e34169fdbb7972da
 ## Want To Remove the Two Factor Authentication? Check Out This Guide
 
 [![drfone](https://drfone.wondershare.com/daisy-raine.jpg)](https://drfone.wondershare.com/author/daisy-raine/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Continuous technology innovation has introduced many advanced encryption and security methods to protect data from hackers. With these innovations, companies like Apple and Google have introduced the two-factor authentication process to protect user data.
 
@@ -46,7 +42,7 @@ Protecting users’ devices and online accounts is one of the major responsibili
 3. **Protection on Multiple Services:** Platforms, including social media, banks, and cloud storage, use 2FA. It means that 2FA can be used in various digital aspects.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Can You Remove the Two Factor Authentication iCloud at Anytime
@@ -63,7 +59,7 @@ Moreover, there is one important key point to note: Apple has removed the featur
 Besides all these reasons, there is still some good news for those who want to **remove the two-factor authentication iPhone** to use other security options. The good news is that Apple allows users to remove 2FA for a limited time after activation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How To Remove the Two-Factor Authentication Within 14 Days
@@ -81,6 +77,10 @@ If you mistakenly got your Apple ID locked due to entering the wrong password mu
 
 This solution is the [<u>Wondershare Dr.Fone - Screen Unlock (iOS)</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool specially designed to help users remove their iPhone and iPod lock screens. It is compatible with the latest iOS devices and assists in removing various types of lock screens, including Touch ID and Face ID.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Features
 
 1. This iOS screen unlock tool assists users in [<u>bypassing MDM without data loss</u>](https://drfone.wondershare.com/unlock/apple-mdm.html) and other technical errors.
@@ -88,7 +88,7 @@ This solution is the [<u>Wondershare Dr.Fone - Screen Unlock (iOS)</u>](https://
 3. iPhone 15 and [<u>the latest versions of iOS 17/iPadOS 17</u>](https://drfone.wondershare.com/ios-upgrade/install-ios-17-developer-beta-official-version.html) are supported by this tool to help users professionally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Simplified Steps for Unlocking Apple ID With Wondershare Dr.Fone
@@ -125,6 +125,10 @@ With this, we hope you understand how to **disable iCloud two-factor authenticat
 
 Moreover, if you have locked your Apple ID passcode, using Wondershare Dr.Fone to unlock it can be the perfect option. While using this tool, you also don't have to worry about screen locks on different iOS devices. This is because the innovative algorithms integrated in this tool make it easier to use for unlocking the Apple ID or [<u>screen lock</u>](https://tools.techidaily.com/wondershare/drfone/unlock-android-screen/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple ID Locked for Security Reasons On Apple iPhone 15 Pro Max? Find the Best Solution Here
 
 Apple ID is the main functional unit in the smooth and secure operation of Apple devices. This ID is the gateway towards many services, including iCloud, App Store, and more. In the context of these security concerns, Apple ID could get locked out for various reasons, like **Apple ID locked for security reasons**. This happens just because the security feature in the operating system detects some fictitious activity.
@@ -134,10 +138,6 @@ However, you don't need to worry about **your Apple ID locked for security reaso
 ## Part 1. Exploring the Causes of Apple ID Locked Out for Security Purposes
 
 Has **your Apple ID been locked for security reasons**, and is this problem creating some tension for you? Before we move further towards its solutions, it's essential to know the reasons that lead to these problems. Some of them are explained below in a comprehensive manner:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Incorrect Attempts
 
@@ -169,6 +169,10 @@ The basic solution to the **Apple ID locked for security reasons** is to [<u>res
 
 ![change the apple id password](https://images.wondershare.com/drfone/article/2023/11/fix-apple-id-locked-for-security-reasons-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Resetting Password From Mac
 
 **Instructions:** Start by tapping the Apple logo in the top left corner of your screen and choosing the option "System Settings." Upon completion of this step, you have to access your Apple ID settings and proceed by selecting the "Sign-In & Security" option. Subsequently, opt for the "Change Password" feature to modify your Apple ID password.
@@ -183,16 +187,16 @@ You have tried to resolve the problematic message indicating, "This Apple ID has
 
 ![tap on reset password](https://images.wondershare.com/drfone/article/2023/11/fix-apple-id-locked-for-security-reasons-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** In the next stage, you need to reset your password, and for that, you need to go through a verification process sent to your trusted device. You can reset the Apple ID password by tapping the "Allow" button. Following this, you must provide the trusted device passcode to initiate the password reset process.
 
 ![iphone to change apple id password](https://images.wondershare.com/drfone/article/2023/11/fix-apple-id-locked-for-security-reasons-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4. Resolving the Apple ID Locked Out for Security Reasons by Apple Support App
@@ -253,10 +257,6 @@ Apple is known for developing its own unique operating system with its own dedic
 
 ![remove device from icloud](https://images.wondershare.com/drfone/article/2020/11/remove-device-from-icloud.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1. What happens if I remove a device from my iCloud?
 
 If you look over the operation of iCloud service for any Apple device, the exemption of the service will lead you into losing access from a service that offers you a backing up feature along with synchronization. Furthermore, this will also affect the Find My service, leading you to make your device theft evasive. The removal of the Find My service makes it possible for thieves to wipe off data of the Apple iPhone 15 Pro Max device and have it sold across the market, with no chances of retrieval. Despite the removal of the iCloud service from your device, it will function normally; however, the security and tranquility offered by the Apple iPhone 15 Pro Max device would not remain intact with its exemption. The iCloud account that has been removed will keep the data that has been previously stored in it by the Apple iPhone 15 Pro Max device backup, but it would not accept any new addition.
@@ -274,10 +274,6 @@ iCloud backup is usually important in keeping a synchronized model in effect acr
 **Step 3:** This opens up the list of devices that are connected across the account. Select the Apple iPhone 15 Pro Max device and tap “Remove from Account” to conclude. Proceed to confirmation of the process and have the Apple iPhone 15 Pro Max device removed successfully from the iCloud account.
 
 ![remove the Apple iPhone 15 Pro Max device](https://images.wondershare.com/drfone/article/2020/11/remove-the-device.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3. How to remove a device from iCloud? (Mac)
 
@@ -322,6 +318,10 @@ Following this, you need to select the “Unlock Apple ID” option from the nex
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Operating your Device**
 
 As soon as the process initiates, you need to take up your device and open it up to “Trust” the computer for proceeding. Open the Settings of your Apple device and initiate a reboot.
@@ -335,7 +335,7 @@ Once the reboot executes, the platform automatically recognizes and initiates th
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -356,21 +356,22 @@ As you have recognized the importance of iCloud backup across your device, there
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-dash.techidaily.com/fixed-update-windows-11-version-2004-with-conexant-driver/"><u>[Fixed] Update Windows 11 Version 2004 With Conexant Driver</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-mixed-media-with-color/"><u>2024 Approved Mastering Mixed Media with Color</u></a></li>
-<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-11-pro-max-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By Apple iPhone 11 Pro Max without the Previous Owner?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-iphone-13-pro-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On iPhone 13 Pro? Heres the Best Fixes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gamers-guide-the-five-crucial-considerations-before-investing-in-a-new-console/"><u>Gamer's Guide: The Five Crucial Considerations Before Investing in a New Console</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-google-pixel-8-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Google Pixel 8 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-apple-iphone-6s-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your Apple iPhone 6s Apple ID and Apple Pay</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-xs-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On iPhone XS?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-14-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone 14 Pro Max without Password?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-iphone-11-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From iPhone 11 without Password?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/mastering-fb-story-sharing-a-four-step-guide/"><u>Mastering FB Story Sharing A Four-Step Guide</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-the-art-of-pitch-correction-implementing-autotune-effects-seamlessly-in-audacity-for-2024/"><u>New The Art of Pitch Correction Implementing Autotune Effects Seamlessly in Audacity for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-10-kids-friendly-drones-for-new-flyers/"><u>Top 10 Kids' Friendly Drones - For New Flyers</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/troubleshooting-poor-image-quality-from-your-scanner-expert-advice-by-yl-computing/"><u>Troubleshooting Poor Image Quality From Your Scanner - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-embarking-on-a-listening-odyssey-adding-podcasts-to-itunes-via-ios/"><u>[New] 2024 Approved Embarking on a Listening Odyssey Adding Podcasts to iTunes via iOS</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-top-15-asmr-channels-to-follow/"><u>[New] In 2024, Top 15 ASMR Channels to Follow</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-video-calls-google-meet-on-youtube-guide/"><u>[Updated] Transform Your Video Calls Google Meet on YouTube Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/airpods-isolated-cure-strategies-for-2024/"><u>Airpods Isolated? Cure Strategies for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-to-accelerate-your-pcs-boot-process-expert-advice-from-yl-computing/"><u>How to Accelerate Your PC's Boot Process: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-6s-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone 6s without Password?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-overcome-unfoldable-folders-in-win1110-on-double-clicks/"><u>How to Overcome Unfoldable Folders in Win11/10 on Double-Clicks</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-11-pro-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-iphone-8-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On iPhone 8? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-xs-max-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone XS Max Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-apple-iphone-13-pro-max-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your Apple iPhone 13 Pro Max Apple ID on MacBook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-se-2022-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone SE (2022) without Apple ID?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-x-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From Apple iPhone X</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-apple-iphone-7-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From Apple iPhone 7</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-t2-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo T2 5G Bootloader Easily</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-offer-score-an-essential-15-inch-asus-laptop-with-all-necessary-ports-on-sale-at-walmart-for-just-250-insider-info/"><u>Limited Offer! Score an Essential 15-Inch Asus Laptop with All Necessary Ports on Sale at Walmart for Just $250 Insider Info</u></a></li>
+<li><a href="https://discover-able.techidaily.com/verify-active-status-checking-if-your-windows-defender-is-currently-running/"><u>Verify Active Status: Checking If Your Windows Defender Is Currently Running</u></a></li>
 </ul></div>
 
