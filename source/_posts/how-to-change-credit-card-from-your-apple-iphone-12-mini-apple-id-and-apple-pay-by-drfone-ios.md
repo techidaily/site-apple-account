@@ -1,7 +1,7 @@
 ---
 title: How to Change Credit Card from Your Apple iPhone 12 mini Apple ID and Apple Pay
-date: 2024-07-14T13:28:55.887Z
-updated: 2024-07-15T13:28:55.887Z
+date: 2024-12-16T21:24:48.851Z
+updated: 2024-12-19T09:55:34.983Z
 tags: 
   - unlock
   - remove apple account
@@ -38,9 +38,6 @@ The first method involves updating your payment information directly from your A
 
 - **Step 3:** To remove the old payment method, tap "Edit." Now, locate the old payment method you want to delete and tap the “Red Delete” button next to it. Confirm the deletion by tapping "Delete."
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove the apple id card](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-3.jpg)
 
 ### Way 2: Change Credit Card on Mac
@@ -54,6 +51,10 @@ Now, we shift our focus to those who prefer managing their payment information o
 - **Step 2:** Locate the "Apple ID Summary" section in the "Account Settings" menu and select the "Manage Payments" option next to it. After this, introduce a fresh payment method by opting for the "Add Payment" option.
 
 ![press the add payment button](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** This action will prompt you to input the details of your new payment method, including credit card information. After you've provided the required information, select "Done" to save your newly added payment method.
 
@@ -77,18 +78,17 @@ To update the credit card information linked to your Apple ID, we'll now provide
 
 - **Step 3:** After clicking on this option, you can enter details of your new payment method. Once the details are entered successfully, click "Done" to save the changes, and you are good to go. Tap the "Edit" option in front of the old credit card and choose "Remove Payment Method" to remove it from your Apple ID.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click on remove payment method](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Pro Tip: Locked Out Your Apple ID? Get It Unlocked Instantly
 
 While learning **how to change a credit card on your Apple Account**, you encounter an unexpected hurdle - your Apple ID has become locked. This can undoubtedly be a frustrating and troublesome scenario, considering the crucial role your Apple ID plays within the Apple ecosystem. Nevertheless, there's no cause for alarm, as we've got a solution ready to promptly unlock your Apple ID and have you back on course.
 
 The solution is [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/), a tool that is able to [<u> remove Apple ID from your iOS devices without needing the password</u>](https://drfone.wondershare.com/unlock/how-to-get-someones-apple-id-off-iphone-without-password.html). It is a comprehensive tool that has the ability to remove your Apple ID from your device permanently. This tool works its magic in removing Apple ID, whereas other tools fail when the Find My feature is enabled.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -117,7 +117,6 @@ To initiate the Apple ID unlocking process, you will need to install and launch 
 
 ![access the screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - Step 2: Proceed to Activate Recovery Mode
 
 Now is the time to connect your iOS device to the computer using a respective cable and click "Unlock Now." Now, Wondershare Dr.Fone will ask you about having a screen lock and 2FA on the iOS device. The answer needs to be affirmative to proceed further. When done with it, enable [<u>Recovery Mode</u>](https://drfone.wondershare.com/recovery-mode/iphone-stuck-in-recovery-mode.html) on your iOS device with the help of on-screen instructions.
@@ -129,6 +128,10 @@ Now is the time to connect your iOS device to the computer using a respective ca
 Wondershare Dr.Fone will detect your device model once it is in Recovery Mode. Choose a system version to download by clicking “Start.” Once it has been downloaded and verified, tap "Unlock Now." It will lead to a prompt warning about data loss. Here, enter "000000" to confirm your choice and click "Unlock." Dr.Fone will go on to remove Apple ID from your device.
 
 ![add the confirmation code](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: 3 Methods To Change the Default Credit Card on Apple Pay
 
@@ -165,6 +168,10 @@ The last stop on our journey to manage your default credit card on Apple Pay is 
 **Instructions:** Access and launch the Apple Watch app on your Apple iPhone 12 mini and navigate the "My Watch" tab. There, tap on "Wallet & Apple Pay" within My Watch tab and scroll down in it to find the section labeled "Transaction Defaults." In this section, you'll find the "Default Card" option. Simply tap on it to select the card you wish to set as the default.
 
 ![tap on the default card](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-17.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -228,8 +235,6 @@ If you just forget the password and cannot remember it, you can follow the steps
 Note that if you are changing your Apple ID password on an iPhone or iPad, you will need to enter your device's six-digit passcode, then reset a new password.
 
 Forgetting the password is particularly troublesome, but there is good news. That is, you can use [Password Manager](https://drfone.wondershare.com/iphone-password-manager.html) to find your passwords on your Apple iPhone 12 mini/iPad without spending too much time remembering them!
-
-
 
 ### Dr.Fone - Password Manager (iOS)
 
@@ -295,13 +300,15 @@ No. The error message “Your account has been disabled in the App Store and iTu
 
 After you see these errors, you will not be able to access some of the features and apps that require your Apple ID for access.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5. How to fix Apple ID disabled by removing Apple ID?
 
 Sometimes the only way to [fix “Apple ID Disabled”](https://drfone.wondershare.com/apple-account/how-to-unlock-apple-id-disabled-activation-lock.html) is to remove the Apple ID from the Apple iPhone 12 mini device. This may become a viable solution if you lost or forgot the Apple ID password or ID and you have no way to recover them. It is also one of the best solutions when you purchased a second-hand device, and you don’t know the Apple ID password for the account associated with the Apple iPhone 12 mini device.
 
 One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This third-party unlocking software is designed to easily and effectively remove the Apple ID password from any device. The following are some things it can do;
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -310,11 +317,12 @@ Remove iCloud Account without Password in Minutes
 - Remove Apple ID/iCloud Account efficiently.
 - Save your Apple iPhone 12 mini quickly from the disabled state.
 - Free your sim out of any carrier worldwide.
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - Bypass iCloud activation lock and enjoy all iCloud services.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Works for all models of iPhone, iPad, and iPod touch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,008,669** people have downloaded it
 
@@ -347,6 +355,10 @@ You should then be able to sign in to another Apple ID or create a new Apple ID 
 ## Conclusion
 
 In conclusion, encountering a disabled Apple account in the App Store and iTunes can be a frustrating experience. However, by understanding the reasons behind it, following the recommended steps to resolve the issue, and considering the broader impact on your digital life, you can navigate this situation effectively. Remember, prompt action and patience are key to restoring your account and getting back to enjoying the Apple ecosystem hassle-free.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Delete iCloud Account: Remove Your Apple ID Permanently On Apple iPhone 12 mini
 
@@ -397,9 +409,6 @@ Before deleting your iCloud account, ensure you sign out of your account on all 
 - Constant Sign-in errors
 - Web browsers retain your Apple ID information
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Remove iCloud Account Without Deleting: Maintaining Your Apple ID
 
 Removing an iCloud account from your device doesn't necessarily mean deleting the account itself. It simply means signing out of your iCloud account on that device. Your iCloud data remains intact and accessible from other devices.
@@ -443,6 +452,10 @@ If you are sure of your decision and have prepared for the consequences, here's 
 
 ![apple data and privacy website interface](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** From **Delete your account** section, click **Request to delete your account**.
 
 ![request to delete your account](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-08.jpg)
@@ -477,14 +490,10 @@ Here's a step-by-step guide on how to use Dr.Fone to [<u>remove an iCloud accoun
 
 - **Step 1:** Download and install Dr.Fone on your desktop.
 
-
 - **Step 2:** Launch the software and go to **My Device**. Follow the in-app instructions to connect your Apple iPhone 12 mini to your computer using a USB cable.
 
 I**mage name: how-to-delete-icloud-account-13.png**
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connect device via usb cable](https://images.wondershare.com/drfone/guide/connect-my-device-1.png)
 
 - **Step 3:** Go to Toolbox from the left navigation pane and select **Screen Unlock** > **iOS**.
@@ -531,6 +540,10 @@ If you continue to "**remove iCloud account**", this will erase all data from yo
 
 ![warning dialogue box](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 13:** Dr.Fone will then begin removing the iCloud account. Do not disconnect or use your device while the process is ongoing to avoid device issues.
 
 ![unlocking apple id status bar](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
@@ -538,6 +551,10 @@ If you continue to "**remove iCloud account**", this will erase all data from yo
 - **Step 14:** To finalize the Apple ID removal process, please check your device and click **Done** once you've verified it.
 
 ![apple id completely removed](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: How To Remove an iCloud Account Without Deleting an Apple ID Account?
 
@@ -573,9 +590,6 @@ As you've learned, deleting an iCloud account is a permanent decision you cannot
 
 Apps like Dr.Fone provide a comprehensive solution for backing up your data and removing an iCloud account without a password. Its user-friendly interface and streamlined processes make it an ideal choice for those seeking a quick and hassle-free experience. Whether you're looking for an answer on "**how to delete iCloud account**" or "**remove iCloud account**," Dr.Fone is the ultimate tool to guide you through the process.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -588,9 +602,17 @@ Apps like Dr.Fone provide a comprehensive solution for backing up your data and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-breaking-down-lgs-360-camera-updates-and-features/"><u>[New] In 2024, Breaking Down LG's 360 Camera Updates & Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-paying-creator-status-on-youtube/"><u>[Updated] 2024 Approved High-Paying Creator Status on YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-warzone-stability-issues-on-pc-fixed-tips-and-tricks/"><u>Call of Duty Warzone Stability Issues on PC Fixed - Tips & Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-ai-chatbot-guide-you-through-survival-scenarios/"><u>Can AI Chatbot Guide You Through Survival Scenarios?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-iphone-7-plus-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your iPhone 7 Plus From Your Apple ID</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-apple-iphone-se-2020-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On Apple iPhone SE (2020)? Find the Best Solution Here</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/successful-fixes-overcoming-oddworld-soulstorms-pc-crash-issues/"><u>Successful Fixes: Overcoming Oddworld: Soulstorm's PC Crash Issues</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-se-2022-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On iPhone SE (2022)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-expect-at-the-anticipated-samsung-unpacked-event-of-2025-news-breakdown-speculations-and-key-announcements/"><u>What to Expect at the Anticipated Samsung Unpacked Event of 2025 - News Breakdown, Speculations, and Key Announcements</u></a></li>
+</ul></div>
 

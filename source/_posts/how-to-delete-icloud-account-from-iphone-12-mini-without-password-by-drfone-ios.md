@@ -1,7 +1,7 @@
 ---
 title: How to Delete iCloud Account From iPhone 12 mini without Password?
-date: 2024-07-14T13:30:01.096Z
-updated: 2024-07-15T13:30:01.096Z
+date: 2024-12-17T18:59:39.238Z
+updated: 2024-12-18T22:46:24.089Z
 tags: 
   - unlock
   - remove apple account
@@ -58,23 +58,15 @@ Another convenient way to delete the iCloud account is to use iTunes on your App
 
 **Step 2:** Now, go back to the “Settings” window and click “iTunes & App Store”.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![itunes and app store](https://images.wondershare.com/drfone/article/2020/05/itunes-and-app-store.jpg)
 
 **Step 3:** Tap on your “Account” at the top. A pop-up will appear on your screen. Here, click “Sign Out” and the iCloud account will be removed from your iDevice.
 
 ![apple id itunes](https://images.wondershare.com/drfone/article/2020/05/apple-id-itunes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.3 Create a new password
 
@@ -124,9 +116,6 @@ Install Dr.Fone Screen Unlock on your PC and double-tap its icon to launch the s
 
 Now, in the main interface of Dr. Fone Screen Unlock, select “Screen Unlock”.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 3: Choose the Option**
@@ -139,18 +128,6 @@ In the next window, you’ll see three different options. Select “Remove Apple
 
 Now, to successfully establish the connection between the two devices, enter the passcode on your iDevice and tap the “Trust” button to confirm the connection.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![trust computer](https://images.wondershare.com/drfone/drfone/trust-computer.jpg)
 
 **Step 5: Reset Your Apple iPhone 12 mini**
@@ -174,7 +151,6 @@ As soon as your Apple ID gets unlocked, a confirmation message will pop up on yo
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
 It doesn’t matter if you’re using Windows or Mac, Dr.Fone – Screen Unlock for iOS will make it extremely easy to delete the iCloud account without the password. So, if you are looking for a reliable and convenient way to remove an iCloud account, make sure to use Dr.Fone – Screen Unlock.
-
 
 ## Conclusion
 
@@ -227,6 +203,10 @@ Follow these steps below to use your macOS to remove the connected devices from 
 
 ![remove device from account on mac](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How To Unlink Apple ID From iOS Devices Without a Password?
 
 In the previous section, we've explored the standard method to remove an Apple ID from an iPhone, which requires the Apple ID password. However, what if you've forgotten your Apple iPhone 12 mini's passcode or don't have the Apple ID password? In such situations, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Screen Unlock can help you unpair your Apple ID on iOS devices without hassle. Even without an Apple ID password, Dr.Fone can help you:
@@ -239,21 +219,25 @@ The tool guides you through the process, ensuring a seamless experience with a u
 
 - **Step 1:** Download, set up, then launch Dr.Fone on your desktop. Use a USB cable to establish a connection between your Apple iPhone 12 mini and desktop.
 
-
 - **Step 2:** From the **Toolbox** homepage, select **Screen Unlock** and choose **iOS**.
 
 ![dr.fone toolbox homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Select **Remove AppleID** to unpair the existing Apple ID from your Apple iPhone 12 mini without an Apple ID password.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone screen unlock tools](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
 - **Step 4:** Click **Unlock Now** to continue.
 
 ![dr.fone unlock connected device](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Click **Yes** to confirm you have a screen lock on your Apple iPhone 12 mini.
 
@@ -262,6 +246,10 @@ The tool guides you through the process, ensuring a seamless experience with a u
 - **Step 6:** Click **Yes** to confirm you have enabled the [<u>two-factor authentication</u>](https://drfone.wondershare.com/remove-apple-account/remove-apple-two-factor-authentication.html) on your Apple iPhone 12 mini.
 
 ![confirm 2fa set up on iphone](https://images.wondershare.com/drfone/guide/remove-apple-id-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 7:** Follow the steps on the screen to put your Apple iPhone 12 mini into Recovery Mode. If you are having trouble, click **DFU Mode** in the bottom left corner.
 
@@ -291,7 +279,6 @@ The tool guides you through the process, ensuring a seamless experience with a u
 
 ![apple id unlocked on iphone](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
-
 ## Part 3: How To Unlink iPhone From Apple ID if the Apple iPhone 12 mini device Was Lost?
 
 You already know the methods to **unlink iPhone from Apple ID**, both with and without a password, assuming the Apple iPhone 12 mini device is accessible. However, what if your Apple iPhone 12 mini or Apple Watch is lost, stolen, or you already gave away? Fortunately, there's still a way to unpair your Apple ID from your iOS device.
@@ -317,6 +304,10 @@ Here is how to unpair your Apple ID on a device you sold or gave away via the Fi
 - **Step 1:** Open the **Find My** app and go to the **Devices** tab at the lower navigation pane. Next, select the name of your Apple iPhone 12 mini you want to unpair.
 
 ![connected devices on find my app](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-25.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Tap **Erase This Device**, then tap **Continue**.
 
@@ -350,9 +341,6 @@ Follow the unpairing process on the paired Apple iPhone 12 mini to remove the Ac
 
 - **Step 5:** Tap **Unpair Apple Watch**, then tap **Unpair Apple Watch**.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unpair apple watch interface](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-08.jpg)
 
 - **Step 6:** If you have a cellular Apple Watch, tap **Remove Cellular Plan**, and remember to reach your carrier to cancel your subscription.
@@ -373,11 +361,19 @@ You can erase your Apple Watch without the paired iPhone, but the Activation Loc
 
 - **Step 3:** Tap **Erase All** to restore your Apple Watch to its factory settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 There are several ways to unlink your Apple ID from your Apple iPhone 12 mini or iPad. The best way to do it depends on your situation and available iOS device. Whichever your reason is, understanding **how to unlink Apple ID from iPhone** and other iOS devices is crucial.
 
 If you unfortunately encounter any challenges during the process, you can seek assistance from Apple Support. Consider using Dr.Fone for a quick and easy solution, which can unlink your Apple iPhone 12 mini from your Apple ID within minutes, even without an Apple ID password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Remove Apple ID from Apple iPhone 12 mini without Password?
 
@@ -390,6 +386,10 @@ However, there might come a scenario when the iPhone’s rightful owner wouldn�
 Still, it is possible to remove the Apple ID from the Apple iPhone 12 mini without the password. There’s no need to worry, though, as we have assembled a guide to get your Apple iPhone 12 mini unlocked in no time. Three methods are offered here on how to remove Apple ID from the Apple iPhone 12 mini without the password.
 
 ![remove apple id from iphone 1](https://images.wondershare.com/drfone/article/2020/11/remove-apple-id-from-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Remove Apple ID from iPhone without Password using Dr.Fone
 
@@ -420,6 +420,10 @@ The interface will present another set of options before you. You need to access
 Dr.Fone will not be able to detect your device just yet. You need to tap the “Trust this Computer” option on your phone, and then Dr.Fone will begin to access your device. It would help if you kept in mind that proceeding with this process will wipe all your Apple iPhone 12 mini data.
 
 ![trust computer](https://images.wondershare.com/drfone/drfone/trust-computer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Reset all your Apple iPhone 12 mini Settings**
 
@@ -477,9 +481,6 @@ So here, we have listed the method for every Apple iPhone 12 mini to provide con
 
 Now you know how to remove the Apple ID from your old or new iPhone without having to enter the password. Each method is reliable and works well if you follow the steps mentioned above, one by one. If you wish to pick a winner, then there is no better option than Dr.Fone. The platform keeps the phone and its content safe during the process. Additionally, there are a ton of other features that you can utilize at the same time.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -492,9 +493,21 @@ Now you know how to remove the Apple ID from your old or new iPhone without havi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-acclaimed-ideas-top-tone-creators-for-apple-phones/"><u>[New] Acclaimed Ideas Top Tone Creators for Apple Phones</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-crafting-youtube-video-trailers-with-filmoras-guide/"><u>[Updated] In 2024, Crafting YouTube Video Trailers with Filmora's Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-detailed-guide-to-whatsapps-audio-chat-features/"><u>[Updated] In 2024, Detailed Guide to WhatsApp's Audio Chat Features</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-scrutinizing-vsdc-writings-on-its-features-and-rival-software-for-2024/"><u>[Updated] Scrutinizing VSDC’ Writings on Its Features and Rival Software for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-securing-financial-stability-through-beauty-content/"><u>2024 Approved Securing Financial Stability Through Beauty Content</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-samsung-galaxy-a25-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/circumventing-no-alert-settings-for-windows-11-cameras/"><u>Circumventing No-Alert Settings for Windows 11 Cameras</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-apple-iphone-13-mini-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your Apple iPhone 13 mini Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-se-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone SE</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-10c-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark 10C in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-apple-iphone-12-pro-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-apple-iphone-12-pro-max-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From Apple iPhone 12 Pro Max? Find the Best Solution Here</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/0-video-editing-secrets-to-skyrocket-your-channels/"><u>Top 10 Video Editing Secrets to Skyrocket Your Channels</u></a></li>
+</ul></div>
 

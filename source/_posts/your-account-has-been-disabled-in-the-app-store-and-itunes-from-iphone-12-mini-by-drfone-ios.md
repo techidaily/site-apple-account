@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes From iPhone 12 mini?
-date: 2024-07-14T13:30:23.773Z
-updated: 2024-07-15T13:30:23.773Z
+date: 2024-12-13T00:32:09.664Z
+updated: 2024-12-19T08:24:01.789Z
 tags: 
   - unlock
   - remove apple account
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0
 You may see the error message, “**Your account has been disabled in the App Store and iTunes**” when you try to log in. This is often an indication that for some reason your Apple ID is not working as it should. When you consider that you will not be able to download or update apps or even make a purchase using Apple Pay without your Apple ID, it is easy to see why this error message can be a problem.
 
 Why is my account disabled in the App store? Here, we take a look at the reasons why you may see the error messages and what you can do to fix them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Why has my account been disabled in the App Store and iTunes?
 
@@ -47,10 +51,11 @@ If you just forget the password and cannot remember it, you can follow the steps
 - **Step 1:** Open Settings.
 - **Step 2:** Tap \[your name\] on top of the screen> Password & Security > Change Password.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset password](https://images.wondershare.com/drfone/article/2022/04/settings-apple-id-password-security-change-password.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Enter the passcode for your device.
 - **Step 4:** Follow the onscreen steps to reset your password.
@@ -74,7 +79,9 @@ Note that if you are changing your Apple ID password on an iPhone or iPad, you w
 
 Forgetting the password is particularly troublesome, but there is good news. That is, you can use [Password Manager](https://drfone.wondershare.com/iphone-password-manager.html) to find your passwords on your Apple iPhone 12 mini/iPad without spending too much time remembering them!
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Password Manager (iOS)
 
@@ -140,13 +147,15 @@ No. The error message “Your account has been disabled in the App Store and iTu
 
 After you see these errors, you will not be able to access some of the features and apps that require your Apple ID for access.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5. How to fix Apple ID disabled by removing Apple ID?
 
 Sometimes the only way to [fix “Apple ID Disabled”](https://drfone.wondershare.com/apple-account/how-to-unlock-apple-id-disabled-activation-lock.html) is to remove the Apple ID from the Apple iPhone 12 mini device. This may become a viable solution if you lost or forgot the Apple ID password or ID and you have no way to recover them. It is also one of the best solutions when you purchased a second-hand device, and you don’t know the Apple ID password for the account associated with the Apple iPhone 12 mini device.
 
 One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This third-party unlocking software is designed to easily and effectively remove the Apple ID password from any device. The following are some things it can do;
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -157,6 +166,10 @@ Remove iCloud Account without Password in Minutes
 - Free your sim out of any carrier worldwide.
 - Bypass iCloud activation lock and enjoy all iCloud services.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Works for all models of iPhone, iPad, and iPod touch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,008,669** people have downloaded it
 
@@ -178,6 +191,10 @@ Connect the iOS device to the computer using its lightning cable. Then enter the
 
 ![trust computer](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4: Apple ID Removal will Begin**
 
 Dr.Fone will immediately begin removing the Apple ID from the Apple iPhone 12 mini device. You should see a progress bar indicating how long the process will take. Ordinarily, the removal should take just a few seconds. When the process is complete, you will see a notification on the screen letting you know that the Apple ID has been removed.
@@ -186,9 +203,6 @@ Dr.Fone will immediately begin removing the Apple ID from the Apple iPhone 12 mi
 
 You should then be able to sign in to another Apple ID or create a new Apple ID and password to use on the Apple iPhone 12 mini device.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 In conclusion, encountering a disabled Apple account in the App Store and iTunes can be a frustrating experience. However, by understanding the reasons behind it, following the recommended steps to resolve the issue, and considering the broader impact on your digital life, you can navigate this situation effectively. Remember, prompt action and patience are key to restoring your account and getting back to enjoying the Apple ecosystem hassle-free.
@@ -253,6 +267,10 @@ The recovery key is a good option to unlock Apple ID without phone number. But y
 
 ![unlock apple id without phone number](https://images.wondershare.com/drfone/article/2021/04/unlock-apple-id-without-phone-number-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Enter your Apple ID and tap on “Continue”.
 
 ![unlock apple id without phone number](https://images.wondershare.com/drfone/article/2021/04/unlock-apple-id-without-phone-number-2.jpg)
@@ -272,6 +290,10 @@ Let’s know how to unlock Apple ID without a trusted phone number using iforgot
 **Step 1:** Click on the [https://iforgot.apple.com/](https://iforgot.apple.com/) and enter your Apple ID to begin the process.
 
 ![unlock apple id without phone number](https://images.wondershare.com/drfone/article/2021/04/unlock-apple-id-without-phone-number-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Enter the registered phone number and tap on continue.
 
@@ -299,16 +321,10 @@ You need to follow few steps to change your Apple ID password.
 
 **Step 3:** Select the “Password and Security” option.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![unlock apple id without phone number](https://images.wondershare.com/drfone/article/2021/04/unlock-apple-id-without-phone-number-7.jpg)
 
 **Step 4:** Opt for “Change Password” shown on the phone screen.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock apple id without phone number](https://images.wondershare.com/drfone/article/2021/04/unlock-apple-id-without-phone-number-8.jpg)
 
 **Step 5:** Enter your phone’s passcode.
@@ -321,8 +337,6 @@ You need to follow few steps to change your Apple ID password.
 
 **Step 7:** Hurray! You have changed your password. Now, you can log in to your Apple ID with this new password.
 
-
-
 ## The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 12 mini
 
 Apple has a great ecosystem of devices and services that can be controlled using a single key, your Apple ID. It can be used to login into every Apple service, from Apple Music to FaceTime. However, there are many reasons which can force you to remove your Apple ID from devices like MacBook, iPhone, etc. That makes it important for you to learn **how to remove Apple ID from your MacBook** safely.
@@ -330,6 +344,10 @@ Apple has a great ecosystem of devices and services that can be controlled using
 Suppose you need to **remove your Apple ID from your Mac** but don't know to do this, then this article is for you. You will also learn to remove Apple ID from iOS devices without a password.
 
 ![remove apple id from mac](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-apple-id-from-your-mac-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why Delete Apple ID and iCloud Account?
 
@@ -358,6 +376,10 @@ The process of removing Apple ID from a Mac is easy and quick. Before removing t
 
 ![select the data to copy](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-apple-id-from-your-mac-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** On the next window, it will ask you to provide your Apple ID password. Provide the password to complete the process of removing your Apple ID from your Mac.
 
 ![add the apple id password](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-apple-id-from-your-mac-4.jpg)
@@ -375,7 +397,6 @@ With Dr.Fone - Screen Unlock (iOS), you can remove the Apple ID from your Apple 
 - If you have forgotten the username or password of your Apple iPhone 12 mini MDM, this tool allows you to bypass or remove MDM to access the Apple iPhone 12 mini device.
 - It can also unlock SM Lock or Carrier Lock on your Apple iPhone 12 mini. That allows you to use your Apple iPhone 12 mini freely if you want to travel internationally.
 
-
 ### Steps to use Dr.Fone - Screen Unlock (iOS) for Removing Apple ID
 
 Dr.Fone - Screen Unlock (iOS) has a straightforward interface and provides clear instructions for removing Apple ID from your Apple iPhone 12 mini. Your Apple iPhone 12 mini will be reset during the process, and you will lose the data. It is advised you create a backup before starting the procedure. To start the process of removing Apple ID from your Apple iPhone 12 mini, follow the steps given below:
@@ -390,9 +411,6 @@ Use a USB cable to connect your Apple iPhone 12 mini to your computer and launch
 
 You are required to put your Apple iPhone 12 mini into Recovery Mode before you can remove the Apple ID. Follow the on-screen instructions to the letter to put your Apple iPhone 12 mini into Recovery Mode. Once the Apple iPhone 12 mini has entered the recovery mode, it will reset and restart. After restarting, the process of removal of the Apple ID will begin.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable the recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
 **Step 3: Remove Your Apple ID from the iPhone**
@@ -401,14 +419,11 @@ Wait for the program to complete the process of removing your Apple ID from your
 
 ![check the apple id status](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
-
 ### Conclusion
 
 The answer to **how to remove Apple ID from MacBook** is a straightforward process that can be completed in just a few steps. By following the instructions outlined in this article, you can easily sign out of your account and remove it from your Mac.
 
 Removing the Apple ID with forgotten credentials is complex, but [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) has also made it easier. It is an excellent and must-have toolbox to deal with all password-related iPhone problems.
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -422,9 +437,18 @@ Removing the Apple ID with forgotten credentials is complex, but [Dr.Fone - Scre
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-pair-monitor-logging-process/"><u>[Updated] 2024 Approved Pair Monitor Logging Process</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-secrets-unveiled-seamlessly-download-your-favorite-vimeo-videos-anywhere/"><u>[Updated] Secrets Unveiled Seamlessly Download Your Favorite Vimeo Videos Anywhere</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-naming-excellence-the-top-10-ai-powered-title-makers/"><u>2024 Approved Naming Excellence The Top 10 AI-Powered Title Makers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-step-by-step-guide-to-downloading-the-epson-xp-430-drivers-for-your-windows-computer/"><u>Easy Step-by-Step Guide to Downloading the Epson XP-430 Drivers for Your Windows Computer</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-8-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 8 without Password?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Simulate GPS Movement in AR games On Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-apple-iphone-6-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From Apple iPhone 6</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-se-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone SE</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-iphone-15-pro-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On iPhone 15 Pro? 5 Tips You Must Know</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/inspiring-video-concepts-for-impactful-presentations-for-2024/"><u>Inspiring Video Concepts for Impactful Presentations for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-list-top-frame-addition-services-for-images-for-2024/"><u>Updated List Top Frame Addition Services for Images for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: iCloud Separation How To Disconnect Apple iPhone 12 mini and iPad
-date: 2024-07-14T13:27:46.431Z
-updated: 2024-07-15T13:27:46.431Z
+date: 2024-12-15T08:55:54.279Z
+updated: 2024-12-19T12:38:46.765Z
 tags: 
   - unlock
   - remove apple account
@@ -89,10 +89,15 @@ You can use the Find My app to remove an iCloud account from a specific device. 
 - **Step 1**: Open the **Find My**app on your device. Next, tap the **Devices**tab at the bottom.
 - **Step 2:** Select the Apple iPhone 12 mini device you want to disconnect. Afterwards, tap **Remove This Device**. Once you confirm your choice, it will disconnect the Apple iPhone 12 mini device from an iCloud account.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![removing device on find my app](https://images.wondershare.com/drfone/article/2023/11/how-to-disconnect-to-icloud-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Contact Apple Support
 
@@ -112,7 +117,6 @@ Dr.Fone is a flexible alternative tool that can remove iCloud from your Apple iP
 
 ![dr.fone main program interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - **Step 2:** On the next window, select iCloud Activation Lock Removal to initiate the process. Next, connect your Apple iPhone 12 mini/iPad to the computer with a USB cable. Wait for Dr.Fone to recognize your device, and it will lead to the next screen.
 
 ![dr.fone icloud activation lock tool](https://images.wondershare.com/drfone/guide/bypass-activation-lock-1.png)
@@ -124,6 +128,10 @@ Dr.Fone is a flexible alternative tool that can remove iCloud from your Apple iP
 Once the process is completed, you should see the completion message below. Select Done to finish the removal of the iCloud Activation Lock on your Apple iPhone 12 mini or iPad. A successful process will automatically remove the iCloud on your device.
 
 ![icloud successfully removed using dr.fone](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. How Dr.Fone Can Benefit You in Other Aspect
 
@@ -154,8 +162,6 @@ Dr.Fone provides robust backup solutions. The platform allows you to create back
 Managing your iCloud is essential for maintaining privacy and control over your Apple devices. The various methods on **how to disconnect your Apple iPhone 12 mini from iCloud**cater to different scenarios. Whether you disconnect using device settings or the flexibility of third-party tools like Dr.Fone, the choice is yours.
 
 With these options at your disposal, you can tailor your data to meet your specific needs. Always remember that having a handy third-party tool like Dr.Fone can put your data worries at ease. It ensures you have another method of **how to disconnect from iCloud**for any iCloud-related concerns.
-
-
 
 ## How To Delete iCloud Account: Remove Your Apple ID Permanently On Apple iPhone 12 mini
 
@@ -221,6 +227,10 @@ Here's "**how to remove iCloud account**" from your Apple iPhone 12 mini without
 
 ![sign out apple id on iphone](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Tap on **Sign Out** to verify.
 
 Remove iCloud Account on Mac Device
@@ -230,9 +240,6 @@ Follow these steps below to remove an iCloud account from your macOS Ventura or 
 - **Step 1:** Click on the Apple logo in the top left corner of your screen, then choose **System Settings**.
 - **Step 2:** Click on the **Apple ID** icon and click **Sign Out**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![sign out apple id on mac](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-06.jpg)
 
 - **Step 3:** Select the data files you want to save, then click **Keep a Copy**.
@@ -260,6 +267,10 @@ If you are sure of your decision and have prepared for the consequences, here's 
 
 ![select reason for request](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Review the information displayed, ensuring you want to proceed with deleting your iCloud account. Click **Continue**.
 - **Step 5:** Choose where Apple can send you updates regarding your deletion request. Click **Continue**.
 
@@ -267,9 +278,6 @@ If you are sure of your decision and have prepared for the consequences, here's 
 
 - **Step 6:** Follow the instructions provided to verify your identity. It may involve entering a code sent to your trusted device or answering security questions.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enter access code](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-11.jpg)
 
 - **Step 7:** Review the summary of your deletion request, ensuring all details are accurate. Next, click **Delete Account** to finalize the deletion process.
@@ -288,7 +296,6 @@ You're not alone if you've forgotten your Apple ID password or bought a used iPh
 Here's a step-by-step guide on how to use Dr.Fone to [<u>remove an iCloud account</u>](https://drfone.wondershare.com/icloud/how-to-remove-icloud-account.html) without a password:
 
 - **Step 1:** Download and install Dr.Fone on your desktop.
-
 
 - **Step 2:** Launch the software and go to **My Device**. Follow the in-app instructions to connect your Apple iPhone 12 mini to your computer using a USB cable.
 
@@ -315,6 +322,10 @@ If you continue to "**remove iCloud account**", this will erase all data from yo
 - **Step 6:** Click **Yes** if you have set up a screen lock.
 
 ![confirm screen lock set up](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 7:** Click **Yes** if you have already enabled [<u>Two-Factor Authentication</u>](https://drfone.wondershare.com/remove-apple-account/remove-apple-two-factor-authentication.html) on your Apple iPhone 12 mini.
 
@@ -360,6 +371,10 @@ Here's how to temporarily deactivate your Apple ID account:
 - **Step 2:** Scroll down to the **Temporarily deactivate your account** section and click **Request to deactivate your account**.
 
 ![request to deactivate your account](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-26.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Select a reason for deactivating your account from the drop-down menu, then click **Continue**.
 - **Step 4:** Review the information and follow the on-screen instructions to complete deactivation.
@@ -449,10 +464,11 @@ This simple solution can help restore full access to your Apple ID and associate
 - **Step 1:** From the Settings of your Apple iPhone 12 mini, access "Screen Time." On the following screen, scroll to the last option, "Turn Off Screen Time."
 - **Step 2:** Now tap "Turn Off Screen Time" and provide the screen time passcode for confirmation. Finally, confirm the action by selecting "Turn Off Screen Time" in the pop-up confirmation message.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off the screen time passcode](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 4: Restarting the iOS Device
 
@@ -463,9 +479,6 @@ Performing a simple restart on your iOS device can resolve various software-rela
 
 ![turn off your iphone](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 5: Checking Internet Connectivity Status on Device
 
 Ensuring a consistent and reliable internet connection is crucial for the optimal performance of your Apple ID. If you're utilizing Wi-Fi, be sure to connect to a dependable network to guarantee seamless functionality. When utilizing cellular data, [<u>verify your signal strength</u>](https://drfone.wondershare.com/device-diagnostics/check-mobile-signal-stength.html) and confirm the availability of an active data plan. A stable internet connection is of utmost importance for the effective operation of your Apple ID.
@@ -490,6 +503,10 @@ By contacting Apple's customer support, you can receive expert help. The support
 
 ![contact the apple support team](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Advanced Solution: Try Wondershare Dr.Fone Screen Unlock if the Previous Solutions Are Ineffective
 
 You have implemented all the methods mentioned above, and your **Apple ID greyed-out** issue is not resolved. It means you need a more efficient solution. [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is one of the most effective and solid solutions to fix the Apple ID greyed-out issue. Without resolving this problem, your Apple ID would be of no use; that is the main functional unit in your iOS devices.
@@ -497,8 +514,6 @@ You have implemented all the methods mentioned above, and your **Apple ID greyed
 Dr.Fone does this resolving procedure through its powerful Screen Time Passcode unlock feature. It is also a primary remedy to unlock the locked screen of your Apple devices. Moreover, this tool can [<u>bypass the iCloud activation lock</u>](https://drfone.wondershare.com/icloud/unlock-icloud-activation.html) and Apple ID without any password requirement. Through this Screen Unlock tool, you will be able to resolve your issue quickly and without any technical knowledge.
 
 ### Key Features of Wondershare Dr.Fone
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -525,7 +540,6 @@ You need to start the process by opening Wondershare Dr.Fone and moving towards 
 
 ![choose the screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - Step 2: Start the Unlocking Process and Connect Your iDevice
 
 You will find yourself in a list of options from where you need to continue with the "Unlock Screen Time Passcode" option. Next, connect your iOS device to the computer via a USB cable. Then, wait for Wondershare Dr.Fone to detect your Apple iPhone 12 mini.
@@ -538,12 +552,15 @@ After the connection, select the "Unlock Now" button to unlock your screen time 
 
 ![press the unlock now button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Final Words
 
 Throughout this article, we have explored the perplexing issue of the **Apple ID grayed out in settings**. It can hinder the smooth functioning of your iOS device and access to various Apple services. By going through the root causes behind this problem, we have outlined several solutions. These can help users address the issue and regain access to their Apple ID.
 
 We recommend that users diligently follow the steps provided in each solution. So that they can identify and rectify the specific cause of the problem. However, in cases where the issue persists, we highlighted the significance of using Wondershare Dr.Fone. It offers a specialized Screen Time Passcode Unlock feature. Moreover, this ensures the smooth operation of Apple ID and associated services.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -557,9 +574,23 @@ We recommend that users diligently follow the steps provided in each solution. S
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-speed-kings-and-queens-key-moments-from-the-short-track-games/"><u>[New] Speed Kings and Queens Key Moments From the Short Track Games</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-fb-video-download-top-5-tools-list-for-2024/"><u>[Updated] FB Video Download Top 5 Tools List for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-is-splitcam-the-premier-choice-for-video-capture/"><u>2024 Approved Is SplitCam the Premier Choice for Video Capture?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-virtual-reality-vr-bikes-to-check-out/"><u>2024 Approved Top Virtual Reality (VR) Bikes to Check Out</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-xs-max-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your iPhone XS Max</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/clear-video-ultimate-guide-to-good-cams-mics/"><u>Clear Video Ultimate Guide to Good Cams' Mics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploring-free-animation-methods-onlineoffline/"><u>Exploring Free Animation Methods Online/Offline</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-high-precision-with-hp-envy-27-monitor-for-2024/"><u>Exploring High Precision with HP Envy 27 Monitor for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-12-pro-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-apple-iphone-xs-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your Apple iPhone XS</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-iphone-13-pro-max-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On iPhone 13 Pro Max Making It Possible</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-motorola-moto-g14-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Motorola Moto G14</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-se-2020-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone SE (2020)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-x-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On iPhone X</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-iphone-13-pro-max-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From iPhone 13 Pro Max</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-doom-eternal-how-to-launch-when-it-wont-start/"><u>Unlocking DOOM Eternal: How to Launch When It Won't Start</u></a></li>
+</ul></div>
 

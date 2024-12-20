@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes On iPhone 12 mini?
-date: 2024-07-14T13:29:49.998Z
-updated: 2024-07-15T13:29:49.998Z
+date: 2024-12-14T13:00:34.322Z
+updated: 2024-12-19T05:42:03.536Z
 tags: 
   - unlock
   - remove apple account
@@ -30,6 +30,10 @@ The following are some reasons why you may see this error message popup on your 
 - Safety and security reasons like when Apple suspects your account may be hacked
 - When there are charging disputes on your credit card
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. How to fix “Your account has been disabled in App store and iTunes”?
 
 There are numerous methods to tackle this issue and regain access to your device. For a quick and concise understanding, you can watch our informative video tutorial. If you prefer a more in-depth, step-by-step explanation, continue reading this article for detailed instructions on each method.
@@ -49,6 +53,10 @@ If you just forget the password and cannot remember it, you can follow the steps
 
 ![reset password](https://images.wondershare.com/drfone/article/2022/04/settings-apple-id-password-security-change-password.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Enter the passcode for your device.
 - **Step 4:** Follow the onscreen steps to reset your password.
 
@@ -57,9 +65,6 @@ If you just forget the password and cannot remember it, you can follow the steps
 - **Step 1:** Go to [https://iforgot.apple.com/](https://iforgot.apple.com/password/verify/appleid).
 - **Step 2:** Put your Apple ID (email) in the box and click “Continue”.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id.jpg)
 
 - **Step 3** Enter the phone number that you use with your Apple ID.
@@ -74,7 +79,9 @@ Note that if you are changing your Apple ID password on an iPhone or iPad, you w
 
 Forgetting the password is particularly troublesome, but there is good news. That is, you can use [Password Manager](https://drfone.wondershare.com/iphone-password-manager.html) to find your passwords on your Apple iPhone 12 mini/iPad without spending too much time remembering them!
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Password Manager (iOS)
 
@@ -123,6 +130,10 @@ If you see a message that says, “Your account has been disabled in the App Sto
 
 ![disabled in the app store and itunes 2](https://images.wondershare.com/drfone/article/2023/05/getsupport-apple.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. What does it influence when “Your account has been disabled in the App Store and iTunes”?
 
 When you see the error message “Your account has been disabled in the App Store and iTunes” it often means the following:
@@ -146,8 +157,6 @@ Sometimes the only way to [fix “Apple ID Disabled”](https://drfone.wondersha
 
 One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This third-party unlocking software is designed to easily and effectively remove the Apple ID password from any device. The following are some things it can do;
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Remove iCloud Account without Password in Minutes
@@ -157,6 +166,10 @@ Remove iCloud Account without Password in Minutes
 - Free your sim out of any carrier worldwide.
 - Bypass iCloud activation lock and enjoy all iCloud services.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Works for all models of iPhone, iPad, and iPod touch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,008,669** people have downloaded it
 
@@ -252,9 +265,6 @@ The recovery key is a good option to unlock Apple ID without phone number. But y
 
 **Step 2:** Enter your Apple ID and tap on “Continue”.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock apple id without phone number](https://images.wondershare.com/drfone/article/2021/04/unlock-apple-id-without-phone-number-2.jpg)
 
 **Step 3:** You will be redirected to a new page where you need to select an option that lets you use the recovery key.
@@ -262,6 +272,10 @@ The recovery key is a good option to unlock Apple ID without phone number. But y
 **Step 4:** Insert your recovery key. Then create a new password. Follow the further on-screen instructions to accomplish the process.
 
 **Step 5:** Unlock Apple ID with a new password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **3\. How to unlock Apple ID using iforgot.apple.com \[Apple ID’s security questions needed\]**
 
@@ -295,9 +309,6 @@ You need to follow few steps to change your Apple ID password.
 
 **Step 2:** Tap on your name.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock apple id without phone number](https://images.wondershare.com/drfone/article/2021/04/unlock-apple-id-without-phone-number-6.jpg)
 
 **Step 3:** Select the “Password and Security” option.
@@ -307,6 +318,10 @@ You need to follow few steps to change your Apple ID password.
 **Step 4:** Opt for “Change Password” shown on the phone screen.
 
 ![unlock apple id without phone number](https://images.wondershare.com/drfone/article/2021/04/unlock-apple-id-without-phone-number-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5:** Enter your phone’s passcode.
 
@@ -334,9 +349,6 @@ The Apple Developer Account or Apple Developer ID is the gateway to the Apple ec
 
 It is also essential for companies and organizations to develop their software solutions. By obtaining an Apple Developer Account, you unlock many valuable resources. These include the essential SDKs, tools, and documentation. Moreover, it grants you entry into the Apple Developer Program. It is the premium tier of developer membership that offers exclusive benefits. Some benefits are [<u>beta software access</u>](https://drfone.wondershare.com/ios-upgrade/install-ios-17-developer-beta-official-version.html), advanced app capabilities, and the ability to distribute apps.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: What Items Are Included in Apple Developer Account
 
 If you are wondering what this membership encompasses, your Apple Developer account isn't just a card that grants you entry. It is a comprehensive toolkit you need to succeed in the Apple ecosystem. Following are some of the benefits you get after learning **how to get an Apple Developer Account**:
@@ -365,11 +377,19 @@ Apple understands that developers are at the core of its ecosystem's growth. Tha
 
 It also enables you to refine your expertise while staying updated with cutting-edge technologies. Furthermore, it allows you to connect with Apple's developer community. You can also seek assistance, share your knowledge, and collaborate with fellow developers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. App Distribution
 
 Having an Apple Developer account confers a significant benefit. It grants you the capability to distribute your applications to a worldwide audience. This opportunity allows you to debut your apps on the App Store and reach millions of Apple users in 175 regions.
 
 For testing and internal use, you can distribute apps privately to specific individuals. In addition, Ad Hoc distribution allows you to share apps with a limited number of devices. The most significant advantage of an Apple Developer account is that it doesn’t cost any hosting fee for distributing the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: What Are the Enrollment Requirements of Apple Developer Program
 
@@ -417,8 +437,6 @@ The key requirement to **create an Apple Developer Account** is having an Apple 
 
 Thus, in such situations, when the user finds no option to [<u>unlock their Apple ID without a passcode</u>](https://drfone.wondershare.com/unlock/how-to-get-someones-apple-id-off-iphone-without-password.html), we recommend you use [<u>Wondershare Dr.Fone - Screen Unlock (iOS)</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) to unlock your device easily. Furthermore, this tool enables you to remove all types of lock screens of various iOS devices, including iPhones, iPad, and iPods.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
@@ -444,17 +462,17 @@ Having an unlocked Apple ID is crucial before you learn **how to make an Apple D
 
 Begin the process by installing Wondershare Dr.Fone on your computer and accessing its main interface. After this, tap on the "Toolbox" from the left side toolbar and choose the "Screen Unlock" option. This will take you to a new window where you need to select "iOS" as your device's nature. From the new window, tap on the "Remove Apple ID" to proceed with the Apple ID unlocking process.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select remove apple id tool](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
-
 
 - Step 2: Proceed Further by Choosing the Respective Options
 
 Ensure that your iOS device whose lock you are trying to remove is connected to your computer and tap “Unlock Now.” Moving ahead, the platform will ask you whether screen lock and 2FA are enabled. This needs to be enabled for the Apple ID removal process. After this, put your device in Recovery Mode with the help of on-screen instructions.
 
 ![activate the recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Step 3: Select the iOS Firmware Version
 
@@ -474,9 +492,6 @@ In conclusion, we've guided you through a thorough exploration of the steps invo
 
 Additionally, for those who may encounter issues with their Apple ID due to forgotten passwords, we've introduced the Wondershare Dr.Fone tool. This efficient solution provides a seamless method for regaining access to your Apple ID without compromising your data. We highly recommend it for its user-friendliness and compatibility with all iOS devices.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -489,9 +504,26 @@ Additionally, for those who may encounter issues with their Apple ID due to forg
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-eliminating-fisheye-lens-distortions-with-gopro/"><u>[New] In 2024, Eliminating Fisheye Lens Distortions with GoPro</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-7-top-ranked-apps-for-horizontal-and-vertical-igtv-editing/"><u>[Updated] 2024 Approved 7 Top-Ranked Apps for Horizontal and Vertical IGTV Editing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-best-of-the-best-unlimited-recorders-top12/"><u>[Updated] In 2024, Best of the Best Unlimited Recorders, #Top12</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-key-tools-every-new-youtuber-needs/"><u>2024 Approved Key Tools Every New YouTuber Needs</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-14-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off Apple iPhone 14 without Password</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-12-mini-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 12 mini</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-a56s-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-tecno-pop-7-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Tecno Pop 7 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-13-pro-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-iphone-xs-by-drfone-ios/"><u>How to Fix when Apple Account Locked On iPhone XS?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-15-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By Apple iPhone 15 without the Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-apple-iphone-xr-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your Apple iPhone XR From Your Apple ID</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-stellar-stories-celebrating-youtubes-best-narratives/"><u>In 2024, Stellar Stories Celebrating YouTube's Best Narratives</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/tactics-for-trending-on-instagram-designing-dynamic-puzzles/"><u>Tactics for Trending on Instagram Designing Dynamic Puzzles</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-comparison-of-gif-creators/"><u>The Ultimate Comparison of GIF Creators</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-12-mini-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-iphone-11-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On iPhone 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-xs-max-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone XS Max? How to Fix</u></a></li>
+</ul></div>
 
