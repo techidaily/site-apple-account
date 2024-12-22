@@ -1,7 +1,7 @@
 ---
 title: "Successful Solution: Overcoming Sound Capture Hurdles in Discord for Games"
-date: 2024-12-17T18:18:44.151Z
-updated: 2024-12-19T05:43:30.206Z
+date: 2024-12-17T21:33:21.059Z
+updated: 2024-12-19T18:16:14.939Z
 tags:
   - win11
   - win10
@@ -26,7 +26,7 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * **Sound settings:** Another possible cause of Discord picking up game audio is that your microphone is not set as the default input device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix Discord audio issues?
@@ -34,6 +34,10 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * [1. Update audio drivers](https://tools.techidaily.com/drivereasy/download/)
 * [2. Change sound settings](https://tools.techidaily.com/drivereasy/download/)
 * [3. Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Update audio drivers
 
@@ -52,16 +56,12 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 
@@ -69,6 +69,10 @@ There’re mainly two ways for you to update an audio driver:
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Change sound settings
 
@@ -84,19 +88,11 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Open Discord application, and go to**User Settings** .
 
  5) Under**Voice Settings** , choose the correct**Input Device** and**Output Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
@@ -113,6 +109,10 @@ There’re mainly two ways for you to update an audio driver:
  3) Right-click Discord, and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once complete, you can download[**the latest Discord client**](https://discord.com/brand-new) and check if the issues persist in the new version.
 
@@ -137,17 +137,17 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-in-pursuit-of-perfection-does-picku-outshine-other-android-tools/"><u>[Updated] In Pursuit of Perfection Does PickU Outshine Other Android Tools?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/best-nature-friendly-video-capture-tools-explained/"><u>Best Nature-Friendly Video Capture Tools Explained</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-narzo-n55-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Realme Narzo N55 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-13-pro-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone 13 Pro</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-apple-iphone-7-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On Apple iPhone 7? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone 12 Pro Max</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-driving-simulator-wheel-on-pc-logitech-support-for-windows-versions-781/"><u>Install Driving Simulator Wheel on PC: Logitech Support for Windows Versions (7/8/1#)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/interrupting-real-time-recording-on-quicktime-for-2024/"><u>Interrupting Real-Time Recording on QuickTime for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leading-edge-imaging-the-most-excellent-4k-cams-for-2024/"><u>Leading Edge Imaging The Most Excellent 4K Cams for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-15-plus-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone 15 Plus</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/top-10-leading-image-repair-tools-to-revive-your-pictures-on-macpc/"><u>Top 10 Leading Image Repair Tools to Revive Your Pictures on Mac/PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-a-strategic-approach-to-increase-likes-on-your-tiktok-video-content/"><u>[New] In 2024, A Strategic Approach to Increase 'Likes' On Your TikTok Video Content</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-laugh-line-by-line-building-a-meme-friendly-video-portfolio/"><u>[New] In 2024, Laugh Line by Line Building a Meme-Friendly Video Portfolio</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-best-4-choices-unhackable-video-meetings-for-small-firms/"><u>[Updated] 2024 Approved Best 4 Choices Unhackable Video Meetings for Small Firms</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-maximize-gaming-essential-tips-and-picks-for-the-best-monitors-for-xbox-series-x/"><u>[Updated] Maximize Gaming - Essential Tips & Picks for the Best Monitors for Xbox Series X</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-synchronizing-soundscapes-a-guide-to-multi-service-moves/"><u>[Updated] Synchronizing Soundscapes A Guide to Multi-Service Moves</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-next-level-ai-companions-for-your-smartphone-beyond-chatgpt/"><u>8 Next-Level AI Companions for Your Smartphone Beyond ChatGPT</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-7-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your iPhone 7</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c12-plus-phone-without-password-by-drfone-android/"><u>How To Unlock Nokia C12 Plus Phone Without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-13-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone 13</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Pro When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-iphone-14-pro-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From iPhone 14 Pro? 5 Tips You Must Know</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-the-stunning-lg-oled-c9-65-smart-tv-the-optimal-choice-for-high-fidelity-home-cinema-experience/"><u>In-Depth Look at the Stunning LG OLED C9 65 Smart TV: The Optimal Choice for High-Fidelity Home Cinema Experience</u></a></li>
 </ul></div>
 

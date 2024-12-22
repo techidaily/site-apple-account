@@ -1,7 +1,7 @@
 ---
 title: How to Fix when Apple Account Locked From Apple iPhone 12?
-date: 2024-07-14T13:22:52.623Z
-updated: 2024-07-15T13:22:52.623Z
+date: 2024-12-13T01:27:13.224Z
+updated: 2024-12-19T17:14:41.597Z
 tags: 
   - unlock
   - remove apple account
@@ -27,6 +27,10 @@ Several Apple device users face this problem, and one of these messages might be
 Getting your Apple account locked can be frustrating and might hinder the performance of your phone. In this article, we will discuss the various tips to solve the Apple account locked issue.
 
 ![fix-when-apple-accunt-locked](https://images.wondershare.com/drfone/article/2020/11/apple-account-locked-0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Why is Apple Account Locked?
 
@@ -66,6 +70,10 @@ Dr.Fone will present you with detailed on-screen instructions that show precisel
 
 ![interface](https://images.wondershare.com/drfone/drfone/interface.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Unlock the Phone**
 
 When your Apple device has been reset, Dr.Fone will get to work and will give you your unlocked iPhone/iPad in a matter of seconds.
@@ -73,6 +81,10 @@ When your Apple device has been reset, Dr.Fone will get to work and will give yo
 When the process finishes, a pop-up message will notify you. It will point out that you can now unplug your Apple iPhone 12 from the PC and check if the operation was successful.
 
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 2. Use iTunes to Unlock Apple Account
 
@@ -114,6 +126,10 @@ Here are the steps to reset the password for any of your Apple devices, provided
 
 ![apple account locked 2](https://images.wondershare.com/drfone/article/2020/11/apple-account-locked-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. How to Change Apple ID on an iPhone?
 
 If you have purchased a refurbished iPhone and the previous owner’s Apple ID added to it, it is wise to change the Apple ID. You can add your own or add the ID of someone you know. Apple provides simple steps for you to change your account on iPhone.
@@ -129,6 +145,10 @@ If you have purchased a refurbished iPhone and the previous owner’s Apple ID a
 **Step 5.** That’s it!
 
 ![apple account locked 3](https://images.wondershare.com/drfone/article/2020/11/apple-account-locked-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -148,9 +168,6 @@ Apple ID is the cornerstone that simplifies the management of your Apple devices
 
 Changing your Apple ID allows you to customize your MacBook according to your preferences. You can sync your contacts, calendars, and settings. This ensures a personalized and consistent experience across all your Apple devices.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. App Store and iTunes Purchases
 
 You can access a distinct collection of applications, music, films, and books by creating or logging in with a different Apple ID. This proves especially beneficial when considering a change of region. It also helps when sharing your MacBook with family members, each of whom has their individual Apple ID.
@@ -158,6 +175,10 @@ You can access a distinct collection of applications, music, films, and books by
 ### 3\. iCloud Storage
 
 Your Apple ID is closely linked with iCloud, Apple's cloud storage service. Changing your Apple ID allows you to gain access to an alternative iCloud account with its dedicated storage capacity. This can be advantageous when you require additional storage or wish to keep your data separate from a previous account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Privacy and Security Settings
 
@@ -180,9 +201,6 @@ In summary, there are many advantages to updating your Apple ID on your MacBook.
 
 ![login with new apple id](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Other Ways To Change the Apple ID With Ease
 
 Changing your Apple ID on your MacBook through Settings is a straightforward process. There are scenarios where some adjustments may be necessary and some may not. For instance, in the case of purchasing a used MacBook, it's conceivable that the prior owner's Apple ID could still be linked to the Apple iPhone 12 device.
@@ -207,9 +225,6 @@ Another way to remove the Apple ID is by asking the previous owner to use the Fi
 
 - **Step 1:**Begin by opening the Find My app on the iPhone. There, select the MacBook from the Apple iPhone 12 devices section. On the following screen, scroll to the last option, "Erase This Device."
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on erase this device](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-5.jpg)
 
 - **Step 2:**Here, select "Continue" to confirm your choice, and follow on-screen instructions to erase the Apple iPhone 12 device. After this, provide your Apple ID password to complete the process, and when the Apple iPhone 12 device eraser is done, the Apple ID will be removed from your MacBook.
@@ -219,6 +234,10 @@ Another way to remove the Apple ID is by asking the previous owner to use the Fi
 ## Bonus Part: How To Fix Unable To Logout (Change) the Old Apple ID on Mac
 
 Although changing your Apple ID on your Mac is usually a swift procedure, there may be instances where you find it challenging. It's essential to resolve this matter promptly. The reason is that many essential procedures and services are directly linked to your Apple ID. Here are some common reasons why you might face difficulty logging out of the old Apple ID and their solutions:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Ongoing iCloud Backup
 
@@ -238,10 +257,11 @@ Occasionally, macOS may encounter bugs or glitches that prevent you from logging
 
 To resolve the bugs and glitches within the MacBook, the best option is to update macOS to its latest version. For that, access "System Settings" through Dock and move to the "General" tab. Here, select "[<u>Software Update</u>](https://drfone.wondershare.com/iphone-data-recovery/recover-lost-date-after-ios-17-update.html)" to verify if an update is available and if an update is available, use “Update Now” to update the macOS.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![press the update now button](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Apple Server Inactivity
 
@@ -265,7 +285,6 @@ Click "Toolbox" from the left sidebar after launching Wondershare Dr.Fone. From 
 
 ![click on remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
-
 - Step 2: Enable Recovery Mode on Your Device
 
 Tap “Unlock Now” and proceed to confirm that your device has setup screen lock and 2FA is enabled. These are necessary steps for the removal process of Apple ID. Next, put your device into Recovery Mode following the guidelines available on-screen.
@@ -284,9 +303,6 @@ In conclusion, this article has provided you with valuable insights into the pro
 
 The other included alternative approaches for scenarios like purchasing a second-hand MacBook. We also addressed the issue of forgetting your Apple ID password on iOS devices. For it, we used the specialized software Wondershare Dr.Fone to remove Apple ID without needing a password.
 
-
-
-
 ## How to Fix Locked Apple ID on Apple iPhone 12
 
 Part of why you own and use Apple devices is the reliability of the Apple iPhone 12 devices and the ease of using them. This starts with the quality of hardware and the synergy with the software that runs the hardware, and the user experience you get. Apple puts great emphasis on this, and rightly so, for this is one of the keys defining and differentiating factors for people to choose Apple's iOS over Google's Android. Like with all good things in life, sometimes, a spanner is put in the works that bring your smooth-sailing life to an abrupt halt. With smartphones playing pivotal roles in our lives today, from payments to internet experiences to getting work done to stay in touch with people, anything that stops us from using our smartphone or endangers that experience is a cause for worry. A locked Apple ID is one such thing. It does not happen frequently, in fact, most users will never experience a locked Apple ID, but for the ones who are fortunate enough to have such a rare experience in life, help is at hand. All you need to do is relax and read on. By the end of it, you will have an unlocked Apple ID and you can go back to cruising.
@@ -299,9 +315,6 @@ Activation Lock is when your supported Apple device is locked for a number of re
 
 A locked Apple ID usually happens when the user has forgotten their password to their Apple ID account and attempts to figure out the password have been unsuccessful. Sometimes, Apple ID gets locked automatically under some conditions, and that requires users to reset their password to gain access. A locked Apple ID does not mean that your device is locked for your use. You can keep using it so long as you do not try to use another Apple ID with it since to do that you would have to sign out of your current Apple ID (which is locked) and you won't be able to do that. On the other hand, Activation Lock renders the entire device unusable till the lock is cleared.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![apple id locked message](https://images.wondershare.com/drfone/article/2021/10/unlock-apple-id-on-iphone-13-3.jpg)
 
 In short, Apple ID Lock is about a user's account with Apple, akin to how Google Account works on Android devices. Apple ID Lock locks a user's account with Apple while retaining complete usage of the Apple iPhone 12 device whereas Activation Lock locks the Apple iPhone 12 device and prevents anyone from using it until the correct credentials are entered. This is about verifying the ownership of the Apple iPhone 12 device and works to deter theft of Apple devices.
@@ -319,6 +332,10 @@ There can be a few reasons why your Apple ID is locked. You forgot the password 
 Apple does a lot to ensure that your Apple ID remains safe. You trust Apple with a lot of your data, including financial data by way of your credit cards associated with Apple ID to make purchases on the App Store and iTunes Store. Therefore, some of the time, Apple preempts issues by proactively locking up your Apple ID or even disabling it. It goes without saying that sometimes it is something so simple as a software error that is believed to have locked up Apple IDs for many users around the world a while ago. It is also entirely possible that it was some malicious actor probing the servers for accounts.
 
 All of these will result in a locked Apple ID that users will have to reset their password to in order to gain access back.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part IV: How to Unlock Apple ID on Apple iPhone 12
 
@@ -376,12 +393,15 @@ Step 6: Follow the on-screen instructions to reset all your settings on the Appl
 
 ![unlock apple id successfully](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Dr.Fone - Screen Unlock (iOS) will notify you when the process is complete.
 
 ## Part V: Conclusion
 
 Considering how much the Apple ID is pivotal to our Apple experience, it can be incredibly unnerving to realize that it is locked or disabled, due to any reason. We use our Apple ID for iCloud services on Apple devices, to make purchases on iTunes Store and App Store and payments using Apple Pay. Apple knows this and has checked in place to make sure that only you are in possession of your Apple ID account at all times. It can cause a little hassle at times, since if someone makes multiple failed attempts to gain access to your account, Apple will lock your Apple ID until you can unlock it with proper verifications and reset your password.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -395,9 +415,24 @@ Considering how much the Apple ID is pivotal to our Apple experience, it can be 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-clear-webcam-footage-recording-and-editing-tips-for-2024/"><u>[New] Mastering Clear Webcam Footage Recording & Editing Tips for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-wit-whisperer-visual-snap-for-2024/"><u>[Updated] Wit Whisperer Visual Snap for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-mov-mastery-on-windows-11-discover-the-best-recording-methods-from-our-six-step-guide/"><u>2024 Approved .MOV Mastery on Windows 11 - Discover the Best Recording Methods From Our Six-Step Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-how-to-get-free-views-on-youtube-2-easy-ways/"><u>2024 Approved How to Get Free Views on YouTube [2 Easy Ways]</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/boost-your-gaming-presence-with-these-top-14-video-ideas-for-2024/"><u>Boost Your Gaming Presence with These Top 14 Video Ideas for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/getting-started-how-to-download-and-install-the-official-dell-wd19-drivers/"><u>Getting Started: How To Download And Install The Official Dell WD19 Drivers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-iphone-6s-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From iPhone 6s without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-8-plus-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone 8 Plus without Security Questions?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-13-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off Apple iPhone 13 without Password</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-apple-iphone-7-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From Apple iPhone 7? Find the Best Solution Here</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-iphone-se-2022-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing iPhone SE (2022) Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-12-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 12</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-beat-a-curated-list-of-8-must-try-free-music-applications-on-iphone/"><u>Navigating the Beat: A Curated List of 8 Must-Try Free Music Applications on iPhone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/teslas-innovative-ota-upgrade-enhances-vehicle-safety-the-latest-breakthrough-covered-by-zdnet/"><u>Tesla's Innovative OTA Upgrade Enhances Vehicle Safety - The Latest Breakthrough Covered by ZDNet</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-6-plus-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 6 Plus?</u></a></li>
+</ul></div>
 

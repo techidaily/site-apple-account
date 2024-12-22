@@ -1,7 +1,7 @@
 ---
 title: How to Reset Apple ID and Apple Password From Apple iPhone 12
-date: 2024-07-14T13:22:47.825Z
-updated: 2024-07-15T13:22:47.825Z
+date: 2024-12-17T00:43:43.210Z
+updated: 2024-12-19T21:16:53.640Z
 tags: 
   - unlock
   - remove apple account
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 Forgetting your Apple ID or password sucks, right! You are locked out of App Store, iCloud and iTunes, literally all of Apple. It becomes impossible to view your files on iCloud or to download anything from App store or iTunes if you forgot Apple ID password. Well luckily, you are not the first person to forget Apple ID or [forgot iPhone password](https://drfone.wondershare.com/reset-iphone/how-to-reset-iphone-password.html). You can rest it easy because we have prepared this guide just for you.
 
 In this guide, we will uncover all the safeguards that Apple has put in place to help you recover your Apple account. We will walk you through 5 methods of how you can reset your password or recover your Apple ID from any web browser or iOS device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: A Preliminary Check
 
@@ -48,8 +52,9 @@ However, this process will only work if you know either your Apple ID, or your P
 You May Like: [How to Reset iPhone Without Apple ID >>](https://drfone.wondershare.com/reset-iphone/reset-iphone-without-apple-id.html)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Recover/Reset Apple Password via Email or Security Questions
 
 This method only works if you have a verified recovery email for your Apple account or a set of security questions that you set up. The recovery instructions can be sent to your recovery email or you can answer the security questions on the Apple website. Here is a step-by-step guide:
@@ -62,6 +67,10 @@ This method only works if you have a verified recovery email for your Apple acco
 
 ![check forgot apple id](https://images.wondershare.com/drfone/others/reset-appleid-password-screens-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** Having a recovery email for your Apple account is probably the easiest method for future recovery. If you however prefer security questions, avoid obvious questions and instead use questions that only you can get.
 
 Also Read: [How to Remove iCloud Account with or without Password >>](https://drfone.wondershare.com/icloud/how-to-remove-icloud-account.html)
@@ -70,8 +79,6 @@ Also Read: [How to Remove iCloud Account with or without Password >>](https://dr
 
 If you want to try a 100% working technique to reset Apple ID, then use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). The application would get rid of the Apple ID linked to the Apple iPhone 12 device without any related details like email id or password. Though, you should know that this will cause the loss of stored data on your device. You can reset Apple ID using Dr.Fone – Screen Unlock (iOS) easily, but make sure that you don't use it for any illegal activity.
 
-
-
 ### Dr.Fone - Screen Unlock
 
 Unlock Disabled iPhone in 5 Minutes.
@@ -79,9 +86,6 @@ Unlock Disabled iPhone in 5 Minutes.
 - Easy operations to unlock iPhone without the passcode.
 - Removes the Apple iPhone 12 lock screen without relying on iTunes.
 - Works for all models of iPhone, iPad and iPod touch.
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - Fully compatible with the latest iOS/iPadOS version.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
 **4,395,216** people have downloaded it
@@ -163,6 +167,10 @@ This is a new account recovery option that is built into iOS 9 and OS X El Capit
 
 ![check forgot apple id](https://images.wondershare.com/drfone/others/appleid-password-recovery-two-factor-screens-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. It would help if you now waited for prompt requesting access to the trusted device or phone number. Click "Allow." You can now reset your password.
 
 ### Recover/reset Apple password on a trusted Apple iOS device
@@ -186,8 +194,6 @@ Now, if none of these methods work and you're completely locked out and complete
 If you can't log into your Apple account even after all this hassle, and if you're permanently locked out of your iCloud and Apple accounts, then you can try to [recover iCloud password](https://drfone.wondershare.com/icloud/how-to-recover-icloud-password.html), but your biggest concern should be to save and recover as much data as possible.
 
 Because the iCloud and Apple passwords are the same, you would also lose all the data that you've kept in your iCloud. However, you can retrieve it all using third-party software called [Dr.Fone - Data Recovery (iOS)](https://drfone.wondershare.com/data-recovery-iphone.html).
-
-
 
 ### Dr.Fone - Data Recovery (iOS)
 
@@ -219,6 +225,10 @@ Apple has maintained a leading position in technological innovation. It also enc
 
 The basic idea behind verification codes is to require users to provide a temporary code in addition to their regular password. This code is commonly dispatched to a trusted device, such as an iPhone. This is to introduce an additional layer of security that proves challenging for hackers to bypass. Apple users have several methods that will help them in **how to get the Apple ID verification code** scenario**.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. SMS or Text Messages
 
 Apple can provide you with a verification code through SMS or text message on a trusted phone number. This offers a hassle-free option for users who wish to avoid using extra applications or devices.
@@ -236,9 +246,6 @@ In the first place, it acts as a safeguard against unauthorized access, even if 
 - **Step 1:** When signing into your account, tap "Didn’t Get a Code" after entering your Apple ID credentials. Here, opt to receive the code on your trusted phone number.
 - **Step 2:** Shortly, you'll receive a text message or a call from Apple containing the verification code needed to finalize your sign-in process.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![get verification code on number](https://images.wondershare.com/drfone/article/2023/10/get-the-apple-verification-code-1.jpg)
 
 ## Part 3: How To Receive the Verification Code Directly From iPhone or iPad?
@@ -253,13 +260,14 @@ It is worth highlighting that Apple employs verification codes in numerous funda
 
 ![press get verification code](https://images.wondershare.com/drfone/article/2023/10/get-the-apple-verification-code-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: How To Get an Apple ID Verification Code Without a Phone?
 
 Many users rely heavily on our trusted iPhones or iPads to receive Apple ID verification codes. Nonetheless, there may be situations in which you could be without your main device. Whether it's due to misplacement or setting up a new one, Apple offers alternative methods to assist you. Here, we will explore two methods for **how to get an Apple ID verification code without a phone**:
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Way 1: Take Help of Apple Watch
 
 The Apple Watch serves as a versatile partner to complement your Apple iPhone 12. It offers a range of integrated features. One of its lesser-known capabilities is assisting you in situations where you need to receive an Apple ID verification code. Here is how you can use your Apple Watch for this purpose:
@@ -286,8 +294,6 @@ If you find yourself without your primary iPhone but have access to your Mac, yo
 Your Apple ID plays a pivotal role in the Apple ecosystem, and safeguarding its security is paramount. Nonetheless, there are instances where you might encounter the necessity of [<u>unlocking your Apple ID without the passcode</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html). Common scenarios range from forgotten passwords to inheriting a device with an unknown Apple ID. In such cases, it's crucial to have a reliable tool at your disposal, and one such tool is [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/).
 
 It provides a wide range of mobile management solutions for iOS devices. One of its standout features is the iOS screen unlock tool. This tool offers a streamlined and easy-to-use method for removing the Apple ID without a password. It permanently bypasses the previous Apple ID from your device, enabling you to sign in using a new Apple ID.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -316,7 +322,6 @@ Install and launch Wondershare Dr.Fone on your system and move to the “Toolbox
 
 ![access screen unlock feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - Step 2: Enable the Recovery Mode on Your Apple iPhone 12
 
 Once the Apple iPhone 12 is connected, hit “Unlock Now” and proceed to confirm that your device has a screen lock configured and 2FA is enabled. These are necessary for the removal of Apple ID, so set them up if you haven't already. Afterward, activate Recovery Mode following the on-screen instructions on your device.
@@ -329,13 +334,19 @@ As your device is in Recovery Mode, Dr.Fone will detect its model. You need to c
 
 ![hit the unlock now button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In this comprehensive guide, we've explored the significance of Apple ID verification codes. We also explored various methods for **getting an Apple ID verification code** when your primary device is unavailable. From using trusted phone numbers to leveraging Apple Watch, we've covered a spectrum of scenarios to get the verification code of your Apple ID.
 
 We've also delved into the importance of having a reliable tool like Wondershare Dr.Fone - iOS Screen Unlock at your disposal. This powerful mobile management solution aids in unlocking your Apple ID without a passcode. It also offers a wide array of features to address various iOS-related issues. Whether dealing with a forgotten password, managing a shared device, or inheriting one, Dr.Fone simplifies the process.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Apple Account Disabled On your Apple iPhone 12? How to Fix
 
@@ -355,9 +366,6 @@ The messages that have been stated above are usually depicting a security anomal
 - Any user would have entered incorrect security questions multiple times.
 - The other information associated with the Apple ID would have been entered incorrectly numerous times.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. Is “Your account has been disabled in the App Store and iTunes” the same as “This Apple ID has been disabled for security reasons”?
 
 There are several instances where you encounter such prompt messages where you are restricted in using the App Store and iTunes. These messages can come in the form of "Your account has been disabled in the App Store and iTunes." Over observing this prompt message, it has been discovered that the assorted message is not related to the other common message of "This Apple ID has been disabled for security reasons." The dynamics of getting restricted from using the App Store and iTunes are related to remaining balances that have stuck around for a while over your Apple account. Normally, you may have some billing issues that are prevailing over an unpaid iTunes or App Store order. This problem can be countered through simplistic methods under such conditions where you are having access to the account information and can check for the basic billing information or update the payment method following other settings that are associated with paying bills. Over failure in accessing your account, you are required to contact Apple Support and look for the billing and payment statements to clear up all the remaining dues. Apple has considered covering all the security protocols to perfection, where you have any prevailing Apple charges on your connected credit card that would lead to direct disabling of your Apple Account.
@@ -403,6 +411,10 @@ The unlocking process immediately starts, and the platform executes the complete
 
 ![your-apple-id-is-unlocked-successfully](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Unlock disabled Apple account using Apple's verification
 
 The other method that can be effectively tested is Apple's verification that would allow us to easily topple off all barriers that are involved in the process. To effectively unlock your disabled Apple Account using Apple's verification process, you need to follow the steps described in detail.
@@ -412,6 +424,10 @@ The other method that can be effectively tested is Apple's verification that wou
 You need to open the iForgot website to test the verification process. As you open the platform, provide the appropriate credentials over which your Apple device is operating. This is referred to as your Apple ID that has been used for the Apple iPhone 12 device.
 
 ![enter-your-apple-id](https://images.wondershare.com/drfone/article/2020/11/how-to-fix-apple-account-disabled-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Provide Personal Details**
 
@@ -429,7 +445,6 @@ The platform will send a verification code that would allow you to unlock your d
 
 This article has provided you a detailed guide over the existing reasons that would have your Apple account disabled, followed by different tips that can be followed to cover your assorted problems efficiently.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -442,9 +457,26 @@ This article has provided you a detailed guide over the existing reasons that wo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-excellent-low-cost-webcam-snipper-app/"><u>[New] Excellent Low-Cost Webcam Snipper App</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-maximizing-engagement-a-pathway-to-higher-subscriber-numbers/"><u>[New] In 2024, Maximizing Engagement A Pathway to Higher Subscriber Numbers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-premium-tvs-for-ps5-and-xbox-series-x-gamers-dreams-for-2024/"><u>[New] Premium TVs for PS5 & Xbox Series X Gamers' Dreams for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-transformative-power-of-augmented-vision/"><u>[New] The Transformative Power of Augmented Vision</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/all-app-analysis-comprehensible-by-az-capture-for-2024/"><u>All-App Analysis Comprehensible by AZ Capture for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/guide-facile-migrer-votre-image-de-systeme-windows-10-dun-ordinateur-a-un-autre/"><u>Guide Facile : Migrer Votre Image De Système Windows 10 D'un Ordinateur À Un Autre</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-apple-iphone-13-mini-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your Apple iPhone 13 mini Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-iphone-se-2020-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From iPhone SE (2020)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-apple-iphone-15-pro-max-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your Apple iPhone 15 Pro Max without Security Questions?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-iphone-12-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From iPhone 12? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-apple-iphone-7-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your Apple iPhone 7 Plus Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-iphone-13-mini-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From iPhone 13 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-12-pro-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone 12 Pro without Password?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-your-movie-watching-process-add-subtitles-to-wmp/"><u>In 2024, Streamline Your Movie-Watching Process Add Subtitles to WMP</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-se-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On Apple iPhone SE</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-transformative-tips-making-an-indelible-mark-in-the-digital-world/"><u>In 2024, Transformative Tips Making an Indelible Mark in the Digital World</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ling-secrets-sharing-restricted-youtube-content-via-email/"><u>Unveiling Secrets Sharing Restricted YouTube Content via Email</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-apple-iphone-xs-max-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your Apple iPhone XS Max? How to Fix</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+</ul></div>
 

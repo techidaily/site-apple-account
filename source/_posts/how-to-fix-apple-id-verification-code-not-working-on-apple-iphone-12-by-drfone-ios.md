@@ -1,7 +1,7 @@
 ---
 title: How To Fix Apple ID Verification Code Not Working On Apple iPhone 12
-date: 2024-07-14T13:21:52.535Z
-updated: 2024-07-15T13:21:52.535Z
+date: 2024-12-18T01:40:03.580Z
+updated: 2024-12-19T18:18:41.368Z
 tags: 
   - unlock
   - remove apple account
@@ -22,6 +22,10 @@ Sometimes, you might need help with the issue of the **Apple ID verification cod
 
 ![verification failed prompt apple](https://images.wondershare.com/drfone/article/2024/01/apple-id-verification-not-working-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: When Does the Apple Verification ID Failed Prompt Appear?
 
 Before diving into solutions, it’s essential to understand the various scenarios that can trigger the “**Apple Verification ID Failed**” prompt. Recognizing the cause of the problem is the first step toward the right fix. Let’s explore the common reasons you might encounter this issue:
@@ -36,9 +40,6 @@ At times, the problem may not be on your end. Apple’s servers can experience d
 
 ![apple server status page](https://images.wondershare.com/drfone/article/2024/01/apple-id-verification-not-working-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Slow Internet or Intermittent Connection
 
 A stable and reliable internet connection is improtant for the verification process. If your internet is slow or experiencing intermittent connectivity, it can disrupt the communication between your device and Apple’s servers, leading to verification failure.
@@ -73,6 +74,10 @@ Incorrect date and time settings can influence Apple ID verification. Go to **Se
 
 ![date & time settings ios](https://images.wondershare.com/drfone/article/2024/01/apple-id-verification-not-working-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4: Signing Out/In Your Apple ID
 
 Sometimes, simply signing out and back into your Apple ID can resolve verification issues. Navigate to **Settings**, tap your name at the top, scroll down, and select **Sign Out**. After signing out, sign back in and check if the issue persists.
@@ -103,7 +108,6 @@ Here’s how to use powerful Dr.Fone’s - Screen Unlock (iOS) to remove Apple I
 
 - **Step 1:** Download, install, and launch Wondershare Dr.Fone.
 
-
 - **Step 2:** Go to **Toolbox > Screen Unlock > iOS**.
 
 ![dr.fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -119,6 +123,10 @@ Here’s how to use powerful Dr.Fone’s - Screen Unlock (iOS) to remove Apple I
 - **Step 5:** Ensure you have a screen lock and the two-factor authentication enabled. Follow the on-screen instructions.
 
 ![screen lock verify](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Put your device into Recovery Mode or DFU Mode by following the on-screen instructions. Then, confirm the correct system version of your device.
 
@@ -143,8 +151,6 @@ Navigating the **Apple ID Verification Code not working** issue can be a source 
 For those rare instances where conventional methods fall short, Dr.Fone emerges as a reliable ally. Its Screen Unlock feature effectively addresses Apple ID-related hurdles. Whether you’re grappling with verification failures or other phone-related challenges, Dr.Fone - Screen Unlock (iOS) stands out as a dependable tool, ready to assist in simplifying your digital life.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
-
 
 ## Troubleshooting 'Error Connecting to the Apple ID Server' On Apple iPhone 12
 
@@ -171,6 +177,10 @@ The problem may also stem from a disrupted internet connection. You should inves
 ### Problems With Apple ID
 
 Authentication issues can arise if users input incorrect Apple ID credentials or if their accounts face security concerns. Verifying and correcting these details or resetting the Apple ID password is crucial.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Incorrect Date and Time Settings
 
@@ -200,9 +210,6 @@ Creating a new admin user account can serve as a strategic move for macOS users.
 
 - **Step 2:** Click the lock icon and enter your admin password. Click the **+** or **Add User…** button to add a new user, selecting **Administrator** as the account type. Log in to the new account and check if the issue persists.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Update Your iOS or macOS Software
 
 Outdated operating systems often contribute to connectivity issues. Ensure your iOS or macOS software is up to date by [<u>checking for available updates</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html). Here's how.
@@ -214,6 +221,10 @@ Download and install any available updates.
 
 ![software update on iphone](https://images.wondershare.com/drfone/article/2023/11/error-connecting-to-apple-id-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Boot macOS in Safe Mode
 
 Booting your Mac in [<u> Safe Mode</u>](https://drfone.wondershare.com/android-tips/safe-mode-in-android.html) is another approach to troubleshooting. The mode disables unnecessary processes, allowing you to identify and resolve potential conflicts causing the connection error. To put your Mac into safe mode, restart it and hold down the **Shift** key. Release it when the Apple logo appears.
@@ -224,18 +235,12 @@ Booting your Mac in [<u> Safe Mode</u>](https://drfone.wondershare.com/android-t
 
 A classic yet effective solution is to restart your Apple device. This simple action refreshes system processes and can resolve various connectivity issues. Power off your device and turn it back on to initiate a clean start.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Sign Out and Sign Back Into Your Apple ID Account
 
 Temporarily [<u>signing out of your Apple ID account</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) and then signing back in can be a virtual reset. The process refreshes the connection and addresses potential authentication issues, resolving the error.
 
 - **On iOS**: Go to **Settings**, tap your Apple ID, and choose **SignOut**. Sign in again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![sign in screen on iphone](https://images.wondershare.com/drfone/article/2023/11/error-connecting-to-apple-id-07.jpg)
 
 - **On macOS**: Open **SystemPreferences**, select **Apple** **ID,** and click **Sign** **Out**. Sign in again.
@@ -262,8 +267,6 @@ Wondershare Dr.Fone is renowned for its versatile features. The platform's Scree
 
 ![dr.fone main interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
@@ -288,10 +291,13 @@ Below are the steps to use Dr.Fone - Screen Unlock.
 
 - **Step 1:** Download and Install Dr.Fone - Screen Unlock on your computer. Launch the app afterward,
 
-
 - **Step 2:** From the main interface, choose the **Screen** **Unlock** option. Next, connect your iOS device to the computer using a USB cable. Click on **iCloud Activation Lock Removal** to initiate the process.
 
 ![dr.fone screen unlock options](https://images.wondershare.com/drfone/guide/bypass-activation-lock-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Follow the on-screen instructions and wait for Dr.Fone to detect your device information automatically. From there, the software will provide the necessary firmware package. Click **Unlock** **Now** to initiate the process.
 
@@ -300,6 +306,10 @@ Below are the steps to use Dr.Fone - Screen Unlock.
 - **Step 4:** Upon completion of the process, a confirmation message will be displayed on the window. Click the **Done** button to finalize the unlocking of the Activation Lock.
 
 ![dr.fone unlock process successful window](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -312,6 +322,10 @@ If the **Apple ID verification failed** error persists, reaching out to Apple Su
 Our generation is all about high-performance gadgets and, a phone is one of the most important of it all. But with the concept of a smartphone, things have changed. iPhone/iPad has emerged as an important fashion quotient for a long now.
 
 We often end up buying second-hand iPhones/iPads or sell our old version of the phones/pads to an unknown person and buy a new version of other brands, like Samsung S22. At times, be it after-sale/purchase or old iPhone, or if you may have yourself forgotten the password to your Apple ID, we often come across a big challenge, and that is how to erase an iPhone without an Apple ID password. Well, if that’s the case with you, then you’ve reached the right place. We’re about to discuss the most effective ways to erase an iPhone without an Apple ID password. Let’s discover them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. How to erase an iPhone without Apple ID and iTunes
 
@@ -360,6 +374,10 @@ Once the download is complete, you can get started with erasing an iPhone withou
 
 ![ios unlock 4](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. Erase an iPhone without Apple ID via iTunes
 
 Sometimes your phone might ask for an Apple ID and password to confirm your authority. In such cases, you may get stuck as either you have forgotten the password to it, or you don’t remember the Apple ID in the first place. For that matter, where it needs immediate help, we have listed down a set of steps that can help you erase an iPhone without Apple ID via iTunes –
@@ -372,6 +390,10 @@ In iPhone 8 or later: Tap the Volume Up, then quickly tap Volume Down and hold d
 
 ![erase a iphone without apple id 1](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In the case of iPhone 7/7Plus: Press the “Sleep/Power” and “Volume Down” keys together.
 
 Hold down the keys until you see the message on your iTunes screen about “your iPhone has been detected in recovery mode.”
@@ -380,9 +402,6 @@ Hold down the keys until you see the message on your iTunes screen about “your
 
 ![erase a iphone without apple id 2](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. How to erase an iPhone without Apple ID via Settings
 
 Erasing an iPhone without Apple ID becomes necessary when we happen to use a second-hand phone or when we share a phone with someone. It is indeed a hard task to overcome these issues as we constantly strive to change our phone or replace it with a second-hand one. We have jotted a few steps that can help you erase an iPhone without Apple ID via settings for your ease.
@@ -439,7 +458,6 @@ Now let’s get started with erasing an Apple ID via Apple’s Data and Privacy 
 
 Coming towards the end of the topic, we now are fully sure that you fully understand how to erase an iPhone without an Apple ID. Just in case you have any doubts, please feel free to comment below. And do remember to share this with your friends and family if you find it useful.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -452,9 +470,18 @@ Coming towards the end of the topic, we now are fully sure that you fully unders
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-mastering-photomontages-a-comprehensive-guide/"><u>[New] In 2024, Mastering PhotoMontages A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-intricate-yet-straightforward-guide-exploring-popular-youtube-reactions/"><u>[Updated] In 2024, The Intricate Yet Straightforward Guide Exploring Popular YouTube Reactions</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-8-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 8</u></a></li>
+<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone 14 Pro Max?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-13-pro-max-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone 13 Pro Max without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-6-plus-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 6 Plus From Your Apple ID</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-iphone-12-mini-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an iPhone 12 mini Without Apple ID Password?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-mastering-the-art-of-unblocking-tiktok/"><u>In 2024, Mastering the Art of Unblocking TikTok</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-2023-what-you-need-to-know-about-the-expected-pricing-launch-date-and-specs-updates/"><u>IPhone 2023 - What You Need to Know About the Expected Pricing, Launch Date, and Specs Updates</u></a></li>
+</ul></div>
 

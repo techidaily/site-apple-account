@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Remove the Two Factor Authentication From Apple iPhone 15 Pro Max
-date: 2024-12-18T05:11:59.849Z
-updated: 2024-12-18T20:10:41.665Z
+date: 2024-12-16T19:57:58.356Z
+updated: 2024-12-20T00:23:58.630Z
 tags: 
   - unlock
   - remove apple account
@@ -35,6 +35,10 @@ Protecting users’ devices and online accounts is one of the major responsibili
 
 ![what is two factor authentication](https://images.wondershare.com/drfone/article/2023/10/remove-two-factor-authentication-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2FA is activated when the user provides the password to log into the Apple ID or software through a new device, and it acts as a second layer for account security. Apple ID or any software containing sensitive data cannot be accessed without it. This method provides a higher security level than single-factor authentication. To understand more benefits of this security system in detail, check the following points:
 
 1. **Protection From Password Theft:** 2FA acts as an additional security level. It protects your accounts and devices in case your password is leaked.
@@ -53,10 +57,6 @@ Moreover, there is one important key point to note: Apple has removed the featur
 4. **Minimizing Mistakenly Steps:** If users mistakenly remove the 2FA, their accounts and devices are at risk of being accessed without proper authentication. To avoid such an issue, the deactivation option of 2FA is removed.
 
 Besides all these reasons, there is still some good news for those who want to **remove the two-factor authentication iPhone** to use other security options. The good news is that Apple allows users to remove 2FA for a limited time after activation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How To Remove the Two-Factor Authentication Within 14 Days
 
@@ -107,19 +107,11 @@ The respective iOS firmware will download according to the Apple iPhone 15 Pro M
 
 ![press the unlock now button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 With this, we hope you understand how to **disable iCloud two-factor authentication**. However, remember that doing this is only possible within 14 days of a grace period. If this period is over, you cannot remove 2FA from your Apple ID.
 
 Moreover, if you have locked your Apple ID passcode, using Wondershare Dr.Fone to unlock it can be the perfect option. While using this tool, you also don't have to worry about screen locks on different iOS devices. This is because the innovative algorithms integrated in this tool make it easier to use for unlocking the Apple ID or [<u>screen lock</u>](https://tools.techidaily.com/wondershare/drfone/unlock-android-screen/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Change Credit Card on Your Apple iPhone 15 Pro Max Apple ID and Apple Pay
 
@@ -127,13 +119,13 @@ Apple's ecosystem offers convenience with services like Apple ID and Apple Pay. 
 
 In this comprehensive guide, we'll learn how to **change the credit card on Apple** ID and Apple Pay. Additionally, we will introduce you to a helpful tool for [<u>unlocking your Apple ID</u>](https://drfone.wondershare.com/reset-iphone/reset-iphone-without-apple-id.html) if you ever encounter access issues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: 3 Ways To Change the Credit Card on Apple ID
 
 We'll explore 3 different methods to change the credit card details associated with your Apple ID in this section. These methods allow you to update your payment information effortlessly, ensuring uninterrupted access to Apple services.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 1: Update Credit Card on iPhone/iPad
 
@@ -148,16 +140,12 @@ The first method involves updating your payment information directly from your A
 ![add new payment card details](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 3:** To remove the old payment method, tap "Edit." Now, locate the old payment method you want to delete and tap the “Red Delete” button next to it. Confirm the deletion by tapping "Delete."
 
 ![remove the apple id card](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Way 2: Change Credit Card on Mac
 
@@ -195,11 +183,19 @@ To update the credit card information linked to your Apple ID, we'll now provide
 
 ![click on remove payment method](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pro Tip: Locked Out Your Apple ID? Get It Unlocked Instantly
 
 While learning **how to change a credit card on your Apple Account**, you encounter an unexpected hurdle - your Apple ID has become locked. This can undoubtedly be a frustrating and troublesome scenario, considering the crucial role your Apple ID plays within the Apple ecosystem. Nevertheless, there's no cause for alarm, as we've got a solution ready to promptly unlock your Apple ID and have you back on course.
 
 The solution is [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/), a tool that is able to [<u> remove Apple ID from your iOS devices without needing the password</u>](https://drfone.wondershare.com/unlock/how-to-get-someones-apple-id-off-iphone-without-password.html). It is a comprehensive tool that has the ability to remove your Apple ID from your device permanently. This tool works its magic in removing Apple ID, whereas other tools fail when the Find My feature is enabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -210,11 +206,11 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - No tech knowledge required, everybody can handle it.
 - Supports the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
-**4,395,218** people have downloaded it
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**4,395,218** people have downloaded it
 
 ### Key Features of Wondershare Dr.Fone
 
@@ -243,6 +239,14 @@ Now is the time to connect your iOS device to the computer using a respective ca
 Wondershare Dr.Fone will detect your device model once it is in Recovery Mode. Choose a system version to download by clicking “Start.” Once it has been downloaded and verified, tap "Unlock Now." It will lead to a prompt warning about data loss. Here, enter "000000" to confirm your choice and click "Unlock." Dr.Fone will go on to remove Apple ID from your device.
 
 ![add the confirmation code](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: 3 Methods To Change the Default Credit Card on Apple Pay
 
@@ -290,10 +294,6 @@ We explored many methods to **change the credit card on Apple ID** and Apple Pay
 
 Apple is one of the leading smartphone developing enterprises that has introduced the world to a contemporary set of features that are not common among other leading smartphone companies. One of the major distinguishing characteristics of Apple has been displayed in its present security protocols. Apple Account is regarded as one of the most significant credentials of the Apple iPhone 15 Pro Max and iPad that is responsible for connecting and holding the applications and the assorted data. Many users have generally reported unusual situations that got their Apple Account disabled. There are several reasons that can be associated with the Apple account getting disabled. The major repercussion that is associated with it is unnecessary data loss following the suspension of all products that have been bought with the account over time. This article provides you an impressive overview of the major reasons that lead to your Apple Account getting disabled, followed by the associated mechanisms that can be tested to secure the account.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1. Why is the Apple account disabled?
 
 Apple iPhone, iPad, and other devices operate over a single Operating System, with its own protocols and unique mechanisms that distinguish it from other smartphone models in the market. Apple believes in securing the data and identification of its users with its state-of-the-art security measures. Under such circumstances, it usually gets possible for the user to have his Apple account disabled unnecessarily. Whenever you encounter such a situation, there are several messages that might be displayed on your device to prompt you over the disabling of the account. These messages usually appear in situations where you intend to sign in to some platform with your associated Apple ID. The most common messages that appear on the screen are:
@@ -307,10 +307,6 @@ The messages that have been stated above are usually depicting a security anomal
 - There might be incorrect forced logging in into your Apple ID for multiple tries.
 - Any user would have entered incorrect security questions multiple times.
 - The other information associated with the Apple ID would have been entered incorrectly numerous times.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2. Is “Your account has been disabled in the App Store and iTunes” the same as “This Apple ID has been disabled for security reasons”?
 
@@ -351,15 +347,15 @@ Over the Apple Device, you need to select the option of “Trust” over the pro
 
 ![follow-the-on-screen-instructions](https://images.wondershare.com/drfone/article/2020/11/how-to-fix-apple-account-disabled-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Device Unlocks**
 
 The unlocking process immediately starts, and the platform executes the complete process automatically. A prompt message appears on the desktop showing the completion of the task. The device is now unlocked successfully.
 
 ![your-apple-id-is-unlocked-successfully](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Unlock disabled Apple account using Apple's verification
 
@@ -383,6 +379,10 @@ The platform will send a verification code that would allow you to unlock your d
 
 ![insert-your-verification-code](https://images.wondershare.com/drfone/article/2020/11/how-to-fix-apple-account-disabled-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 This article has provided you a detailed guide over the existing reasons that would have your Apple account disabled, followed by different tips that can be followed to cover your assorted problems efficiently.
@@ -401,16 +401,20 @@ This article has provided you a detailed guide over the existing reasons that wo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pinnacle-of-1980s-movie-magic-in-editing/"><u>2024 Approved Pinnacle of 1980S Movie Magic in Editing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-4-fastest-lenovo-record-methods/"><u>2024 Approved The 4 Fastest Lenovo Record Methods</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/affordable-pc-video-recording-tools-for-2024/"><u>Affordable PC Video Recording Tools for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ing-identity-erasing-faces-from-video-content/"><u>Blurring Identity Erasing Faces From Video Content</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-6-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 6?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-apple-iphone-11-pro-max-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect Apple iPhone 11 Pro Max and iPad</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On iPhone 12 mini</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-iphone-14-pro-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your iPhone 14 Pro without Security Questions?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-xs-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone XS</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-unlocking-clearer-listening-the-complete-process-of-audio-level-standardization-in-vlc/"><u>New In 2024, Unlocking Clearer Listening The Complete Process of Audio Level Standardization in VLC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-ultimate-fix-how-to-correctly-install-your-hcmon-driver-and-avoid-failures/"><u>The Ultimate Fix: How to Correctly Install Your HCMon Driver and Avoid Failures</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-7-top-picks-free-on-web-tiktok-audio-tools-for-mp3s-extraction/"><u>[New] 7 Top Picks Free, On-Web TikTok Audio Tools for MP3s Extraction</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-beginners-journey-into-advanced-video-coding/"><u>[Updated] In 2024, Beginner's Journey Into Advanced Video Coding</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlock-slow-momentum-a-filmmakers-tale-on-instagram-for-2024/"><u>[Updated] Unlock Slow Momentum A Filmmaker’s Tale on Instagram for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-14-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone 14?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-se-2022-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone SE (2022) Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-iphone-x-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From iPhone X</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-apple-iphone-xs-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from Apple iPhone XS without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-guide-streamlining-video-calls-on-xbox-one/"><u>In 2024, Quick Guide Streamlining Video Calls on Xbox One</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-6-plus-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone 6 Plus?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-slow-motion-videos-are-taking-over-social-media-and-becoming-a-new-trend-read-this-article-if-you-want-to-learn-how-to-slow-down-video-in-after-/"><u>New In 2024, Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-iphone-7-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On iPhone 7</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-the-definitive-list-of-11-strategies-for-the-credential-manager/"><u>Unlocking Windows: The Definitive List of 11 Strategies for the Credential Manager</u></a></li>
 </ul></div>
 

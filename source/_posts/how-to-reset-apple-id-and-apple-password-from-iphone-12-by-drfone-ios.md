@@ -1,7 +1,7 @@
 ---
 title: How to Reset Apple ID and Apple Password From iPhone 12
-date: 2024-07-14T13:24:14.195Z
-updated: 2024-07-15T13:24:14.195Z
+date: 2024-12-12T23:40:51.346Z
+updated: 2024-12-20T04:30:33.592Z
 tags: 
   - unlock
   - remove apple account
@@ -47,6 +47,10 @@ However, this process will only work if you know either your Apple ID, or your P
 
 You May Like: [How to Reset iPhone Without Apple ID >>](https://drfone.wondershare.com/reset-iphone/reset-iphone-without-apple-id.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Recover/Reset Apple Password via Email or Security Questions
 
 This method only works if you have a verified recovery email for your Apple account or a set of security questions that you set up. The recovery instructions can be sent to your recovery email or you can answer the security questions on the Apple website. Here is a step-by-step guide:
@@ -57,9 +61,6 @@ This method only works if you have a verified recovery email for your Apple acco
 4. Click the "Next" button.
 5. You should now see two options. Click on "Get an email" to receive the account reset instructions on your recovery email. If you have security questions that you had set up, click on "Answer Security Questions" to recover your account right there on the website.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![check forgot apple id](https://images.wondershare.com/drfone/others/reset-appleid-password-screens-01.jpg)
 
 **Note:** Having a recovery email for your Apple account is probably the easiest method for future recovery. If you however prefer security questions, avoid obvious questions and instead use questions that only you can get.
@@ -69,8 +70,6 @@ Also Read: [How to Remove iCloud Account with or without Password >>](https://dr
 ## Part 4: Reset Apple ID with no need to remember Password and Email
 
 If you want to try a 100% working technique to reset Apple ID, then use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). The application would get rid of the Apple ID linked to the Apple iPhone 12 device without any related details like email id or password. Though, you should know that this will cause the loss of stored data on your device. You can reset Apple ID using Dr.Fone – Screen Unlock (iOS) easily, but make sure that you don't use it for any illegal activity.
-
-
 
 ### Dr.Fone - Screen Unlock
 
@@ -123,6 +122,10 @@ Like your password, Apple can help you recover your Apple ID or username as well
 
 ![Forgot Apple ID](https://images.wondershare.com/drfone/others/14594014948787.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Also Read: [3 Ways to Recover iCloud Password >>](https://drfone.wondershare.com/icloud/how-to-recover-icloud-password.html)
 
 ## Part 6: Using Apple's Two-step Verification (Forgot Apple Password)
@@ -148,6 +151,10 @@ Two-step authentication is an old Apple security feature and it still happens to
 Now if you happen to lose any two of the above at the same time, there is no way of recovering your account and you simply have to create a new one.
 
 Also Read: [How to Factory Reset iPhone without Passcode >>](https://drfone.wondershare.com/reset-iphone/factory-reset-iphone-without-passcode.html)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 7: Using Apple's Two-Factor Authentication (Forgot Apple ID Password)
 
@@ -184,8 +191,6 @@ If you can't log into your Apple account even after all this hassle, and if you'
 
 Because the iCloud and Apple passwords are the same, you would also lose all the data that you've kept in your iCloud. However, you can retrieve it all using third-party software called [Dr.Fone - Data Recovery (iOS)](https://drfone.wondershare.com/data-recovery-iphone.html).
 
-
-
 ### Dr.Fone - Data Recovery (iOS)
 
 World's 1st iPhone and iPad data recovery software.
@@ -210,6 +215,10 @@ Apple's ecosystem offers convenience with services like Apple ID and Apple Pay. 
 
 In this comprehensive guide, we'll learn how to **change the credit card on Apple** ID and Apple Pay. Additionally, we will introduce you to a helpful tool for [<u>unlocking your Apple ID</u>](https://drfone.wondershare.com/reset-iphone/reset-iphone-without-apple-id.html) if you ever encounter access issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: 3 Ways To Change the Credit Card on Apple ID
 
 We'll explore 3 different methods to change the credit card details associated with your Apple ID in this section. These methods allow you to update your payment information effortlessly, ensuring uninterrupted access to Apple services.
@@ -222,13 +231,25 @@ The first method involves updating your payment information directly from your A
 
 ![tap on payment and shipping](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Next, press "Add Payment Method" and provide information for your new payment method. Once you've entered all the required details, tap "Done" to confirm and save your updates.
 
 ![add new payment card details](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** To remove the old payment method, tap "Edit." Now, locate the old payment method you want to delete and tap the “Red Delete” button next to it. Confirm the deletion by tapping "Delete."
 
 ![remove the apple id card](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 2: Change Credit Card on Mac
 
@@ -272,8 +293,6 @@ While learning **how to change a credit card on your Apple Account**, you encoun
 
 The solution is [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/), a tool that is able to [<u> remove Apple ID from your iOS devices without needing the password</u>](https://drfone.wondershare.com/unlock/how-to-get-someones-apple-id-off-iphone-without-password.html). It is a comprehensive tool that has the ability to remove your Apple ID from your device permanently. This tool works its magic in removing Apple ID, whereas other tools fail when the Find My feature is enabled.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
@@ -299,11 +318,7 @@ Following are the steps to unlock and [<u>remove old Apple ID from your iOS devi
 
 To initiate the Apple ID unlocking process, you will need to install and launch Wondershare Dr.Fone. Then, choose "Toolbox" from the left bar and go on to click "Screen Unlock." Select "iPhone" as your device type, and since we are removing Apple ID, click "Remove Apple ID.”
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![access the screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 - Step 2: Proceed to Activate Recovery Mode
 
@@ -327,14 +342,12 @@ We start by exploring how to change the default credit card on Apple Pay using y
 
 **Instructions:** On your Apple iPhone 12, access and open the Wallet app. Inside the app, locate the payment card you wish to set as your default. Touch and hold the selected payment card. Drag the card to the forefront, positioning it ahead of your other cards.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change apple pay default card iphone](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Set New Card as Default on iPad or Mac
 
 Whether you prefer using your iPad for managing your payment methods or you're on your Mac, you can easily set a new card as the default option. Use the following instructions to set a credit card as the default card on Apple Pay:
@@ -419,6 +432,10 @@ For testing and internal use, you can distribute apps privately to specific indi
 
 Obtaining an Apple Developer account isn't merely a formality. It involves key steps and criteria to ensure the platform's integrity. You can register as an individual developer or represent an organization. Here's a breakdown of what's needed to join the Apple Developer Program:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Requirements for Individuals
 
 The following are the requirements needed to enroll in the Apple Developer Program as an individual:
@@ -428,9 +445,6 @@ The following are the requirements needed to enroll in the Apple Developer Progr
 3. Ensure you've installed the latest version of the Apple Developer app on your device.
 4. The last requirement you have to ensure is thatyou will need to log in to iCloud on your iDevice.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Requirements for Organizations
 
 To **create an Apple developer account** as an organization, you need the following information along with the requirements mentioned above for individuals:
@@ -441,6 +455,10 @@ To **create an Apple developer account** as an organization, you need the follow
 4. You will need to provide your organization's headquarters address and contact number.
 5. Your organization's website must be publicly accessible. Moreover, the domain name should be linked to your organization.
 6. Verify that you possess the legal authority to enter into agreements on behalf of your organization.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How To Make an Apple Developer Account With the Most Simplified Steps
 
@@ -463,8 +481,6 @@ After completing all the requirements, let’s start the process of **how to get
 The key requirement to **create an Apple Developer Account** is having an Apple ID. It's undeniable that the entire Apple ecosystem centers around the Apple account. What should you do if you discover that you've forgotten your password? Forgetting your password can lead to various challenges. Fortunately, there's no need to be concerned because we have a solution for you.
 
 Thus, in such situations, when the user finds no option to [<u>unlock their Apple ID without a passcode</u>](https://drfone.wondershare.com/unlock/how-to-get-someones-apple-id-off-iphone-without-password.html), we recommend you use [<u>Wondershare Dr.Fone - Screen Unlock (iOS)</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) to unlock your device easily. Furthermore, this tool enables you to remove all types of lock screens of various iOS devices, including iPhones, iPad, and iPods.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -493,7 +509,6 @@ Begin the process by installing Wondershare Dr.Fone on your computer and accessi
 
 ![select remove apple id tool](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
-
 - Step 2: Proceed Further by Choosing the Respective Options
 
 Ensure that your iOS device whose lock you are trying to remove is connected to your computer and tap “Unlock Now.” Moving ahead, the platform will ask you whether screen lock and 2FA are enabled. This needs to be enabled for the Apple ID removal process. After this, put your device in Recovery Mode with the help of on-screen instructions.
@@ -518,9 +533,6 @@ In conclusion, we've guided you through a thorough exploration of the steps invo
 
 Additionally, for those who may encounter issues with their Apple ID due to forgotten passwords, we've introduced the Wondershare Dr.Fone tool. This efficient solution provides a seamless method for regaining access to your Apple ID without compromising your data. We highly recommend it for its user-friendliness and compatibility with all iOS devices.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -533,9 +545,26 @@ Additionally, for those who may encounter issues with their Apple ID due to forg
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/approved-free-video-credits-expertise-top-6-maker-guide/"><u>2024 Approved Free Video Credits Expertise - Top 6 Maker Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-pros-picks-elevating-gaming-broadcast-with-top-5-cam-tech/"><u>2024 Approved Pro's Picks Elevating Gaming Broadcast with Top 5 Cam Tech</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-12-pro-max-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone 12 Pro Max? How to Fix it?</u></a></li>
+<li><a href="https://article-files.techidaily.com/from-overflow-to-organization-editing-giant-tiktok-files-with-precision-for-2024/"><u>From Overflow to Organization Editing Giant TikTok Files with Precision for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-6s-plus-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone 6s Plus?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-iphone-x-without-password-by-drfone-ios/"><u>How to Remove Apple ID from iPhone X without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-se-2022-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-beats-audio-driver-issue-in-windows-1087-solved/"><u>HP Beats Audio Driver Issue in Windows 10/8/7 [Solved]</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-14-pro-max-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone 14 Pro Max Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-apple-iphone-se-2020-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or Apple iPhone SE (2020) without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-11-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-honor-magic-6-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Honor Magic 6 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-wax-101-how-to-edit-videos-like-a-pro-with-this-free-editor/"><u>New Wax 101 How to Edit Videos Like a Pro with This Free Editor</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/siris-text-voice-feature-demystified-a-comprehensive-guide-for-ios-and-mac-users/"><u>Siri's Text Voice Feature Demystified – A Comprehensive Guide for iOS and Mac Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-starting-your-mac-from-the-recovery-utility/"><u>Step-by-Step Guide: Starting Your Mac From the Recovery Utility</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-13-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 13</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unlock-ultimate-performance-with-best-video-controller-add-ons-for-2024/"><u>Unlock Ultimate Performance with Best Video Controller Add-Ons for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-13-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 13?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Apple ID is Greyed Out On iPhone 12 How to Bypass?
-date: 2024-07-14T13:23:13.071Z
-updated: 2024-07-15T13:23:13.071Z
+date: 2024-12-15T01:40:16.779Z
+updated: 2024-12-19T18:40:07.724Z
 tags: 
   - unlock
   - remove apple account
@@ -26,9 +26,6 @@ Dealing with a greyed-out Apple ID can undoubtedly lead to a frustrating experie
 
 ![reasons for apple id greyed out](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Apple ID Signed In on Another Device
 
 One common reason for the Apple ID to appear greyed out is when it is actively signed in on another device. This often happens when users forget to log out of their account on a different Apple device. It leads to a conflict that prevents the smooth functioning of the Apple ID.
@@ -45,9 +42,17 @@ Fluctuating or unstable network connections can also contribute to the Apple ID 
 
 Software inconsistencies within the Apple iPhone 12 device's operating system can lead to temporary malfunctions. That results in the greying out of the Apple ID. Such glitches can arise due to software updates or incomplete installations. It can also happen due to conflicts between different applications.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Apple Server Maintenance or Outage
 
 Periodic maintenance or unexpected server outages on Apple's end can disrupt the functionality of the Apple ID. As a result, you experience temporary Apple ID grey-out issues. During such occurrences, users may experience difficulties accessing their Apple ID.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Finding the Proper Solutions to Apple ID Greyed Out \[Highly Effective\]
 
@@ -64,6 +69,10 @@ In some instances, the greying out of the Apple ID can be attributed to specific
 - **Step 2:** Now, navigate to "Account Changes" and ensure it is set to "Allow." Afterward, check if the Apple ID is working normally again.
 
 ![enable the account changes](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Checking Apple System Status Page
 
@@ -119,6 +128,10 @@ By contacting Apple's customer support, you can receive expert help. The support
 
 ![contact the apple support team](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Advanced Solution: Try Wondershare Dr.Fone Screen Unlock if the Previous Solutions Are Ineffective
 
 You have implemented all the methods mentioned above, and your **Apple ID greyed-out** issue is not resolved. It means you need a more efficient solution. [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is one of the most effective and solid solutions to fix the Apple ID greyed-out issue. Without resolving this problem, your Apple ID would be of no use; that is the main functional unit in your iOS devices.
@@ -126,8 +139,6 @@ You have implemented all the methods mentioned above, and your **Apple ID greyed
 Dr.Fone does this resolving procedure through its powerful Screen Time Passcode unlock feature. It is also a primary remedy to unlock the locked screen of your Apple devices. Moreover, this tool can [<u>bypass the iCloud activation lock</u>](https://drfone.wondershare.com/icloud/unlock-icloud-activation.html) and Apple ID without any password requirement. Through this Screen Unlock tool, you will be able to resolve your issue quickly and without any technical knowledge.
 
 ### Key Features of Wondershare Dr.Fone
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -154,12 +165,15 @@ You need to start the process by opening Wondershare Dr.Fone and moving towards 
 
 ![choose the screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - Step 2: Start the Unlocking Process and Connect Your iDevice
 
 You will find yourself in a list of options from where you need to continue with the "Unlock Screen Time Passcode" option. Next, connect your iOS device to the computer via a USB cable. Then, wait for Wondershare Dr.Fone to detect your Apple iPhone 12.
 
 ![tap unlock screen time passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Step 3: Unlock Your iDevice and Toggle off Find My Feature
 
@@ -172,8 +186,6 @@ After the connection, select the "Unlock Now" button to unlock your screen time 
 Throughout this article, we have explored the perplexing issue of the **Apple ID grayed out in settings**. It can hinder the smooth functioning of your iOS device and access to various Apple services. By going through the root causes behind this problem, we have outlined several solutions. These can help users address the issue and regain access to their Apple ID.
 
 We recommend that users diligently follow the steps provided in each solution. So that they can identify and rectify the specific cause of the problem. However, in cases where the issue persists, we highlighted the significance of using Wondershare Dr.Fone. It offers a specialized Screen Time Passcode Unlock feature. Moreover, this ensures the smooth operation of Apple ID and associated services.
-
-
 
 ## How To Unlink Apple ID From Apple iPhone 12
 
@@ -203,9 +215,6 @@ Before you **unlink an iPhone from Apple ID**, it's also essential to identify a
 
 - Tap on any device name to see its details. If it is the one you trust, you can use it to receive Apple ID verification codes. Then, tap **Remove from Account**.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove device from apple id account](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-03.jpg)
 
 How To Unlink Apple ID Settings From Mac?
@@ -223,18 +232,6 @@ Follow these steps below to use your macOS to remove the connected devices from 
 
 - From the **Devices**section, click the connected device you want to unlink. Click **Remove from Account**.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove device from account on mac](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-05.jpg)
 
 ## Part 2: How To Unlink Apple ID From iOS Devices Without a Password?
@@ -248,7 +245,6 @@ In the previous section, we've explored the standard method to remove an Apple I
 The tool guides you through the process, ensuring a seamless experience with a user-friendly interface and intuitive design. Let's delve into the step-by-step guide to discover **how to unlink Apple ID from iPhone** devices using Dr. Fone's - Screen Unlock tool.
 
 - **Step 1:** Download, set up, then launch Dr.Fone on your desktop. Use a USB cable to establish a connection between your Apple iPhone 12 and desktop.
-
 
 - **Step 2:** From the **Toolbox** homepage, select **Screen Unlock** and choose **iOS**.
 
@@ -282,6 +278,10 @@ The tool guides you through the process, ensuring a seamless experience with a u
 
 ![downloading firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 10:** Once the firmware is ready, click **Unlock Now**.
 
 ![ios firmware ready to use](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
@@ -297,7 +297,6 @@ The tool guides you through the process, ensuring a seamless experience with a u
 - **Step 13:** Click **Done**, then check your Apple iPhone 12 to see if the Apple ID has been removed.
 
 ![apple id unlocked on iphone](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
-
 
 ## Part 3: How To Unlink iPhone From Apple ID if the Apple iPhone 12 device Was Lost?
 
@@ -335,9 +334,6 @@ Indicate if the Apple iPhone 12 device was stolen.
 
 - **Step 3:** Tap **Erase**, enter your Apple ID password, and then tap **Erase** again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus Part: How To Unlink Apple Watch From Apple ID?
 
 There are several reasons to unpair an [<u>Apple Watch</u>](https://drfone.wondershare.com/ios-downgrade/how-to-downgrade-apple-watchos-10.html) from an Apple ID. Perhaps you're selling or giving away your Apple Watch or trading it in for a new one. Or maybe you only want to remove your Apple Watch from your Apple ID altogether.
@@ -356,19 +352,24 @@ Follow the unpairing process on the paired Apple iPhone 12 to remove the Activat
 
 - **Step 4:** Locate and tap the **information** icon adjacent to the name of your Apple Watch.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![all watches interface](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-07.jpg)
 
 - **Step 5:** Tap **Unpair Apple Watch**, then tap **Unpair Apple Watch**.
 
 ![unpair apple watch interface](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 6:** If you have a cellular Apple Watch, tap **Remove Cellular Plan**, and remember to reach your carrier to cancel your subscription.
 - **Step 7:** Provide your Apple ID password to deactivate the Activation Lock.
 
 ![enter apple id password to unpair](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 8:** Tap **Unpair** to confirm your action.
 
@@ -409,11 +410,13 @@ Before delving into methods for signing out of your Apple ID without a password,
 
 ![choose the sign out option](https://images.wondershare.com/drfone/article/2023/11/sign-out-apple-id-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Sign out of Apple ID without Password by Apple ID Unlocker
 
 If you have forgotten the password of your Apple ID and don't have a way to recover it, there is no need to panic. You can easily remove passwords from your iOS device using Wondershare [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). Its "[Remove Apple ID](https://drfone.wondershare.com/solutions/forgot-apple-id.html)" feature can effectively assist you in signing out of your Apple ID without requiring a password. This method provides a smooth solution for users facing issues related to forgotten passwords.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -451,7 +454,6 @@ Once you've confirmed these options, you'll be directed to a screen that present
 Upon the identification of the Apple iPhone 12 device Model, you will simply be prompted to choose the “System Version” and initiate the process by clicking on “Start.” Now, wait for the firmware to download, and once it is downloaded, click "Unlock Now." A confirmation window promptly emerges on the screen, prompting you to input a code for further progress. Enter the code and select “Unlock” to begin the process.
 
 ![hit the start button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
-
 
 ## Part 3: Sign Out of Apple ID Without Password by Resetting Your Apple ID Password
 
@@ -508,6 +510,10 @@ If you're unable to reset your Apple ID password on your own, you can seek assis
 
 ![choose a different apple id](https://images.wondershare.com/drfone/article/2023/11/sign-out-apple-id-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Provide your Apple ID, and if your Apple ID slips your mind, you can attempt using your email address or phone number instead. Proceed by tapping “Next,” and adhere to the step-by-step guidelines on the screen to reset your password.
 
 ![add the required details](https://images.wondershare.com/drfone/article/2023/11/sign-out-apple-id-8.jpg)
@@ -515,7 +521,6 @@ If you're unable to reset your Apple ID password on your own, you can seek assis
 ## Conclusion
 
 That wraps up our tips on **how to sign out of Apple ID without password**. No doubt, Apple products are probably the most secure devices on the planet, but it can become extremely challenging to access the features of your iDevice when you’ve forgotten the password. If that’s the case, make sure to follow the above-mentioned tactics to [sign out of the previous Apple ID](https://drfone.wondershare.com/solutions/forgot-apple-id.html) and create a new one to regain control over your iDevice.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -529,9 +534,21 @@ That wraps up our tips on **how to sign out of Apple ID without password**. No d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-effortless-earnings-channel-size-no-longer-a-challenge-for-2024/"><u>[Updated] Effortless Earnings Channel Size No Longer a Challenge for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-fix-blurry-facebook-videos-in-smartphones-and-chromebooks-for-2024/"><u>[Updated] Fix Blurry Facebook Videos in Smartphones & Chromebooks for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-cutting-edge-4k-panels-top-10-revealed-list/"><u>[Updated] In 2024, Cutting-Edge 4K Panels Top 10 Revealed List</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-what-to-pick-for-your-youtube-videos-ideal-formats-explored/"><u>[Updated] What to Pick for Your YouTube Videos? Ideal Formats Explored</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-discover-8-exceptional-tablets-that-outperform-filmoras-features/"><u>2024 Approved Discover 8 Exceptional Tablets That Outperform Filmora's Features</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-a54-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/descubriendo-la-magia-del-ahorro-en-almacenamiento-con-conversion-h264-h-265-para-videos-de-calidad-elevada-y-pequeno-tamano/"><u>Descubriendo La Magia Del Ahorro en Almacenamiento Con Conversión H.264-H. 265 Para Videos De Calidad Elevada Y Pequeño Tamaño</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-apple-iphone-8-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For Apple iPhone 8</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-iphone-13-pro-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From iPhone 13 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-14-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your iPhone 14</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-apple-iphone-7-plus-by-drfone-ios/"><u>How To Unlink Apple ID From Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-apple-iphone-se-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From Apple iPhone SE</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/premier-10-terraria-mods-for-superior-play-for-2024/"><u>Premier 10 Terraria Mods for Superior Play for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-xs-max-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone XS Max</u></a></li>
+</ul></div>
 

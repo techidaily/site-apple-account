@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove Apple iPhone 15 Pro Max Device from iCloud
-date: 2024-12-14T01:13:25.427Z
-updated: 2024-12-18T19:26:01.477Z
+date: 2024-12-18T23:51:18.071Z
+updated: 2024-12-19T21:48:53.421Z
 tags: 
   - unlock
   - remove apple account
@@ -20,15 +20,15 @@ Apple is known for developing its own unique operating system with its own dedic
 
 ![remove device from icloud](https://images.wondershare.com/drfone/article/2020/11/remove-device-from-icloud.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. What happens if I remove a device from my iCloud?
 
 If you look over the operation of iCloud service for any Apple device, the exemption of the service will lead you into losing access from a service that offers you a backing up feature along with synchronization. Furthermore, this will also affect the Find My service, leading you to make your device theft evasive. The removal of the Find My service makes it possible for thieves to wipe off data of the Apple iPhone 15 Pro Max device and have it sold across the market, with no chances of retrieval. Despite the removal of the iCloud service from your device, it will function normally; however, the security and tranquility offered by the Apple iPhone 15 Pro Max device would not remain intact with its exemption. The iCloud account that has been removed will keep the data that has been previously stored in it by the Apple iPhone 15 Pro Max device backup, but it would not accept any new addition.
 
 Whenever you consider removing the iCloud backup from the Apple iPhone 15 Pro Max device, it prompts over keeping the data on your device, if necessary. All the data that is not selected by the user will be removed from the iPhone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2. How to remove a device from iCloud remotely? (iPhone)
 
@@ -41,6 +41,10 @@ iCloud backup is usually important in keeping a synchronized model in effect acr
 **Step 3:** This opens up the list of devices that are connected across the account. Select the Apple iPhone 15 Pro Max device and tap “Remove from Account” to conclude. Proceed to confirmation of the process and have the Apple iPhone 15 Pro Max device removed successfully from the iCloud account.
 
 ![remove the Apple iPhone 15 Pro Max device](https://images.wondershare.com/drfone/article/2020/11/remove-the-device.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. How to remove a device from iCloud? (Mac)
 
@@ -85,10 +89,6 @@ Following this, you need to select the “Unlock Apple ID” option from the nex
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Operating your Device**
 
 As soon as the process initiates, you need to take up your device and open it up to “Trust” the computer for proceeding. Open the Settings of your Apple device and initiate a reboot.
@@ -102,7 +102,7 @@ Once the reboot executes, the platform automatically recognizes and initiates th
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -126,10 +126,6 @@ When you create an Apple ID or set up a new device, Apple prompts you to choose 
 The security questions associated with your Apple ID serve a critical role. They perform a pivotal role in ensuring the security and confidentiality of your digital presence. Numerous modern authentication techniques, such as biometrics, offer a strong layer of safeguarding.
 
 Nonetheless, there might be instances where you require reentry to your account, such as in cases of forgotten passwords. In such scenarios, security questions serve as a vital lifeline, enabling you to authenticate your identity and regain control of your Apple ID.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Purpose of Security Questions
 
@@ -162,6 +158,10 @@ Resetting your Apple ID security questions through your account settings is a st
 
 - **Step 3.** After adding your new security questions and answers, click the "Update" button. To complete the process, you will need to verify your identity by entering your Apple ID password.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pro Tip: What if Your Apple ID Got Locked? Unlock It With the Best Solution
 
 So, you've been following our ultimate guide to reset your Apple ID security questions. However, you hit a roadblock – your Apple ID is locked. It happens many times that people [<u>forget their Apple ID passcode </u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) or get their Apple ID locked due to various reasons. In such cases, there is no need to panic that you are now unable to unlock the ID and access your important data.
@@ -171,7 +171,7 @@ This is because we have an excellent solution that can help you regain access to
 Using this tool, users are able to [<u>bypass the iCloud activation lock</u>](https://drfone.wondershare.com/apple-account/bypass-activation-lock-on-ipad.html) and Apple ID without a password to use it as per their need. Moreover, they can also [<u>Bypass MDM </u>](https://drfone.wondershare.com/unlock/apple-mdm.html) and screen time without data loss, which is a plus point of this unique tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Features of Wondershare Dr.Fone
@@ -179,6 +179,10 @@ Using this tool, users are able to [<u>bypass the iCloud activation lock</u>](ht
 1. This tool is compatible with the latest iPhone 15 models and all iOS versions, including iOS 17.
 2. No technical skill is required to use this tool because of its easy-to-use interface.
 3. 6-digit passcode, Touch ID, Face ID, and various screen locks can be removed in no time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps To Unlock Apple ID Without Password via Wondershare Dr.Fone
 
@@ -195,10 +199,6 @@ Begin the unlocking process of Apple ID by installing and launching Dr.Fone's la
 Afterward, hit the "Remove Apple ID" option and tap the "Unlock Now" button in the next window. Proceeding ahead, the platform will ask you some questions which you will need to answer. However, it is necessary to ensure that your Apple iPhone 15 Pro Max has "Screen Lock" and "2FA" enabled.
 
 ![proceed with remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - Step 3: Enable Recovery Mode and Choose System Version
 
@@ -228,10 +228,6 @@ Apple offers multiple avenues for users to perform essential security protocol c
 
 ![add new security questions](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-security-questions-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: How To Reset the Apple ID Questions by Contacting the Customer Support
 
 Contact Apple's Customer Support if you have failed to reset your Apple ID security questions. They are well-equipped to assist with a wide range of device-related problems. You can use the following guide on **how to reset the security questions on Apple ID** via Apple Customer Support:
@@ -245,7 +241,7 @@ Contact Apple's Customer Support if you have failed to reset your Apple ID secur
 ![contact the apple support](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-security-questions-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -253,10 +249,6 @@ Contact Apple's Customer Support if you have failed to reset your Apple ID secur
 To summarize, we've explored the importance of Apple ID security questions. We provided you with different ways on **how to reset the security questions on Apple ID**. The article highlighted the significance of security in the Apple ecosystem. It also explained the role security questions play in protecting your account.
 
 We discussed the various reasons why you might want to reset your Apple ID security questions. You learned how to reset your security questions through your Apple ID account settings and via the iForgot website. Additionally, we introduced Wondershare Dr.Fone as a reliable solution for unlocking your Apple ID. Dr.Fone offers a user-friendly interface, a high success rate, and the ability to [<u>resolve various iOS device issues</u>](https://drfone.wondershare.com/iphone-problems/iphone-13-not-receiving-call-issue.html).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Apple Account Disabled On your Apple iPhone 15 Pro Max? How to Fix
 
@@ -309,6 +301,10 @@ With the home window on your front, you are required to tap on the 'Screen Unloc
 
 ![select-the-option-of-screen-unlock](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Trust the Computer and Access Device Settings**
 
 Over the Apple Device, you need to select the option of “Trust” over the prompt that is received on the phone. Following this, you need to open the “Settings” of your device and initiate a reboot of your Apple device.
@@ -338,7 +334,7 @@ As you proceed with the verification, there are several personal details that ar
 ![enter-your-phone-number](https://images.wondershare.com/drfone/article/2020/11/how-to-fix-apple-account-disabled-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Use the Verification Code**
@@ -346,6 +342,10 @@ As you proceed with the verification, there are several personal details that ar
 The platform will send a verification code that would allow you to unlock your device with the Recovery Key that is offered. Tap on "Unable to access your \[device\]"? to allow the platform to send a six-digit verification to the phone number that is attached to the Apple ID. You can simply use it along with the Apple ID password to unlock your account.
 
 ![insert-your-verification-code](https://images.wondershare.com/drfone/article/2020/11/how-to-fix-apple-account-disabled-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -365,20 +365,19 @@ This article has provided you a detailed guide over the existing reasons that wo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ultimate-windows-recordings-made-simple/"><u>[New] 2024 Approved Ultimate Windows Recordings Made Simple</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-guide-to-music-copyright-etiquette-on-ig/"><u>[New] The Ultimate Guide to Music Copyright Etiquette on IG</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-crafting-captivating-stories-15-best-snapchat-techniques/"><u>[Updated] 2024 Approved Crafting Captivating Stories 15 Best Snapchat Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-bring-a-smile-with-adobe-creations/"><u>[Updated] Bring a Smile with Adobe Creations</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-effortless-earnings-channel-size-no-longer-a-challenge/"><u>[Updated] In 2024, Effortless Earnings Channel Size No Longer a Challenge</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-apple-iphone-12-pro-max-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On Apple iPhone 12 Pro Max How to Bypass?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-15-pro-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 15 Pro</u></a></li>
-<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-se-2020-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-iphone-8-device-from-icloud-by-drfone-ios/"><u>How to Remove iPhone 8 Device from iCloud</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone 7 Plus</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-iphone-se-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From iPhone SE? 5 Tips You Must Know</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/say-goodbye-to-lost-remotes-introducing-the-ultimate-solution-every-roku-enthusiast-deserves-featured-on-zdnet/"><u>Say Goodbye to Lost Remotes: Introducing the Ultimate Solution Every Roku Enthusiast Deserves, Featured on ZDNet</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-guide-to-softening-volume-levels-on-lumafusion-for-2024/"><u>The Guide to Softening Volume Levels on Lumafusion for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-iphone-13-pro-max-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On iPhone 13 Pro Max</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harness-the-power-of-youtube-shorts-expert-filming-and-editing-techniques-for-2024/"><u>[New] Harness the Power of YouTube Shorts Expert Filming and Editing Techniques for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-artistry-at-heart-best-10-free-easy-mac-drawers-for-2024/"><u>[Updated] Artistry at Heart Best 10 Free, Easy Mac Drawers for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-from-idea-to-rss-producing-a-podcast-feed/"><u>[Updated] From Idea to RSS Producing a Podcast Feed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-keeping-track-of-your-google-voice-conversations/"><u>[Updated] Keeping Track of Your Google Voice Conversations</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-11-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-premier-wearables-elite-smartwatches-of-2024/"><u>Discover the Premier Wearables: Elite Smartwatches of 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-11-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-iphone-14-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From iPhone 14 Plus? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-flight-to-fun-mavic-airs-showdown-with-spark/"><u>In 2024, From Flight to Fun Mavic Air's Showdown with Spark</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-13-mini-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone 13 mini without Apple ID?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-iphone-7-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on iPhone 7</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-motorola-moto-g13-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Motorola Moto G13 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-realme-c51-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Realme C51 Location | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Your Apple ID Password and Email From iPhone 15 Pro? Heres the Best Fixes
-date: 2024-12-15T16:03:36.934Z
-updated: 2024-12-19T08:25:00.917Z
+date: 2024-12-14T03:37:54.105Z
+updated: 2024-12-19T16:33:51.978Z
 tags: 
   - unlock
   - remove apple account
@@ -30,6 +30,10 @@ One of the quickest remedies for a misplaced Apple ID password involves starting
 
 ![tap sign in and security](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Opt for "Change Password," input your current iDevice password, and enter your new Apple ID password. Confirm the new password and finalize the process by tapping "Change Password."
 
 ![choose the change password option](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-2.jpg)
@@ -52,17 +56,9 @@ Have resetting the Apple ID password from the settings on your iOS device or Mac
 
 ![tap on the reset password button](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2.** You will receive a confirmation code on one of your trusted Apple devices by proceeding to the next screen. Tap “Allow” on the confirmation pop-up, and you will be redirected to enter your trusted Apple device passcode. This will allow you to set a new password for your Apple ID.
 
 ![enter idevice old password](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Way 3: Reset Apple ID Password Using the Apple Support App
 
@@ -167,6 +163,10 @@ Suppose you need to **remove your Apple ID from your Mac** but don't know to do 
 
 ![remove apple id from mac](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-apple-id-from-your-mac-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Why Delete Apple ID and iCloud Account?
 
 There are as many reasons to leave the Apple ecosystem as why you should join it. Apple devices are known for security, but it also means that you have less control over their settings. It is also a closed ecosystem that forces you to limit yourself to a specific set of apps and services. Some of the reasons why people might want to **remove their Apple ID from their MacBook** are the following:
@@ -194,17 +194,9 @@ The process of removing Apple ID from a Mac is easy and quick. Before removing t
 
 ![select the data to copy](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-apple-id-from-your-mac-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** On the next window, it will ask you to provide your Apple ID password. Provide the password to complete the process of removing your Apple ID from your Mac.
 
 ![add the apple id password](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-apple-id-from-your-mac-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus Tip: How to Remove Apple ID from iPhone/iPad Without Knowing the Password?
 
@@ -220,7 +212,7 @@ With Dr.Fone - Screen Unlock (iOS), you can remove the Apple ID from your Apple 
 - It can also unlock SM Lock or Carrier Lock on your Apple iPhone 15 Pro. That allows you to use your Apple iPhone 15 Pro freely if you want to travel internationally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steps to use Dr.Fone - Screen Unlock (iOS) for Removing Apple ID
@@ -269,13 +261,13 @@ Below are the potential culprits if **an error is connected to the Apple ID serv
 
 Periodic disruptions in Apple servers can lead to the "**Apple ID verification failed**" issue. These may occur due to routine maintenance or unexpected server outages.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The Internet Connection Is Not Working
 
 The problem may also stem from a disrupted internet connection. You should investigate your Wi-Fi or cellular data to ensure a stable connection. Restarting routers or switching to an alternative network can also help.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Problems With Apple ID
 
@@ -289,23 +281,19 @@ The device's date and time settings must be accurate to establish a secure conne
 
 The section below provides user-friendly fixes tailored to ease frustration and restore seamless connectivity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check Apple's Servers
 
 The initial step is to investigate the status of Apple's servers. Server outages or scheduled maintenance can be the culprits behind the connectivity hiccup. Head to Apple's [<u>service status page</u>](https://www.apple.com/support/systemstatus/) for real-time updates on server conditions.
 
 ![apple service status page](https://images.wondershare.com/drfone/article/2023/11/error-connecting-to-apple-id-03.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Check Your Network Connection
 
 A fundamental yet crucial solution is to examine your network connection. Instabilities in Wi-Fi or cellular data can impede communication with Apple's servers. Ensure a stable connection and troubleshoot any disruptions, considering a switch to an alternative network. You can [<u>follow this guide </u>](https://drfone.wondershare.com/device-diagnostics/check-mobile-signal-stength.html) to check your network signal.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Set Up Another Admin User Account (for macOS Users)
 
@@ -316,6 +304,10 @@ Creating a new admin user account can serve as a strategic move for macOS users.
 ![setting up another admin account](https://images.wondershare.com/drfone/article/2023/11/error-connecting-to-apple-id-04.jpg)
 
 - **Step 2:** Click the lock icon and enter your admin password. Click the **+** or **Add User…** button to add a new user, selecting **Administrator** as the account type. Log in to the new account and check if the issue persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Update Your iOS or macOS Software
 
@@ -337,10 +329,6 @@ Booting your Mac in [<u> Safe Mode</u>](https://drfone.wondershare.com/android-t
 ### Restart Your Apple Device
 
 A classic yet effective solution is to restart your Apple device. This simple action refreshes system processes and can resolve various connectivity issues. Power off your device and turn it back on to initiate a clean start.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Sign Out and Sign Back Into Your Apple ID Account
 
@@ -366,10 +354,6 @@ Inaccurate date and time settings on your device can lead to authentication fail
 
 ![date and time settings](https://images.wondershare.com/drfone/article/2023/11/error-connecting-to-apple-id-08.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you've tried all the above and you're still getting the error connecting to the Apple ID server, you may want to consider using [<u>Wondershare Dr.Fone - Screen Unlock</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). It is a powerful tool that can help you bypass the Apple ID lock screen on your Apple iPhone 15 Pro, iPad, or iPod touch.
 
 ## Part 3: A More Comprehensive Solution: Use a Professional Third-Party Software
@@ -377,6 +361,10 @@ If you've tried all the above and you're still getting the error connecting to t
 Wondershare Dr.Fone is renowned for its versatile features. The platform's Screen Unlock function is designed to address Apple ID-related challenges. What's more, Dr.Fone is compatible with various iOS versions. It ensures its applicability across a broad range of devices. Its user-friendly interface makes it accessible for both novice and experienced users.
 
 ![dr.fone main interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -396,6 +384,10 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - **MDM bypass without data loss.**Fone goes beyond standard capabilities by enabling users to [<u>bypass Mobile Device Management (MDM) without data loss</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html). This function is crucial for corporate settings or individuals managing multiple devices.
 - **Effortless process.**Simplifying the user experience, Dr.Fone offers straightforward steps for the unlocking process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step-by-Step Guide on Using Dr.Fone - Screen Unlock
 
 Below are the steps to use Dr.Fone - Screen Unlock.
@@ -410,9 +402,17 @@ Below are the steps to use Dr.Fone - Screen Unlock.
 
 ![dr.fone unlock now window](https://images.wondershare.com/drfone/guide/bypass-activation-lock-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Upon completion of the process, a confirmation message will be displayed on the window. Click the **Done** button to finalize the unlocking of the Activation Lock.
 
 ![dr.fone unlock process successful window](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -434,18 +434,21 @@ If the **Apple ID verification failed** error persists, reaching out to Apple Su
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-fan-favorite-films-reimagined-7-replacements/"><u>[New] In 2024, Fan-Favorite Films Reimagined - #7 Replacements</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-tips-and-tricks-for-professional-gamers-on-youtube/"><u>[Updated] In 2024, Tips & Tricks for Professional Gamers on Youtube</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-navigate-10-top-free-web-explorers-for-remote-collaboration-for-2024/"><u>[Updated] Navigate 10 Top Free Web Explorers for Remote Collaboration for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-tutorial-for-mapping-shared-drives-in-the-macos-environment/"><u>Comprehensive Tutorial for Mapping Shared Drives in the macOS Environment</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-an-immersive-scrolling-journey-on-vision-pro-as-it-embraces-tiktoks-dynamic-features-zdnet-insight/"><u>Discover an Immersive Scrolling Journey on Vision Pro as It Embraces TikTok's Dynamic Features | ZDNET Insight</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-transforming-mp4-to-avi-format-with-ease-movavi/"><u>Free Online Conversion: Transforming MP4 to AVI Format with Ease - Movavi</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-nokia-130-music-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Nokia 130 Music Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-13-pro-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone 13 Pro?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-iphone-15-pro-max-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From iPhone 15 Pro Max in the Best Ways</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-se-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your Apple iPhone SE</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y27 5G To Phone | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone XS Max</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-hastening-social-media-sharing-between-fb-and-tiktok/"><u>[New] 2024 Approved Hastening Social Media Sharing Between FB and TikTok</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-a-guide-to-crafting-engaging-videos-in-adobe-premiere-for-2024/"><u>[New] A Guide to Crafting Engaging Videos in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-essential-skills-for-capturing-soundless-videography/"><u>[New] Essential Skills for Capturing Soundless Videography</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-step-by-step-guide-to-framing-youtube-content-for-free/"><u>[Updated] In 2024, Step-By-Step Guide to Framing YouTube Content for Free</u></a></li>
+<li><a href="https://win11.techidaily.com/convenient-control-of-deletion-popups-in-windows/"><u>Convenient Control of Deletion Popups in Windows</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-iphone-11-pro-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From iPhone 11 Pro? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-x-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone X</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-iphone-se-2020-device-from-icloud-by-drfone-ios/"><u>How to Remove Apple iPhone SE (2020) Device from iCloud</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-iphone-12-mini-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From iPhone 12 mini without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-iphone-13-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On iPhone 13 Pro? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-12-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone 12 Pro Max Apple ID and Apple Pay</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-honor-magic-5-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Honor Magic 5 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-best-of-the-best-top-rated-free-mpeg-video-splitting-tools-for-2024/"><u>New Best of the Best Top-Rated Free MPEG Video Splitting Tools for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996117730-origin-game-platform-wont-start-on-windows-11-solution-found/"><u>Origin Game Platform Won't Start on Windows 11 – Solution Found</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-13-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 13 Making It Possible</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-oppo-reno-10-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Oppo Reno 10 Pro 5G</u></a></li>
 </ul></div>
 
