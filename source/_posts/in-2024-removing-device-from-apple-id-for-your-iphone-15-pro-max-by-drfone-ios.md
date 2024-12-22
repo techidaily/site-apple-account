@@ -1,7 +1,7 @@
 ---
 title: In 2024, Removing Device From Apple ID For your iPhone 15 Pro Max
-date: 2024-12-15T03:57:25.694Z
-updated: 2024-12-19T20:47:23.869Z
+date: 2024-12-18T21:52:36.337Z
+updated: 2024-12-21T16:55:59.170Z
 tags: 
   - unlock
   - remove apple account
@@ -50,10 +50,6 @@ The first and most straightforward technique of removing devices from Apple ID i
 
 ![hit the remove account button](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-a-device-from-apple-id-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Using a Mac
 
 You can also try using your Mac to remove a particular device from your Apple ID. To do that perfectly, it is best to use the following steps as a guide for removing the Apple iPhone 15 Pro Max device:
@@ -94,9 +90,17 @@ iCloud can be another source to **remove devices from Apple ID.** To know how th
 
 ![access find my feature](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-a-device-from-apple-id-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** You will find yourselves on a new screen where you have to click the "All Devices" option. Select the Apple iPhone 15 Pro Max device that you wish to remove to open a new screen. Select the "Remove from Account" option to remove the Apple iPhone 15 Pro Max device from the Apple ID.
 
 ![select remove from account option](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-a-device-from-apple-id-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Bonus Tips: Forgot Your Apple ID Password? Here's What To Do
 
@@ -121,10 +125,6 @@ We will now shift to knowing more about how to bypass Apple ID from a device who
 To start the process, it is best to download and install the latest version of Wondershare Dr.Fone on your computer. As it launches, continue to select "Screen Unlock" from the options.
 
 ![select screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2: Proceed to Remove the Apple ID**
 
@@ -174,6 +174,10 @@ You have learned proper techniques for removing devices from your Apple ID in th
 
 Apple is one of the leading smartphone developing enterprises that has introduced the world to a contemporary set of features that are not common among other leading smartphone companies. One of the major distinguishing characteristics of Apple has been displayed in its present security protocols. Apple Account is regarded as one of the most significant credentials of the Apple iPhone 15 Pro Max and iPad that is responsible for connecting and holding the applications and the assorted data. Many users have generally reported unusual situations that got their Apple Account disabled. There are several reasons that can be associated with the Apple account getting disabled. The major repercussion that is associated with it is unnecessary data loss following the suspension of all products that have been bought with the account over time. This article provides you an impressive overview of the major reasons that lead to your Apple Account getting disabled, followed by the associated mechanisms that can be tested to secure the account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. Why is the Apple account disabled?
 
 Apple iPhone, iPad, and other devices operate over a single Operating System, with its own protocols and unique mechanisms that distinguish it from other smartphone models in the market. Apple believes in securing the data and identification of its users with its state-of-the-art security measures. Under such circumstances, it usually gets possible for the user to have his Apple account disabled unnecessarily. Whenever you encounter such a situation, there are several messages that might be displayed on your device to prompt you over the disabling of the account. These messages usually appear in situations where you intend to sign in to some platform with your associated Apple ID. The most common messages that appear on the screen are:
@@ -197,6 +201,10 @@ Even though Apple accounts can be generally disabled overpayment issues, there a
 ## Part 3. 2 tips to Unlock Disabled Apple Account
 
 As this article provides you a detailed overview of the reasons that lead to your Apple Account getting disabled, this article also considers providing you a few tips and tricks that would guide you in efficiently unlocking your Apple Account and use it with ease.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Unlock disabled Apple account with Dr. Fone
 
@@ -249,19 +257,11 @@ As you proceed with the verification, there are several personal details that ar
 
 ![enter-your-phone-number](https://images.wondershare.com/drfone/article/2020/11/how-to-fix-apple-account-disabled-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Use the Verification Code**
 
 The platform will send a verification code that would allow you to unlock your device with the Recovery Key that is offered. Tap on "Unable to access your \[device\]"? to allow the platform to send a six-digit verification to the phone number that is attached to the Apple ID. You can simply use it along with the Apple ID password to unlock your account.
 
 ![insert-your-verification-code](https://images.wondershare.com/drfone/article/2020/11/how-to-fix-apple-account-disabled-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -297,10 +297,6 @@ Before you **unlink an iPhone from Apple ID**, it's also essential to identify a
 
 ![remove device from apple id account](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-03.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 How To Unlink Apple ID Settings From Mac?
 
 Follow these steps below to use your macOS to remove the connected devices from your Apple ID.
@@ -315,7 +311,7 @@ Follow these steps below to use your macOS to remove the connected devices from 
 ![sign out apple id on mac](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - From the **Devices**section, click the connected device you want to unlink. Click **Remove from Account**.
@@ -342,21 +338,17 @@ The tool guides you through the process, ensuring a seamless experience with a u
 
 ![dr.fone screen unlock tools](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4:** Click **Unlock Now** to continue.
 
 ![dr.fone unlock connected device](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 5:** Click **Yes** to confirm you have a screen lock on your Apple iPhone 15 Pro Max.
 
 ![confirm iphone screen lock set up](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Click **Yes** to confirm you have enabled the [<u>two-factor authentication</u>](https://drfone.wondershare.com/remove-apple-account/remove-apple-two-factor-authentication.html) on your Apple iPhone 15 Pro Max.
 
@@ -382,9 +374,17 @@ The tool guides you through the process, ensuring a seamless experience with a u
 
 ![warning dialogue box](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 12:** Wait while the app is unlocking the Apple ID. Refrain from using your device while connected to your desktop.
 
 ![unlocking apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 13:** Click **Done**, then check your Apple iPhone 15 Pro Max to see if the Apple ID has been removed.
 
@@ -426,10 +426,6 @@ Indicate if the Apple iPhone 15 Pro Max device was stolen.
 
 - **Step 3:** Tap **Erase**, enter your Apple ID password, and then tap **Erase** again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bonus Part: How To Unlink Apple Watch From Apple ID?
 
 There are several reasons to unpair an [<u>Apple Watch</u>](https://drfone.wondershare.com/ios-downgrade/how-to-downgrade-apple-watchos-10.html) from an Apple ID. Perhaps you're selling or giving away your Apple Watch or trading it in for a new one. Or maybe you only want to remove your Apple Watch from your Apple ID altogether.
@@ -447,7 +443,7 @@ Follow the unpairing process on the paired Apple iPhone 15 Pro Max to remove the
 ![apple watch app interface](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-06.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 4:** Locate and tap the **information** icon adjacent to the name of your Apple Watch.
@@ -476,6 +472,10 @@ You can erase your Apple Watch without the paired iPhone, but the Activation Loc
 
 - **Step 3:** Tap **Erase All** to restore your Apple Watch to its factory settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 There are several ways to unlink your Apple ID from your Apple iPhone 15 Pro Max or iPad. The best way to do it depends on your situation and available iOS device. Whichever your reason is, understanding **how to unlink Apple ID from iPhone** and other iOS devices is crucial.
@@ -496,19 +496,22 @@ If you unfortunately encounter any challenges during the process, you can seek a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-choreographing-attractive-podcast-briefs/"><u>[Updated] Choreographing Attractive Podcast Briefs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banish-phasmophobia-crashing-glitches-tips-and-troubleshooting/"><u>Banish Phasmophobia Crashing Glitches : Tips and Troubleshooting</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bypass-the-wait-utilize-chatgpt-without-an-account-here-are-5-ways/"><u>Bypass the Wait: Utilize ChatGPT Without an Account Here Are 5 Ways</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-iphone-15-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From iPhone 15</u></a></li>
-<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-iphone-14-plus-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect iPhone 14 Plus and iPad</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-nubia-by-drfone-android/"><u>In 2024, How to Bypass FRP from Nubia?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-apple-iphone-6-plus-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your Apple iPhone 6 Plus Apple ID on MacBook</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-iphone-15-pro-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On iPhone 15 Pro</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-14-plus-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone 14 Plus and iPad</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-asus-rog-phone-7-ultimate-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Asus ROG Phone 7 Ultimate Phone FRP Lock</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-home-internet-why-the-linksys-max-stream-ac11900-is-ideal-for-you/"><u>Mastering Home Internet: Why the Linksys Max-Stream AC1([1900] Is Ideal for You)</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-apple-iphone-15-plus-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-ultimate-guide-to-linking-fb-stories/"><u>[New] In 2024, The Ultimate Guide to Linking FB Stories</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-joint-creative-endeavors-between-brands-and-youtube/"><u>[New] Joint Creative Endeavors Between Brands & YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-list-of-coolest-mc-homes-designed-for-2024/"><u>[New] The Ultimate List of Coolest MC Homes Designed for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-hastenothalt-slowmotion-tape/"><u>[Updated] In 2024, HasteNotHalt SlowMotion Tape</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-lg-360-camera-full-review-2023-update/"><u>2024 Approved LG 360 Camera Full Review -2023 Update</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/americas-favorite-language-study-choices/"><u>America's Favorite Language Study Choices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-apple-iphone-6-plus-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On Apple iPhone 6 Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/crafting-a-jujutsu-kaisen-tiktok-challenge/"><u>Crafting a Jujutsu Kaisen TikTok Challenge</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ending-the-headache-correcting-minecrafts-unexpected-shutdowns-by-improving-your-graphics-drivers-in-windows/"><u>Ending the Headache: Correcting Minecraft's Unexpected Shutdowns by Improving Your Graphics Drivers in Windows</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-14-plus-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone 14 Plus?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On Apple iPhone X</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-iphone-15-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On iPhone 15?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-apple-iphone-14-pro-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From Apple iPhone 14 Pro in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-alternatives-to-powerdirector-top-mobile-video-editing-software/"><u>Updated In 2024, Alternatives to PowerDirector Top Mobile Video Editing Software</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-6-plus-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On iPhone 6 Plus?</u></a></li>
 </ul></div>
 

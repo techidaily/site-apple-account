@@ -1,7 +1,7 @@
 ---
 title: How to Erase an iPhone 11 Pro without Apple ID?
-date: 2024-07-14T13:11:45.512Z
-updated: 2024-07-15T13:11:45.512Z
+date: 2024-12-14T22:28:52.629Z
+updated: 2024-12-21T23:37:28.956Z
 tags: 
   - unlock
   - remove apple account
@@ -49,14 +49,19 @@ After the installation is done completely, launch the tool and select the “Scr
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Boot your device into Recovery/DFU Mode**
 
 You now have to boot your Apple iPhone 11 Pro or iPad device into Recovery mode or DFU mode so that the software can recognize your device for further process. For your convenience, Dr. Fone Screen Unlock (iOS) has a built-in instruction facility that helps you to follow the steps.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ios unlock 2 2](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4: Confirm the information and download firmware**
 
@@ -89,6 +94,10 @@ Hold down the keys until you see the message on your iTunes screen about “your
 **Step 3:** Once done, click on “Ok” and choose the “Restore iPhone” option. Confirm your actions, and you’re done.
 
 ![erase a iphone without apple id 2](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. How to erase an iPhone without Apple ID via Settings
 
@@ -184,6 +193,10 @@ The following steps show **how to remove activation lock without previous owner 
 
 ![remove activation lock](https://images.wondershare.com/drfone/article/2022/10/remove-activation-lock-without-previous-owner-apple-watch-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4.** Continue further, make a payment, and place your request.
 
 In a couple of days, you will get an email saying that your Apple Watch is unlocked and you can utilize it.
@@ -198,10 +211,11 @@ To dispose of Activation Lock on Apple Watch with a past user, you can:
 
 **Step 3.** Click on All Devices at the top and pick your Apple Watch from the rundown.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icloud unlock](https://images.wondershare.com/drfone/article/2022/10/remove-activation-lock-without-previous-owner-apple-watch-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4.** Click the Erase Apple Watch choice on the following screen and Remove from Account.
 
@@ -221,9 +235,6 @@ Connect your device to the PC through a lightning connector. Then click the "iCl
 
 **Step 2.** Before bypassing the activation lock, please select "Start".
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select start](https://images.wondershare.com/drfone/guide/bypass-activation-lock-2.png)
 
 **Step 3.** After the phone in the "start" page, Dr.Fone will bypass the activation lock according to 2 sorts of iPhone devices, GSM and CDMA.
@@ -232,10 +243,11 @@ Connect your device to the PC through a lightning connector. Then click the "iCl
 
 _(GSM with all normal functions)_
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![gsm with all normal functions](https://images.wondershare.com/drfone/guide/bypass-activation-lock-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![gsm with all normal functions](https://images.wondershare.com/drfone/guide/bypass-activation-lock-6.png)
 
@@ -253,10 +265,17 @@ And with this image, you will know the activation lock is bypassed.
 
 ![activation lock is bypassed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
 Bypassing the Apple Watch activation lock could appear to be unthinkable at first. However, there are strategies to bypass this lock on your Watch. We trust the above strategies will unlock your Watch, and you can utilize it with your Apple account. If you want to remove the activation lock on your Apple iPhone 11 Pro or iPad, free download Dr.Fone - Screen Unlock (iOS) to have an attempt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Remove the Two Factor Authentication On Apple iPhone 11 Pro
 
@@ -298,6 +317,10 @@ Moreover, there is one important key point to note: Apple has removed the featur
 
 Besides all these reasons, there is still some good news for those who want to **remove the two-factor authentication iPhone** to use other security options. The good news is that Apple allows users to remove 2FA for a limited time after activation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How To Remove the Two-Factor Authentication Within 14 Days
 
 As explained in the last part, Apple has made removing the 2FA option from Apple ID challenging for several security reasons. Thus, if you want to remove 2FA from your Apple ID, you have only 14 days after activating this feature. To understand **how to disable iCloud two-factor authentication** within this given time, check the following steps:
@@ -305,9 +328,6 @@ As explained in the last part, Apple has made removing the 2FA option from Apple
 - **Step 1.** Once you have activated the 2FA feature, your 14-day grace period will start eventually. To deactivate this, open the enrollment email you received from Apple regarding 2FA on your Apple ID.
 - **Step 2.** Scroll to the bottom of this email and select the link or button to return to your account security & settings section. There, follow the on-screen instructions to deactivate the 2FA of your Apple ID.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![deactivate two factor authentication](https://images.wondershare.com/drfone/article/2023/10/remove-two-factor-authentication-2.jpg)
 
 ## Part 4: iPhone Apple ID Got Locked? Here’s a Reliable Tool To Get It Unlocked Without Passcode
@@ -332,7 +352,6 @@ Initiate the process by accessing Wondershare Dr.Fone's latest version on your c
 
 ![proceed with screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - Step 2. Make Sure That the Apple iPhone 11 Pro Is Connected to the Computer
 
 Then, connect your Apple iPhone 11 Pro to your computer using a USB cable so that you can see its connectivity status. Once the status is displayed on a new window, hit the "Unlock Now" button to proceed. Answer some questions that are asked by the platform, and with this, ensure that your device's "Screen Lock" and "Two-Factor Authentication" are enabled or disabled.
@@ -351,14 +370,15 @@ The respective iOS firmware will download according to the Apple iPhone 11 Pro d
 
 ![press the unlock now button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 With this, we hope you understand how to **disable iCloud two-factor authentication**. However, remember that doing this is only possible within 14 days of a grace period. If this period is over, you cannot remove 2FA from your Apple ID.
 
 Moreover, if you have locked your Apple ID passcode, using Wondershare Dr.Fone to unlock it can be the perfect option. While using this tool, you also don't have to worry about screen locks on different iOS devices. This is because the innovative algorithms integrated in this tool make it easier to use for unlocking the Apple ID or [<u>screen lock</u>](https://tools.techidaily.com/wondershare/drfone/unlock-android-screen/).
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -372,9 +392,19 @@ Moreover, if you have locked your Apple ID passcode, using Wondershare Dr.Fone t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-blocking-unwanted-youtube-channels-pc-and-mobile-edition/"><u>[New] 2024 Approved Blocking Unwanted Youtube Channels PC & Mobile Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-comprehensive-guide-to-zoom-screen-casts/"><u>[New] The Comprehensive Guide to Zoom Screen Casts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-innovative-strategies-for-top-10-ig-grid-design-software/"><u>[Updated] 2024 Approved Innovative Strategies for Top 10 IG Grid Design Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-from-words-to-memos-iphone-sound-guide/"><u>[Updated] From Words to Memos IPhone Sound Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-breaking-free-from-the-old-a-complete-step-by-step-guide-to-updating-your-tiktok-avatar/"><u>[Updated] In 2024, Breaking Free From the Old A Complete, Step-By-Step Guide to Updating Your TikTok Avatar</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-iphone-11-pro-without-password-by-drfone-ios/"><u>How to Remove Apple ID from iPhone 11 Pro without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-iphone-xr-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock iPhone XR When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-apple-iphone-13-pro-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On Apple iPhone 13 Pro? 5 Tips You Must Know</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-transform-your-videos-easy-editing-with-microsoft-video-editor-on-windows-for-2024/"><u>New Transform Your Videos Easy Editing with Microsoft Video Editor on Windows for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/start-saving-with-reddit-today-13-easy-and-effective-strategies-no-experience/"><u>Start Saving with Reddit Today - 13 Easy & Effective Strategies (No Experience)</u></a></li>
+</ul></div>
 
