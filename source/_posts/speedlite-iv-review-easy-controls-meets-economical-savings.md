@@ -1,7 +1,7 @@
 ---
 title: "Speedlite IV Review: Easy Controls Meets Economical Savings"
-date: 2024-12-20T21:24:02.731Z
-updated: 2024-12-21T23:04:59.971Z
+date: 2024-12-20T23:40:51.421Z
+updated: 2024-12-26T16:43:18.229Z
 categories:
   - BestProducts
 description: "This Article Describes Speedlite IV Review: Easy Controls Meets Economical Savings"
@@ -12,10 +12,6 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 ## HERO7 Black Review: Cutting Edge Technology Meets Adventure
 
 4.3
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## GoPro HERO7 Black
 
@@ -43,10 +39,6 @@ Lifewire / Jeff Dojillo
 [View On Amazon $374](https://www.amazon.com/dp/B07GDGZCCH?tag=lifewire-onsite-prod-20&ascsubtag=4705929%7Cnde50fad4b8a24784badd8dc01044b4ab22%7CB07GDGZCCH) [View On Best Buy $250](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2F6283807.p) [View On Musiciansfriend.com](https://www.musiciansfriend.com/pro-audio/gopro-hero7-black/l43176000000000?slfpid=3)
 
 4.3
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## GoPro HERO7 Black
 
@@ -84,7 +76,7 @@ Lifewire / Jeff Dojillo
  Lifewire / Jeff Dojillo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Classic action camera design**
@@ -104,7 +96,7 @@ Lifewire / Jeff Dojillo
  Lifewire / Jeff Dojillo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup: Updates out of the box**
@@ -126,6 +118,10 @@ Lifewire / Jeff Dojillo
 ## **Lens: Great for video**
 
  The fixed lens on the GoPro HERO7 Black shoots wide or in SuperView mode, the latter of which is an extra-wide field of view and can sometimes give a kind of distorted fisheye effect to your footage. This distortion can be frustrating, but there are ways to work around it during editing, including using video editing software to correct. And when shooting at a lower resolution, the camera can shoot with a linear field of view which reduces the distortion of the lens. The SuperView is not available when shooting in a 4:3 aspect ratio.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Video Quality: Amazing 4K quality with variable frame rates**
 
@@ -174,7 +170,7 @@ Lifewire / Jeff Dojillo
  Another option to extend shooting time would be to connect the GoPro HERO7 Black to an external battery pack via the[USB port.](https://www.lifewire.com/what-is-a-usb-port-818166)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Fairly priced for what you get**
@@ -186,7 +182,7 @@ Lifewire / Jeff Dojillo
  The portability of the GoPro HERO7 Black is perfect for adventurers, filmmakers, and vloggers that need a rugged and compact camera to create content on the go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Competition: Less rugged, but better with still photography**
@@ -210,6 +206,10 @@ Lifewire / Jeff Dojillo
  **A rugged and compact action camera with fantastic video stabilization.**
 
  Between the amazing video quality and the enhanced HyperSmooth electronic image stabilization, the GoPro HERO7 Black is perfect for adventurers who want to record or even live-stream their most rugged expeditions. It produces beautiful videos with enhanced color and sharpness and is small enough to wear or mount somewhere without it getting in the way.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -248,20 +248,22 @@ Lifewire / Jeff Dojillo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-achieve-uninterrupted-youtube-experience-across-os-platforms/"><u>[Updated] 2024 Approved Achieve Uninterrupted YouTube Experience Across OS Platforms</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-audiovisual-harmony-merging-audio-and-visual-elements-on-youtube/"><u>[Updated] 2024 Approved Audiovisual Harmony Merging Audio and Visual Elements on YouTube</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-from-boring-to-breathtaking-insta-video-tips/"><u>2024 Approved From Boring to Breathtaking Insta Video Tips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-15-activation-lock-without-previous-owner-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 15 activation lock without previous owner</u></a></li>
-<li><a href="https://win-unique.techidaily.com/free-and-premium-aspnet-designs-by-creative-tim-top-5-choices/"><u>Free & Premium ASP.NET Designs by Creative Tim - Top 5 Choices</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-apple-iphone-13-pro-by-drfone-ios/"><u>How To Create an Apple Developer Account From Apple iPhone 13 Pro</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-14-pro-max-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone 14 Pro Max?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-6-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 6?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-12-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 12 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from iPhone XS Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-xs-max-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone XS Max without Password?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-v27-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo V27 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/top-10-youtube-to-webm-converter-apps-reviewed-and-ranked-for-2024/"><u>Top 10 YouTube to WebM Converter Apps Reviewed & Ranked for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-refining-your-digital-footprint-editing-the-look-back-feature-for-2024/"><u>[New] Refining Your Digital Footprint Editing the Look Back Feature for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-streaming-success-gamers-software/"><u>[Updated] Streaming Success Gamers' Software</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-honor-x9a-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-12-pro-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone 12 Pro How to Bypass?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/are-services-disrupted-on-xbox-live-discover-the-current-status-of-xbox-live-servers/"><u>Are Services Disrupted on Xbox Live? Discover the Current Status of Xbox Live Servers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-11-beginner-oriented-waterproof-video-recorders-for-youngsters-for-2024/"><u>Best 11 Beginner-Oriented Waterproof Video Recorders for Youngsters for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-15-plus-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-iphone-6s-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your iPhone 6s?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-7-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 7</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-apple-iphone-se-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your Apple iPhone SE without Security Questions?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-11-pro-max-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 11 Pro Max? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone XS Max</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-11-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-observing-instagram-without-having-an-account/"><u>Step-by-Step Tutorial on Observing Instagram without Having an Account</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-chatgpt-prompt-innovation-spotlighting-20-premier-examples-from-github/"><u>Ultimate Guide to ChatGPT Prompt Innovation – Spotlighting 20 Premier Examples From GitHub</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Phantom V Flip | Dr.fone</u></a></li>
 </ul></div>
 

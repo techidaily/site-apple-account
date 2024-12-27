@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove iPhone 15 Pro Max Device from iCloud
-date: 2024-12-18T23:09:57.602Z
-updated: 2024-12-21T23:52:10.726Z
+date: 2024-12-20T17:05:39.084Z
+updated: 2024-12-27T04:22:41.883Z
 tags: 
   - unlock
   - remove apple account
@@ -21,7 +21,7 @@ Apple is known for developing its own unique operating system with its own dedic
 ![remove device from icloud](https://images.wondershare.com/drfone/article/2020/11/remove-device-from-icloud.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1. What happens if I remove a device from my iCloud?
@@ -42,6 +42,10 @@ iCloud backup is usually important in keeping a synchronized model in effect acr
 
 ![remove the Apple iPhone 15 Pro Max device](https://images.wondershare.com/drfone/article/2020/11/remove-the-device.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. How to remove a device from iCloud? (Mac)
 
 While you consider a method that provides you a technique of removing a device from the iCloud through an iPhone, there are several other means of operation that can be utilized to remove a device from the iCloud. You can consider removing a device from the iCloud through a Mac, which needs to be concluded through a series of steps provided as follows.
@@ -51,6 +55,10 @@ While you consider a method that provides you a technique of removing a device f
 **Step 2:** In the “System Preferences” window, you need to tap on the “Apple ID” present at the top-right of the screen.
 
 ![click on apple id](https://images.wondershare.com/drfone/article/2020/11/click-on-apple-id.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Over the new page that opens, scroll down on the left pane of the window, and tap on the Apple iPhone 15 Pro Max device that you seek to remove. Click on “Remove from Account…” from the list of options and confirm the execution of the process. This successfully removes the Apple iPhone 15 Pro Max device from the iCloud with the aid of a Mac.
 
@@ -79,6 +87,10 @@ You need to download and install the platform on your desktop to function. After
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Select Appropriate Option**
 
 Following this, you need to select the “Unlock Apple ID” option from the next screen that opens on your front.
@@ -96,6 +108,14 @@ As soon as the process initiates, you need to take up your device and open it up
 Once the reboot executes, the platform automatically recognizes and initiates the removal of the iCloud account from the Apple iPhone 15 Pro Max device. With the execution of the process, the user is provided with a detailed prompt screen displaying the completion of the process. The removal of the iCloud account from the Apple iPhone 15 Pro Max device without a password has been successfully executed.
 
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -137,7 +157,7 @@ The process of removing Apple ID from a Mac is easy and quick. Before removing t
 ![select the data to copy](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-apple-id-from-your-mac-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:** On the next window, it will ask you to provide your Apple ID password. Provide the password to complete the process of removing your Apple ID from your Mac.
@@ -157,10 +177,6 @@ With Dr.Fone - Screen Unlock (iOS), you can remove the Apple ID from your Apple 
 - If you have forgotten the username or password of your Apple iPhone 15 Pro Max MDM, this tool allows you to bypass or remove MDM to access the Apple iPhone 15 Pro Max device.
 - It can also unlock SM Lock or Carrier Lock on your Apple iPhone 15 Pro Max. That allows you to use your Apple iPhone 15 Pro Max freely if you want to travel internationally.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Steps to use Dr.Fone - Screen Unlock (iOS) for Removing Apple ID
 
 Dr.Fone - Screen Unlock (iOS) has a straightforward interface and provides clear instructions for removing Apple ID from your Apple iPhone 15 Pro Max. Your Apple iPhone 15 Pro Max will be reset during the process, and you will lose the data. It is advised you create a backup before starting the procedure. To start the process of removing Apple ID from your Apple iPhone 15 Pro Max, follow the steps given below:
@@ -170,6 +186,10 @@ Dr.Fone - Screen Unlock (iOS) has a straightforward interface and provides clear
 Use a USB cable to connect your Apple iPhone 15 Pro Max to your computer and launch Dr.Fone. Next, proceed with the "Screen Unlock" tool from the main interface and "Remove Apple ID" on the next screen. Now move to the iPhone, unlock it, and select "Trust" in the "Trust this Computer" pop-up.
 
 ![choose the screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Put Your Apple iPhone 15 Pro Max into the Recovery Mode**
 
@@ -183,25 +203,21 @@ Wait for the program to complete the process of removing your Apple ID from your
 
 ![check the apple id status](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 The answer to **how to remove Apple ID from MacBook** is a straightforward process that can be completed in just a few steps. By following the instructions outlined in this article, you can easily sign out of your account and remove it from your Mac.
 
 Removing the Apple ID with forgotten credentials is complex, but [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) has also made it easier. It is an excellent and must-have toolbox to deal with all password-related iPhone problems.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How To Get the Apple ID Verification Code On Apple iPhone 15 Pro Max in the Best Ways
 
 Your digital identity serves as a vital safeguard for your personal information. This significance is particularly pronounced within the Apple ecosystem. A pivotal element of this digital identity is the Apple ID verification code. It might appear as a mere sequence of characters, but it carries immense significance. The verification code serves as a safeguard for your Apple account and all the Apple iPhone 15 Pro Max devices linked to it.
 
 Whether you've been an Apple user for years or are just starting out in the ecosystem, grasping the process of obtaining this code is essential. This article will take you through the importance of **how to get an Apple ID verification code**and discover the most effective methods to acquire it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: How Verification Code Helps Apple Users Keeping Their Devices and Account Safe
 
@@ -228,6 +244,10 @@ In the first place, it acts as a safeguard against unauthorized access, even if 
 
 ![get verification code on number](https://images.wondershare.com/drfone/article/2023/10/get-the-apple-verification-code-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How To Receive the Verification Code Directly From iPhone or iPad?
 
 It is worth highlighting that Apple employs verification codes in numerous fundamental procedures. This emphasis on security ensures that your personal data and devices remain protected. Apple has designed its ecosystem to smoothly integrate security features into everyday tasks. Here's how you can access the "Get Verification Code" feature for **how to get an Apple ID verification code**:
@@ -239,10 +259,6 @@ It is worth highlighting that Apple employs verification codes in numerous funda
 - **Step 2.** Here, tap "Two-Factor Authentication," and on the ensuing screen, press "Get Verification Code." You might be asked to log in using your Apple ID to receive the code.
 
 ![press get verification code](https://images.wondershare.com/drfone/article/2023/10/get-the-apple-verification-code-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: How To Get an Apple ID Verification Code Without a Phone?
 
@@ -269,23 +285,11 @@ If you find yourself without your primary iPhone but have access to your Mac, yo
 
 ![click on get a verification code](https://images.wondershare.com/drfone/article/2023/10/get-the-apple-verification-code-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bonus Tip: The Best Screen Unlock Tool To Remove the Apple ID Without Password
 
 Your Apple ID plays a pivotal role in the Apple ecosystem, and safeguarding its security is paramount. Nonetheless, there are instances where you might encounter the necessity of [<u>unlocking your Apple ID without the passcode</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html). Common scenarios range from forgotten passwords to inheriting a device with an unknown Apple ID. In such cases, it's crucial to have a reliable tool at your disposal, and one such tool is [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/).
 
 It provides a wide range of mobile management solutions for iOS devices. One of its standout features is the iOS screen unlock tool. This tool offers a streamlined and easy-to-use method for removing the Apple ID without a password. It permanently bypasses the previous Apple ID from your device, enabling you to sign in using a new Apple ID.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -326,10 +330,6 @@ As your device is in Recovery Mode, Dr.Fone will detect its model. You need to c
 
 ![hit the unlock now button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 In this comprehensive guide, we've explored the significance of Apple ID verification codes. We also explored various methods for **getting an Apple ID verification code** when your primary device is unavailable. From using trusted phone numbers to leveraging Apple Watch, we've covered a spectrum of scenarios to get the verification code of your Apple ID.
@@ -350,14 +350,22 @@ We've also delved into the importance of having a reliable tool like Wondershare
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-proven-pathways-to-promoting-in-vr-lands/"><u>[New] 2024 Approved Proven Pathways to Promoting in VR Lands</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-playbook-a-guide-to-efficiently-posting-srt-files-online/"><u>[Updated] The Ultimate Playbook A Guide to Efficiently Posting SRT Files Online</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726224649650-asfmov-movavi/"><u>ASFからMOVへ容易な変換: Movaviで提供されるオンライン無料ツール</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/constructive-communication-leads-to-more-subscribers-for-2024/"><u>Constructive Communication Leads to More Subscribers for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-apple-iphone-15-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On Apple iPhone 15? How to Fix it?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 12 Pro Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-13-pro-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 13 Pro</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-7-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From iPhone 7</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-sony-xperia-1-v-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Sony Xperia 1 V IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-windows-cpu-warning-interrupted-by-system-halt/"><u>[FIXED] Windows CPU Warning: Interrupted by System Halt</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-first-flights-made-simple-kid-approved-beginner-drones-for-2024/"><u>[Updated] First Flights Made Simple Kid-Approved Beginner Drones for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-freeze-your-favorite-moves-explore-these-top-9-windows-gif-recipes/"><u>2024 Approved Freeze Your Favorite Moves! Explore These Top 9 Windows GIF Recipes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-maximizing-video-longevity-saving-snaps-on-android-and-mac/"><u>2024 Approved Maximizing Video Longevity Saving Snaps on Android & Mac</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-apple-iphone-14-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On Apple iPhone 14? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-14-pro-max-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone 14 Pro Max Apple ID on MacBook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-14-pro-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone 14 Pro in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-iphone-15-pro-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By iPhone 15 Pro without the Previous Owner?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-a58-4g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo A58 4G Devices | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-iphone-14-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your iPhone 14 Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-se-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone SE</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-apple-iphone-6-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On Apple iPhone 6 without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/pixelperfect-editor-for-2024/"><u>PixelPerfect Editor for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/prime-authors-draft-platform-for-2024/"><u>Prime Author's Draft Platform for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-mobile-experience-how-apples-partnership-with-openai-brings-powerful-ai-chatbot-technology-to-iosipadosmac-users-coverage/"><u>Revolutionizing Mobile Experience: How Apple's Partnership with OpenAI Brings Powerful AI Chatbot Technology to iOS/iPadOS/Mac Users | Coverage</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transfer-your-media-x-mirage-seamless-sync-between-ios-devices-and-pcs/"><u>Transfer Your Media: X Mirage - Seamless Sync Between iOS Devices and PCs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix when Apple Account Locked On iPhone 11?
-date: 2024-07-14T13:03:06.794Z
-updated: 2024-07-15T13:03:06.794Z
+date: 2024-12-26T08:37:30.284Z
+updated: 2024-12-26T19:17:56.624Z
 tags: 
   - unlock
   - remove apple account
@@ -44,6 +44,10 @@ Wondershare’s Dr.Fone comes with a complete set of tools to help with a range 
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Some of the top and vital features of Dr.Fone are as follows:
 
 - It can repair the system of both Android and iOS devices.
@@ -65,6 +69,10 @@ Select the “Screen Unlock” tool, and a new interface will greet you. Select 
 Dr.Fone will present you with detailed on-screen instructions that show precisely how to reset your Apple iPhone 11 Settings. Dr.Fone must unlock your Apple iPhone 11/iPad.
 
 ![interface](https://images.wondershare.com/drfone/drfone/interface.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Unlock the Phone**
 
@@ -98,6 +106,10 @@ Now that you have entered into recovery mode, the next step is to restore the iP
 
 ![apple account locked 1](https://images.wondershare.com/drfone/article/2020/11/apple-account-locked-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 3. Recover Your Apple ID via Apple (Reset Password)
 
 If you have forgotten your Apple device’s password, it’s recommended not to input your password more than one time. It would lead to a 24-hour shutdown. It cannot be lifted even if you know your password, so proceed wisely. The recommended solution instead is to reset your password.
@@ -130,6 +142,10 @@ If you have purchased a refurbished iPhone and the previous owner’s Apple ID a
 
 ![apple account locked 3](https://images.wondershare.com/drfone/article/2020/11/apple-account-locked-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Getting your Apple account can ruin your day and hinder your work. Luckily, there are suitable methods to fix the Apple Account Locked issue quickly and without any damage. Here, we have discussed the top techniques to unlock the Apple account. Hopefully, these tips have helped you can access the contents of your Apple iPhone 11.
@@ -152,6 +168,10 @@ You can [<u>back up to iCloud</u>](https://drfone.wondershare.com/iphone-backup-
 
 ![several ways to backup iphone](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Prepare Your Apple iPhone 11 Passcode
 
 You'll need your Apple iPhone 11 passcode to erase an iPhone. [<u> If you've forgotten your passcode</u>](https://drfone.wondershare.com/unlock/forgot-passcode-on-iphone.html), reset it using recovery mode.
@@ -165,6 +185,10 @@ Unpair Apple Watch
 If you own an Apple Watch, unpair it from your Apple iPhone 11. It ensures a smooth disconnection and prevents complications when erasing the Apple iPhone 11 device.
 
 ![unpair apple watch on iphone](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Cancel Your AppleCare Plan
 
@@ -194,9 +218,6 @@ However, if you've forgotten your Apple ID password, don't fret. Follow the guid
 - **Step 3:** Follow the on-screen instructions to reset your Apple ID password.
 - **Step 4:** Go to **General** > **Reset** from the **Settings** app, then tap **Erase All Content and Settings**.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase all content and settings interface](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-06.jpg)
 
 - **Step 5:** Input your Apple ID password or your passcode when prompted.
@@ -220,6 +241,10 @@ If you want to **erase an iPhone without Apple ID** password on your computer, y
 - **Step 3:** Hold the buttons steadily until the Recovery Mode screen is visible.
 
 ![iphone in recovery mode](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Switch on your Apple iPhone 11. Then, connect it to a Mac or Windows computer using a USB cable.
 - **Step 5:** When prompted, follow the on-screen instructions to enter your device passcode or click **Trust This Computer**.
@@ -253,6 +278,10 @@ To start this request, follow these steps:
 
 ![request activation lock support online](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: How To Erase an iPhone Without an Apple ID Password in Minutes?
 
 The time it takes to process an unlock Activation Lock support request can take days. If your device is erased as soon as possible, use the [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) Screen Unlock tool. This third-party mobile solution can **erase an iPhone without an Apple ID** password, even if the Find My feature is enabled. Also, it can:
@@ -266,7 +295,6 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 - **Step 1:** Download and install Dr.Fone on your desktop. Launch the app and connect your Apple iPhone 11 using a USB cable.
 
-
 - **Step 2:** From the **Toolbox** homepage, select **Screen Unlock**, then choose **iOS**.
 
 ![dr.fone toolbox interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -277,9 +305,6 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 - **Step 4:** The next screen shows the connected device. Click **Unlock Now**.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock connected ios device](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
 - **Step 5:** Click **Yes** to confirm you have set up a screen lock.
@@ -288,9 +313,6 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 - **Step 6:** Click **Yes** to verify you have enabled [<u>two-factor authentication</u>](https://drfone.wondershare.com/remove-apple-account/how-to-get-apple-id-verification-code.html) on your Apple iPhone 11.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![confirm two-factor authentication enabled](https://images.wondershare.com/drfone/guide/remove-apple-id-4.png)
 
 - **Step 7:** Follow the in-app instructions to put your device in Recovery Mode.
@@ -327,8 +349,6 @@ It can be challenging to **erase an iPhone without an Apple ID** password, but i
 
 If you're seeking a straightforward method on "**how to erase an iPhone without Apple ID**," Dr.Fone Screen Unlock tool is a good solution. With its user-friendly interface and efficient operation, Dr.Fone simplifies the process, making it accessible to users of all technical levels. Don't let a forgotten Apple ID password hinder your device's functionality. Try Dr.Fone Screen Unlock and reclaim control of your Apple iPhone 11.
 
-
-
 ## Apple ID Locked or Disabled On Apple iPhone 11? 7 Mehtods You Can't-Miss
 
 Apple ID refers to the authentication method available for the Apple iPhone 11 device to compromise users' personal information and settings. The Apple iPhone 11 Apple ID will allow you to store and control data available on the Apple iPhone 11 device; however, you need to re-generate the Apple iPhone 11 passcode if you have forgotten the Apple iPhone 11 passcode. Suppose, if you have forgotten the passcode and entered the wrong passcode six times, your Apple iPhone 11 gets locked or has been disabled. According to your settings, if you have entered the wrong passcode too much time could even make your Apple iPhone 11 delete all the data available.
@@ -349,8 +369,6 @@ If you frequently change your Apple ID or passcode on the Apple iPhone 11 device
 ## Method 1: Professional iPhone Apple ID Lock Removal Tool \[Recommended\]
 
 If you have forgotten your Apple ID password, you are suggested not to enter the wrong passcode in a row. That may lead to data loss. You can download the Dr.Fone– Screen Unlock, which is compatible with different lock screens and will **unlock Apple ID easily**. [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) helps remove almost all sorts of iPhone passwords without the requirement of technical knowledge.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -401,10 +419,11 @@ In order to [unlock iPhone](https://drfone.wondershare.com/unlock/unlock-disable
 
 **Step 1:** Head to the [Apple account recovery page](https://iforgot.apple.com/appleid#!&section=appleid) and enter the desired details like your first and last name. Also, enter your email address. When done, click on the “Continue” button.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![find apple id](https://images.wondershare.com/drfone/article/2022/03/find-apple-id.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** When the next screen appears, you will see two options to choose from. Whether you wish to receive a password through email or answer a security question, choose it. Click “Continue”.
 
@@ -424,9 +443,6 @@ If your Apple ID is disabled, follow these simple steps listed below:
 
 **Step 2**: You have to enter the registered E-mail address in the box available on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![confirm phone number](https://images.wondershare.com/drfone/article/2022/03/unlock-disabled-apple-id2.png)
 
 **Step 3**: Enter the captcha available on the screen and click on the “Continue “option to proceed further. (If you have set up the two-factor authentication, you will receive a code that you need to enter on your device.)
@@ -489,6 +505,10 @@ If you want to unlock **iPhone 13 Apple ID** and don't remember the password**,*
 
 ![configure dns server](https://images.wondershare.com/drfone/article/2022/03/dns-bypass-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You have to select the DNS from the option available according to your region.
 
 - USA/North America: 104.154.51.7
@@ -516,7 +536,6 @@ We are positive that the solutions above will get your issue resolved. However, 
 
 From this article, you can know how to unlock your Apple ID and reset your password. There are different ways available that will resolve your **unlock iPhone issue**. However, Dr.Fone is the most recommended tool as it provides a screen lock solution and recognizes it as a one-stop solution for all iPhone problems. You can also share the effective methods in this article with your families and friends.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -529,9 +548,24 @@ From this article, you can know how to unlock your Apple ID and reset your passw
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-breathe-life-into-your-reels-adding-drama-with-slow-motion/"><u>[New] 2024 Approved Breathe Life Into Your Reels Adding Drama with Slow Motion</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-top-30-youtube-intro-creators-for-spectacular-opening-videos/"><u>[New] 2024 Approved Top 30 YouTube Intro Creators for Spectacular Opening Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-huawei-p10-review/"><u>[Updated] Huawei P10 Review</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/2-ways-to-monitor-apple-iphone-8-plus-activity-drfone-by-drfone-virtual-ios/"><u>2 Ways to Monitor Apple iPhone 8 Plus Activity | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-heaviest-inflight-lifters-unveiled-top-10-list/"><u>2024 Approved Heaviest Inflight Lifters Unveiled - Top 10 List</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-14-pro-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 14 Pro without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-xr-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone XR</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-xr-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your Apple iPhone XR</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-15-pro-max-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone 15 Pro Max without Password?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-xs-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone XS? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On iPhone SE (2020)?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-iphone-se-2022-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On iPhone SE (2022)?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your Apple iPhone 15 Pro?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-downloads-updating-your-dell-sound-card-drivers/"><u>Quick and Easy Downloads: Updating Your Dell Sound Card Drivers</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-sony-xperia-10-v-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Sony Xperia 10 V?</u></a></li>
+<li><a href="https://windows11.techidaily.com/win10win11-diagnostics-tackling-0x0000004e-faults/"><u>Win10/Win11 Diagnostics: Tackling 0X0000004E Faults</u></a></li>
+</ul></div>
 

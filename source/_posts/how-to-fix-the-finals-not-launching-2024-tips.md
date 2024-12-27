@@ -1,7 +1,7 @@
 ---
 title: How to Fix The Finals Not Launching -2024 Tips
-date: 2024-12-18T17:19:53.647Z
-updated: 2024-12-21T18:30:42.202Z
+date: 2024-12-26T10:15:47.407Z
+updated: 2024-12-27T07:56:50.856Z
 tags:
   - win11
   - win10
@@ -32,17 +32,9 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 7. [**Open the game in windowed mode**](https://tools.techidaily.com/drivereasy/download/)
 8. **[Repair your system files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1\. Check your PC specs
 
  Make sure you’re playing Football Manager 2022 in a 64-bit processor and operating system. If you’re on a 32-bit system, it’s recommended to upgrade your system and perhaps your device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2\. Add an exception to your antivirus
 
@@ -55,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 * **[McAfee](https://service.mcafee.com/?page=shell&shell=article-view&articleId=TS102056)**
 
  Or you can uninstall your antivirus temporarily (note that disabling it won’t work) and be very careful about the websites you’re visiting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3\. Update your graphics driver
 
@@ -69,20 +65,12 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/driver-easy-5.7.1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 After updating your drivers, restart your PC and test the gameplay.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4\. Verify the integrity of game files
 
@@ -96,11 +84,11 @@ After updating your drivers, restart your PC and test the gameplay.
 3) Go to **LOCAL FILES** and click **Verify integrity of game files…**
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
-Once complete, launch the game to check if your game is working again.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Once complete, launch the game to check if your game is working again.
 
 ### Fix 5\. Delete the Caches and Preferences folder
 
@@ -112,10 +100,14 @@ Once complete, launch the game to check if your game is working again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-8-1200x758.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Navigate to **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2022** and then delete the**Caches** and**Preferences** folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6\. Run the game executable file as admin
@@ -127,7 +119,7 @@ Once complete, launch the game to check if your game is working again.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select **Local Files** and then**Browse local files** .
@@ -135,6 +127,10 @@ Once complete, launch the game to check if your game is working again.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-9.png)
 
  3) Locate the game’s executable and run the game as an administrator.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7\. Open the game in windowed mode
 
@@ -147,6 +143,10 @@ Once complete, launch the game to check if your game is working again.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 
  Launch your Football Manager 2022 to check if your launch issues have been resolved successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8\. Repair your system files
 
@@ -178,10 +178,6 @@ Once complete, launch the game to check if your game is working again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Option 2 – Manually
 
  To check and restore your system file might take time and computer skills. You will need to run numerous commands, wait for the process to complete, or risk your data.
@@ -193,6 +189,10 @@ Once complete, launch the game to check if your game is working again.
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
 
@@ -261,21 +261,19 @@ Feel free to drop us a line if you have any suggestions or questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-the-veil-of-invisibility-during-instagram-livestreams/"><u>[New] Mastering the Veil of Invisibility During Instagram Livestreams</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-streaming-wars-understanding-vimeo-and-youtubes-distinctions/"><u>[Updated] Streaming Wars Understanding Vimeo and YouTube's Distinctions</u></a></li>
-<li><a href="https://win-able.techidaily.com/1-easy-guide-transforming-flv-videos-into-high-quality-wmv-files/"><u>1. Easy Guide: Transforming FLV Videos Into High-Quality WMV Files</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harnessing-pip-feature-a-comprehensive-guide/"><u>2024 Approved Harnessing PIP Feature A Comprehensive Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-12-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 12 Pro Max? Heres the Best Fixes</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-12-mini-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone 12 mini</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-directscreen-a-streamlined-windows-recorder/"><u>In 2024, DirectScreen A Streamlined Windows Recorder</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-11-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone 11 Pro Max Apple ID and Apple Pay</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone SE (2022)</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-x-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone X</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-apple-iphone-7-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From Apple iPhone 7 in the Best Ways</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721268225168-maximize-engagement-see-the-impact-of-cookiebot-on-your-site-performance/"><u>Maximize Engagement: See the Impact of Cookiebot on Your Site Performance!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-constant-crashes-in-god-of-war-game-for-windows-users/"><u>Resolving Constant Crashes in God of War Game for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simplifying-smartphone-browsing-discover-how-to-use-gestures-for-google-image-and-visual-searches/"><u>Simplifying Smartphone Browsing: Discover How to Use Gestures for Google Image and Visual Searches</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-critical-point-at-s-1-could-be-asymptotically-stable-or-unstable-depending-on-further-details-about-the-system-dynamics-not-provided-here/"><u>The Critical Point at (S=-1 ) Could Be Asymptotically Stable or Unstable Depending on Further Details About the System Dynamics Not Provided Here</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-real-vs-fake-quick-ways-to-audit-your-insta-circle/"><u>[New] 2024 Approved Real Vs. Fake Quick Ways to Audit Your Insta Circle</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-prime-7-free-screen-recorders-for-old-computers/"><u>[New] In 2024, Prime 7 Free Screen Recorders for Old Computers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-premier-12-channel-online-video-broadcast-system/"><u>[New] Premier 12-Channel Online Video Broadcast System</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-voice-to-text-review-for-2024/"><u>[New] Voice to Text Review for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-cutting-edge-av-producers-compendium-online/"><u>2024 Approved Cutting-Edge AV Producers' Compendium Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-picked-webcams-for-crystal-clear-zoom-meetings/"><u>2024 Approved Expert-Picked Webcams for Crystal Clear Zoom Meetings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gag-galore-a-treasury-of-no-cost-memes/"><u>2024 Approved Gag Galore A Treasury of No-Cost Memes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-13-pro-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 13 Pro? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-11-pro-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone 11 Pro Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From iPhone 11 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-xr-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone XR without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-12-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From iPhone 12</u></a></li>
 </ul></div>
 

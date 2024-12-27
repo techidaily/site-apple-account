@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Fix Windows 11 or 10 Spatial Audio Not Working Correctly
-date: 2024-12-16T18:37:12.218Z
-updated: 2024-12-21T19:51:32.168Z
+date: 2024-12-20T01:00:00.515Z
+updated: 2024-12-27T12:29:16.723Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 [THX Spatial Audio](https://tools.techidaily.com/drivereasy/download/) is a software suite that is engineered to level up your gaming audio with more authentic and detailed soundscapes, and better control of your gaming sound. However, some users reported that**it is not working** . For some,**there’s no sound** . For others, they **can’t hear any difference or the sound is just crackling/ buzzing** . Whatever the problems you’re having, you may hopefully be able to solve them by trying the solutions in this post.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -35,12 +35,20 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 
  Before diving into any advanced tweaks, ensure you **restart both the Synapse software and the THX Spatial Audio app.** Then you would need to install the latest Windows updates. They usually come with bug fixes, and bring new features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### On Windows 10
 
 1. In the Search box, type in **check for updates** . Click **Check for updates**  from results.  
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
@@ -55,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
@@ -74,19 +82,15 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/update-and-security.png)
 3. Select**Troubleshoot** from the left pane. Then highlight the**Playing Audio** troubleshooter and click**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/audio-run-the-troubleshooter.png)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If there are no troubleshooters showing up here, click**Additional troubleshooters** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/troubleshoot-additional-troubleshooters.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### On Windows 11
 
@@ -101,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 4. Follow the on-screen instructions to run the troubleshooter and apply any fix if you see it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If Windows fails to troubleshoot your issues, try the next fix below.
@@ -118,10 +122,6 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 3. Then in the APPLICATION MIXER section, select**Spatial Audio** as the output.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/application-mixer.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you’ve done these, you should be able to enjoy the THX Spatial feature on your audio device.
 
@@ -144,6 +144,10 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  When the update completes, restart your computer. Then play supported content to check for changes.
@@ -159,19 +163,15 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/perform-a-system-restore-step-1.png)
 2. Under the Protection Settings section, select your System driver and click on the**Configure…** button if the protection is not turned on.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/configure-protection.png)
 3. Tick**Turn on system protection** . Then click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/turn-on-system-protection.png)
 4. Now select your System drive and click**Create…** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/create-a-system-point-now.png)
 5. Type a description for your restore point that you can recognize. Then click**Create** .  
@@ -180,7 +180,7 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 6. When it successfully created the restore point, click**Close** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/close-the-window.png)
@@ -196,7 +196,7 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues while using Fortect, feel free to contact their support team.
@@ -220,17 +220,14 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-perfecting-live-steam-playback-a-step-by-step-approach/"><u>[New] 2024 Approved Perfecting Live Steam Playback A Step-by-Step Approach</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-12-pro-max-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone 12 Pro Max How to Bypass?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-14-pro-max-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 14 Pro Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-14-pro-max-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone 14 Pro Max without Apple ID?</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-package-could-not-be-registered-photos-error-in-windows-11-and-11/"><u>How to Fix the “Package Could Not Be Registered” Photos Error in Windows 11 & 11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-iphone-6-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect iPhone 6 and iPad</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Infinix Note 30i? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-apple-iphone-13-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From Apple iPhone 13 in the Best Ways</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-iphone-xs-max-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your iPhone XS Max? How to Fix</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-protonpass-the-latest-innovation-in-privacy-focused-password-storage-with-full-end-to-end-security/"><u>Introducing ProtonPass: The Latest Innovation in Privacy-Focused Password Storage with Full End-to-End Security</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723012327034-trouble-with-launching-witcher-3-wild-hunt-here-are-fixes-that-work/"><u>Trouble with Launching Witcher 3: Wild Hunt? Here Are Fixes That Work</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/window-11-taskbar-height-adjustment-tips/"><u>Window 11 Taskbar Height Adjustment Tips</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-who-takes-the-crown-in-action-camera-warfare-in-2024/"><u>[Updated] Who Takes the Crown in Action Camera Warfare, In 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-iphone-15-plus-by-drfone-ios/"><u>How To Create an Apple Developer Account From iPhone 15 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-15-pro-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone 15 Pro without Apple ID?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-enhanced-joy-in-switchs-hd-gameplay-through-cards/"><u>In 2024, Enhanced Joy in Switch's HD Gameplay Through Cards</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-iphone-11-pro-max-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On iPhone 11 Pro Max in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone XR</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-customizing-your-mac-folders-with-different-colors/"><u>Step-by-Step Guide: Customizing Your Mac Folders with Different Colors</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721267328639-unlock-the-potential-of-online-visitor-data-elevate-with-powerful-cookiebot-analytics/"><u>Unlock the Potential of Online Visitor Data – Elevate With Powerful Cookiebot Analytics!</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-maximum-cursor-visibility-on-win-11-desktop/"><u>Unlocking Maximum Cursor Visibility on Win 11 Desktop</u></a></li>
 </ul></div>
 

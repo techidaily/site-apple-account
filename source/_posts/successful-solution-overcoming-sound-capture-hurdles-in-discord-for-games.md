@@ -1,7 +1,7 @@
 ---
 title: "Successful Solution: Overcoming Sound Capture Hurdles in Discord for Games"
-date: 2024-12-17T18:32:36.765Z
-updated: 2024-12-21T22:48:18.980Z
+date: 2024-12-22T06:33:17.387Z
+updated: 2024-12-27T12:57:58.335Z
 tags:
   - win11
   - win10
@@ -25,19 +25,11 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * **Outdated audio drivers** : It’s possible that an outdated or corrupt audio driver is causing your Discord to pick up the game audio.
 * **Sound settings:** Another possible cause of Discord picking up game audio is that your microphone is not set as the default input device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Discord audio issues?
 
 * [1. Update audio drivers](https://tools.techidaily.com/drivereasy/download/)
 * [2. Change sound settings](https://tools.techidaily.com/drivereasy/download/)
 * [3. Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Update audio drivers
 
@@ -56,12 +48,16 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 
@@ -69,6 +65,10 @@ There’re mainly two ways for you to update an audio driver:
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Change sound settings
 
@@ -85,7 +85,7 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Open Discord application, and go to**User Settings** .
@@ -93,6 +93,10 @@ There’re mainly two ways for you to update an audio driver:
  5) Under**Voice Settings** , choose the correct**Input Device** and**Output Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
@@ -105,10 +109,6 @@ There’re mainly two ways for you to update an audio driver:
  2) Type in**appwiz.cpl** and press**Enter** .
 
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Right-click Discord, and select**Uninstall** .
 
@@ -137,22 +137,18 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/void-unwanted-interrucier-top-7-selective-android-adblockers-reviewed/"><u>[New] Avoid Unwanted Interrucier Top 7 Selective Android AdBlockers Reviewed</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-road-warriors-top-virtual-races-listed/"><u>[New] Road Warriors Top Virtual Races Listed</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-squaring-the-circle-of-facebook-engagement-with-visuals/"><u>[Updated] 2024 Approved Squaring the Circle of Facebook Engagement with Visuals</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-experts-playbook-for-transforming-srt-into-diverse-formats/"><u>[Updated] In 2024, The Expert's Playbook for Transforming SRT Into Diverse Formats</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-photography-elite-line-up-best-6-4k-dslr-options-reviewed/"><u>2024 Approved Photography Elite Line-Up Best 6 4K DSLR Options Reviewed</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/expert-tips-on-protecting-your-mysql-database-free-backup-tools-and-strategies/"><u>Expert Tips on Protecting Your MySQL Database - Free Backup Tools & Strategies</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-se-2020-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone SE (2020)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-boost-your-cinematography-game-essential-iphone-gear/"><u>In 2024, Boost Your Cinematography Game Essential iPhone Gear</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On iPhone 13 Pro Max</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-oppo-f25-pro-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Oppo F25 Pro 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-apple-iphone-13-pro-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your Apple iPhone 13 Pro? How to Fix</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-6s-plus-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 6s Plus? How to Fix</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/orchestrating-peak-canon-temporal-scenes-for-2024/"><u>Orchestrating Peak Canon Temporal Scenes for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-6-plus-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-iphone-8-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From iPhone 8 Making It Possible</u></a></li>
-<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-14-plus-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 14 Plus Making It Possible</u></a></li>
-<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-6s-plus-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 6s Plus?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ballot-box-bonanza-topping-politic-simulations-for-2024/"><u>[New] Ballot Box Bonanza Topping Politic Simulations for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gopros-improved-action-session-series/"><u>[New] GoPro's Improved Action Session Series</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-compiling-leading-short-form-video-editors-iosandroid-edition/"><u>[New] In 2024, Compiling Leading Short-Form Video Editors IOS/Android Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-advanced-scheduling-with-premium-recording-software/"><u>[Updated] 2024 Approved Advanced Scheduling with Premium Recording Software</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-htcs-masterstroke-in-immersive-technology-a-deep-dive-into-vive/"><u>[Updated] HTC's Masterstroke in Immersive Technology - A Deep Dive Into Vive</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discover-16-heartfelt-german-gratefulness-statements/"><u>Discover 16 Heartfelt German Gratefulness Statements</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-iphone-xs-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From iPhone XS</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-iphone-se-2020-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an iPhone SE (2020) without Apple ID?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-7-plus-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From iPhone 7 Plus?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-6s-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 6s</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-apple-iphone-6-plus-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From Apple iPhone 6 Plus Making It Possible</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/skype-vs-snapchat-top-8-in-ai-divergence/"><u>Skype vs Snapchat: Top 8 in AI Divergence</u></a></li>
 </ul></div>
 

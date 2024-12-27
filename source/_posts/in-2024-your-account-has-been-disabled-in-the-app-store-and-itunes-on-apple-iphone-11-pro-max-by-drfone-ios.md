@@ -1,7 +1,7 @@
 ---
 title: In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 11 Pro Max?
-date: 2024-07-14T13:07:59.516Z
-updated: 2024-07-15T13:07:59.516Z
+date: 2024-12-20T03:23:19.490Z
+updated: 2024-12-27T01:19:16.590Z
 tags: 
   - unlock
   - remove apple account
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 You may see the error message, “**Your account has been disabled in the App Store and iTunes**” when you try to log in. This is often an indication that for some reason your Apple ID is not working as it should. When you consider that you will not be able to download or update apps or even make a purchase using Apple Pay without your Apple ID, it is easy to see why this error message can be a problem.
 
 Why is my account disabled in the App store? Here, we take a look at the reasons why you may see the error messages and what you can do to fix them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Why has my account been disabled in the App Store and iTunes?
 
@@ -71,8 +75,6 @@ Note that if you are changing your Apple ID password on an iPhone or iPad, you w
 
 Forgetting the password is particularly troublesome, but there is good news. That is, you can use [Password Manager](https://drfone.wondershare.com/iphone-password-manager.html) to find your passwords on your Apple iPhone 11 Pro Max/iPad without spending too much time remembering them!
 
-
-
 ### Dr.Fone - Password Manager (iOS)
 
 Recover and keep all your passwords in one place
@@ -118,18 +120,6 @@ If you see a message that says, “Your account has been disabled in the App Sto
 - **Step 2:** Then click “Start a chat” to chat with someone in Apple Support now.
 - **Step 3:** Or schedule a call with Apple Support, and they should be able to help you fix your account disabled in App store.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disabled in the app store and itunes 2](https://images.wondershare.com/drfone/article/2023/05/getsupport-apple.png)
 
 ## Part 3. What does it influence when “Your account has been disabled in the App Store and iTunes”?
@@ -149,13 +139,15 @@ No. The error message “Your account has been disabled in the App Store and iTu
 
 After you see these errors, you will not be able to access some of the features and apps that require your Apple ID for access.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5. How to fix Apple ID disabled by removing Apple ID?
 
 Sometimes the only way to [fix “Apple ID Disabled”](https://drfone.wondershare.com/apple-account/how-to-unlock-apple-id-disabled-activation-lock.html) is to remove the Apple ID from the Apple iPhone 11 Pro Max device. This may become a viable solution if you lost or forgot the Apple ID password or ID and you have no way to recover them. It is also one of the best solutions when you purchased a second-hand device, and you don’t know the Apple ID password for the account associated with the Apple iPhone 11 Pro Max device.
 
 One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This third-party unlocking software is designed to easily and effectively remove the Apple ID password from any device. The following are some things it can do;
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -181,6 +173,10 @@ On the next screen, you should see three options. Choose “Remove Apple ID” s
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3: Connect the iOS Device**
 
 Connect the iOS device to the computer using its lightning cable. Then enter the Apple iPhone 11 Pro Max device’s passcode and, when prompted, tap “Trust” to allow the computer to detect the Apple iPhone 11 Pro Max device. The program should detect the Apple iPhone 11 Pro Max device and display information about it. Then click “Unlock Now”.
@@ -198,8 +194,6 @@ You should then be able to sign in to another Apple ID or create a new Apple ID 
 ## Conclusion
 
 In conclusion, encountering a disabled Apple account in the App Store and iTunes can be a frustrating experience. However, by understanding the reasons behind it, following the recommended steps to resolve the issue, and considering the broader impact on your digital life, you can navigate this situation effectively. Remember, prompt action and patience are key to restoring your account and getting back to enjoying the Apple ecosystem hassle-free.
-
-
 
 ## How to Reset Apple ID and Apple Password On Apple iPhone 11 Pro Max
 
@@ -254,8 +248,6 @@ Also Read: [How to Remove iCloud Account with or without Password >>](https://dr
 
 If you want to try a 100% working technique to reset Apple ID, then use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). The application would get rid of the Apple ID linked to the Apple iPhone 11 Pro Max device without any related details like email id or password. Though, you should know that this will cause the loss of stored data on your device. You can reset Apple ID using Dr.Fone – Screen Unlock (iOS) easily, but make sure that you don't use it for any illegal activity.
 
-
-
 ### Dr.Fone - Screen Unlock
 
 Unlock Disabled iPhone in 5 Minutes.
@@ -264,6 +256,10 @@ Unlock Disabled iPhone in 5 Minutes.
 - Removes the Apple iPhone 11 Pro Max lock screen without relying on iTunes.
 - Works for all models of iPhone, iPad and iPod touch.
 - Fully compatible with the latest iOS/iPadOS version.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,395,216** people have downloaded it
 
@@ -285,13 +281,14 @@ To proceed, the application would require erasing the Apple iPhone 11 Pro Max de
 
 ![attention](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Reset Apple ID**
 
 As the Apple iPhone 11 Pro Max device restarted, the application would follow the needed process to reset its Apple ID. You can wait for a few minutes for the process to be completed.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![process-of-unlocking](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
 
 When the Apple ID is unlocked, you will be notified. You can now safely remove the Apple iPhone 11 Pro Max device and use it the way you like.
@@ -312,9 +309,6 @@ Like your password, Apple can help you recover your Apple ID or username as well
 
 Also Read: [3 Ways to Recover iCloud Password >>](https://drfone.wondershare.com/icloud/how-to-recover-icloud-password.html)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 6: Using Apple's Two-step Verification (Forgot Apple Password)
 
 Two-step authentication is an old Apple security feature and it still happens to be up and running. If you had set it up for your account, you can use it if you forgot Apple ID password. Here's how it works:
@@ -324,6 +318,10 @@ Two-step authentication is an old Apple security feature and it still happens to
 3. You should be prompted to enter your recovery key. Type it in and click "Continue".
 
 ![check forgot apple id](https://images.wondershare.com/drfone/others/elcapitan-apple-id-two-step-recovery-key.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. You should then choose a trusted recovery device that is currently available to you and click "Next".
 2. Apple should send a verification code to the Apple iPhone 11 Pro Max device you selected. Enter this code as requested on the website and click "Next".
@@ -350,6 +348,10 @@ This is a new account recovery option that is built into iOS 9 and OS X El Capit
 
 ![check forgot apple id](https://images.wondershare.com/drfone/others/appleid-password-recovery-two-factor-screens-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. It would help if you now waited for prompt requesting access to the trusted device or phone number. Click "Allow." You can now reset your password.
 
 ### Recover/reset Apple password on a trusted Apple iOS device
@@ -359,6 +361,10 @@ This is a new account recovery option that is built into iOS 9 and OS X El Capit
 3. Select "Change Password" and enter your new password. Voila! You're now reunited with your account.
 
 If you can't access the trusted device, you can recover your password on any other iOS device:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Recover/reset Apple password on any other iOS device
 
@@ -373,8 +379,6 @@ Now, if none of these methods work and you're completely locked out and complete
 If you can't log into your Apple account even after all this hassle, and if you're permanently locked out of your iCloud and Apple accounts, then you can try to [recover iCloud password](https://drfone.wondershare.com/icloud/how-to-recover-icloud-password.html), but your biggest concern should be to save and recover as much data as possible.
 
 Because the iCloud and Apple passwords are the same, you would also lose all the data that you've kept in your iCloud. However, you can retrieve it all using third-party software called [Dr.Fone - Data Recovery (iOS)](https://drfone.wondershare.com/data-recovery-iphone.html).
-
-
 
 ### Dr.Fone - Data Recovery (iOS)
 
@@ -416,9 +420,6 @@ If you enable the Find My feature, the activation lock possibly gets enabled on 
 
 If your Apple Watch gets stolen or you lose it somewhere, and somebody resets it, they will have a dead Watch to play with, and none of its functions will be open. That is only possible if they don't have the foggiest idea about the password.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Remove Apple Watch Activation Lock By Apple iPhone 11 Pro Max without Previous Owner？
 
 You can attempt an internet-based service to eliminate the Activation Lock on Apple Watch. You can open one of these services for your Apple Watch, and they will unlock your Watch for you. In any case, you ought to be familiar with a couple of things about these services.
@@ -451,13 +452,14 @@ To dispose of Activation Lock on Apple Watch with a past user, you can:
 
 ![icloud unlock](https://images.wondershare.com/drfone/article/2022/10/remove-activation-lock-without-previous-owner-apple-watch-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4.** Click the Erase Apple Watch choice on the following screen and Remove from Account.
 
 Your Apple Watch will be cleared off and taken out from the first user's record. It can then be related to your own Apple ID.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus Tip: How to Easily Unlock Other iOS Devices, like iPhone or iPad?
 
 This section focuses on how you can unlock an iPhone or iPad using an expert recovery tool. Here, we will introduce you to [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). Dr.Fone is a professional unlocking tool that can remove the activation lock, screen locks, and any other lock from your iOS device. So, if you are struggling with an iOS lock, download it immediately and follow these steps:
@@ -494,15 +496,17 @@ _(CDMA with most functions, but no phone call, cellular data use.)_
 
 ![without the activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 And with this image, you will know the activation lock is bypassed.
 
 ![activation lock is bypassed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
-
 ## Conclusion
 
 Bypassing the Apple Watch activation lock could appear to be unthinkable at first. However, there are strategies to bypass this lock on your Watch. We trust the above strategies will unlock your Watch, and you can utilize it with your Apple account. If you want to remove the activation lock on your Apple iPhone 11 Pro Max or iPad, free download Dr.Fone - Screen Unlock (iOS) to have an attempt.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -516,9 +520,24 @@ Bypassing the Apple Watch activation lock could appear to be unthinkable at firs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-dual-display-dominance-top-videographer-verdict-for-2024/"><u>[Updated] Dual Display Dominance Top Videographer Verdict for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-building-a-brand-through-youtube-a-strategic-guide/"><u>[Updated] In 2024, Building a Brand Through YouTube A Strategic Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-perfect-your-gif-game-on-windows-nine-best-capture-software/"><u>[Updated] Perfect Your GIF Game on Windows Nine Best Capture Software</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigate-effortlessly-how-to-clear-your-browsers-youtube-cache/"><u>2024 Approved Navigate Effortlessly How to Clear Your Browser's YouTube Cache</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-apple-iphone-se-2022-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-high-performance-on-a-budget-acers-nitro-16-with-rtx-4070-and-amd-cpu-for-an-unbeatable-price-of-1129/"><u>Experience High Performance on a Budget: Acer's Nitro 16 with RTX 4070 and AMD CPU for an Unbeatable Price of $1,129</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-15-pro-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 15 Pro without Password?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-samsung-galaxy-m34-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Samsung Galaxy M34 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-12-pro-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone 12 Pro without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-11-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-apple-iphone-13-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your Apple iPhone 13 without Security Questions?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-focus-on-the-frame-master-logitech-cam-edits/"><u>In 2024, Focus on the Frame Master Logitech Cam Edits</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-6s-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 6s? Heres the Best Fixes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-secrets-in-watching-the-instagram-story-narrative/"><u>In 2024, Secrets in Watching The Instagram Story Narrative</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-14-pro-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 14 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-14-pro-max-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On iPhone 14 Pro Max</u></a></li>
+</ul></div>
 

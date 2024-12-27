@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Your Apple ID Password and Email On iPhone 15 Pro Max? Heres the Best Fixes
-date: 2024-12-20T19:06:34.525Z
-updated: 2024-12-21T22:14:34.378Z
+date: 2024-12-21T23:59:21.819Z
+updated: 2024-12-26T23:02:48.601Z
 tags: 
   - unlock
   - remove apple account
@@ -30,17 +30,13 @@ One of the quickest remedies for a misplaced Apple ID password involves starting
 
 ![tap sign in and security](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Opt for "Change Password," input your current iDevice password, and enter your new Apple ID password. Confirm the new password and finalize the process by tapping "Change Password."
 
 ![choose the change password option](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### For MacBook
 
@@ -48,16 +44,16 @@ One of the quickest remedies for a misplaced Apple ID password involves starting
 
 ![open macbook system settings](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Within the "Sign-In & Security" tab, locate "Password" and click on "Change Password." Enter your Mac passcode and follow the on-screen instructions to reset your Apple ID password.
 
 ![press the change password button](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 2: Reset Apple ID Password From Website
@@ -94,13 +90,13 @@ You are in luck if you have added an account recovery contact before losing your
 
 ![access sign in and security settings](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Here, press the account's name that has added them as recovery contact. Press "Get Recovery Code" on the following screen and share it with the person who needs to regain access to his devices.
 
 ![tap on get recovery mode](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### On Mac
 
@@ -111,6 +107,10 @@ You are in luck if you have added an account recovery contact before losing your
 - **Step 2:** Select the contact who has asked you for help recovering their account. Then, tap "Get Recovery Code" to receive a code that you need to share with the targeted person.
 
 ![tap on get recovery code](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 5: Reset Apple ID Password Through Requesting Account Recovery
 
@@ -136,10 +136,6 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - Unlock screen passwords from all iPhone and iPad.
 - No tech knowledge required, everybody can handle it.
 - Supports the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4,395,216** people have downloaded it
 
@@ -181,6 +177,10 @@ Apple follows a strict set of rules when it comes to security. If someone tries 
 
 There are various ways that you can use to fix your disable Apple ID. You can follow whatever suits you or whatever works with your Apple iPhone 15 Pro Max. If you are still wondering about ‘How to unlock apple id’, here is a guide for you. As a whole, locking of your account is good than releasing your data to a hacker.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Reasons why Apple ID locked?
 
 So, you have your apple id locked out of the blue? Well, there can be various reasons behind that. It can also be you if you put in a wrong password too many times. To fix it, you can always select forgot password and reset it using a few steps.
@@ -202,10 +202,6 @@ Apple support can help you Apple id unlock on any of your Apple device. You have
 - Show them the receipt if you are the owner of the phone. This will let them know that you are authentic.
 - If you are not the original user, show them your ownership transfer certificate. This will help them determine your authenticity and original ownership.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3) Ask the Owner to Remove Activation Lock
 
 If you are not the original owner, you can reach out to the old owner. This will let you download the files from old owner or you can ask them to provide the OTP sent on their email. You have to follow a few steps to unlock is from iCloud –
@@ -218,6 +214,10 @@ If you are not the original owner, you can reach out to the old owner. This will
 - Enjoy!
 
 This is all you need to do. It will open new doors to your device. You can now enjoy amazing features on Your Apple iPhone 15 Pro Max without any hassle.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to unlock Apple ID if you forgot the password?
 
@@ -269,6 +269,10 @@ After this process, you will come across a new popup showing you the screen as m
 
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Apple ID unlock by iTunes
 
 Whenever your ID gets locked in your Apple iPhone 15 Pro Max or iPad, you can also unlock it using iTunes. You will need to restore your device with iTunes and this will unlock an Apple ID. Here are the steps you need to follow to get your apple id to unlock.
@@ -282,6 +286,10 @@ Whenever your ID gets locked in your Apple iPhone 15 Pro Max or iPad, you can al
 **Step 4:** Click “Restore” again n confirm the actions.
 
 ![apple id unlock how to fix it 1](https://images.wondershare.com/drfone/article/2020/11/apple-id-unlock-how-to-fix-it-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: Apple ID unlock by finding it back
 
@@ -303,10 +311,6 @@ However, you can always look out for the Apple ID using the first and last name 
 
 This is all you need to know about unlocking your Apple ID in some easy steps. If you can get help from any professional, that would be much safe as, it will prevent any damage to your phone. If this is something new to you, you need someone who knows about it all. Unlocking your smartphone is easy with all these tools as mentioned above. Make sure you use them as per their terms and conditions for the betterment.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 15 Pro Max?
 
 You may see the error message, “**Your account has been disabled in the App Store and iTunes**” when you try to log in. This is often an indication that for some reason your Apple ID is not working as it should. When you consider that you will not be able to download or update apps or even make a purchase using Apple Pay without your Apple ID, it is easy to see why this error message can be a problem.
@@ -322,10 +326,6 @@ The following are some reasons why you may see this error message popup on your 
 - Any billing issues such as unpaid iTunes and App Store orders
 - Safety and security reasons like when Apple suspects your account may be hacked
 - When there are charging disputes on your credit card
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2. How to fix “Your account has been disabled in App store and iTunes”?
 
@@ -398,10 +398,6 @@ Do you have any unpaid purchases or subscriptions?
 
 It is important to keep track of any purchases or subscriptions that you have signed up for and ensure that you pay for them on time. This not only helps you avoid late fees and penalties, but it also ensures that your account remains active and accessible. If you do have any unpaid charges, it is recommended that you settle them as soon as possible in order to reinstate your account and prevent any further issues. Keep a record of all your expenses and regularly review your bills to avoid missing any payments and keep your accounts in good standing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4. Sign Out and Sign in Again
 
 Signing out of your account and then signing back in may help if this issue is caused by a software glitch.
@@ -418,6 +414,10 @@ If you see a message that says, “Your account has been disabled in the App Sto
 - **Step 3:** Or schedule a call with Apple Support, and they should be able to help you fix your account disabled in App store.
 
 ![disabled in the app store and itunes 2](https://images.wondershare.com/drfone/article/2023/05/getsupport-apple.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. What does it influence when “Your account has been disabled in the App Store and iTunes”?
 
@@ -498,24 +498,14 @@ In conclusion, encountering a disabled Apple account in the App Store and iTunes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-ultimate-source-of-high-quality-video-downloaders/"><u>[New] In 2024, The Ultimate Source of High-Quality Video Downloaders</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-exclusive-list-the-top-10-camcorders-for-2ranking-for-2024/"><u>[Updated] Exclusive List The Top 10 Camcorders for 2Ranking for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-maximize-impact-strategies-for-successful-instagram/"><u>[Updated] Maximize Impact Strategies for Successful Instagram</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-tutorial-transforming-video-content-into-captivating-animated-gifs/"><u>2024 Approved Tutorial Transforming Video Content Into Captivating Animated GIFS</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-iphone-14-pro-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On iPhone 14 Pro How to Bypass?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-iphone-x-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From iPhone X? How to Fix it?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-playground-to-pro-how-mavic-air-challenges-the-spark-dominance-for-2024/"><u>From Playground to Pro How Mavic Air Challenges the Spark Dominance for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-13-pro-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone 13 Pro?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-apple-iphone-15-pro-max-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-12-pro-max-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone 12 Pro Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-11-pro-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 11 Pro</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-coherent-and-curated-youtube-playlists-online-and-mobile-assembly-guide/"><u>In 2024, Coherent and Curated YouTube Playlists Online & Mobile Assembly Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-apple-iphone-xs-max-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your Apple iPhone XS Max From Your Apple ID</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-max-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Max When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-mastering-the-art-of-viewing-youtube-video-reactions-and-votes/"><u>In 2024, Mastering the Art of Viewing YouTube Video Reactions and Votes</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-apple-iphone-13-mini-for-parents-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Telegram Spy Tools On Apple iPhone 13 mini for Parents | Dr.fone</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/mov-a-aiff-convertitore-online-e-gratuito-utilizzo-di-movemovi/"><u>MOV a AIFF Convertitore Online E Gratuito - Utilizzo Di MoveMovi</u></a></li>
-<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-14-plus-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone 14 Plus Making It Possible</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-persistent-usb-connection-issues/"><u>Ultimate Guide: Solving Persistent USB Connection Issues</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-uncomplicated-walkthrough-of-easy-iphone-screen-capture/"><u>[New] 2024 Approved Uncomplicated Walkthrough of Easy iPhone Screen Capture</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-link-to-download-gaomon-s620-drivers/"><u>Direct Link to Download Gaomon S620 Drivers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-11-pro-max-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone 11 Pro Max without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-iphone-x-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock Apple iPhone X When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-11-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From iPhone 11?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-techniques-to-blur-faces-in-photography/"><u>In 2024, Innovative Techniques to Blur Faces in Photography</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-c33-2023-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Realme C33 2023</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-apple-iphone-14-pro-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On Apple iPhone 14 Pro Making It Possible</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/understanding-pixel-slate-flaws-a-deep-dive-into-its-chromeos-problems/"><u>Understanding Pixel Slate Flaws: A Deep Dive Into Its ChromeOS Problems</u></a></li>
 </ul></div>
 

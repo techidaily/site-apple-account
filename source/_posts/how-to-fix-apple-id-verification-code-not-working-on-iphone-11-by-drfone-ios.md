@@ -1,7 +1,7 @@
 ---
 title: How To Fix Apple ID Verification Code Not Working On iPhone 11
-date: 2024-07-14T12:59:57.014Z
-updated: 2024-07-15T12:59:57.014Z
+date: 2024-12-19T18:21:57.271Z
+updated: 2024-12-26T17:15:44.151Z
 tags: 
   - unlock
   - remove apple account
@@ -68,9 +68,6 @@ If you’re facing troubles due to password errors or 2FA issues, resetting your
 
 Incorrect date and time settings can influence Apple ID verification. Go to **Settings**, select **General**, and tap on **Date & Time**. Ensure **Set Automatically** is enabled, allowing your Apple iPhone 11 to adjust these settings according to your time zone.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![date & time settings ios](https://images.wondershare.com/drfone/article/2024/01/apple-id-verification-not-working-04.jpg)
 
 ### Method 4: Signing Out/In Your Apple ID
@@ -102,7 +99,6 @@ Thankfully, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershar
 Here’s how to use powerful Dr.Fone’s - Screen Unlock (iOS) to remove Apple ID.
 
 - **Step 1:** Download, install, and launch Wondershare Dr.Fone.
-
 
 - **Step 2:** Go to **Toolbox > Screen Unlock > iOS**.
 
@@ -150,9 +146,6 @@ Have you ever wondered what happens when you erase the content of your Apple iPh
 
 This process is often necessary when you sell or give away your Apple iPhone 11 to ensure your personal information remains secure. But, you may encounter a situation where you should learn **how to erase an iPhone without an Apple ID**. While this may seem challenging, you can use a few methods to achieve this goal. This article will show you how to do it with or without an Apple ID password.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![back and front of iphone 15](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-01.jpg)
 
 ## Part 1: A Checklist on What To Do Before Erasing an iPhone
@@ -220,6 +213,10 @@ Go to **Settings** > **\[your name\]** > **Find My** or **Find My iPhone** to ch
 
 ![find my iphone settings](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you want to **erase an iPhone without Apple ID** password on your computer, you can do so as long as you turn off the Find My. However, you'll need to put your Apple iPhone 11 into Recovery Mode first.
 
 - **Step 1:** Turn off your Apple iPhone 11, then put it into [<u>Recovery Mode</u>](https://drfone.wondershare.com/recovery-mode/iphone-stuck-in-recovery-mode.html).
@@ -237,9 +234,6 @@ If you want to **erase an iPhone without Apple ID** password on your computer, y
 
 - For macOS 10.15 or later: Select your Apple iPhone 11 under the **Locations**section, then click **Restore iPhone**.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restore iphone on mac device](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-09.jpg)
 
 - For macOS 10.14 or earlier or Windows: Click the Apple iPhone 11 in the top left window, click **Summary**, then click **Restore iPhone**.
@@ -279,12 +273,8 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 - **Step 1:** Download and install Dr.Fone on your desktop. Launch the app and connect your Apple iPhone 11 using a USB cable.
 
-
 - **Step 2:** From the **Toolbox** homepage, select **Screen Unlock**, then choose **iOS**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone toolbox interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 3:** Select **Remove AppleID** to delete iPhone contents, including the Apple ID.
@@ -298,6 +288,10 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 - **Step 5:** Click **Yes** to confirm you have set up a screen lock.
 
 ![validate iphone screen lock set up](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Click **Yes** to verify you have enabled [<u>two-factor authentication</u>](https://drfone.wondershare.com/remove-apple-account/how-to-get-apple-id-verification-code.html) on your Apple iPhone 11.
 
@@ -315,6 +309,10 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 ![downloading ios firmware in progress](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 10:** Once downloaded, click **Unlock Now** to proceed.
 
 ![ios firmware downloaded](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
@@ -331,17 +329,29 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 ![iphone apple id unlocked](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 It can be challenging to **erase an iPhone without an Apple ID** password, but it's achievable by following the right steps. Remember to weigh the security implications and back up your data beforehand.
 
 If you're seeking a straightforward method on "**how to erase an iPhone without Apple ID**," Dr.Fone Screen Unlock tool is a good solution. With its user-friendly interface and efficient operation, Dr.Fone simplifies the process, making it accessible to users of all technical levels. Don't let a forgotten Apple ID password hinder your device's functionality. Try Dr.Fone Screen Unlock and reclaim control of your Apple iPhone 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Erase an Apple iPhone 11 without Apple ID?
 
 Our generation is all about high-performance gadgets and, a phone is one of the most important of it all. But with the concept of a smartphone, things have changed. iPhone/iPad has emerged as an important fashion quotient for a long now.
 
 We often end up buying second-hand iPhones/iPads or sell our old version of the phones/pads to an unknown person and buy a new version of other brands, like Samsung S22. At times, be it after-sale/purchase or old iPhone, or if you may have yourself forgotten the password to your Apple ID, we often come across a big challenge, and that is how to erase an iPhone without an Apple ID password. Well, if that’s the case with you, then you’ve reached the right place. We’re about to discuss the most effective ways to erase an iPhone without an Apple ID password. Let’s discover them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. How to erase an iPhone without Apple ID and iTunes
 
@@ -366,6 +376,10 @@ The first thing to do is download and install the Dr.Fone – Screen Unlock (iOS
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Select the correct Mode.**
 
 After the installation is done completely, launch the tool and select the “Screen Unlock” option on the software’s home interface. A new screen interface will appear, you will have three different options. You need to select the “Unlock iOS Screen” option and, this will start the entire process of unlocking.
@@ -376,10 +390,11 @@ After the installation is done completely, launch the tool and select the “Scr
 
 You now have to boot your Apple iPhone 11 or iPad device into Recovery mode or DFU mode so that the software can recognize your device for further process. For your convenience, Dr. Fone Screen Unlock (iOS) has a built-in instruction facility that helps you to follow the steps.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![ios unlock 2 2](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4: Confirm the information and download firmware**
 
@@ -392,6 +407,14 @@ After a successful reboot into Recovery mode, the tool will automatically detect
 Once the download is complete, you can get started with erasing an iPhone without an Apple ID password. Hit the “Unlock Now” button, and voila! In no time, you’ve successfully erased an iPhone without an Apple ID password.
 
 ![ios unlock 4](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Erase an iPhone without Apple ID via iTunes
 
@@ -469,9 +492,6 @@ Now let’s get started with erasing an Apple ID via Apple’s Data and Privacy 
 
 Coming towards the end of the topic, we now are fully sure that you fully understand how to erase an iPhone without an Apple ID. Just in case you have any doubts, please feel free to comment below. And do remember to share this with your friends and family if you find it useful.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -484,9 +504,26 @@ Coming towards the end of the topic, we now are fully sure that you fully unders
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boosting-your-youtube-with-partner-videos/"><u>[Updated] 2024 Approved Boosting Your YouTube with Partner Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-streamlining-your-youtube-tracks-a-sound-guide/"><u>[Updated] Streamlining Your YouTube Tracks A Sound Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-iphone-15ipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked iPhone 15/iPad/iPod</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-nubia-red-magic-9-proplus-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Nubia Red Magic 9 Pro+ Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/download-dex-dj-mixer-v31101-enhanced-audio-quality-with-new-shader-features/"><u>Download DEX DJ Mixer v3.11.0.1: Enhanced Audio Quality with New Shader Features</u></a></li>
+<li><a href="https://win11.techidaily.com/expediting-remedies-for-virtualboxs-efail-error-on-windows/"><u>Expediting Remedies for Virtualbox’s E_FAIL Error on Windows</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-8-plus-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-11-pro-max-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 11 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-13-pro-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 13 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-iphone-11-by-drfone-ios/"><u>How to Fix when Apple Account Locked On iPhone 11?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-iphone-12-pro-max-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From iPhone 12 Pro Max How to Bypass?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone 6s Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-11-pro-max-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 11 Pro Max? How to Fix</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-iphone-xs-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From iPhone XS</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-winstore-problems-effective-fix-for-0x80072f17/"><u>Tackling WinStore Problems: Effective Fix for 0X80072f17</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-best-5-devices-to-record-your-virtual-meetings/"><u>The Best 5 Devices to Record Your Virtual Meetings</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-infinix-note-30-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Infinix Note 30 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Infinix Smart 8 HD | Dr.fone</u></a></li>
+</ul></div>
 

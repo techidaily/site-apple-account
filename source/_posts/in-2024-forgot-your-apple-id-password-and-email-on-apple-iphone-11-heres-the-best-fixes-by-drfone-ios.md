@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Your Apple ID Password and Email On Apple iPhone 11? Heres the Best Fixes
-date: 2024-07-14T13:01:58.915Z
-updated: 2024-07-15T13:01:58.915Z
+date: 2024-12-20T01:17:19.798Z
+updated: 2024-12-27T01:59:17.871Z
 tags: 
   - unlock
   - remove apple account
@@ -34,6 +34,10 @@ One of the quickest remedies for a misplaced Apple ID password involves starting
 
 ![choose the change password option](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### For MacBook
 
 - **Step 1.** Navigate to the top left corner of your Mac and select the Apple logo. From the dropdown menu, choose "System Settings." Inside "System Settings," click on your name and select "Sign-in & Security."
@@ -45,8 +49,9 @@ One of the quickest remedies for a misplaced Apple ID password involves starting
 ![press the change password button](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Way 2: Reset Apple ID Password From Website
 
 Have resetting the Apple ID password from the settings on your iOS device or Mac proved unsuccessful? An alternative approach lies in using the official Apple "iForgot" website. This online solution functions as a dependable platform. It enables users to recover access to their Apple ID while ensuring password resets are conducted securely. The following steps outline the process:
@@ -85,13 +90,14 @@ You are in luck if you have added an account recovery contact before losing your
 
 ![tap on get recovery mode](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### On Mac
 
 - **Step 1:** Start by accessing "System Settings" using the Finder and click on your name from the top left corner. Following this, access the "Sign-In & Security" settings and tap "Account Recovery."
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![proceed with system settings](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-11.jpg)
 
 - **Step 2:** Select the contact who has asked you for help recovering their account. Then, tap "Get Recovery Code" to receive a code that you need to share with the targeted person.
@@ -113,8 +119,6 @@ If you have been trying all the solutions and the Apple ID account has not yet r
 That's why it's necessary to recover your Apple ID as soon as possible. [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a robust feature to unlock your Apple ID and resolve this problem permanently. This software can also bypass your Screen Time Passcode if you have forgotten your password. You will be able to use your Apple ID effectively after using this iOS screen unlock toolkit.
 
 ### Key Features of Wondershare Dr.Fone
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -141,7 +145,6 @@ At first, you will have to launch Wondershare Dr.Fone on your system and access 
 
 ![proceed with remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
-
 - Step 2: Get Your Apple iPhone 11 into the Recovery Mode
 
 In the next step, proceed with unlocking your Apple iPhone 11 and selecting the "Trust" option for system authentication. After doing this, you need to press the "Unlock Now" icon and follow the on-screen instructions to confirm the status of Screen Lock and [<u>Two-Factor Authentication</u>](https://drfone.wondershare.com/remove-apple-account/remove-apple-two-factor-authentication.html). Next, you will be required to enable Recovery Mode on your iDevice.
@@ -153,6 +156,10 @@ In the next step, proceed with unlocking your Apple iPhone 11 and selecting the 
 When your Apple iPhone 11 has entered [<u>Recovery Mode</u>](https://drfone.wondershare.com/recovery-mode/iphone-stuck-in-recovery-mode.html), Wondershare Dr.Fone will detect the model of your iDevice and choose the "System Version" for downloading the required iOS firmware. After verifying the iOS firmware, press the "Unlock Now" button and give the confirmation to initiate the unlock process of Apple ID.
 
 ![tap sign in and security](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -182,6 +189,10 @@ If you enable the Find My feature, the activation lock possibly gets enabled on 
 
 If your Apple Watch gets stolen or you lose it somewhere, and somebody resets it, they will have a dead Watch to play with, and none of its functions will be open. That is only possible if they don't have the foggiest idea about the password.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Remove Apple Watch Activation Lock By Apple iPhone 11 without Previous Owner？
 
 You can attempt an internet-based service to eliminate the Activation Lock on Apple Watch. You can open one of these services for your Apple Watch, and they will unlock your Watch for you. In any case, you ought to be familiar with a couple of things about these services.
@@ -202,6 +213,10 @@ The following steps show **how to remove activation lock without previous owner 
 
 In a couple of days, you will get an email saying that your Apple Watch is unlocked and you can utilize it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: The Way to Remove Apple Watch Activation Lock from Previous Owner
 
 To dispose of Activation Lock on Apple Watch with a past user, you can:
@@ -213,6 +228,10 @@ To dispose of Activation Lock on Apple Watch with a past user, you can:
 **Step 3.** Click on All Devices at the top and pick your Apple Watch from the rundown.
 
 ![icloud unlock](https://images.wondershare.com/drfone/article/2022/10/remove-activation-lock-without-previous-owner-apple-watch-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4.** Click the Erase Apple Watch choice on the following screen and Remove from Account.
 
@@ -232,9 +251,6 @@ Connect your device to the PC through a lightning connector. Then click the "iCl
 
 **Step 2.** Before bypassing the activation lock, please select "Start".
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select start](https://images.wondershare.com/drfone/guide/bypass-activation-lock-2.png)
 
 **Step 3.** After the phone in the "start" page, Dr.Fone will bypass the activation lock according to 2 sorts of iPhone devices, GSM and CDMA.
@@ -261,12 +277,9 @@ And with this image, you will know the activation lock is bypassed.
 
 ![activation lock is bypassed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
-
 ## Conclusion
 
 Bypassing the Apple Watch activation lock could appear to be unthinkable at first. However, there are strategies to bypass this lock on your Watch. We trust the above strategies will unlock your Watch, and you can utilize it with your Apple account. If you want to remove the activation lock on your Apple iPhone 11 or iPad, free download Dr.Fone - Screen Unlock (iOS) to have an attempt.
-
-
 
 ## How to Erase an Apple iPhone 11 without Apple ID?
 
@@ -309,6 +322,10 @@ You now have to boot your Apple iPhone 11 or iPad device into Recovery mode or D
 
 ![ios unlock 2 2](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Confirm the information and download firmware**
 
 After a successful reboot into Recovery mode, the tool will automatically detect your device’s information and the most compatible iOS firmware. To start the process of downloading the firmware, you need to hit on “Start” button.
@@ -339,10 +356,11 @@ Hold down the keys until you see the message on your iTunes screen about “your
 
 **Step 3:** Once done, click on “Ok” and choose the “Restore iPhone” option. Confirm your actions, and you’re done.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![erase a iphone without apple id 2](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. How to erase an iPhone without Apple ID via Settings
 
@@ -357,6 +375,10 @@ Erasing an iPhone without Apple ID becomes necessary when we happen to use a sec
 **Step 4:** Enter your passcode to confirm. This action will pop up a screen where you need to select Erase iPhone again, and boom, you are done now.
 
 ![erase a iphone without apple id 3](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Tip you may need to erase Apple ID
 
@@ -394,15 +416,11 @@ Now let’s get started with erasing an Apple ID via Apple’s Data and Privacy 
 
 **Step 6:** This submission will give you your access code which you can later use for clarification and, now you can click on the “Delete Account” option
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase a iphone without apple id 7](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-7.jpg)
 
 ## Conclusion
 
 Coming towards the end of the topic, we now are fully sure that you fully understand how to erase an iPhone without an Apple ID. Just in case you have any doubts, please feel free to comment below. And do remember to share this with your friends and family if you find it useful.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -416,9 +434,20 @@ Coming towards the end of the topic, we now are fully sure that you fully unders
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-superior-video-editor-the-vimeo-edition/"><u>[Updated] 2024 Approved Superior Video Editor The Vimeo Edition</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-15-plus-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone 15 Plus? How to Fix it?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/bring-back-vanished-watch-icon-to-facebook/"><u>Bring Back Vanished Watch Icon to Facebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-you-get-fired-for-using-chatgpt-analyzing-10-possible-scenarios/"><u>Can You Get Fired for Using ChatGPT? Analyzing 10 Possible Scenarios</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-comfortable-and-durable-x-chair-x4-executive-seat/"><u>Comprehensive Review of the Comfortable and Durable X-Chair X4 Executive Seat</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-audio-transformation-get-your-voc-to-mp3-for-free-using-movavis-online-tool/"><u>Effortless Audio Transformation: Get Your VOC to MP3 for Free Using Movavi's Online Tool!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-gaming-experience-addressing-frame-rate-fluctuations-and-bugs-in-modern-warfare-ii/"><u>Enhancing Gaming Experience: Addressing Frame Rate Fluctuations & Bugs in Modern Warfare II</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-iphone-6s-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From iPhone 6s in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-iphone-14-pro-max-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From iPhone 14 Pro Max without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-iphone-11-pro-max-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your iPhone 11 Pro Max Apple ID on MacBook</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/top-social-network-sites-for-youtube-growth/"><u>Top Social Network Sites for YouTube Growth</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-fixing-xlive-dll-file-not-found-issues-easily/"><u>Understanding and Fixing XLive DLL File Not Found Issues Easily</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-studio-editor-unveiled-ultimate-editing-companion/"><u>YouTube Studio Editor Unveiled Ultimate Editing Companion</u></a></li>
+</ul></div>
 

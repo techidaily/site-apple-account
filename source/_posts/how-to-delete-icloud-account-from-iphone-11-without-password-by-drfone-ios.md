@@ -1,7 +1,7 @@
 ---
 title: How to Delete iCloud Account From iPhone 11 without Password?
-date: 2024-07-14T13:00:54.450Z
-updated: 2024-07-15T13:00:54.450Z
+date: 2024-12-25T16:45:09.859Z
+updated: 2024-12-26T22:33:27.343Z
 tags: 
   - unlock
   - remove apple account
@@ -45,6 +45,10 @@ Follow these instructions to delete the iCloud account from the “Settings” m
 **Step 5:** Again, tap on iCloud and scroll down till the end. Tap “Delete Account” and again click “Delete” to confirm your action.
 
 ![select delete account](https://images.wondershare.com/drfone/article/2020/05/select-delete-account.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 That’s how to delete iCloud account without password directly from “Settings” on your Apple iPhone 11.
 
@@ -94,6 +98,10 @@ In case you haven’t enabled two-way verification for your iCloud account, ther
 
 ![recovery email](https://images.wondershare.com/drfone/article/2020/05/recovery-email.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to delete iCloud account without password on computer using Dr.Fone - Screen Unlock (iOS)?
 
 If you find all the above methods slightly challenging, we have a simpler solution for you. [Wondershare Dr.Fone Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an exclusive tool for iOS users that’ll help them remove screen locks and delete iCloud accounts from an iDevice, even if you don’t remember the password or even if the “Find My iPhone” feature is enabled.
@@ -132,6 +140,10 @@ Once the two devices are successfully connected, tap “Unlock Now” on your co
 
 ![attention](https://images.wondershare.com/drfone/drfone/attention.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 At this point, you’ll be asked to enter recovery mode. You can follow the on-screen instructions to successfully enter recovery mode.
 
 ![interface](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
@@ -140,10 +152,11 @@ At this point, you’ll be asked to enter recovery mode. You can follow the on-s
 
 After entering the recovery mode, Dr.Fone will automatically initiate the unlocking process. Do not disconnect the iDevice from your computer as this can cause damage to the Apple iPhone 11 device itself.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![process of unlocking](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 As soon as your Apple ID gets unlocked, a confirmation message will pop up on your screen. Simply reboot your smartphone and you’ll be able to sign in with a new Apple ID without any hassle.
 
@@ -151,6 +164,9 @@ As soon as your Apple ID gets unlocked, a confirmation message will pop up on yo
 
 It doesn’t matter if you’re using Windows or Mac, Dr.Fone – Screen Unlock for iOS will make it extremely easy to delete the iCloud account without the password. So, if you are looking for a reliable and convenient way to remove an iCloud account, make sure to use Dr.Fone – Screen Unlock.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -205,6 +221,10 @@ If you just forget the password and cannot remember it, you can follow the steps
 
 ![reset apple id password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Look for the notification on iPhone, Mac, or iPad and follow the instructions to reset the password.
 
 ![reset password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id-3.jpg)
@@ -212,8 +232,6 @@ If you just forget the password and cannot remember it, you can follow the steps
 Note that if you are changing your Apple ID password on an iPhone or iPad, you will need to enter your device's six-digit passcode, then reset a new password.
 
 Forgetting the password is particularly troublesome, but there is good news. That is, you can use [Password Manager](https://drfone.wondershare.com/iphone-password-manager.html) to find your passwords on your Apple iPhone 11/iPad without spending too much time remembering them!
-
-
 
 ### Dr.Fone - Password Manager (iOS)
 
@@ -235,31 +253,26 @@ If you think that your account has been disabled because of a payment issue, it 
 - **Step 3:** Tap “View Apple ID” and then select “Manage Payments”.
 - **Step 4:** Tap “Add Payment Method” to add a new payment method.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disabled in the app store and itunes 1](https://images.wondershare.com/drfone/article/2020/11/disabled-in-the-app-store-and-itunes-1.jpg)
 
 If the payment method was the issue, your account will be re-enabled after these steps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3. Settle Any Unpaid Charges
 
 Do you have any unpaid purchases or subscriptions?
 
 It is important to keep track of any purchases or subscriptions that you have signed up for and ensure that you pay for them on time. This not only helps you avoid late fees and penalties, but it also ensures that your account remains active and accessible. If you do have any unpaid charges, it is recommended that you settle them as soon as possible in order to reinstate your account and prevent any further issues. Keep a record of all your expenses and regularly review your bills to avoid missing any payments and keep your accounts in good standing.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4. Sign Out and Sign in Again
 
 Signing out of your account and then signing back in may help if this issue is caused by a software glitch.
 
 - On your iOS device, go to Settings > \[Your Name\] > iTunes & App Store and Sign Out. Then sign in again.
 - On your Mac, open the App Store (Store > Sign Out) and iTunes (Account > Sign Out. Then sign in again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5. Try Contacting Apple Support Directly
 
@@ -280,6 +293,10 @@ When you see the error message “Your account has been disabled in the App Stor
 - Furthermore, you may not be able to access Apple services and any Apple Store orders and repairs may need to be rescheduled.
 - Until you can fix the issue, you will not be able to receive iMessage, FaceTime, and iCloud Mail.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Is “Your account has been disabled in the App Store and iTunes” the same as “Apple ID disabled”?
 
 No. The error message “Your account has been disabled in the App Store and iTunes” differs from “Apple ID disabled”. You will primarily see the “Your account has been disabled in the App Store and iTunes” when you try to access content in the App Store. On the other hand, you may see the message “Apple ID disabled” when you enter the Apple ID and password to [bypass the iCloud Activation Lock screen](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html).
@@ -293,8 +310,6 @@ After you see these errors, you will not be able to access some of the features 
 Sometimes the only way to [fix “Apple ID Disabled”](https://drfone.wondershare.com/apple-account/how-to-unlock-apple-id-disabled-activation-lock.html) is to remove the Apple ID from the Apple iPhone 11 device. This may become a viable solution if you lost or forgot the Apple ID password or ID and you have no way to recover them. It is also one of the best solutions when you purchased a second-hand device, and you don’t know the Apple ID password for the account associated with the Apple iPhone 11 device.
 
 One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This third-party unlocking software is designed to easily and effectively remove the Apple ID password from any device. The following are some things it can do;
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -326,6 +341,10 @@ Connect the iOS device to the computer using its lightning cable. Then enter the
 
 ![trust computer](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4: Apple ID Removal will Begin**
 
 Dr.Fone will immediately begin removing the Apple ID from the Apple iPhone 11 device. You should see a progress bar indicating how long the process will take. Ordinarily, the removal should take just a few seconds. When the process is complete, you will see a notification on the screen letting you know that the Apple ID has been removed.
@@ -337,8 +356,6 @@ You should then be able to sign in to another Apple ID or create a new Apple ID 
 ## Conclusion
 
 In conclusion, encountering a disabled Apple account in the App Store and iTunes can be a frustrating experience. However, by understanding the reasons behind it, following the recommended steps to resolve the issue, and considering the broader impact on your digital life, you can navigate this situation effectively. Remember, prompt action and patience are key to restoring your account and getting back to enjoying the Apple ecosystem hassle-free.
-
-
 
 ## Why Apple Account Disabled On your Apple iPhone 11? How to Fix
 
@@ -368,9 +385,6 @@ Even though Apple accounts can be generally disabled overpayment issues, there a
 
 As this article provides you a detailed overview of the reasons that lead to your Apple Account getting disabled, this article also considers providing you a few tips and tricks that would guide you in efficiently unlocking your Apple Account and use it with ease.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Unlock disabled Apple account with Dr. Fone
 
 The first remedy that can be effectively tested across such situations that involve disabled Apple accounts is relating a third-party platform. Dedicated third-party tools are quite common in the market and provide users with adequate services that allow them to unlock their devices with ease. Out of this uncountable list of platforms, this article introduces you to a specific platform that offers you unique features with a user-interface that can be easily apprehended. [Dr. Fone – Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) offers you the perfect environment that would lead you in reversing the disabling of your Apple Account easily. There are several reasons that make this platform the first choice of users all around the globe, which are declared as follows:
@@ -399,6 +413,10 @@ With the home window on your front, you are required to tap on the 'Screen Unloc
 Over the Apple Device, you need to select the option of “Trust” over the prompt that is received on the phone. Following this, you need to open the “Settings” of your device and initiate a reboot of your Apple device.
 
 ![follow-the-on-screen-instructions](https://images.wondershare.com/drfone/article/2020/11/how-to-fix-apple-account-disabled-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4: Device Unlocks**
 
@@ -432,7 +450,6 @@ The platform will send a verification code that would allow you to unlock your d
 
 This article has provided you a detailed guide over the existing reasons that would have your Apple account disabled, followed by different tips that can be followed to cover your assorted problems efficiently.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -445,9 +462,22 @@ This article has provided you a detailed guide over the existing reasons that wo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-audiophiles-guide-to-speed-adjustment-apps/"><u>[New] Audiophile's Guide to Speed Adjustment Apps</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-ultimate-film-making-camera-lineup-best-of-all-levels-for-2024/"><u>[New] Ultimate Film-Making Camera Lineup Best of All Levels for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-iphone-7-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From iPhone 7? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-13-mini-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone 13 mini? How to Fix it?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-past-trials-revisiting-game-accomplishments-on-steam/"><u>Bypassing Past Trials: Revisiting Game Accomplishments on Steam</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capture-still-shots-from-video-using-photos-on-windows-10/"><u>Capture Still Shots From Video Using Photos on Windows 10</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-14-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing iPhone 14 Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://article-files.techidaily.com/flexible-cam-balancer-toolkit-for-2024/"><u>Flexible Cam Balancer Toolkit for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-dreamy-dialogues-in-dusk-examining-childrens-video-stories/"><u>In 2024, Dreamy Dialogues in Dusk Examining Children's Video Stories</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone XR</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-apple-iphone-14-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your Apple iPhone 14 Pro Max Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-11-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On Apple iPhone 8 Plus?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/vivo-y36i-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo Y36i ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+</ul></div>
 

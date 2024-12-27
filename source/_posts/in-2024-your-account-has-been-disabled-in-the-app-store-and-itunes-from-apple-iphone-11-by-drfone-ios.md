@@ -1,7 +1,7 @@
 ---
 title: In 2024, Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 11?
-date: 2024-07-14T13:02:45.300Z
-updated: 2024-07-15T13:02:45.300Z
+date: 2024-12-25T17:23:12.852Z
+updated: 2024-12-27T07:17:30.375Z
 tags: 
   - unlock
   - remove apple account
@@ -20,9 +20,6 @@ You may see the error message, “**Your account has been disabled in the App St
 
 Why is my account disabled in the App store? Here, we take a look at the reasons why you may see the error messages and what you can do to fix them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Why has my account been disabled in the App Store and iTunes?
 
 The following are some reasons why you may see this error message popup on your screen:
@@ -73,8 +70,6 @@ If you just forget the password and cannot remember it, you can follow the steps
 Note that if you are changing your Apple ID password on an iPhone or iPad, you will need to enter your device's six-digit passcode, then reset a new password.
 
 Forgetting the password is particularly troublesome, but there is good news. That is, you can use [Password Manager](https://drfone.wondershare.com/iphone-password-manager.html) to find your passwords on your Apple iPhone 11/iPad without spending too much time remembering them!
-
-
 
 ### Dr.Fone - Password Manager (iOS)
 
@@ -140,13 +135,15 @@ No. The error message “Your account has been disabled in the App Store and iTu
 
 After you see these errors, you will not be able to access some of the features and apps that require your Apple ID for access.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5. How to fix Apple ID disabled by removing Apple ID?
 
 Sometimes the only way to [fix “Apple ID Disabled”](https://drfone.wondershare.com/apple-account/how-to-unlock-apple-id-disabled-activation-lock.html) is to remove the Apple ID from the Apple iPhone 11 device. This may become a viable solution if you lost or forgot the Apple ID password or ID and you have no way to recover them. It is also one of the best solutions when you purchased a second-hand device, and you don’t know the Apple ID password for the account associated with the Apple iPhone 11 device.
 
 One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This third-party unlocking software is designed to easily and effectively remove the Apple ID password from any device. The following are some things it can do;
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -184,7 +181,15 @@ Dr.Fone will immediately begin removing the Apple ID from the Apple iPhone 11 de
 
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You should then be able to sign in to another Apple ID or create a new Apple ID and password to use on the Apple iPhone 11 device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -197,6 +202,10 @@ Searching "**How to delete iCloud account**?" If you want to delete an iCloud ac
 Deleting your Apple ID is a significant decision that should not be taken lightly. Proceeding with Apple ID deletion is a final decision. Once initiated, there's no turning back. If you're certain about it, refer to this article for a step-by-step guide on **how to delete iCloud account** and explore alternative options if you need it.
 
 ![delete apple id account](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Deleting iCloud Account? Essential Preparations Before You Proceed
 
@@ -254,6 +263,10 @@ Here's "**how to remove iCloud account**" from your Apple iPhone 11 without dele
 
 ![sign out apple id on iphone](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Tap on **Sign Out** to verify.
 
 Remove iCloud Account on Mac Device
@@ -304,8 +317,9 @@ If you are sure of your decision and have prepared for the consequences, here's 
 ![verify account deletion](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4: How To Remove an iCloud Account Without a Password?
 
 You're not alone if you've forgotten your Apple ID password or bought a used iPhone with the previous owner's Apple ID still on it. Many people find themselves in this situation, and it can be frustrating not being able to remove the iCloud account without the password. Fortunately, there is a way to do this using Dr. Fone's iOS Screen Unlock tool:
@@ -318,7 +332,6 @@ You're not alone if you've forgotten your Apple ID password or bought a used iPh
 Here's a step-by-step guide on how to use Dr.Fone to [<u>remove an iCloud account</u>](https://drfone.wondershare.com/icloud/how-to-remove-icloud-account.html) without a password:
 
 - **Step 1:** Download and install Dr.Fone on your desktop.
-
 
 - **Step 2:** Launch the software and go to **My Device**. Follow the in-app instructions to connect your Apple iPhone 11 to your computer using a USB cable.
 
@@ -366,6 +379,10 @@ If you continue to "**remove iCloud account**", this will erase all data from yo
 
 ![unlock using downloaded firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 12:** Enter the code given in the dialogue box and click **Unlock** to continue.
 
 ![warning dialogue box](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
@@ -391,6 +408,10 @@ Here's how to temporarily deactivate your Apple ID account:
 
 ![request to deactivate your account](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-26.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Select a reason for deactivating your account from the drop-down menu, then click **Continue**.
 - **Step 4:** Review the information and follow the on-screen instructions to complete deactivation.
 
@@ -412,9 +433,6 @@ As you've learned, deleting an iCloud account is a permanent decision you cannot
 
 Apps like Dr.Fone provide a comprehensive solution for backing up your data and removing an iCloud account without a password. Its user-friendly interface and streamlined processes make it an ideal choice for those seeking a quick and hassle-free experience. Whether you're looking for an answer on "**how to delete iCloud account**" or "**remove iCloud account**," Dr.Fone is the ultimate tool to guide you through the process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How To Remove Phone Number From Your Apple ID on Your Apple iPhone 11?
 
 After getting a new device, iPhone users must prepare a unique identification term for their Apple ID. Creating and setting up this ID is not different each time. Not to mention, one can use this one registered ID to access multiple Apple-based features like podcast subscriptions, apps, etc.
@@ -438,6 +456,10 @@ If you want to learn **how to remove the number from Apple ID** and if possible,
 ## Part 3. 3 Ways to Remove a Phone Number from Your Apple ID
 
 If you are wondering about the steps for how to **remove an old phone number from Apple ID,** there are different styles available. Here are the main processes you can utilize.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1. Remove Phone Number via iPhone/iPad's Settings
 
@@ -473,9 +495,6 @@ For Facetime, click on the FaceTime option and go to Preferences > General.
 
 ![choose the tickmark](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-phone-number-from-apple-id-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Remove Phone Number via Change Apple ID Password
 
 It is possible to change the password for Apple ID in the matter of **how to remove a phone number from Apple ID.** Adjusting the phone number is the natural next step when you carry out this step, so you can remove the number and use another at this stage.
@@ -506,15 +525,15 @@ It is possible to **remove phone number from Apple ID** by accessing the Apple i
 - Remove all types of lock screens, like Apple ID, Face ID, Touch ID, Screen Time Passcode, etc.
 - Fast process of screen and password bypassing.
 
-
 **How to use it?**
 
 **Step 1:** Download/install/launch the app on Mac/Windows. Select Screen Unlock when the app opens on the interface.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Choose the "Remove Apple ID" option and add the passcode, as instructed. Allow the system to trust the Apple iPhone 11 device for authentication through the following prompt.
 
@@ -531,7 +550,6 @@ It is possible to **remove phone number from Apple ID** by accessing the Apple i
 **Video Guide: How to Remove Apple ID without Password?**
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/iFMAR09R9x4"></iframe>
-
 
 ## Part 5. FAQs about Apple ID Phone Number
 
@@ -551,9 +569,6 @@ No, the Apple ID and phone number are not connected as features or codes. So, ad
 
 Indeed, there are multiple methods you can take to remove the phone number registered to your Apple ID successfully. They are accessible in multiple ways through Mac, iPad, or iPhone settings. If you forgot the Apple ID, you could even remove it using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). Ultimately, choose the process to trust based on your specific needs.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -566,9 +581,24 @@ Indeed, there are multiple methods you can take to remove the phone number regis
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-how-to-search-people-on-facebook-quickly-2-ways-included/"><u>[New] In 2024, How to Search People on Facebook Quickly (2 Ways Included)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-ignite-your-startups-growth-with-these-top-social-media-tips/"><u>[New] In 2024, Ignite Your Startup's Growth with These Top Social Media Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-magic-of-photo-cleanse-picsart-bg-removal/"><u>[New] Unveiling the Magic of Photo Cleanse Picsart Bg Removal</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-discovering-windows-best-snipping-and-cropping-software/"><u>[Updated] 2024 Approved Discovering Windows' Best Snipping and Cropping Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-optimize-space-compelling-selection-of-20-top-free-cloud-storages-up-to-1tb/"><u>2024 Approved Optimize Space Compelling Selection of 20 Top FREE Cloud Storages (Up To 1TB)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-7-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone 7</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-se-2022-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone SE (2022) Without Apple ID Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-apple-iphone-xr-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On Apple iPhone XR How to Bypass?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-iphone-14-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your iPhone 14 Apple ID on MacBook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-iphone-12-pro-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On iPhone 12 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your iPhone 15 Plus</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-inspirational-quotations-for-the-metaverse-era/"><u>In 2024, Inspirational Quotations for the Metaverse Era</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-unlock-fcps-full-potential-expert-voice-over-recording-techniques/"><u>New 2024 Approved Unlock FCPs Full Potential Expert Voice Over Recording Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/rise-above-struggles-10-empowering-movies-for-life/"><u>Rise Above Struggles 10 Empowering Movies for Life</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-removing-titles-from-your-nook-library/"><u>Step-by-Step Guide: Removing Titles From Your Nook Library</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-11-pro-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 11 Pro</u></a></li>
+</ul></div>
 

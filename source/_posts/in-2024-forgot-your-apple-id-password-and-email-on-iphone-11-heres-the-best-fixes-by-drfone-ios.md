@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Your Apple ID Password and Email On iPhone 11? Heres the Best Fixes
-date: 2024-07-14T13:03:26.422Z
-updated: 2024-07-15T13:03:26.422Z
+date: 2024-12-26T08:13:48.653Z
+updated: 2024-12-27T02:18:41.432Z
 tags: 
   - unlock
   - remove apple account
@@ -34,28 +34,30 @@ One of the quickest remedies for a misplaced Apple ID password involves starting
 
 ![choose the change password option](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### For MacBook
 
 - **Step 1.** Navigate to the top left corner of your Mac and select the Apple logo. From the dropdown menu, choose "System Settings." Inside "System Settings," click on your name and select "Sign-in & Security."
 
 ![open macbook system settings](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Within the "Sign-In & Security" tab, locate "Password" and click on "Change Password." Enter your Mac passcode and follow the on-screen instructions to reset your Apple ID password.
 
 ![press the change password button](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 2: Reset Apple ID Password From Website
 
 Have resetting the Apple ID password from the settings on your iOS device or Mac proved unsuccessful? An alternative approach lies in using the official Apple "iForgot" website. This online solution functions as a dependable platform. It enables users to recover access to their Apple ID while ensuring password resets are conducted securely. The following steps outline the process:
 
 - **Step 1.** To begin, launch a web browser and navigate to iforgot.apple.com. Afterward, opt for the "Reset Password" option, leading you to the page dedicated to changing your Apple ID password. Provide your Apple ID, usually the email address linked to your Apple account, and proceed by clicking "Continue."
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on the reset password button](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-5.jpg)
 
 - **Step 2.** You will receive a confirmation code on one of your trusted Apple devices by proceeding to the next screen. Tap “Allow” on the confirmation pop-up, and you will be redirected to enter your trusted Apple device passcode. This will allow you to set a new password for your Apple ID.
@@ -78,6 +80,10 @@ The official Apple Support app is another way to reset your Apple ID password. I
 
 You are in luck if you have added an account recovery contact before losing your Apple ID password. To guarantee that you never face lockouts on your Apple ID or devices, Apple permits the addition of up to 5 recovery contacts. Simply contact your account recovery contact for assistance. Here are the steps they can follow to aid you:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### On iOS Devices
 
 - **Step 1:** You can begin by accessing the iOS device's Settings and tapping the Apple ID. On the following screen, press "Sign-In & Security" and go on to "Account Recovery."
@@ -88,9 +94,6 @@ You are in luck if you have added an account recovery contact before losing your
 
 ![tap on get recovery mode](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### On Mac
 
 - **Step 1:** Start by accessing "System Settings" using the Finder and click on your name from the top left corner. Following this, access the "Sign-In & Security" settings and tap "Account Recovery."
@@ -100,6 +103,10 @@ You are in luck if you have added an account recovery contact before losing your
 - **Step 2:** Select the contact who has asked you for help recovering their account. Then, tap "Get Recovery Code" to receive a code that you need to share with the targeted person.
 
 ![tap on get recovery code](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 5: Reset Apple ID Password Through Requesting Account Recovery
 
@@ -117,7 +124,9 @@ That's why it's necessary to recover your Apple ID as soon as possible. [<u>Wond
 
 ### Key Features of Wondershare Dr.Fone
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -144,7 +153,6 @@ At first, you will have to launch Wondershare Dr.Fone on your system and access 
 
 ![proceed with remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
-
 - Step 2: Get Your Apple iPhone 11 into the Recovery Mode
 
 In the next step, proceed with unlocking your Apple iPhone 11 and selecting the "Trust" option for system authentication. After doing this, you need to press the "Unlock Now" icon and follow the on-screen instructions to confirm the status of Screen Lock and [<u>Two-Factor Authentication</u>](https://drfone.wondershare.com/remove-apple-account/remove-apple-two-factor-authentication.html). Next, you will be required to enable Recovery Mode on your iDevice.
@@ -156,6 +164,10 @@ In the next step, proceed with unlocking your Apple iPhone 11 and selecting the 
 When your Apple iPhone 11 has entered [<u>Recovery Mode</u>](https://drfone.wondershare.com/recovery-mode/iphone-stuck-in-recovery-mode.html), Wondershare Dr.Fone will detect the model of your iDevice and choose the "System Version" for downloading the required iOS firmware. After verifying the iOS firmware, press the "Unlock Now" button and give the confirmation to initiate the unlock process of Apple ID.
 
 ![tap sign in and security](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -220,6 +232,10 @@ Another strategy to unlock an iPad without Mac ID is to set it to DFU Mode. It i
 
 ![dfu mode](https://images.wondershare.com/drfone/article/2022/10/unlock-ipad-without-apple-id-password-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The following steps will help you to **unlock iPad without Apple ID** by setting DFU mode:
 
 - Go to the Settings application and open the General tab. Then click Reset.
@@ -233,7 +249,6 @@ Methods in today's market will generally delete your whole data from your iPad, 
 As a one-stop iOS unlocker, Dr.Fone can unlock an iPhone/iPad without too much professional knowledge. Not simply unlock the iPad with a Mac ID password, Dr.Fone can unlock or bypass practically every one of the passwords. For instance, you can utilize it to unlock iPhone backup encryption, fingerprint or limitations password, etc. In addition, it offers a ton of extra features for ease of use. Here's how you can use it to **unlock iPad without Apple ID:**
 
 **Step 1.** Install and open the Dr.Fone program and choose Screen Unlock > iOS.
-
 
 **Step 2.** Pick the "iCloud Activation Lock Removal" tool.
 
@@ -253,12 +268,9 @@ As a one-stop iOS unlocker, Dr.Fone can unlock an iPhone/iPad without too much p
 
 Your iPad will start with no activation lock. So, you can access and utilize the tablet now. However, you must remember that you can't use your new ID's call, cellular, and iCloud feature after the bypass.
 
-
 ## Conclusion
 
 Did the article above assist you with unlocking your iPad? We believe you now know **how to unlock iPad without Apple ID**. The four proposed strategies can help you unlock your iPad without Mac ID. Dr.Fone is your ideal choice for the unlock process. Unlock the iPad at present with [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). If you have any inquiries, kindly go ahead and let us know.
-
-
 
 ## The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 11
 
@@ -295,18 +307,23 @@ The process of removing Apple ID from a Mac is easy and quick. Before removing t
 
 ![select the data to copy](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-apple-id-from-your-mac-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** On the next window, it will ask you to provide your Apple ID password. Provide the password to complete the process of removing your Apple ID from your Mac.
 
 ![add the apple id password](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-apple-id-from-your-mac-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus Tip: How to Remove Apple ID from iPhone/iPad Without Knowing the Password?
 
 Forgetting your Apple ID credentials is also a common reason for wanting to remove your Apple ID from your Apple iPhone 11. Another such case is buying a second-hand iPhone with a logged-in Apple ID without knowing the password. You need a specialized tool like [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) to remove Apple ID in these cases.
 
 With Dr.Fone - Screen Unlock (iOS), you can remove the Apple ID from your Apple iPhone 11 or iPad and regain access to the Apple iPhone 11 device. This software can also remove the iCloud activation lock on an iOS device if you don't know the login credentials of the previous owner. It is the best tool if your Apple iPhone 11 has become locked or disabled due to a forgotten passcode or other issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of Dr.Fone - Screen Unlock (iOS)
 
@@ -314,7 +331,6 @@ With Dr.Fone - Screen Unlock (iOS), you can remove the Apple ID from your Apple 
 - With the help of this tool, you can remove the encryption of your iTunes backup. It will also help you restore your iTunes backup to your new iPhone even if you changed your Apple ID.
 - If you have forgotten the username or password of your Apple iPhone 11 MDM, this tool allows you to bypass or remove MDM to access the Apple iPhone 11 device.
 - It can also unlock SM Lock or Carrier Lock on your Apple iPhone 11. That allows you to use your Apple iPhone 11 freely if you want to travel internationally.
-
 
 ### Steps to use Dr.Fone - Screen Unlock (iOS) for Removing Apple ID
 
@@ -332,23 +348,21 @@ You are required to put your Apple iPhone 11 into Recovery Mode before you can r
 
 ![enable the recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Remove Your Apple ID from the iPhone**
 
 Wait for the program to complete the process of removing your Apple ID from your phone. Once it is completed, check if the old Apple ID is removed, and you can enter your new Apple ID. Otherwise, you can select "Try Again" to restart the process.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![check the apple id status](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
-
 
 ### Conclusion
 
 The answer to **how to remove Apple ID from MacBook** is a straightforward process that can be completed in just a few steps. By following the instructions outlined in this article, you can easily sign out of your account and remove it from your Mac.
 
 Removing the Apple ID with forgotten credentials is complex, but [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) has also made it easier. It is an excellent and must-have toolbox to deal with all password-related iPhone problems.
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -362,9 +376,24 @@ Removing the Apple ID with forgotten credentials is complex, but [Dr.Fone - Scre
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-advanced-techniques-in-zooming-achieving-perfect-audio-quality-for-your-podcast/"><u>[New] In 2024, Advanced Techniques in Zooming Achieving Perfect Audio Quality for Your Podcast</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-get-premium-minecraft-channel-graphics/"><u>[New] In 2024, Get Premium Minecraft Channel Graphics</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-jokes-that-rule-top-twenty-on-social-networks/"><u>[New] In 2024, Jokes that Rule Top Twenty on Social Networks</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-effortless-communication-unveil-the-three-step-method-for-snapchat-calls/"><u>[Updated] 2024 Approved Effortless Communication Unveil the Three-Step Method for Snapchat Calls</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-apple-iphone-6-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing Apple iPhone 6 Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-apple-iphone-8-plus-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing Apple iPhone 8 Plus Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/discovering-the-details-a-guide-to-roblox-closeups-for-2024/"><u>Discovering the Details A Guide to Roblox Closeups for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone 15 Pro Max?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-apple-iphone-7-by-drfone-ios/"><u>How To Unlink Apple ID From Apple iPhone 7</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/identifying-and-diagnosing-ram-malfunctions-in-your-windows-environment-tech-solutions-by-yl/"><u>Identifying and Diagnosing RAM Malfunctions in Your Windows Environment - Tech Solutions by YL</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-iphone-6s-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from iPhone 6s without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-iphone-15-plus-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your iPhone 15 Plus From Your Apple ID</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-apple-iphone-14-plus-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your Apple iPhone 14 Plus without Security Questions?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-the-powerhouse-features-inside-the-netgear-nighthawk-x6-extender/"><u>In-Depth Analysis: The Powerhouse Features Inside the Netgear Nighthawk X6 Extender</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-12-mini-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 12 mini</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/step-by-step-tutorial-on-downloading-and-converting-the-walking-dead-episodes-to-popular-video-formats/"><u>Step-by-Step Tutorial on Downloading and Converting The Walking Dead Episodes to Popular Video Formats</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-a-brief-review-of-capcut-translate-with-alternative/"><u>Updated A Brief Review of CapCut Translate With Alternative</u></a></li>
+</ul></div>
 

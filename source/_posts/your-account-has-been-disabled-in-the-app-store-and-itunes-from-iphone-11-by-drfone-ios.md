@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes From iPhone 11?
-date: 2024-07-14T13:01:17.306Z
-updated: 2024-07-15T13:01:17.306Z
+date: 2024-12-25T16:21:44.044Z
+updated: 2024-12-26T19:25:47.145Z
 tags: 
   - unlock
   - remove apple account
@@ -71,8 +71,6 @@ Note that if you are changing your Apple ID password on an iPhone or iPad, you w
 
 Forgetting the password is particularly troublesome, but there is good news. That is, you can use [Password Manager](https://drfone.wondershare.com/iphone-password-manager.html) to find your passwords on your Apple iPhone 11/iPad without spending too much time remembering them!
 
-
-
 ### Dr.Fone - Password Manager (iOS)
 
 Recover and keep all your passwords in one place
@@ -97,14 +95,15 @@ If you think that your account has been disabled because of a payment issue, it 
 
 If the payment method was the issue, your account will be re-enabled after these steps.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3. Settle Any Unpaid Charges
 
 Do you have any unpaid purchases or subscriptions?
 
 It is important to keep track of any purchases or subscriptions that you have signed up for and ensure that you pay for them on time. This not only helps you avoid late fees and penalties, but it also ensures that your account remains active and accessible. If you do have any unpaid charges, it is recommended that you settle them as soon as possible in order to reinstate your account and prevent any further issues. Keep a record of all your expenses and regularly review your bills to avoid missing any payments and keep your accounts in good standing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4. Sign Out and Sign in Again
 
@@ -132,6 +131,10 @@ When you see the error message “Your account has been disabled in the App Stor
 - Furthermore, you may not be able to access Apple services and any Apple Store orders and repairs may need to be rescheduled.
 - Until you can fix the issue, you will not be able to receive iMessage, FaceTime, and iCloud Mail.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Is “Your account has been disabled in the App Store and iTunes” the same as “Apple ID disabled”?
 
 No. The error message “Your account has been disabled in the App Store and iTunes” differs from “Apple ID disabled”. You will primarily see the “Your account has been disabled in the App Store and iTunes” when you try to access content in the App Store. On the other hand, you may see the message “Apple ID disabled” when you enter the Apple ID and password to [bypass the iCloud Activation Lock screen](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html).
@@ -140,16 +143,11 @@ No. The error message “Your account has been disabled in the App Store and iTu
 
 After you see these errors, you will not be able to access some of the features and apps that require your Apple ID for access.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5. How to fix Apple ID disabled by removing Apple ID?
 
 Sometimes the only way to [fix “Apple ID Disabled”](https://drfone.wondershare.com/apple-account/how-to-unlock-apple-id-disabled-activation-lock.html) is to remove the Apple ID from the Apple iPhone 11 device. This may become a viable solution if you lost or forgot the Apple ID password or ID and you have no way to recover them. It is also one of the best solutions when you purchased a second-hand device, and you don’t know the Apple ID password for the account associated with the Apple iPhone 11 device.
 
 One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This third-party unlocking software is designed to easily and effectively remove the Apple ID password from any device. The following are some things it can do;
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -160,6 +158,10 @@ Remove iCloud Account without Password in Minutes
 - Free your sim out of any carrier worldwide.
 - Bypass iCloud activation lock and enjoy all iCloud services.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Works for all models of iPhone, iPad, and iPod touch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,008,669** people have downloaded it
 
@@ -175,11 +177,19 @@ On the next screen, you should see three options. Choose “Remove Apple ID” s
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3: Connect the iOS Device**
 
 Connect the iOS device to the computer using its lightning cable. Then enter the Apple iPhone 11 device’s passcode and, when prompted, tap “Trust” to allow the computer to detect the Apple iPhone 11 device. The program should detect the Apple iPhone 11 device and display information about it. Then click “Unlock Now”.
 
 ![trust computer](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4: Apple ID Removal will Begin**
 
@@ -229,20 +239,18 @@ In the matter of **how to remove a phone number from an Apple ID**, the most eff
 
 ![reach password and security](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-phone-number-from-apple-id-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4**: You will see the Edit icon on the right-hand side. Click on it and then tap on the "Add a Trusted Phone Number" option.
 
 **Step 5:** Add the Apple iPhone 11 Passcode > new phone number.
 
 **Step 6:** Select Edit again to delete the old phone number. Press Done.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select edit](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-phone-number-from-apple-id-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2. Remove the Phone Number Using a Mac
 
 Users can turn the phone number OFF that they registered to Apple ID through their Mac device. In this context, accessing the FaceTime or Messages app is essential in the context of **how to remove phone number from Apple ID via Mac steps.**
@@ -269,6 +277,10 @@ It is possible to change the password for Apple ID in the matter of **how to rem
 
 ![select the change password option](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-phone-number-from-apple-id-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** The prompt to add the current Apple ID password, or the passcode, will appear. Add it to confirm, and then insert your new password.
 
 **Step 5**: Hit the Change Password button.
@@ -287,12 +299,15 @@ It is possible to **remove phone number from Apple ID** by accessing the Apple i
 - Remove all types of lock screens, like Apple ID, Face ID, Touch ID, Screen Time Passcode, etc.
 - Fast process of screen and password bypassing.
 
-
 **How to use it?**
 
 **Step 1:** Download/install/launch the app on Mac/Windows. Select Screen Unlock when the app opens on the interface.
 
 ![select screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Choose the "Remove Apple ID" option and add the passcode, as instructed. Allow the system to trust the Apple iPhone 11 device for authentication through the following prompt.
 
@@ -309,7 +324,6 @@ It is possible to **remove phone number from Apple ID** by accessing the Apple i
 **Video Guide: How to Remove Apple ID without Password?**
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/iFMAR09R9x4"></iframe>
-
 
 ## Part 5. FAQs about Apple ID Phone Number
 
@@ -328,8 +342,6 @@ No, the Apple ID and phone number are not connected as features or codes. So, ad
 ### Conclusion
 
 Indeed, there are multiple methods you can take to remove the phone number registered to your Apple ID successfully. They are accessible in multiple ways through Mac, iPad, or iPhone settings. If you forgot the Apple ID, you could even remove it using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). Ultimately, choose the process to trust based on your specific needs.
-
-
 
 ## Tips and Tricks for Apple ID Locked Issue On Apple iPhone 11
 
@@ -378,6 +390,10 @@ If you have [<u>two-factor authentication</u>](https://drfone.wondershare.com/re
 
 ![iphone recovery key window](https://images.wondershare.com/drfone/article/2023/11/apple-id-locked-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2**: Turn on **Recovery** **Key** and enter your passcode. Write down your recovery key and confirm by entering it once more. You can now **unlock your Apple ID** with the recovery key generated.
 
 **Note**
@@ -396,9 +412,6 @@ A simple solution to unlock your Apple ID is to reset your password. Here are th
 
 - **Step 2:** Enter your device passcode and follow the prompts to create a new password. Make sure it's unique and secure to prevent future lockouts.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Email Verification
 
 If you've forgotten your Apple ID password, you can [<u>initiate a password reset</u>](https://drfone.wondershare.com/reset-iphone/how-to-reset-iphone-password.html) via email. Here's how to do it on iPhone/iPad or Mac.
@@ -417,7 +430,6 @@ While these methods should help you unlock your Apple ID, remember to keep your 
 
 ![dr.fone screen unlock main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 **Key Features**
 
 - **Unlock Apple ID without a password.** Fone Screen Unlock can unlock your Apple ID without requiring your password. The tool can be a lifesaver when all else seems to have failed.
@@ -432,7 +444,6 @@ Unlocking a **disabled Apple ID** using Dr.Fone - Screen Unlock is straightforwa
 
 - **Step 1**: Download Dr.Fone - Screen Unlock on your computer. Install the application and launch the software. Afterwards, select **Screen Unlock** from the main interface.
 
-
 - **Step 2**: In the next window, click **Remove AppleID**. Connect your Apple iPhone 11 to the computer using a USB cord and tap **Trust** on your Apple iPhone 11.
 
 ![dr.fone remove apple id option](https://images.wondershare.com/drfone/guide/bypass-activation-lock-1.png)
@@ -446,6 +457,10 @@ Unlocking a **disabled Apple ID** using Dr.Fone - Screen Unlock is straightforwa
 Preventing future Apple IDs from getting locked is essential to maintain access to Apple's ecosystem. Here are some key tips to help you secure your account and avoid potential issues:
 
 ![smiling woman using smartphone](https://images.wondershare.com/drfone/article/2023/11/apple-id-locked-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Use Strong Security Practices
 
@@ -481,7 +496,6 @@ Safeguarding your Apple ID is important in maintaining access to Apple's service
 
 However, consider using reliable third-party tools like Dr.Fone if all else fails. The platform works as a last resort or as a trusted companion to easily **unlock your Apple ID**. Prioritize your Apple ID's security to enjoy the full benefits of the Apple ecosystem.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -494,9 +508,26 @@ However, consider using reliable third-party tools like Dr.Fone if all else fail
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-capture-and-preserve-windows-11-screens/"><u>[Updated] Capture & Preserve Windows 11 Screens</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cat5-vs-cat6-cable-guide-features-benefits-and-performance-differences/"><u>Cat5 Vs. Cat6 Cable Guide: Features, Benefits, and Performance Differences</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cheap-yet-superior-4k-equipment-for-2024/"><u>Cheap Yet Superior 4K Equipment for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hands-on-exploration-of-the-revolutionary-iphone-15-pro-from-apple-inc/"><u>Hands-On Exploration of the Revolutionary iPhone 15 Pro From Apple Inc.</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-iphone-se-2020-without-password-by-drfone-ios/"><u>How to Remove Apple ID from iPhone SE (2020) without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-iphone-15-plus-device-from-icloud-by-drfone-ios/"><u>How to Remove iPhone 15 Plus Device from iCloud</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-xs-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone XS without Password?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-12-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi 12 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-iphone-se-2022-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your iPhone SE (2022) Apple ID on MacBook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-12-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 12</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From Apple iPhone 6 Plus?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-x-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone X When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-iphone-13-pro-max-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On iPhone 13 Pro Max? 5 Tips You Must Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-update-fixes-unsettling-glitch-that-brought-back-erased-images-insights/"><u>IOS Update Fixes Unsettling Glitch That Brought Back Erased Images: Insights</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/liberate-your-video-files-free-online-tools-for-facebook-videos-in-1080phd/"><u>Liberate Your Video Files - Free Online Tools for Facebook Videos in 1080P/HD</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simplified-steps-to-correct-the-windows-update-issue-error-code-0x80070652-explained/"><u>Simplified Steps to Correct the Windows Update Issue: Error Code 0X80070652 Explained</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-apple-iphone-x-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From Apple iPhone X? 5 Tips You Must Know</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win7-image-rotation-adjustment-method/"><u>Win7 Image Rotation Adjustment Method</u></a></li>
+</ul></div>
 

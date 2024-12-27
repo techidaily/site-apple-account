@@ -1,7 +1,7 @@
 ---
 title: "No More Quiet Tunes: Resolving Firefox's Sound Malfunction Successfully"
-date: 2024-12-19T20:40:02.471Z
-updated: 2024-12-22T00:06:55.502Z
+date: 2024-12-22T05:15:08.236Z
+updated: 2024-12-27T04:20:12.677Z
 tags:
   - win11
   - win10
@@ -42,19 +42,11 @@ Here’s how you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
@@ -72,7 +64,7 @@ Here’s how you can do this:
 2. Click**Sound Control Panel** .![open sound control panel](https://images.drivereasy.com/wp-content/uploads/2021/03/sound-control-panel.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Under the**Playback** tab, click on your Creative Pebble speakers and click**Set Default** .
@@ -80,10 +72,6 @@ Here’s how you can do this:
  Once you’ve done that, verify via the speaker icon in the taskbar that the audio is not muted and is turned up. Then you can test by playing a song. If your Creative Pebble speakers still won’t produce any sound, don’t worry, there are a few other fixes you can try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Update your sound driver
 
@@ -99,6 +87,10 @@ Here’s how to update drivers with Driver Easy:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -122,9 +114,17 @@ Here’s how to update drivers with Driver Easy:
 
 ![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/next.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After it’s all done, try to use your speakers to check if they can be functioning well. If you’re still encountering sound failures, proceed to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Contact the customer service
 
@@ -151,24 +151,15 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-beyond-the-bubble-leading-android-and-ios-video-sharing-apps/"><u>[New] 2024 Approved Beyond the Bubble Leading Android and iOS Video Sharing Apps</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/reating-your-own-path-on-youtube-a-course-guide/"><u>[New] Creating Your Own Path on YouTube A Course Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-discover-top-emulated-psp-classics-on-ios/"><u>[New] In 2024, Discover Top Emulated PSP Classics on iOS</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-mastering-real-time-photo-sharing-in-google-meet/"><u>[New] In 2024, Mastering Real-Time Photo Sharing in Google Meet</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-audio-ambition-realized-cutting-edge-recording-methods-for-minecraft-players-for-2024/"><u>[Updated] Audio Ambition Realized Cutting-Edge Recording Methods for Minecraft Players for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-mastering-the-art-of-iphones-detailed-photography/"><u>[Updated] Mastering the Art of iPhone's Detailed Photography</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-boundaries-top-8-ai-trends/"><u>Beyond Boundaries: Top 8 AI Trends</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/expert-advice-for-embedding-youtube-playlists-with-ease/"><u>Expert Advice for Embedding YouTube Playlists with Ease</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-iphone-13-pro-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From iPhone 13 Pro? Heres the Best Fixes</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-11-pro-max-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone 11 Pro Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-se-2020-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone SE (2020) without Password?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-6-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 6</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-8-plus-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone 8 Plus without Security Questions?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 13 mini</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-apple-iphone-15-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From Apple iPhone 15 How to Bypass?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 13 Pro</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-apple-iphone-11-pro-max-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your Apple iPhone 11 Pro Max? How to Fix</u></a></li>
-<li><a href="https://fox-that.techidaily.com/silent-switch-failing-on-your-iphone-discover-alternative-methods-to-mute-and-unmute/"><u>Silent Switch Failing on Your iPhone? Discover Alternative Methods to Mute & Unmute</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-your-hp-victus-15-gaming-notebook-at-an-unbeatable-price-of-just-515-during-the-biggest-savings-best-buys-prime-day-exclusive-offer-insider-tips/"><u>Snag Your HP Victus 15 Gaming Notebook at an Unbeatable Price of Just $515 During the Biggest Savings: Best Buy's Prime Day Exclusive Offer - Insider Tips!</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-a-guide-to-tiktoks-pfp-acronym-explained/"><u>[New] 2024 Approved A Guide to TikTok's PFP Acronym Explained</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-bonding-beyond-reality-top-metaverse-multiplayer-hits/"><u>[Updated] Bonding Beyond Reality - Top Metaverse Multiplayer Hits</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/discover-the-power-of-10-second-beats-in-youtube-music/"><u>Discover the Power of 10-Second Beats in YouTube Music</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dreamshot-dslr-selection-the-leading-6-in-4k-quality/"><u>Dreamshot DSLR Selection The Leading 6 in 4K Quality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/getting-to-grips-with-graphic-animation-basics/"><u>Getting to Grips with Graphic Animation Basics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-singapores-focus-on-data-infrastructure-powers-its-ai-expansion-insights-into-data-centers-and-models-zdnet/"><u>How Singapore's Focus on Data Infrastructure Powers Its AI Expansion: Insights Into Data Centers & Models - ZDNet</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-se-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your iPhone SE</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-apple-iphone-xs-max-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On Apple iPhone XS Max? Find the Best Solution Here</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-7-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 7? How to Fix</u></a></li>
 </ul></div>
 
