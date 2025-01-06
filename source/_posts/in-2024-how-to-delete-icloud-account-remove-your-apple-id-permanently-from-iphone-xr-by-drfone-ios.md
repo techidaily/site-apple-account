@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone XR
-date: 2024-07-14T12:58:00.651Z
-updated: 2024-07-15T12:58:00.651Z
+date: 2025-01-03T17:49:22.592Z
+updated: 2025-01-05T19:20:06.169Z
 tags: 
   - unlock
   - remove apple account
@@ -43,6 +43,10 @@ Review Your Active Subscriptions
 Also, to "**delete iCloud account**," first review any active subscriptions you may have, such as Apple Music, Apple TV+, or iCloud+ storage. If you don't want to continue these subscriptions, cancel them before deleting your account.
 
 ![apple id subscriptions on iphone](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Download Backups of Your Apps, Games, Music, Movies, TV Shows, Books, and Audiobooks
 
@@ -87,9 +91,6 @@ Follow these steps below to remove an iCloud account from your macOS Ventura or 
 - **Step 1:** Click on the Apple logo in the top left corner of your screen, then choose **System Settings**.
 - **Step 2:** Click on the **Apple ID** icon and click **Sign Out**.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![sign out apple id on mac](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-06.jpg)
 
 - **Step 3:** Select the data files you want to save, then click **Keep a Copy**.
@@ -113,6 +114,10 @@ If you are sure of your decision and have prepared for the consequences, here's 
 
 ![request to delete your account](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Choose a reason from the provided options in the drop-down menu for deleting your iCloud account, then click **Continue**.
 
 ![select reason for request](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-09.jpg)
@@ -128,9 +133,6 @@ If you are sure of your decision and have prepared for the consequences, here's 
 
 - **Step 7:** Review the summary of your deletion request, ensuring all details are accurate. Next, click **Delete Account** to finalize the deletion process.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![verify account deletion](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-12.jpg)
 
 ## Part 4: How To Remove an iCloud Account Without a Password?
@@ -146,7 +148,6 @@ Here's a step-by-step guide on how to use Dr.Fone to [<u>remove an iCloud accoun
 
 - **Step 1:** Download and install Dr.Fone on your desktop.
 
-
 - **Step 2:** Launch the software and go to **My Device**. Follow the in-app instructions to connect your Apple iPhone XR to your computer using a USB cable.
 
 I**mage name: how-to-delete-icloud-account-13.png**
@@ -157,6 +158,10 @@ I**mage name: how-to-delete-icloud-account-13.png**
 
 ![dr.fone toolbox interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Select **Remove AppleID** on the next window.
 
 ![select remove appleid](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
@@ -164,6 +169,10 @@ I**mage name: how-to-delete-icloud-account-13.png**
 - **Step 5:** Click **Unlock Now** to proceed.
 
 ![unlock apple id and icloud account](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:**
 
@@ -184,6 +193,10 @@ If you continue to "**remove iCloud account**", this will erase all data from yo
 - **Step 9:** Dr.Fone will recognize your device in the **Device Model**. Choose an option from the **System Version** drop-down list and click **Start**.
 
 ![select device system version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 10:** The latest iOS firmware is being downloaded.
 
@@ -263,9 +276,6 @@ If you want to learn **how to remove the number from Apple ID** and if possible,
 
 If you are wondering about the steps for how to **remove an old phone number from Apple ID,** there are different styles available. Here are the main processes you can utilize.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1. Remove Phone Number via iPhone/iPad's Settings
 
 In the matter of **how to remove a phone number from an Apple ID**, the most effortless process is to go into the Settings app and delete it from there. This is possible if you have your registered phone with you and the Apple ID. Simple access and remove the number.
@@ -278,20 +288,18 @@ In the matter of **how to remove a phone number from an Apple ID**, the most eff
 
 ![reach password and security](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-phone-number-from-apple-id-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4**: You will see the Edit icon on the right-hand side. Click on it and then tap on the "Add a Trusted Phone Number" option.
 
 **Step 5:** Add the Apple iPhone XR Passcode > new phone number.
 
 **Step 6:** Select Edit again to delete the old phone number. Press Done.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select edit](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-phone-number-from-apple-id-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2. Remove the Phone Number Using a Mac
 
 Users can turn the phone number OFF that they registered to Apple ID through their Mac device. In this context, accessing the FaceTime or Messages app is essential in the context of **how to remove phone number from Apple ID via Mac steps.**
@@ -305,6 +313,10 @@ For Facetime, click on the FaceTime option and go to Preferences > General.
 **Step 3:** From the list, choose the tickmark beside the phone number to uncheck it. That will deactivate the phone number for your account.
 
 ![choose the tickmark](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-phone-number-from-apple-id-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Remove Phone Number via Change Apple ID Password
 
@@ -336,7 +348,6 @@ It is possible to **remove phone number from Apple ID** by accessing the Apple i
 - Remove all types of lock screens, like Apple ID, Face ID, Touch ID, Screen Time Passcode, etc.
 - Fast process of screen and password bypassing.
 
-
 **How to use it?**
 
 **Step 1:** Download/install/launch the app on Mac/Windows. Select Screen Unlock when the app opens on the interface.
@@ -359,7 +370,6 @@ It is possible to **remove phone number from Apple ID** by accessing the Apple i
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/iFMAR09R9x4"></iframe>
 
-
 ## Part 5. FAQs about Apple ID Phone Number
 
 1. **How to Add a Trusted Phone Number to Your Apple ID?**
@@ -377,8 +387,6 @@ No, the Apple ID and phone number are not connected as features or codes. So, ad
 ### Conclusion
 
 Indeed, there are multiple methods you can take to remove the phone number registered to your Apple ID successfully. They are accessible in multiple ways through Mac, iPad, or iPhone settings. If you forgot the Apple ID, you could even remove it using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). Ultimately, choose the process to trust based on your specific needs.
-
-
 
 ## How To Erase an Apple iPhone XR Without Apple ID Password?
 
@@ -453,6 +461,10 @@ Go to **Settings** > **\[your name\]** > **Find My** or **Find My iPhone** to ch
 
 ![find my iphone settings](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you want to **erase an iPhone without Apple ID** password on your computer, you can do so as long as you turn off the Find My. However, you'll need to put your Apple iPhone XR into Recovery Mode first.
 
 - **Step 1:** Turn off your Apple iPhone XR, then put it into [<u>Recovery Mode</u>](https://drfone.wondershare.com/recovery-mode/iphone-stuck-in-recovery-mode.html).
@@ -471,6 +483,10 @@ If you want to **erase an iPhone without Apple ID** password on your computer, y
 - For macOS 10.15 or later: Select your Apple iPhone XR under the **Locations**section, then click **Restore iPhone**.
 
 ![restore iphone on mac device](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - For macOS 10.14 or earlier or Windows: Click the Apple iPhone XR in the top left window, click **Summary**, then click **Restore iPhone**.
 - **Step 7:** Click **Restore** in the dialogue box. iTunes or Finder will download your Apple iPhone XR's latest iOS software and restore the Apple iPhone XR to its factory settings.
@@ -509,7 +525,6 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 - **Step 1:** Download and install Dr.Fone on your desktop. Launch the app and connect your Apple iPhone XR using a USB cable.
 
-
 - **Step 2:** From the **Toolbox** homepage, select **Screen Unlock**, then choose **iOS**.
 
 ![dr.fone toolbox interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -525,6 +540,10 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 - **Step 5:** Click **Yes** to confirm you have set up a screen lock.
 
 ![validate iphone screen lock set up](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Click **Yes** to verify you have enabled [<u>two-factor authentication</u>](https://drfone.wondershare.com/remove-apple-account/how-to-get-apple-id-verification-code.html) on your Apple iPhone XR.
 
@@ -564,7 +583,6 @@ It can be challenging to **erase an iPhone without an Apple ID** password, but i
 
 If you're seeking a straightforward method on "**how to erase an iPhone without Apple ID**," Dr.Fone Screen Unlock tool is a good solution. With its user-friendly interface and efficient operation, Dr.Fone simplifies the process, making it accessible to users of all technical levels. Don't let a forgotten Apple ID password hinder your device's functionality. Try Dr.Fone Screen Unlock and reclaim control of your Apple iPhone XR.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -577,9 +595,21 @@ If you're seeking a straightforward method on "**how to erase an iPhone without 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-insider-tips-on-investing-in-top-hdr-cameras-for-2024/"><u>[New] Insider Tips on Investing in Top HDR Cameras for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-hushing-up-unwanted-noise-on-skype/"><u>2024 Approved Hushing Up Unwanted Noise on Skype</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-leading-roborock-vacuums-ranked-in-depth-analysis-and-expert-evaluations-from-zdnet/"><u>2024'S Leading Roborock Vacuums Ranked: In-Depth Analysis and Expert Evaluations From ZDNET</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-15-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 15 Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-13-pro-max-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 13 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-se-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone SE Apple ID on MacBook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-apple-iphone-se-2020-by-drfone-ios/"><u>How to Fix when Apple Account Locked On Apple iPhone SE (2020)?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-iphone-7-plus-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing iPhone 7 Plus Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-poco-c51-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Poco C51 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-apple-iphone-14-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From Apple iPhone 14 Making It Possible</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-identify-wolfs-call-resonance/"><u>Updated In 2024, Identify Wolfs Call Resonance</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/using-big-data-techniques-to-revolutionize-market-research-insights-for-2024/"><u>Using Big Data Techniques to Revolutionize Market Research Insights for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo Y27 5G | Dr.fone</u></a></li>
+</ul></div>
 

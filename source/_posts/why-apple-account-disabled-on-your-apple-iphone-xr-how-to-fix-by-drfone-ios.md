@@ -1,7 +1,7 @@
 ---
 title: Why Apple Account Disabled On your Apple iPhone XR? How to Fix
-date: 2024-07-14T12:52:53.354Z
-updated: 2024-07-15T12:52:53.354Z
+date: 2025-01-02T17:27:53.687Z
+updated: 2025-01-05T22:30:35.893Z
 tags: 
   - unlock
   - remove apple account
@@ -69,9 +69,6 @@ With the home window on your front, you are required to tap on the 'Screen Unloc
 
 Over the Apple Device, you need to select the option of “Trust” over the prompt that is received on the phone. Following this, you need to open the “Settings” of your device and initiate a reboot of your Apple device.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![follow-the-on-screen-instructions](https://images.wondershare.com/drfone/article/2020/11/how-to-fix-apple-account-disabled-2.jpg)
 
 **Step 4: Device Unlocks**
@@ -96,6 +93,10 @@ As you proceed with the verification, there are several personal details that ar
 
 ![enter-your-phone-number](https://images.wondershare.com/drfone/article/2020/11/how-to-fix-apple-account-disabled-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Use the Verification Code**
 
 The platform will send a verification code that would allow you to unlock your device with the Recovery Key that is offered. Tap on "Unable to access your \[device\]"? to allow the platform to send a six-digit verification to the phone number that is attached to the Apple ID. You can simply use it along with the Apple ID password to unlock your account.
@@ -106,14 +107,15 @@ The platform will send a verification code that would allow you to unlock your d
 
 This article has provided you a detailed guide over the existing reasons that would have your Apple account disabled, followed by different tips that can be followed to cover your assorted problems efficiently.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Apple ID Unlock On Apple iPhone XR? How to Fix it?
 
 Apple follows a strict set of rules when it comes to security. If someone tries to hack into your Apple ID or account by entering the wrong password for too many times, it will disable your account. Well, this can create a hassle for you and we are to help you out of this.
 
 There are various ways that you can use to fix your disable Apple ID. You can follow whatever suits you or whatever works with your Apple iPhone XR. If you are still wondering about ‘How to unlock apple id’, here is a guide for you. As a whole, locking of your account is good than releasing your data to a hacker.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Reasons why Apple ID locked?
 
@@ -136,6 +138,10 @@ Apple support can help you Apple id unlock on any of your Apple device. You have
 - Show them the receipt if you are the owner of the phone. This will let them know that you are authentic.
 - If you are not the original user, show them your ownership transfer certificate. This will help them determine your authenticity and original ownership.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3) Ask the Owner to Remove Activation Lock
 
 If you are not the original owner, you can reach out to the old owner. This will let you download the files from old owner or you can ask them to provide the OTP sent on their email. You have to follow a few steps to unlock is from iCloud –
@@ -149,9 +155,6 @@ If you are not the original owner, you can reach out to the old owner. This will
 
 This is all you need to do. It will open new doors to your device. You can now enjoy amazing features on Your Apple iPhone XR without any hassle.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to unlock Apple ID if you forgot the password?
 
 Dr. fone is a software available for all platforms. The main use of dr. fone is to remove your question of How to unlock apple id and the iCloud lock on iPhone and other various apple devices. Be it a touch id, 6 digit password, 4 digit password, or face id. This tool will help you remove it all in some simple steps. You can also get advanced features and support with the premium version of dr.fone.
@@ -174,6 +177,10 @@ Open the application and connect your Apple iPhone XR using a USB cable. Once yo
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 On the new screen, click on “Unlock Apple ID” to get started.
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
@@ -189,6 +196,10 @@ After that step, you will be asked to unlock your Apple iPhone XR. Once you do i
 Go to the “Settings”, open “General” and search for “Reset”. Enter your passcode and it will clear all your data and reset your device. Create a backup of all your data in your PC or MAC if there is anything important you want to save.
 
 ![interface](https://images.wondershare.com/drfone/drfone/interface.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4: Continue unlocking Apple ID**
 
@@ -236,11 +247,19 @@ However, you can always look out for the Apple ID using the first and last name 
 
 This is all you need to know about unlocking your Apple ID in some easy steps. If you can get help from any professional, that would be much safe as, it will prevent any damage to your phone. If this is something new to you, you need someone who knows about it all. Unlocking your smartphone is easy with all these tools as mentioned above. Make sure you use them as per their terms and conditions for the betterment.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Erase an Apple iPhone XR without Apple ID?
 
 Our generation is all about high-performance gadgets and, a phone is one of the most important of it all. But with the concept of a smartphone, things have changed. iPhone/iPad has emerged as an important fashion quotient for a long now.
 
 We often end up buying second-hand iPhones/iPads or sell our old version of the phones/pads to an unknown person and buy a new version of other brands, like Samsung S22. At times, be it after-sale/purchase or old iPhone, or if you may have yourself forgotten the password to your Apple ID, we often come across a big challenge, and that is how to erase an iPhone without an Apple ID password. Well, if that’s the case with you, then you’ve reached the right place. We’re about to discuss the most effective ways to erase an iPhone without an Apple ID password. Let’s discover them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. How to erase an iPhone without Apple ID and iTunes
 
@@ -263,10 +282,11 @@ Let’s get to understand how to erase an iPhone without an Apple ID password:
 
 The first thing to do is download and install the Dr.Fone – Screen Unlock (iOS) software on your computer/laptop. Before you move on to any other step, connect your affected iPhone/iPad to your computer or laptop with the help of a USB.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Select the correct Mode.**
 
@@ -312,6 +332,10 @@ Hold down the keys until you see the message on your iTunes screen about “your
 
 ![erase a iphone without apple id 2](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. How to erase an iPhone without Apple ID via Settings
 
 Erasing an iPhone without Apple ID becomes necessary when we happen to use a second-hand phone or when we share a phone with someone. It is indeed a hard task to overcome these issues as we constantly strive to change our phone or replace it with a second-hand one. We have jotted a few steps that can help you erase an iPhone without Apple ID via settings for your ease.
@@ -338,9 +362,6 @@ Now, just in case you wish to delete your Apple ID completely, you need to perfo
 
 **Step 3:** Choose the desired device and click on the “Remove from account” option followed by a “Remove this – Device Name” to confirm the action. Perform this step for all other devices.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase a iphone without apple id 4](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-4.jpg)
 
 ### How to erase an Apple ID via Apple's Data and Privacy website
@@ -357,6 +378,10 @@ Now let’s get started with erasing an Apple ID via Apple’s Data and Privacy 
 
 ![erase a iphone without apple id 6](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Before everything, make sure you back up your data and follow the instructions steps prompted by Apple’s website. This will lead you to choose a reason for deletion from the click-down option and click “Continue.”
 
 **Message –** You will get the details of the entire process for a quick review before you can submit for the final deletion of the policies
@@ -371,9 +396,6 @@ Now let’s get started with erasing an Apple ID via Apple’s Data and Privacy 
 
 Coming towards the end of the topic, we now are fully sure that you fully understand how to erase an iPhone without an Apple ID. Just in case you have any doubts, please feel free to comment below. And do remember to share this with your friends and family if you find it useful.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -386,9 +408,19 @@ Coming towards the end of the topic, we now are fully sure that you fully unders
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-immersive-12-video-streaming-solution-online/"><u>[New] In 2024, Immersive 12-Video Streaming Solution Online</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-balancing-creativity-and-logic-in-gaming-videos/"><u>[Updated] 2024 Approved Balancing Creativity and Logic in Gaming Videos</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-apple-iphone-11-pro-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On Apple iPhone 11 Pro How to Bypass?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-apple-iphone-12-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On Apple iPhone 12 How to Bypass?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-your-tech-bargain-15-asus-laptop-packed-with-connections-priced-at-just-250-at-walmart-features-revealed/"><u>Find Your Tech Bargain! 15 Asus Laptop Packed with Connections, Priced at Just $250 at Walmart (Features Revealed )</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/harness-the-power-of-twitch-livestream-tips-and-tricks-for-2024/"><u>Harness the Power of Twitch Livestream Tips & Tricks for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-12-pro-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 12 Pro? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-se-2022-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone SE (2022)? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-video-quality-revolution-leveraging-version-22/"><u>In 2024, Video Quality Revolution Leveraging Version 2.2</u></a></li>
+<li><a href="https://techidaily.com/sign-txt-file-online-add-signature-to-txt-file-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .txt file Online - Add Signature to .txt file for Free</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477213617-unseen-alerts-on-your-apple-device-find-relief-with-these-aturinseven-fixes/"><u>Unseen Alerts on Your Apple Device? Find Relief With These Aturinseven Fixes</u></a></li>
+</ul></div>
 

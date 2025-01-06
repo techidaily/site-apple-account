@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your iPhone XR
-date: 2024-07-14T12:57:28.148Z
-updated: 2024-07-15T12:57:28.148Z
+date: 2025-01-04T23:07:32.611Z
+updated: 2025-01-05T18:07:07.959Z
 tags: 
   - unlock
   - remove apple account
@@ -66,7 +66,6 @@ With Dr.Fone - Screen Unlock (iOS), you can remove the Apple ID from your Apple 
 - If you have forgotten the username or password of your Apple iPhone XR MDM, this tool allows you to bypass or remove MDM to access the Apple iPhone XR device.
 - It can also unlock SM Lock or Carrier Lock on your Apple iPhone XR. That allows you to use your Apple iPhone XR freely if you want to travel internationally.
 
-
 ### Steps to use Dr.Fone - Screen Unlock (iOS) for Removing Apple ID
 
 Dr.Fone - Screen Unlock (iOS) has a straightforward interface and provides clear instructions for removing Apple ID from your Apple iPhone XR. Your Apple iPhone XR will be reset during the process, and you will lose the data. It is advised you create a backup before starting the procedure. To start the process of removing Apple ID from your Apple iPhone XR, follow the steps given below:
@@ -75,10 +74,11 @@ Dr.Fone - Screen Unlock (iOS) has a straightforward interface and provides clear
 
 Use a USB cable to connect your Apple iPhone XR to your computer and launch Dr.Fone. Next, proceed with the "Screen Unlock" tool from the main interface and "Remove Apple ID" on the next screen. Now move to the iPhone, unlock it, and select "Trust" in the "Trust this Computer" pop-up.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![choose the screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Put Your Apple iPhone XR into the Recovery Mode**
 
@@ -92,15 +92,11 @@ Wait for the program to complete the process of removing your Apple ID from your
 
 ![check the apple id status](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
-
 ### Conclusion
 
 The answer to **how to remove Apple ID from MacBook** is a straightforward process that can be completed in just a few steps. By following the instructions outlined in this article, you can easily sign out of your account and remove it from your Mac.
 
 Removing the Apple ID with forgotten credentials is complex, but [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) has also made it easier. It is an excellent and must-have toolbox to deal with all password-related iPhone problems.
-
-
-
 
 ## How To Unlink Apple ID From Apple iPhone XR
 
@@ -109,6 +105,10 @@ Apple devices are now an essential part of our daily lives. They provide access 
 Either way, understanding how to do it is essential for maintaining control over one's digital footprint. This article will walk you through the step-by-step process of **how to unlink Apple ID from iPhone** devices and Apple Watch. We'll provide clear and concise instructions for every scenario, whether you have your Apple ID password, have lost or forgotten it, or are dealing with a lost device.
 
 ![charging iphone and apple watch](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How To Unlink Apple ID From Connected Devices With Password
 
@@ -161,7 +161,6 @@ The tool guides you through the process, ensuring a seamless experience with a u
 
 - **Step 1:** Download, set up, then launch Dr.Fone on your desktop. Use a USB cable to establish a connection between your Apple iPhone XR and desktop.
 
-
 - **Step 2:** From the **Toolbox** homepage, select **Screen Unlock** and choose **iOS**.
 
 ![dr.fone toolbox homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -182,6 +181,10 @@ The tool guides you through the process, ensuring a seamless experience with a u
 
 ![confirm 2fa set up on iphone](https://images.wondershare.com/drfone/guide/remove-apple-id-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7:** Follow the steps on the screen to put your Apple iPhone XR into Recovery Mode. If you are having trouble, click **DFU Mode** in the bottom left corner.
 
 ![iphone enter recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
@@ -194,9 +197,17 @@ The tool guides you through the process, ensuring a seamless experience with a u
 
 ![downloading firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 10:** Once the firmware is ready, click **Unlock Now**.
 
 ![ios firmware ready to use](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 11:** Read the note in the dialogue box and enter the code in the confirmation box. Then, click **Unlock** to continue.
 
@@ -209,7 +220,6 @@ The tool guides you through the process, ensuring a seamless experience with a u
 - **Step 13:** Click **Done**, then check your Apple iPhone XR to see if the Apple ID has been removed.
 
 ![apple id unlocked on iphone](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
-
 
 ## Part 3: How To Unlink iPhone From Apple ID if the Apple iPhone XR device Was Lost?
 
@@ -261,16 +271,10 @@ Follow the unpairing process on the paired Apple iPhone XR to remove the Activat
 - **Step 2:** Launch the **Watch** application on your Apple iPhone XR and go to the **My Watch** tab.
 - **Step 3:** Tap **All Watches** in the upper left corner.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![apple watch app interface](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-06.jpg)
 
 - **Step 4:** Locate and tap the **information** icon adjacent to the name of your Apple Watch.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![all watches interface](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-07.jpg)
 
 - **Step 5:** Tap **Unpair Apple Watch**, then tap **Unpair Apple Watch**.
@@ -343,17 +347,26 @@ Another convenient way to delete the iCloud account is to use iTunes on your App
 
 ![disable find my iphone](https://images.wondershare.com/drfone/article/2020/05/disable-find-my-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Now, go back to the “Settings” window and click “iTunes & App Store”.
 
 ![itunes and app store](https://images.wondershare.com/drfone/article/2020/05/itunes-and-app-store.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Tap on your “Account” at the top. A pop-up will appear on your screen. Here, click “Sign Out” and the iCloud account will be removed from your iDevice.
 
 ![apple id itunes](https://images.wondershare.com/drfone/article/2020/05/apple-id-itunes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1.3 Create a new password
 
 If you have enabled two-way verification on your Apple iPhone XR, you can also delete the iCloud account by resetting the password. In this case, however, you’ll have to visit the [Apple ID Account Page](https://appleid.apple.com/) and use it to reset the password.
@@ -384,9 +397,6 @@ In case you haven’t enabled two-way verification for your iCloud account, ther
 
 ![recovery email](https://images.wondershare.com/drfone/article/2020/05/recovery-email.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Part 2: How to delete iCloud account without password on computer using Dr.Fone - Screen Unlock (iOS)?
 
 If you find all the above methods slightly challenging, we have a simpler solution for you. [Wondershare Dr.Fone Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an exclusive tool for iOS users that’ll help them remove screen locks and delete iCloud accounts from an iDevice, even if you don’t remember the password or even if the “Find My iPhone” feature is enabled.
@@ -419,6 +429,10 @@ Now, to successfully establish the connection between the two devices, enter the
 
 ![trust computer](https://images.wondershare.com/drfone/drfone/trust-computer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5: Reset Your Apple iPhone XR**
 
 Once the two devices are successfully connected, tap “Unlock Now” on your computer screen. This will trigger a warning message. Click “Unlock” to continue with the process.
@@ -435,17 +449,19 @@ After entering the recovery mode, Dr.Fone will automatically initiate the unlock
 
 ![process of unlocking](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As soon as your Apple ID gets unlocked, a confirmation message will pop up on your screen. Simply reboot your smartphone and you’ll be able to sign in with a new Apple ID without any hassle.
 
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
 It doesn’t matter if you’re using Windows or Mac, Dr.Fone – Screen Unlock for iOS will make it extremely easy to delete the iCloud account without the password. So, if you are looking for a reliable and convenient way to remove an iCloud account, make sure to use Dr.Fone – Screen Unlock.
 
-
 ## Conclusion
 
 That’s the entire guide on how to delete iCloud account without password. Even though iCloud is an exceptional feature, one is likely to forget the password to his iCloud account. If you’re stuck in a similar situation and want to create a new iCloud account, make sure to use the above tactics to delete the previous iCloud account, even if you don’t remember the password.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -459,9 +475,26 @@ That’s the entire guide on how to delete iCloud account without password. Even
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-master-your-pcs-sounds-with-easy-recording-tool-x-recorder/"><u>[New] In 2024, Master Your PC's Sounds with Easy Recording Tool – X-Recorder</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-mastering-your-craft-a-guide-to-samsungs-photography-tools-for-2024/"><u>[New] Mastering Your Craft A Guide to Samsung's Photography Tools for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pixel-perfection-for-those-just-starting-out/"><u>[New] Pixel Perfection for Those Just Starting Out</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outubes-profit-distribution-to-content-makers/"><u>[New] YouTube's Profit Distribution to Content Makers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-leading-5-hd-cameras-to-enhance-your-twitch-experience-for-2024/"><u>[Updated] Leading 5 HD Cameras to Enhance Your Twitch Experience for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-how-to-convert-youtube-and-vimeo-videos-into-mp3-files/"><u>2024 Approved How to Convert YouTube and Vimeo Videos Into MP3 Files</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-13-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone 13? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-apple-iphone-se-2022-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing Apple iPhone SE (2022) Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-nokia-c32-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Nokia C32 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/gtfo-fixes-for-your-gaming-woes-eliminating-fps-fluctuation-and-glitchy-gameplay/"><u>GTFO - Fixes for Your Gaming Woes: Eliminating FPS Fluctuation & Glitchy Gameplay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-13-mini-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone 13 mini Apple ID on MacBook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-15-plus-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-13-pro-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone 13 Pro without Password?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-avoid-complexity-top-5-free-tools-for-effortless-gif-to-video-transformation/"><u>In 2024, Avoid Complexity Top 5 Free Tools for Effortless GIF to Video Transformation</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-iphone-8-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your iPhone 8?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-iphone-7-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On iPhone 7 without Password?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-smooth-sailing-for-iphone-video-content-creators/"><u>In 2024, Smooth Sailing for iPhone Video Content Creators</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-12-pro-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 11 Pro Max</u></a></li>
+</ul></div>
 

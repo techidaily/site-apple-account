@@ -1,7 +1,7 @@
 ---
 title: In 2024, Apple ID Unlock On Apple iPhone 15 Pro Max? How to Fix it?
-date: 2024-12-23T02:35:59.055Z
-updated: 2024-12-27T03:42:11.407Z
+date: 2024-12-31T18:42:24.965Z
+updated: 2025-01-05T21:24:08.455Z
 tags: 
   - unlock
   - remove apple account
@@ -80,10 +80,6 @@ On the new screen, click on “Unlock Apple ID” to get started.
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2: Enter Screen Password**
 
 After that step, you will be asked to unlock your Apple iPhone 15 Pro Max. Once you do it, a new pop up message will appear. Click on “trust” and move on to the next step. With accepting, your data on your phone will be removed permanently.
@@ -134,6 +130,10 @@ However, you can always look out for the Apple ID using the first and last name 
 
 ![apple id unlock how to fix it 2](https://images.wondershare.com/drfone/article/2020/11/apple-id-unlock-how-to-fix-it-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Click on “Continue” after solving the CAPTCHA code.
 
 **Step 4:** Enter the OTP and other instructions as mentioned by the website to remove Apple id locked from your phone.
@@ -142,23 +142,19 @@ However, you can always look out for the Apple ID using the first and last name 
 
 This is all you need to know about unlocking your Apple ID in some easy steps. If you can get help from any professional, that would be much safe as, it will prevent any damage to your phone. If this is something new to you, you need someone who knows about it all. Unlocking your smartphone is easy with all these tools as mentioned above. Make sure you use them as per their terms and conditions for the betterment.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top-Notch Solutions for Disabled Apple ID On Apple iPhone 15 Pro Max: Making It Possible
 
 The Apple ID serves as the cornerstone of an iOS user's digital identity. It grants access to a multitude of essential services and applications. This unique identifier is crucial for accessing the App Store, iTunes, iCloud, and other Apple services. However, the security of this pivotal account is paramount. Any security breaches or suspicious activities can prompt **Apple ID to be disabled**.
 
 To avoid the potential consequences of a disabled Apple ID, it is imperative to explore effective solutions. This guide seeks to furnish users with a range of excellent strategies to address the issue at hand. So, if you are wondering **why is my Apple ID disabled**, continue to read the article.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1. Discussing the Reasons for Apple ID Getting Disabled
 
 Wondering why **your Apple ID has been disabled**? Experiencing intense frustration is not uncommon in this scenario. Nonetheless, understanding the potential triggers behind this issue is crucial. For Apple users, learning the factors leading to the Apple ID disabled problem is essential. The following are some typical reasons that can account for this predicament:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Security Questions
 
@@ -177,7 +173,7 @@ Any suspicious activities associated with the Apple ID can prompt Apple's securi
 Not adhering to Apple's terms and conditions may result in the prompt Apple ID being disabled. Examples include engaging in fraudulent activities or using unauthorized software or tools. In addition, manipulating Apple's services or violating the company's usage policies can also cause disablement. It is often accompanied by a permanent suspension from Apple's ecosystem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Unresolved Billing Issues
@@ -195,16 +191,12 @@ With **Apple ID disabled**, one of its primary solutions involves resetting the 
 ![choose sign in and security option](https://images.wondershare.com/drfone/article/2023/11/fix-apple-id-disabled-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 2:** Now, tap the "Change Password" option and follow it by entering your iOS device passcode. Then, enter and confirm the new password and press "Change Password" to finalize it.
 
 ![tap on change password feature](https://images.wondershare.com/drfone/article/2023/11/fix-apple-id-disabled-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Resetting Password From Mac
 
@@ -212,9 +204,17 @@ With **Apple ID disabled**, one of its primary solutions involves resetting the 
 
 ![access the system settings](https://images.wondershare.com/drfone/article/2023/11/fix-apple-id-disabled-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Move to the "Password" option and click "Change Password." Now, follow the on-screen prompts to complete the password resetting process by providing your MacBook passcode.
 
 ![press the change password button](https://images.wondershare.com/drfone/article/2023/11/fix-apple-id-disabled-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Use Apple Support App: Solve Apple ID Disabled Issues
 
@@ -241,6 +241,10 @@ In instances where conventional methods fail, using the iForgot website can offe
 - **Step 2:** On the next screen, Apple will inform you that they have sent a confirmation message to your trusted devices for resetting the password. Tap “Allow” on one of your trusted devices and provide your iDevice passcode to [<u>reset the Apple ID password</u>](https://drfone.wondershare.com/reset-iphone/how-to-reset-iphone-password.html).
 
 ![allow resetting the password](https://images.wondershare.com/drfone/article/2023/11/fix-apple-id-disabled-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5. Wondershare Dr.Fone - Screen Unlock (iOS): A Comprehensive Solution To Solve Apple ID Disabled Issues
 
@@ -275,6 +279,10 @@ You will have to start by opening Wondershare Dr.Fone on your system and accessi
 
 ![continue with remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Step 2. Begin Unlocking the Apple ID
 
 After connecting your iDevice to the system, you need to move forward with the "Unlock Now" button. Before moving forward, it's essential to ensure you have Screen Lock and [<u>Two-Factor Authentication </u>](https://drfone.wondershare.com/remove-apple-account/remove-apple-two-factor-authentication.html) enabled on your Apple iPhone 15 Pro Max. After that confirmation, carry on with the on-screen instructions.
@@ -292,10 +300,6 @@ You need to put your Apple iPhone 15 Pro Max in Recovery Mode by following the o
 The relevant firmware will start downloading, and you will have to proceed with the “Unlock Now” button after the downloading. You will have to enter a code for confirmation, and after that, you can view the removal progress. Move forward by hitting the “Done” button if the Apple ID gets unlocked.
 
 ![click the unlock now button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -321,6 +325,10 @@ Changing your Apple ID allows you to customize your MacBook according to your pr
 
 You can access a distinct collection of applications, music, films, and books by creating or logging in with a different Apple ID. This proves especially beneficial when considering a change of region. It also helps when sharing your MacBook with family members, each of whom has their individual Apple ID.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. iCloud Storage
 
 Your Apple ID is closely linked with iCloud, Apple's cloud storage service. Changing your Apple ID allows you to gain access to an alternative iCloud account with its dedicated storage capacity. This can be advantageous when you require additional storage or wish to keep your data separate from a previous account.
@@ -345,10 +353,6 @@ In summary, there are many advantages to updating your Apple ID on your MacBook.
 - **Step 3:**After logging out of your Apple ID, reboot your device, and when it is done, go back to System Settings. From there, hit the "Sign in to with your Apple ID" option so that you can quickly log in with a new Apple ID.
 
 ![login with new apple id](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Other Ways To Change the Apple ID With Ease
 
@@ -405,11 +409,7 @@ To resolve the bugs and glitches within the MacBook, the best option is to updat
 ![press the update now button](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Apple Server Inactivity
@@ -466,19 +466,24 @@ The other included alternative approaches for scenarios like purchasing a second
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-essential-photo-tools-top-9-camgear-enhancers-for-filmmakers/"><u>[Updated] 2024 Approved Essential Photo Tools Top 9 CamGear Enhancers for Filmmakers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-leading-virtual-reality-titles-for-your-smartphone-for-2024/"><u>[Updated] The Leading Virtual Reality Titles for Your Smartphone for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-comical-creations-no-cost-memes-available/"><u>2024 Approved Comical Creations No Cost Memes Available</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ing-engagement-a-guide-to-more-youtube-shorts-success/"><u>Boosting Engagement A Guide to More YouTube Shorts Success</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-solutions-for-players-facing-game-crashes-in-ghost-recon-breakpoint/"><u>Effortless Solutions for Players Facing Game Crashes in Ghost Recon Breakpoint</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-6s-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone 6s</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-15-plus-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone 15 Plus without Password?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-breakthrough-visuals-top-10-monitors-for-your-macbook/"><u>In 2024, Breakthrough Visuals Top 10 Monitors For Your MacBook</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On iPhone 11 Pro Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-poco-c50-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Poco C50? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-converting-various-video-and-audio-file-types-effortlessly/"><u>Step-by-Step Guide: Converting Various Video and Audio File Types Effortlessly</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-fix-how-to-reset-final-cut-pro-x-and-start-fresh/"><u>The Ultimate Fix How to Reset Final Cut Pro X and Start Fresh</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-decode-youtube-shorts-a-complete-breakdown/"><u>[New] 2024 Approved Decode YouTube Shorts A Complete Breakdown</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-elevating-video-quality-incorporating-bb-and-lc-elements-in-fb/"><u>[New] In 2024, Elevating Video Quality Incorporating BB and LC Elements in FB</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-cutting-edge-5-home-movie-maker/"><u>2024 Approved Cutting-Edge 5 Home Movie Maker</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-discover-hidden-gems-where-to-find-instagram-ringtones-that-shine/"><u>2024 Approved Discover Hidden Gems Where to Find Instagram Ringtones That Shine</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-solutions-for-superior-website-analytics/"><u>Cookiebot Solutions for Superior Website Analytics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-the-matrix-series-watch-in-the-right-order/"><u>Decoding the Matrix Series: Watch in The Right Order</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-solutions-for-when-your-instagram-videos-arent-working/"><u>Effective Solutions for When Your Instagram Videos Aren't Working</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/google-pixel-tablet-preview-official-launch-detailed-specifications-and-whats-new-for-tech-enthusiasts/"><u>Google Pixel Tablet Preview: Official Launch, Detailed Specifications, and What's New for Tech Enthusiasts</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-13-pro-max-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 13 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-se-2022-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone SE (2022)?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-6-plus-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone 6 Plus?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-se-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone SE?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-iphone-6s-plus-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By iPhone 6s Plus without the Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-apple-iphone-14-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From Apple iPhone 14</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On iPhone 15 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-iphone-x-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From iPhone X</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-apple-iphone-14-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your Apple iPhone 14? How to Fix</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-honor-x50-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Honor X50 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/winter-olympics-2022-precision-snowriders-in-the-spotlight-for-2024/"><u>Winter Olympics 2022 - Precision Snowriders in the Spotlight for 2024</u></a></li>
 </ul></div>
 

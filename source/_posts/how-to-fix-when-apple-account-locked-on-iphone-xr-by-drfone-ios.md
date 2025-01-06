@@ -1,7 +1,7 @@
 ---
 title: How to Fix when Apple Account Locked On iPhone XR?
-date: 2024-07-14T12:54:21.416Z
-updated: 2024-07-15T12:54:21.416Z
+date: 2025-01-01T18:33:50.917Z
+updated: 2025-01-05T20:57:46.189Z
 tags: 
   - unlock
   - remove apple account
@@ -74,6 +74,14 @@ When the process finishes, a pop-up message will notify you. It will point out t
 
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 2. Use iTunes to Unlock Apple Account
 
 Apple also offers the services of its built-in utilities such as iTunes to unlock Apple account. Here before doing anything else, you will need to get your Apple iPhone XR into recovery mode. For added convenience, we have listed how to get into recovery mode with iPhone so you can smoothly proceed with the process.
@@ -134,8 +142,6 @@ If you have purchased a refurbished iPhone and the previous owner’s Apple ID a
 
 Getting your Apple account can ruin your day and hinder your work. Luckily, there are suitable methods to fix the Apple Account Locked issue quickly and without any damage. Here, we have discussed the top techniques to unlock the Apple account. Hopefully, these tips have helped you can access the contents of your Apple iPhone XR.
 
-
-
 ## How to Sign Out of Apple ID On Apple iPhone XR without Password?
 
 _"Why can't I sign out of my iPhone?"_
@@ -145,6 +151,10 @@ It’s no secret that all Apple products have one common USP, i.e., security. Wh
 Without the password, you can’t even sign out of your Apple ID, let alone use different services on the iDevice. If you’re also stuck in a similar situation, we’re here to help. In this guide, we’ve compiled a list of effective tactics on **how to sign out of Apple ID without password**. These methods will help you [remove your Apple ID](https://drfone.wondershare.com/apple-account/how-to-remove-an-apple-id-from-an-iphone.html) from your iDevice, even if you don’t remember the password.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jmU_WBObOEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Sign Out of Apple ID with Password
 
@@ -156,11 +166,13 @@ Before delving into methods for signing out of your Apple ID without a password,
 
 ![choose the sign out option](https://images.wondershare.com/drfone/article/2023/11/sign-out-apple-id-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Sign out of Apple ID without Password by Apple ID Unlocker
 
 If you have forgotten the password of your Apple ID and don't have a way to recover it, there is no need to panic. You can easily remove passwords from your iOS device using Wondershare [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). Its "[Remove Apple ID](https://drfone.wondershare.com/solutions/forgot-apple-id.html)" feature can effectively assist you in signing out of your Apple ID without requiring a password. This method provides a smooth solution for users facing issues related to forgotten passwords.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -179,18 +191,12 @@ Dr.Fone's iPhone unlocking tool can permanently bypass the Apple ID lock. It wor
 
 To begin, open Wondershare Dr.Fone on your computer. Then, navigate to “Toolbox,” tap “Screen Unlock,” and define “iOS" as the Apple iPhone XR device type. It will give you access to the iOS screen unlock menu, where you need to choose “Remove Apple ID.” Now, you need to connect your iDevice to the computer.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on remove apple id feature](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
 **Step 2: Enable Lock Screen and 2FA**
 
 When your iDevice is connected to your computer, you'll notice a connectivity status displayed on the following screen. Proceed by clicking the “Unlock Now” button. Dr.Fone will now ask if you have the screen lock and 2FA enabled on your device. The answer to these questions needs to be affirmative, and if you don't have the option enabled, you will need to do it before proceeding.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![press the unlock now button](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
 **Step 3: Enable Recovery Mode on Your iOS Device**
@@ -204,7 +210,6 @@ Once you've confirmed these options, you'll be directed to a screen that present
 Upon the identification of the Apple iPhone XR device Model, you will simply be prompted to choose the “System Version” and initiate the process by clicking on “Start.” Now, wait for the firmware to download, and once it is downloaded, click "Unlock Now." A confirmation window promptly emerges on the screen, prompting you to input a code for further progress. Enter the code and select “Unlock” to begin the process.
 
 ![hit the start button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
-
 
 ## Part 3: Sign Out of Apple ID Without Password by Resetting Your Apple ID Password
 
@@ -253,9 +258,6 @@ In case you have enabled two-way verification on your Apple iPhone XR, you’ll 
 
 Once you’ve reset the password, you can easily sign out of the Apple ID by navigating through Settings>Apple ID>Sign Out on your Apple iPhone XR.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: Sign Out of Apple ID without Password by Apple Support App
 
 If you're unable to reset your Apple ID password on your own, you can seek assistance from Apple's official Support app. It provides expert guidance and troubleshooting. Here's how to use the Apple Support app to sign out of your Apple ID without a password:
@@ -268,6 +270,10 @@ If you're unable to reset your Apple ID password on your own, you can seek assis
 
 ![add the required details](https://images.wondershare.com/drfone/article/2023/11/sign-out-apple-id-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 That wraps up our tips on **how to sign out of Apple ID without password**. No doubt, Apple products are probably the most secure devices on the planet, but it can become extremely challenging to access the features of your iDevice when you’ve forgotten the password. If that’s the case, make sure to follow the above-mentioned tactics to [sign out of the previous Apple ID](https://drfone.wondershare.com/solutions/forgot-apple-id.html) and create a new one to regain control over your iDevice.
@@ -277,6 +283,10 @@ That wraps up our tips on **how to sign out of Apple ID without password**. No d
 Apple products are considered one of the most secure devices, and it is difficult for any second person to breach their system. The Apple ID is the reason behind it, which serves as the main controlling system of Apple products. Apple ID gives access to various functionalities such as the App Store, iCloud, and more. These services ensure the seamless and proper functioning of the Apple iPhone XR operating system.
 
 However, you may want to remove Apple ID from iOS devices for any reason. Don't worry; this article has got you covered in this context. It will provide you with an effective guide to **how to remove Apple ID from an iPad.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Are the Possibilities That a User Wants To Remove Apple ID From Their iPad?
 
@@ -358,16 +368,15 @@ In case your Apple ID is currently in use on other devices, the Find My service 
 
 ![choose erase this device for ipad](https://images.wondershare.com/drfone/article/2023/11/remove-apple-id-ipad-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Part 3: Remove Apple ID Without Password by a Powerful Tool - Wondershare Dr.Fone
 
 If the problem of removing Apple ID from your iPad is not resolved, your iPad is not of particular use. This is because an Apple ID is responsible for all the basic functions, and you don't even know the password. There is a need for a more effective and powerful solution in order to maximally utilize your iPad. This is where the feature of [<u>Wondershare Dr.Fone – Screen Unlock (iOS)</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) comes out with its extraordinary ability to resolve such issues.
 
 This software is an easy-to-implement solution in answer to the nonfunctioning of all the remedies mentioned above. It removes screen passcodes face ID and bypasses the iCloud activation lock effectively in no time.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -387,6 +396,10 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - With Wondershare Dr.Fone, you don’t have to worry about security risks as it provides full-time security with advanced encryption.
 - It also [<u>removes the MDM </u>](https://drfone.wondershare.com/unlock/apple-mdm.html) if you have forgotten your username and password of your Apple iPhone XR/iPad.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step-by-Step Guide Involved To Unlock and Remove Apple ID From iPad
 
 Wondershare Dr.Fone provides you with simple steps to remove Apple ID effectively from your iPad without any effort. Here is the step-by-step guide on the process of **how to remove Apple ID from an iPad without a password**:
@@ -395,11 +408,7 @@ Wondershare Dr.Fone provides you with simple steps to remove Apple ID effectivel
 
 The first thing you need to do is download and install Wondershare Dr.Fone on your computer from the official site. Then, launch it, click "Toolbox" from the left side, and choose "Screen Unlock" from the available options. The next part includes identifying your device as "iOS" and moving on to tap "Remove Apple ID.”
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![proceed with remove apple id](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 - Step 2: Enable Screen Lock and Two-Factor Authentication
 
@@ -407,11 +416,19 @@ At this point, you need to connect your iPad to the computer and tap the "Unlock
 
 ![tap on unlock now button](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Step 3: Download the Right iPadOS Firmware
 
 Now is the time to put your iPadOS device into Recovery Mode, a process made easier by the given detailed instructions. Wondershare Dr.Fone will detect your iPad model and ask you to pick the right “System Version.” Afterward, tap “Start” to download the firmware and wait for the process to complete.
 
 ![press the start button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Step 4: Complete the Unlocking of the Apple ID
 
@@ -425,7 +442,6 @@ In conclusion, this comprehensive guide has provided users with various effectiv
 
 The provided solutions cater to most scenarios. Yet, for users encountering persistent issues, the use of Wondershare Dr.Fone is recommended. This powerful tool serves as a reliable and efficient means to unlock Apple ID and addresses complex Apple ID removal issues. By following the steps outlined in this guide, users can confidently navigate the process to **remove Apple ID from their iPad without a password**.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -438,9 +454,26 @@ The provided solutions cater to most scenarios. Yet, for users encountering pers
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-techniques-for-reversing-chronological-order/"><u>[New] 2024 Approved Techniques for Reversing Chronological Order</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unrivaled-popularity-ranking-the-top-subscribers-on-youtube/"><u>[Updated] 2024 Approved Unrivaled Popularity Ranking the Top Subscribers on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-selecting-a-prime-livestream-service-top-10-essentials/"><u>[Updated] Selecting a Prime Livestream Service Top 10 Essentials</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-seamless-social-media-posts-from-phone-to-instagram/"><u>2024 Approved Seamless Social Media Posts From Phone to Instagram</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-troubleshooting-mute-reviving-sound-in-obs-recordings/"><u>2024 Approved Troubleshooting Mute Reviving Sound in OBS Recordings</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-apple-iphone-xr-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your Apple iPhone XR Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-se-2022-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-11-pro-max-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 11 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-iphone-12-mini-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your iPhone 12 mini without Security Questions?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-iphone-se-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your iPhone SE Apple ID on MacBook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-iphone-7-plus-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an iPhone 7 Plus Without Apple ID Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-iphone-13-mini-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From iPhone 13 mini?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-se-2022-to-ipad-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone SE (2022) to iPad? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/traffic-lure-top-artisan/"><u>Traffic Lure Top Artisan</u></a></li>
+<li><a href="https://win-answers.techidaily.com/transform-lagging-chrome-into-lightning-fast-performance-with-simple-tweaks/"><u>Transform Lagging Chrome Into Lightning Fast Performance with Simple Tweaks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-hair-videos-into-income-streams/"><u>Turning Hair Videos Into Income Streams</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-tech-secrets-insights-from-toms-hardware-review/"><u>Unlocking Tech Secrets: Insights From Tom's Hardware Review</u></a></li>
+</ul></div>
 

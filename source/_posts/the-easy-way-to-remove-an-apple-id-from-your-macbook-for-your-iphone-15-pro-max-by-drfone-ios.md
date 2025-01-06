@@ -1,7 +1,7 @@
 ---
 title: The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 15 Pro Max
-date: 2024-12-24T20:50:04.813Z
-updated: 2024-12-27T08:11:27.993Z
+date: 2025-01-01T00:29:17.077Z
+updated: 2025-01-05T19:14:08.791Z
 tags: 
   - unlock
   - remove apple account
@@ -21,10 +21,6 @@ Apple has a great ecosystem of devices and services that can be controlled using
 Suppose you need to **remove your Apple ID from your Mac** but don't know to do this, then this article is for you. You will also learn to remove Apple ID from iOS devices without a password.
 
 ![remove apple id from mac](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-apple-id-from-your-mac-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Why Delete Apple ID and iCloud Account?
 
@@ -53,9 +49,17 @@ The process of removing Apple ID from a Mac is easy and quick. Before removing t
 
 ![select the data to copy](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-apple-id-from-your-mac-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** On the next window, it will ask you to provide your Apple ID password. Provide the password to complete the process of removing your Apple ID from your Mac.
 
 ![add the apple id password](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-apple-id-from-your-mac-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tip: How to Remove Apple ID from iPhone/iPad Without Knowing the Password?
 
@@ -86,15 +90,15 @@ You are required to put your Apple iPhone 15 Pro Max into Recovery Mode before y
 
 ![enable the recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Remove Your Apple ID from the iPhone**
 
 Wait for the program to complete the process of removing your Apple ID from your phone. Once it is completed, check if the old Apple ID is removed, and you can enter your new Apple ID. Otherwise, you can select "Try Again" to restart the process.
 
 ![check the apple id status](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -119,7 +123,7 @@ The Apple Developer Account or Apple Developer ID is the gateway to the Apple ec
 It is also essential for companies and organizations to develop their software solutions. By obtaining an Apple Developer Account, you unlock many valuable resources. These include the essential SDKs, tools, and documentation. Moreover, it grants you entry into the Apple Developer Program. It is the premium tier of developer membership that offers exclusive benefits. Some benefits are [<u>beta software access</u>](https://drfone.wondershare.com/ios-upgrade/install-ios-17-developer-beta-official-version.html), advanced app capabilities, and the ability to distribute apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: What Items Are Included in Apple Developer Account
@@ -144,15 +148,15 @@ As an Apple Developer Program member, you can engage in beta testing. This inclu
 
 This will help guarantee that your applications remain updated and well-prepared for the latest advancements. Moreover, you can conveniently provide feedback and report bugs directly to Apple. It can also help you test your application on the new beta version so you can fix the bugs on time and give users a smooth experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Developer Resources and Support
 
 Apple understands that developers are at the core of its ecosystem's growth. That's why it provides access to extensive documentation, tutorials, and resources. These cover everything from app design principles to API references.
 
 It also enables you to refine your expertise while staying updated with cutting-edge technologies. Furthermore, it allows you to connect with Apple's developer community. You can also seek assistance, share your knowledge, and collaborate with fellow developers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. App Distribution
 
@@ -184,10 +188,6 @@ To **create an Apple developer account** as an organization, you need the follow
 5. Your organization's website must be publicly accessible. Moreover, the domain name should be linked to your organization.
 6. Verify that you possess the legal authority to enter into agreements on behalf of your organization.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: How To Make an Apple Developer Account With the Most Simplified Steps
 
 After completing all the requirements, let’s start the process of **how to get an Apple Developer account for free** with the help of the following detailed steps:
@@ -196,21 +196,17 @@ After completing all the requirements, let’s start the process of **how to get
 
 ![press the submit button](https://images.wondershare.com/drfone/article/2023/10/apple-developer-program-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** A new page will appear, from which you need to choose the "Enroll Today" button and choose the "Continue enrollment on the web" option if you are using a web browser. This will take you to the form where you need to fill in the basic information such as your legal name, phone number, address, Zip code, and other details.
 
 ![click on enroll today](https://images.wondershare.com/drfone/article/2023/10/apple-developer-program-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3.** After filling in the basic information, click the "Continue" button. A new page will appear where you can choose whether to proceed as an individual or an organization. Once the selection is made, follow the on-screen instructions to proceed. In the end, you will be asked to complete the purchase of an Apple Developer Program subscription, which is $99 for 1 year.
 
 ![choose your entity type](https://images.wondershare.com/drfone/article/2023/10/apple-developer-program-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus Tip: The Most Efficient Tool To Unlock the Apple ID Without Passcode in 2023
 
@@ -219,7 +215,7 @@ The key requirement to **create an Apple Developer Account** is having an Apple 
 Thus, in such situations, when the user finds no option to [<u>unlock their Apple ID without a passcode</u>](https://drfone.wondershare.com/unlock/how-to-get-someones-apple-id-off-iphone-without-password.html), we recommend you use [<u>Wondershare Dr.Fone - Screen Unlock (iOS)</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) to unlock your device easily. Furthermore, this tool enables you to remove all types of lock screens of various iOS devices, including iPhones, iPad, and iPods.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
@@ -335,11 +331,11 @@ To unlock your Apple ID, you have to click on the “Unlock Apple ID” option.
 
 ![unlock completed](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
-<iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/jmU_WBObOEA" frameborder="0"></iframe>
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/jmU_WBObOEA" frameborder="0"></iframe>
 
 ## Method 2: Reset Password to Unlock Your Apple ID
 
@@ -356,6 +352,10 @@ In order to [unlock iPhone](https://drfone.wondershare.com/unlock/unlock-disable
 **Step 3:** Reset the password now. Write down the password and follow the prompts. Your password will be reset now!
 
 ![reset apple id link](https://images.wondershare.com/drfone/article/2022/03/reset-apple-id-password2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Fix Apple ID Locked Via iforgot
 
@@ -375,10 +375,6 @@ If your Apple ID is disabled, follow these simple steps listed below:
 
 ![enter verification code](https://images.wondershare.com/drfone/article/2022/03/unlock-disabled-apple-id3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5**: Successfully, you have unlocked your Apple ID.
 
 ## Method 4: Unlock Apple ID Using Two-Factor Authentication
@@ -394,6 +390,10 @@ This next method only works if you've already enabled the Two-Factor Authenticat
 **Step 3:** Then you need to follow the instructions displayed over your screen carefully.
 
 If you perform the instructions properly, you will eventually get your Apple ID unlocked.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 5: Remove Locked Apple ID Using Recovery Key
 
@@ -474,22 +474,20 @@ From this article, you can know how to unlock your Apple ID and reset your passw
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-unlocking-fb-content-effortless-mp4-conversion/"><u>[New] Unlocking FB Content Effortless MP4 Conversion</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-action-an-insight-into-sj-cam-s6/"><u>2024 Approved Mastering Action An Insight Into SJ-CAM S6</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-8-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone 8? How to Fix it?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/become-an-instagram-content-wizard-with-smart-cropping-practices/"><u>Become an Instagram Content Wizard with Smart Cropping Practices</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-12-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 12? Heres the Best Fixes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-robust-is-chatgpts-security-framework/"><u>How Robust Is ChatGPT's Security Framework?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-iphone-15-plus-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From iPhone 15 Plus in the Best Ways</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-8-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your iPhone 8</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-best-free-green-screen-apps-for-android-and-ios-devices-2023-edition/"><u>In 2024, Best Free Green Screen Apps for Android and iOS Devices 2023 Edition</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-iphone-se-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On iPhone SE</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-iphone-12-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From iPhone 12</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-vivo-v29e-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Vivo V29e for Parents | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-transferring-files-between-folders-with-ease-tips-by-yl-computing/"><u>Step-by-Step Guide: Transferring Files Between Folders with Ease - Tips by YL Computing</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-13-pro-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On iPhone 13 Pro?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-15-advanced-tips-for-sports-broadcasting-nba-for-2024/"><u>[New] 15 Advanced Tips for Sports Broadcasting (NBA) for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-master-the-art-of-recording-10-best-no-cost-mac-software/"><u>[Updated] 2024 Approved Master the Art of Recording 10 Best No-Cost Mac Software</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-12-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By Apple iPhone 12 without the Previous Owner?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-oneplus-nord-ce-3-lite-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How OnePlus Nord CE 3 Lite 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-xr-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone XR</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-camon-20-pro-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Camon 20 Pro 5G Phone?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-iphone-15-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On iPhone 15 Pro Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-apple-iphone-14-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On Apple iPhone 14 Pro Max without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-iphone-6-plus-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your iPhone 6 Plus without Security Questions?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-iphone-12-mini-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On iPhone 12 mini Making It Possible</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-backoffice-design-with-creatively-crafted-laravel-54-ui-themes-by-tims-team/"><u>Mastering Backoffice Design with Creatively-Crafted Laravel 5.4 UI Themes by Tim's Team</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-6s-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 6s</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-5-critical-ai-instruments-for-business-visionaries/"><u>Unveiling 5 Critical AI Instruments for Business Visionaries</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/windows-11-startup-failures-effective-system-restore-techniques/"><u>Windows 11 Startup Failures: Effective System Restore Techniques</u></a></li>
 </ul></div>
 

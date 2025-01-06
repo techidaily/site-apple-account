@@ -1,7 +1,7 @@
 ---
 title: In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone XR?
-date: 2024-07-14T12:57:49.058Z
-updated: 2024-07-15T12:57:49.058Z
+date: 2025-01-05T00:31:35.969Z
+updated: 2025-01-05T20:52:43.377Z
 tags: 
   - unlock
   - remove apple account
@@ -71,8 +71,6 @@ Note that if you are changing your Apple ID password on an iPhone or iPad, you w
 
 Forgetting the password is particularly troublesome, but there is good news. That is, you can use [Password Manager](https://drfone.wondershare.com/iphone-password-manager.html) to find your passwords on your Apple iPhone XR/iPad without spending too much time remembering them!
 
-
-
 ### Dr.Fone - Password Manager (iOS)
 
 Recover and keep all your passwords in one place
@@ -83,6 +81,10 @@ Recover and keep all your passwords in one place
 - The installation of Dr.Fone on your device won't take much space, without any disturbing ads.
 
 **3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2. View Your Payment Methods and Update Them
 
@@ -137,20 +139,12 @@ No. The error message “Your account has been disabled in the App Store and iTu
 
 After you see these errors, you will not be able to access some of the features and apps that require your Apple ID for access.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Part 5. How to fix Apple ID disabled by removing Apple ID?
 
 Sometimes the only way to [fix “Apple ID Disabled”](https://drfone.wondershare.com/apple-account/how-to-unlock-apple-id-disabled-activation-lock.html) is to remove the Apple ID from the Apple iPhone XR device. This may become a viable solution if you lost or forgot the Apple ID password or ID and you have no way to recover them. It is also one of the best solutions when you purchased a second-hand device, and you don’t know the Apple ID password for the account associated with the Apple iPhone XR device.
 
 One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This third-party unlocking software is designed to easily and effectively remove the Apple ID password from any device. The following are some things it can do;
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (iOS)
 
 Remove iCloud Account without Password in Minutes
@@ -158,9 +152,6 @@ Remove iCloud Account without Password in Minutes
 - Remove Apple ID/iCloud Account efficiently.
 - Save your Apple iPhone XR quickly from the disabled state.
 - Free your sim out of any carrier worldwide.
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - Bypass iCloud activation lock and enjoy all iCloud services.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Works for all models of iPhone, iPad, and iPod touch.
 
@@ -218,9 +209,17 @@ If there are unauthorized purchases or suspicious transactions on your ID, Apple
 
 Sometimes, when using third-party tools based on open-source iCloud sources, the Apple ID could get locked. Developers can integrate iCloud features into their applications to provide users with improved accessibility to their iCloud data.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Security Breach Reasons
 
 The ID can also get locked when Apple senses a potential security breach, which could lead to the exposure of your credentials. It may occur when someone tries to hack your ID to get some information, especially when it is being used in multiple areas.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Incorrect Security Questions
 
@@ -229,6 +228,10 @@ It may be due to the security questions you or someone else has entered incorrec
 ## Part 2. Resolving the Apple ID Locked Out For Security Reasons by Resetting The Password
 
 The basic solution to the **Apple ID locked for security reasons** is to [<u>reset the ID's password</u>](https://drfone.wondershare.com/reset-iphone/how-to-reset-iphone-password.html). Apple also recommends adopting this method if you feel any suspicious activity. The password for your Apple ID can be reset from the iOS device itself or the Mac. We are providing a simple guide to reset your password either way.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Resetting Password From iOS Device
 
@@ -254,6 +257,10 @@ You have tried to resolve the problematic message indicating, "This Apple ID has
 
 ![iphone to change apple id password](https://images.wondershare.com/drfone/article/2023/11/fix-apple-id-locked-for-security-reasons-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Resolving the Apple ID Locked Out for Security Reasons by Apple Support App
 
 If your Apple ID is still inaccessible after implementing the methods, you can try the Apple Support app. This technique can be applied by arranging another device for downloading the Apple Support app. Users can regain access to their Apple ID and restore full device functionality through this app. The simple guide to perform this action is explained below step-wise:
@@ -266,11 +273,19 @@ If your Apple ID is still inaccessible after implementing the methods, you can t
 
 ![press the continue button](https://images.wondershare.com/drfone/article/2023/11/fix-apple-id-locked-for-security-reasons-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5. No Solution Yet? Try Wondershare Dr.Fone – Screen Unlock (iOS) To Unlock Locked Apple ID for Security Reasons
 
 When facing an Apple ID locked for security reasons, it becomes imperative to seek a reliable solution. All essential operations within iOS devices are intertwined with the functionality of the Apple ID. That's why a viable resolution is crucial for seamless device usability. In such situations, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) emerges as a highly effective option.
 
 It is specifically designed to tackle the intricacies of iOS device management. This tool offers a dedicated feature to unlock Apple IDs, making it the ultimate recourse. Additionally, it allows you to [<u>bypass the iCloud activation lock</u>](https://drfone.wondershare.com/ios-16/how-to-bypass-icloud-activation-lock-screen-on-ios-16.html) without requiring a password. This iOS screen unlock tool is fully compatible with the latest versions of iOS 17 and iPadOS 17.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Dr.Fone
 
@@ -287,7 +302,6 @@ Summarized below is the detailed step-by-step process of using Wondershare Dr.Fo
 With Wondershare Dr.Fone launched, move to the “Toolbox” tab and access “Screen Unlock.” Then choose "iOS" as your device type, and on the following screen, press “Remove Apple ID.” Now is the time to connect your Apple iPhone XR to the computer and let Wondershare Dr.Fone detect it.
 
 ![continue with remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
-
 
 - Step 2: Enable 2FA on Your iOS Device
 
@@ -306,8 +320,6 @@ Now choose “System Version” and tap “Start” to let Dr.Fone download the 
 To conclude, there are scenarios that can lead to the **Apple ID being locked for security reasons** problem. Apple does this for your benefit. However, we have explained different methods to get you out of this situation. Although all of these methods possess the potential to resolve this problem, Wondershare Dr.Fone offers a powerful platform for more in-depth remedies.
 
 This robust iOS toolkit feature performs this recovery in seconds, saving you time. Also, it has a simple interface for its users with various technical exposure. In short, it is the best solution if your Apple ID has been locked for security reasons.
-
-
 
 ## How To Remove Phone Number From Your Apple ID on Your Apple iPhone XR?
 
@@ -332,6 +344,10 @@ If you want to learn **how to remove the number from Apple ID** and if possible,
 ## Part 3. 3 Ways to Remove a Phone Number from Your Apple ID
 
 If you are wondering about the steps for how to **remove an old phone number from Apple ID,** there are different styles available. Here are the main processes you can utilize.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1. Remove Phone Number via iPhone/iPad's Settings
 
@@ -367,9 +383,6 @@ For Facetime, click on the FaceTime option and go to Preferences > General.
 
 ![choose the tickmark](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-phone-number-from-apple-id-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Remove Phone Number via Change Apple ID Password
 
 It is possible to change the password for Apple ID in the matter of **how to remove a phone number from Apple ID.** Adjusting the phone number is the natural next step when you carry out this step, so you can remove the number and use another at this stage.
@@ -388,6 +401,10 @@ It is possible to change the password for Apple ID in the matter of **how to rem
 
 **Step 6:** You will get logged out of the account. Sign in with the new password, and the phone number will get removed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. How to Remove Apple ID without Password?
 
 All the methods mentioned help remove phone numbers associated with the Apple ID but still require you to access the Apple iPhone XR device. What if the Apple iPhone XR device is locked and the necessary details are unavailable, like the password? You can use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) to remove the Apple ID by bypassing the passcode.
@@ -400,12 +417,15 @@ It is possible to **remove phone number from Apple ID** by accessing the Apple i
 - Remove all types of lock screens, like Apple ID, Face ID, Touch ID, Screen Time Passcode, etc.
 - Fast process of screen and password bypassing.
 
-
 **How to use it?**
 
 **Step 1:** Download/install/launch the app on Mac/Windows. Select Screen Unlock when the app opens on the interface.
 
 ![select screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Choose the "Remove Apple ID" option and add the passcode, as instructed. Allow the system to trust the Apple iPhone XR device for authentication through the following prompt.
 
@@ -423,10 +443,6 @@ It is possible to **remove phone number from Apple ID** by accessing the Apple i
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/iFMAR09R9x4"></iframe>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5. FAQs about Apple ID Phone Number
 
 1. **How to Add a Trusted Phone Number to Your Apple ID?**
@@ -445,7 +461,6 @@ No, the Apple ID and phone number are not connected as features or codes. So, ad
 
 Indeed, there are multiple methods you can take to remove the phone number registered to your Apple ID successfully. They are accessible in multiple ways through Mac, iPad, or iPhone settings. If you forgot the Apple ID, you could even remove it using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). Ultimately, choose the process to trust based on your specific needs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -458,9 +473,21 @@ Indeed, there are multiple methods you can take to remove the phone number regis
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-pro-iphone-light-techniques-for-expert-photographers-for-2024/"><u>[New] Pro iPhone Light Techniques for Expert Photographers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-selective-sights-best-macos-sierra-video-editors/"><u>[New] Selective Sights Best macOS Sierra Video Editors</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-embark-on-a-google-meet-journey-for-2024/"><u>[Updated] Embark on a Google Meet Journey for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-frame-perfect-our-top-10-photo-lenses-list-for-2024/"><u>[Updated] Frame Perfect Our Top 10 Photo Lenses List for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-strategies-for-improving-your-interview-prowess-for-2024/"><u>[Updated] Strategies for Improving Your Interview Prowess for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-10-online-retailers-specialized-in-personalized-boxed-gifts/"><u>2024 Approved 10 Online Retailers Specialized in Personalized Boxed Gifts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-capturing-competitive-overwatch-in-minutes/"><u>2024 Approved Capturing Competitive Overwatch in Minutes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-iphone-8-plus-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On iPhone 8 Plus? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-iphone-se-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From iPhone SE</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-xs-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your iPhone XS</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 7 Plus?</u></a></li>
+<li><a href="https://win11.techidaily.com/the-forgotten-windows-11-theme-archive/"><u>The Forgotten Windows 11 Theme Archive</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/tips-and-tricks-for-creating-engaging-collab-videos-on-youtube-for-2024/"><u>Tips and Tricks for Creating Engaging Collab Videos on YouTube for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-iphone-6-plus-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From iPhone 6 Plus? 5 Tips You Must Know</u></a></li>
+</ul></div>
 
