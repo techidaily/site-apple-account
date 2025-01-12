@@ -1,7 +1,7 @@
 ---
 title: How to Fix Locked Apple ID on iPhone XS Max
-date: 2024-07-14T12:48:35.497Z
-updated: 2024-07-15T12:48:35.497Z
+date: 2025-01-10T16:25:39.381Z
+updated: 2025-01-12T16:09:38.026Z
 tags: 
   - unlock
   - remove apple account
@@ -36,9 +36,6 @@ In short, Apple ID Lock is about a user's account with Apple, akin to how Google
 
 A locked Apple ID is rather unmistakable. Your device would keep telling you that your Apple ID is locked for your security. Your Apple ID could be locked or disabled altogether if someone has tried to gain access to your account (and, obviously, failed). Apple would disable access to the Apple ID unless you are able to prove rightful ownership and reset the password successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part III: Reasons for Locked Apple ID
 
 There can be a few reasons why your Apple ID is locked. You forgot the password and now it is locked since you entered the wrong password too many times. A scarier prospect, albeit a real one, is that some malicious actor attempted to login into your Apple ID account but failed. Had they succeeded, you would have gotten a message that 'your Apple ID is being used on another device' now.
@@ -54,8 +51,9 @@ All of these will result in a locked Apple ID that users will have to reset thei
 It is unfortunate you are facing a locked Apple ID. Apple tries its best to make users aware of safety protocols they need to follow to minimize and mitigate such unfortunate occurrences, such as using two-factor authentication, trusted devices, trusted phone numbers, passwords, passcodes, etc. that serve as deterrents to prevent unauthorized access to devices and accounts. Yet, when the unfortunate happens, what to do?
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### IV.I: Unlock Apple ID Via Two-Factor Authentication
 
 Apple implemented two-factor authentication a long time ago to prevent unauthorized access to Apple ID accounts. If you have it enabled, you would be able to use two-factor authentication to unlock your Apple ID again.
@@ -76,6 +74,10 @@ If you have another device associated with the Apple ID and it is a trusted devi
 
 Step 4: Use that code to unlock your Apple ID using two-factor authentication.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### IV.II Unlock Apple ID Via Dr.Fone - Screen Unlock (iOS)
 
 [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is a name that will be instantly familiar to anyone who has ever had any issue with their mobile devices and would be able to vouch for the quality and efficacy of this software at fixing issues quickly and efficiently.
@@ -92,6 +94,10 @@ Step 3: Click Unlock Apple ID to start the process.
 
 ![unlock apple id](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Connect your device to the computer and wait for Dr.Fone - Screen Unlock (iOS) to detect it. You must know the passcode of your device.
 
 ![trust this computer](https://images.wondershare.com/drfone/drfone/trust-computer.jpg)
@@ -106,16 +112,15 @@ Step 6: Follow the on-screen instructions to reset all your settings on the Appl
 
 ![unlock apple id successfully](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Dr.Fone - Screen Unlock (iOS) will notify you when the process is complete.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part V: Conclusion
 
 Considering how much the Apple ID is pivotal to our Apple experience, it can be incredibly unnerving to realize that it is locked or disabled, due to any reason. We use our Apple ID for iCloud services on Apple devices, to make purchases on iTunes Store and App Store and payments using Apple Pay. Apple knows this and has checked in place to make sure that only you are in possession of your Apple ID account at all times. It can cause a little hassle at times, since if someone makes multiple failed attempts to gain access to your account, Apple will lock your Apple ID until you can unlock it with proper verifications and reset your password.
-
-
 
 ## How to Fix when Apple Account Locked On Apple iPhone XS Max?
 
@@ -130,6 +135,10 @@ Several Apple device users face this problem, and one of these messages might be
 Getting your Apple account locked can be frustrating and might hinder the performance of your phone. In this article, we will discuss the various tips to solve the Apple account locked issue.
 
 ![fix-when-apple-accunt-locked](https://images.wondershare.com/drfone/article/2020/11/apple-account-locked-0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Why is Apple Account Locked?
 
@@ -201,6 +210,10 @@ Now that you have entered into recovery mode, the next step is to restore the iP
 
 ![apple account locked 1](https://images.wondershare.com/drfone/article/2020/11/apple-account-locked-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 3. Recover Your Apple ID via Apple (Reset Password)
 
 If you have forgotten your Apple device’s password, it’s recommended not to input your password more than one time. It would lead to a 24-hour shutdown. It cannot be lifted even if you know your password, so proceed wisely. The recommended solution instead is to reset your password.
@@ -251,9 +264,6 @@ One of the quickest remedies for a misplaced Apple ID password involves starting
 
 - **Step 1.** Locate and launch the Settings app on your iDevice by swiping left and right through the installed apps. After entering, select your name and proceed to tap "Sign-In & Security" in the subsequent window.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap sign in and security](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-1.jpg)
 
 - **Step 2.** Opt for "Change Password," input your current iDevice password, and enter your new Apple ID password. Confirm the new password and finalize the process by tapping "Change Password."
@@ -265,6 +275,10 @@ One of the quickest remedies for a misplaced Apple ID password involves starting
 - **Step 1.** Navigate to the top left corner of your Mac and select the Apple logo. From the dropdown menu, choose "System Settings." Inside "System Settings," click on your name and select "Sign-in & Security."
 
 ![open macbook system settings](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** Within the "Sign-In & Security" tab, locate "Password" and click on "Change Password." Enter your Mac passcode and follow the on-screen instructions to reset your Apple ID password.
 
@@ -304,6 +318,10 @@ You are in luck if you have added an account recovery contact before losing your
 
 ![access sign in and security settings](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Here, press the account's name that has added them as recovery contact. Press "Get Recovery Code" on the following screen and share it with the person who needs to regain access to his devices.
 
 ![tap on get recovery mode](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-10.jpg)
@@ -334,8 +352,6 @@ That's why it's necessary to recover your Apple ID as soon as possible. [<u>Wond
 
 ### Key Features of Wondershare Dr.Fone
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
@@ -351,6 +367,10 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 2. Users can utilize the software's advanced algorithms to remove the iTunes backup encryption without corrupting anything.
 3. It also permits users to unlock their iDevices screens, thereby restoring access to their iOS devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps Involved To Make Apple ID Account Recovery With Wondershare Dr.Fone
 
 Its simple interface is specially designed to assist the users in implementing the essential steps regarding the Apple ID recovery process. Here is how to make the Apple ID account recovery with Wondershare Dr.Fone:
@@ -361,15 +381,15 @@ At first, you will have to launch Wondershare Dr.Fone on your system and access 
 
 ![proceed with remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
-
 - Step 2: Get Your Apple iPhone XS Max into the Recovery Mode
 
 In the next step, proceed with unlocking your Apple iPhone XS Max and selecting the "Trust" option for system authentication. After doing this, you need to press the "Unlock Now" icon and follow the on-screen instructions to confirm the status of Screen Lock and [<u>Two-Factor Authentication</u>](https://drfone.wondershare.com/remove-apple-account/remove-apple-two-factor-authentication.html). Next, you will be required to enable Recovery Mode on your iDevice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable the recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Step 3: Finalize the Apple ID Unlocking Process
 
@@ -383,7 +403,6 @@ In summary, the Apple ID serves as the fundamental key to unlocking a world of a
 
 It ensures that users regain control over their accounts within the Apple ecosystem. Furthermore, for more intricate and robust solutions, Wondershare Dr.Fone stands as the best choice. It offers a dedicated Unlock Apple ID feature. This presents an invaluable help to resolve Apple ID-related issues swiftly.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -396,9 +415,23 @@ It ensures that users regain control over their accounts within the Apple ecosys
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/utting-edge-techniques-youtube-trailers-through-filmoras-lens-for-2024/"><u>[New] Cutting Edge Techniques YouTube Trailers Through Filmora's Lens for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-unveiling-the-mechanism-behind-cross-audio-blending/"><u>[New] In 2024, Unveiling the Mechanism Behind Cross-Audio Blending</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-comedy-central-the-best-laughter-inducing-channels-online/"><u>[Updated] 2024 Approved Comedy Central The Best Laughter-Inducing Channels Online</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-dji-revolution-air-vs-spark-in-gaming-sphere-for-2024/"><u>[Updated] DJI Revolution Air Vs. Spark in Gaming Sphere for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enjoy-apples-innovative-3d-spatial-content-on-your-meta-quest-vr-headset-a-step-by-step-guide-to-viewing/"><u>Enjoy Apple's Innovative 3D Spatial Content on Your Meta Quest VR Headset: A Step-by-Step Guide to Viewing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-15-pro-by-drfone-ios/"><u>How To Unlink Apple ID From iPhone 15 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-iphone-11-pro-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your iPhone 11 Pro Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-iphone-12-pro-max-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your iPhone 12 Pro Max without Security Questions?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-7-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone 7 and iPad</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-11-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-iphone-xs-max-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On iPhone XS Max</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-xiaomi-redmi-k70-pro-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Xiaomi Redmi K70 Pro FRP Without Computer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-music-into-videos-free-mp3-to-mov-conversion-with-movavis-top-rated-web-service/"><u>Transform Your Music Into Videos: Free MP3-to-MOV Conversion with Movavi's Top-Rated Web Service</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-msda80dll-importance-and-management-tips/"><u>Understanding MSDA80.DLL: Importance and Management Tips</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone 12 Pro Max</u></a></li>
+</ul></div>
 

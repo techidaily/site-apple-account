@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone XS When We Dont Have Apple ID or Password?
-date: 2024-07-14T12:45:57.490Z
-updated: 2024-07-15T12:45:57.490Z
+date: 2025-01-09T16:02:24.965Z
+updated: 2025-01-12T16:00:49.375Z
 tags: 
   - unlock
   - remove apple account
@@ -36,6 +36,10 @@ This method is good for you if you are fortunate to have another iOS device, lik
 
 ![id on mac](https://images.wondershare.com/drfone/article/2022/10/unlock-ipad-without-apple-id-password-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **If your Apple ID is signed in on your Apple iPhone XS:**
 
 - Go to the Settings app and tap your name. Then go to the "Password and Security" tab and click the "Change Password" option.
@@ -59,6 +63,10 @@ You can change this technique and unlock an iPad you haven't recently connected 
 
 ![open itunes](https://images.wondershare.com/drfone/article/2022/10/unlock-ipad-without-apple-id-password-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Press “Restore”.
 
 ![click restore](https://images.wondershare.com/drfone/article/2022/10/unlock-ipad-without-apple-id-password-4.jpg)
@@ -77,9 +85,6 @@ The following steps will help you to **unlock iPad without Apple ID** by setting
 - Tap the "Erase All Content and Settings" option.
 - Finally, enter your iPad screen password to affirm that you must erase your device.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4. Dr.Fone - Screen Unlock (iOS)
 
 Methods in today's market will generally delete your whole data from your iPad, which is not good. If you would rather try an easier one, you might utilize an expert tool. Here we suggest [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) by Wondershare, an all-in iOS tool.
@@ -88,10 +93,13 @@ As a one-stop iOS unlocker, Dr.Fone can unlock an iPhone/iPad without too much p
 
 **Step 1.** Install and open the Dr.Fone program and choose Screen Unlock > iOS.
 
-
 **Step 2.** Pick the "iCloud Activation Lock Removal" tool.
 
 ![bypass activate lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3.** Start your process to unlock activation lock of iCloud.
 
@@ -101,12 +109,15 @@ As a one-stop iOS unlocker, Dr.Fone can unlock an iPhone/iPad without too much p
 
 ![removing the lock and wait](https://images.wondershare.com/drfone/guide/bypass-activation-lock-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5.** That will remove the activation lock immediately. At present, your Apple iPhone XS has no activation lock.
 
 ![remove the activation lock immediately](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
 Your iPad will start with no activation lock. So, you can access and utilize the tablet now. However, you must remember that you can't use your new ID's call, cellular, and iCloud feature after the bypass.
-
 
 ## Conclusion
 
@@ -128,9 +139,6 @@ The following are some reasons why you may see this error message popup on your 
 - Safety and security reasons like when Apple suspects your account may be hacked
 - When there are charging disputes on your credit card
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. How to fix “Your account has been disabled in App store and iTunes”?
 
 There are numerous methods to tackle this issue and regain access to your device. For a quick and concise understanding, you can watch our informative video tutorial. If you prefer a more in-depth, step-by-step explanation, continue reading this article for detailed instructions on each method.
@@ -150,6 +158,10 @@ If you just forget the password and cannot remember it, you can follow the steps
 
 ![reset password](https://images.wondershare.com/drfone/article/2022/04/settings-apple-id-password-security-change-password.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Enter the passcode for your device.
 - **Step 4:** Follow the onscreen steps to reset your password.
 
@@ -162,10 +174,11 @@ If you just forget the password and cannot remember it, you can follow the steps
 
 - **Step 3** Enter the phone number that you use with your Apple ID.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset apple id password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Look for the notification on iPhone, Mac, or iPad and follow the instructions to reset the password.
 
@@ -174,8 +187,6 @@ If you just forget the password and cannot remember it, you can follow the steps
 Note that if you are changing your Apple ID password on an iPhone or iPad, you will need to enter your device's six-digit passcode, then reset a new password.
 
 Forgetting the password is particularly troublesome, but there is good news. That is, you can use [Password Manager](https://drfone.wondershare.com/iphone-password-manager.html) to find your passwords on your Apple iPhone XS/iPad without spending too much time remembering them!
-
-
 
 ### Dr.Fone - Password Manager (iOS)
 
@@ -202,8 +213,9 @@ If you think that your account has been disabled because of a payment issue, it 
 If the payment method was the issue, your account will be re-enabled after these steps.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3. Settle Any Unpaid Charges
 
 Do you have any unpaid purchases or subscriptions?
@@ -227,6 +239,10 @@ If you see a message that says, “Your account has been disabled in the App Sto
 
 ![disabled in the app store and itunes 2](https://images.wondershare.com/drfone/article/2023/05/getsupport-apple.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. What does it influence when “Your account has been disabled in the App Store and iTunes”?
 
 When you see the error message “Your account has been disabled in the App Store and iTunes” it often means the following:
@@ -249,8 +265,6 @@ After you see these errors, you will not be able to access some of the features 
 Sometimes the only way to [fix “Apple ID Disabled”](https://drfone.wondershare.com/apple-account/how-to-unlock-apple-id-disabled-activation-lock.html) is to remove the Apple ID from the Apple iPhone XS device. This may become a viable solution if you lost or forgot the Apple ID password or ID and you have no way to recover them. It is also one of the best solutions when you purchased a second-hand device, and you don’t know the Apple ID password for the account associated with the Apple iPhone XS device.
 
 One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This third-party unlocking software is designed to easily and effectively remove the Apple ID password from any device. The following are some things it can do;
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -294,6 +308,10 @@ You should then be able to sign in to another Apple ID or create a new Apple ID 
 
 In conclusion, encountering a disabled Apple account in the App Store and iTunes can be a frustrating experience. However, by understanding the reasons behind it, following the recommended steps to resolve the issue, and considering the broader impact on your digital life, you can navigate this situation effectively. Remember, prompt action and patience are key to restoring your account and getting back to enjoying the Apple ecosystem hassle-free.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can I Remove the Apple Watch Activation Lock By Apple iPhone XS without the Previous Owner?
 
 If your Apple Watch shows that this Apple Watch is connected to an Apple ID, that implies the Find My feature is enabled on it. Therefore, the activation lock can be enabled eventually. This guide lets you know **how to remove activation lock without previous owner Apple Watch**.
@@ -316,9 +334,6 @@ If you enable the Find My feature, the activation lock possibly gets enabled on 
 
 If your Apple Watch gets stolen or you lose it somewhere, and somebody resets it, they will have a dead Watch to play with, and none of its functions will be open. That is only possible if they don't have the foggiest idea about the password.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Remove Apple Watch Activation Lock By Apple iPhone XS without Previous Owner？
 
 You can attempt an internet-based service to eliminate the Activation Lock on Apple Watch. You can open one of these services for your Apple Watch, and they will unlock your Watch for you. In any case, you ought to be familiar with a couple of things about these services.
@@ -387,6 +402,10 @@ _(CDMA with most functions, but no phone call, cellular data use.)_
 
 ![jailbreak your iphone](https://images.wondershare.com/drfone/guide/bypass-activation-lock-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5.** Now we're bypassing the activation lock, you'll have an iPhone without the activation lock.
 
 ![without the activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-8.png)
@@ -395,13 +414,9 @@ And with this image, you will know the activation lock is bypassed.
 
 ![activation lock is bypassed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
-
 ## Conclusion
 
 Bypassing the Apple Watch activation lock could appear to be unthinkable at first. However, there are strategies to bypass this lock on your Watch. We trust the above strategies will unlock your Watch, and you can utilize it with your Apple account. If you want to remove the activation lock on your Apple iPhone XS or iPad, free download Dr.Fone - Screen Unlock (iOS) to have an attempt.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -415,9 +430,26 @@ Bypassing the Apple Watch activation lock could appear to be unthinkable at firs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-the-formula-to-fame-elevating-subscriber-numbers-on-youtube/"><u>[New] The Formula to Fame Elevating Subscriber Numbers on Youtube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-expert-trackers-for-social-media-hashes-in-fb-tweet-and-ig/"><u>[Updated] 2024 Approved Expert Trackers for Social Media Hashes in FB, Tweet & IG</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-integrated-content-the-brands-on-youtube-movement-for-2024/"><u>[Updated] Integrated Content The Brands on YouTube Movement for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitters-viral-victory-hot-talk-highlights/"><u>2024 Approved Twitter's Viral Victory Hot Talk Highlights</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/enhancing-visual-quests-hunt-for-pristine-pexels-images/"><u>Enhancing Visual Quests Hunt for Pristine Pexels Images</u></a></li>
+<li><a href="https://win-online.techidaily.com/entdecken-sie-die-effektivsten-methoden-erkennen-und-aktualisieren-von-windows-11-nicht-sichtbaren-updates/"><u>Entdecken Sie Die Effektivsten Methoden: Erkennen Und Aktualisieren Von Windows 11 Nicht Sichtbaren Updates</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-iphone-xs-max-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On iPhone XS Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-apple-iphone-8-plus-by-drfone-ios/"><u>How to Fix Locked Apple ID on Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-11-pro-max-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-6s-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 6s</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-iphone-11-pro-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From iPhone 11 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-iphone-xs-max-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From iPhone XS Max</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalized-group-policy-application-on-windows-users-versions-1111/"><u>Personalized Group Policy Application on Windows Users, Versions 11/11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/stay-focused-with-no-youtube-thumbnail-view-for-2024/"><u>Stay Focused with No YouTube Thumbnail View for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-of-top-8-alternatives-to-gmail-in-the-new-year/"><u>The Ultimate List of Top 8 Alternatives to Gmail in the New Year</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-itel-s23-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Itel S23 | Dr.fone</u></a></li>
+</ul></div>
 

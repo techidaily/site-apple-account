@@ -1,7 +1,7 @@
 ---
 title: In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone XS Max?
-date: 2024-07-14T12:50:32.336Z
-updated: 2024-07-15T12:50:32.336Z
+date: 2025-01-11T16:37:33.885Z
+updated: 2025-01-12T16:29:12.662Z
 tags: 
   - unlock
   - remove apple account
@@ -20,9 +20,6 @@ You may see the error message, “**Your account has been disabled in the App St
 
 Why is my account disabled in the App store? Here, we take a look at the reasons why you may see the error messages and what you can do to fix them.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Why has my account been disabled in the App Store and iTunes?
 
 The following are some reasons why you may see this error message popup on your screen:
@@ -74,8 +71,6 @@ Note that if you are changing your Apple ID password on an iPhone or iPad, you w
 
 Forgetting the password is particularly troublesome, but there is good news. That is, you can use [Password Manager](https://drfone.wondershare.com/iphone-password-manager.html) to find your passwords on your Apple iPhone XS Max/iPad without spending too much time remembering them!
 
-
-
 ### Dr.Fone - Password Manager (iOS)
 
 Recover and keep all your passwords in one place
@@ -88,8 +83,9 @@ Recover and keep all your passwords in one place
 **3981454** people have downloaded it
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2. View Your Payment Methods and Update Them
 
 If you think that your account has been disabled because of a payment issue, it is necessary to check your payment methods and update them. Follow these simple steps to do it:
@@ -116,6 +112,10 @@ Signing out of your account and then signing back in may help if this issue is c
 - On your iOS device, go to Settings > \[Your Name\] > iTunes & App Store and Sign Out. Then sign in again.
 - On your Mac, open the App Store (Store > Sign Out) and iTunes (Account > Sign Out. Then sign in again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 5. Try Contacting Apple Support Directly
 
 If you see a message that says, “Your account has been disabled in the App Store and iTunes,” contact Apple Support for help. You can follow these simple steps to contact Apple support:
@@ -135,6 +135,10 @@ When you see the error message “Your account has been disabled in the App Stor
 - Furthermore, you may not be able to access Apple services and any Apple Store orders and repairs may need to be rescheduled.
 - Until you can fix the issue, you will not be able to receive iMessage, FaceTime, and iCloud Mail.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Is “Your account has been disabled in the App Store and iTunes” the same as “Apple ID disabled”?
 
 No. The error message “Your account has been disabled in the App Store and iTunes” differs from “Apple ID disabled”. You will primarily see the “Your account has been disabled in the App Store and iTunes” when you try to access content in the App Store. On the other hand, you may see the message “Apple ID disabled” when you enter the Apple ID and password to [bypass the iCloud Activation Lock screen](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html).
@@ -149,7 +153,9 @@ Sometimes the only way to [fix “Apple ID Disabled”](https://drfone.wondersha
 
 One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This third-party unlocking software is designed to easily and effectively remove the Apple ID password from any device. The following are some things it can do;
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -175,6 +181,10 @@ On the next screen, you should see three options. Choose “Remove Apple ID” s
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3: Connect the iOS Device**
 
 Connect the iOS device to the computer using its lightning cable. Then enter the Apple iPhone XS Max device’s passcode and, when prompted, tap “Trust” to allow the computer to detect the Apple iPhone XS Max device. The program should detect the Apple iPhone XS Max device and display information about it. Then click “Unlock Now”.
@@ -185,9 +195,6 @@ Connect the iOS device to the computer using its lightning cable. Then enter the
 
 Dr.Fone will immediately begin removing the Apple ID from the Apple iPhone XS Max device. You should see a progress bar indicating how long the process will take. Ordinarily, the removal should take just a few seconds. When the process is complete, you will see a notification on the screen letting you know that the Apple ID has been removed.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
 You should then be able to sign in to another Apple ID or create a new Apple ID and password to use on the Apple iPhone XS Max device.
@@ -244,6 +251,10 @@ In some instances, the greying out of the Apple ID can be attributed to specific
 
 ![enable the account changes](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 2: Checking Apple System Status Page
 
 Checking the Apple System Status page can help determine if the problem lies at Apple's end. The greying-out issue can be related to any ongoing server maintenance or outage. By staying informed about the status of Apple services, you can ensure that you can take the necessary steps. Follow these steps to check the Apple System Status page to check the **Apple ID greyed-out** status:
@@ -263,10 +274,11 @@ This simple solution can help restore full access to your Apple ID and associate
 - **Step 1:** From the Settings of your Apple iPhone XS Max, access "Screen Time." On the following screen, scroll to the last option, "Turn Off Screen Time."
 - **Step 2:** Now tap "Turn Off Screen Time" and provide the screen time passcode for confirmation. Finally, confirm the action by selecting "Turn Off Screen Time" in the pop-up confirmation message.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off the screen time passcode](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 4: Restarting the iOS Device
 
@@ -293,6 +305,10 @@ Resetting all settings on your iOS device can effectively resolve persistent sof
 
 ![reset all iphone settings](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 7: Contact Apple Customer Support
 
 If the previous solutions have not resolved the issue of your Apple ID greying out. It may be necessary to seek help from Apple's customer support. Apple's support team can provide personalized guidance and troubleshooting steps.
@@ -308,8 +324,6 @@ You have implemented all the methods mentioned above, and your **Apple ID greyed
 Dr.Fone does this resolving procedure through its powerful Screen Time Passcode unlock feature. It is also a primary remedy to unlock the locked screen of your Apple devices. Moreover, this tool can [<u>bypass the iCloud activation lock</u>](https://drfone.wondershare.com/icloud/unlock-icloud-activation.html) and Apple ID without any password requirement. Through this Screen Unlock tool, you will be able to resolve your issue quickly and without any technical knowledge.
 
 ### Key Features of Wondershare Dr.Fone
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -335,7 +349,6 @@ Wondershare Dr.Fone is an easy-to-use software with a simple guide to fix your A
 You need to start the process by opening Wondershare Dr.Fone and moving towards the “Toolbox” section. At that location, select “Screen Unlock” from the options provided. Then, select the “iOS” option from the window to define the type of your device.
 
 ![choose the screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 - Step 2: Start the Unlocking Process and Connect Your iDevice
 
@@ -377,6 +390,10 @@ As you are aware of the Two-Step Verification process, it is quite easy and typi
 
 **Step 3:** Tap on the “Two-Step Verification” option and turn it off. Confirm to conclude the process. You may be required to select the new security questions and verify the data of birth in the process. As you would be done with it, an email would be received across your connected address for confirmation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. How to turn off two-factor authentication? (lower than iOS 10.3)
 
 Two Factor Authentication cannot be turned off in a few cases and accounts for iOS versions greater than 10.3. However, if you have activated Two Factor Authentication across the iOS versions lower than 10.3, you can deactivate the feature through a series of simple steps. The exemption of this security feature across your device leaves it protected only through a password and a few security questions. For turning off the Two Factor Authentication from your Apple device, you need to follow the steps provided as follows:
@@ -416,13 +433,14 @@ On the next screen that opens, you are required to select “Unlock Apple ID” 
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Trust the Computer**
 
 Open the Apple iPhone XS Max device and tap on “Trust” over the prompt that appears on the screen. Following this, you need to navigate to the Settings of your device to initiate a reboot.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![trust computer](https://images.wondershare.com/drfone/drfone/trust-computer.jpg)
 
 **Step 4: Execution of Process**
@@ -434,9 +452,6 @@ Once you are done with initiating a reboot, the platform automatically detects t
 ## Conclusion
 
 The article has presented a very detailed comparison of the Two Factor Verification and Two Factor Authentication and provided an elaborated discussion over how to turn these security features off their devices. The article also discussed a third-party platform that would guide in removing such security features of the Apple iPhone XS Max devices over the requirement of the user. You need to go through this article to get a better knowledge of the execution of the mechanism.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -450,9 +465,22 @@ The article has presented a very detailed comparison of the Two Factor Verificat
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-viral-vortex-a-guide-to-powerful-social-media-tags/"><u>[New] 2024 Approved Viral Vortex A Guide to Powerful Social Media Tags</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fb-video-experience-the-top-10-listed-tools-for-2024/"><u>[New] FB Video Experience The Top 10 Listed Tools for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-detailed-breakdown-complete-test-of-gecata-tracker/"><u>[New] In 2024, Detailed Breakdown Complete Test of Gecata Tracker</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-leveraging-youtubes-ecosystem-for-financial-gain/"><u>[New] In 2024, Leveraging YouTube's Ecosystem for Financial Gain</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-autoplay-youtube-on-mobile-no-distractions/"><u>[Updated] In 2024, AutoPlay YouTube on Mobile, No Distractions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-talk-to-technology-without-spending-money/"><u>2024 Approved Talk to Technology Without Spending Money</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-12-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your iPhone 12</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-se-2022-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone SE (2022)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-apple-iphone-se-by-drfone-ios/"><u>How To Unlink Apple ID From Apple iPhone SE</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-apple-iphone-11-pro-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your Apple iPhone 11 Pro without Security Questions?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-apple-iphone-15-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On Apple iPhone 15 Pro? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-apple-iphone-6-plus-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On Apple iPhone 6 Plus? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/intel-or-arm-based-surface-pro-making-the-smart-choice-in-depth-comparison-and-analysis-zdnet-insights/"><u>Intel or ARM-Based Surface Pro: Making the Smart Choice - In-Depth Comparison & Analysis | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successful-resolution-intel-dptf-driver-installation-issues-a-comprehensive-guide/"><u>Successful Resolution: Intel DPTF Driver Installation Issues - A Comprehensive Guide</u></a></li>
+</ul></div>
 

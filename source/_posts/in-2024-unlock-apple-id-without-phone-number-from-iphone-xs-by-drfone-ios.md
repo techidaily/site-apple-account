@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unlock Apple ID without Phone Number From iPhone XS
-date: 2024-07-14T12:46:41.695Z
-updated: 2024-07-15T12:46:41.695Z
+date: 2025-01-08T16:36:27.351Z
+updated: 2025-01-12T16:08:14.541Z
 tags: 
   - unlock
   - remove apple account
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c
 ---
 
 ## Unlock Apple ID without Phone Number On Apple iPhone XS
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Introduction**
 
@@ -38,9 +42,6 @@ Install and open Dr.Fone software on your PC. The home interface of the software
 
 Afterward, a new screen will pop up on the screen of your system. Just click on the last option, “Unlock Apple ID” to begin the process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone home](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 2: Enter the required credentials**
@@ -97,15 +98,20 @@ Let’s know how to unlock Apple ID without a trusted phone number using iforgot
 
 ![unlock apple id without phone number](https://images.wondershare.com/drfone/article/2021/04/unlock-apple-id-without-phone-number-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Enter the registered phone number and tap on continue.
 
 ![unlock apple id without phone number](https://images.wondershare.com/drfone/article/2021/04/unlock-apple-id-without-phone-number-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** A notification will be sent to your device now. Please note that we are talking about the Apple iPhone XS device that is linked with the same Apple ID. It should be Mac or iPhone or iPad. You need to tap on the “Allow” button on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock apple id without phone number](https://images.wondershare.com/drfone/article/2021/04/unlock-apple-id-without-phone-number-5.jpg)
 
 **Step4:** Follow the instructions and you will then unlock your Apple ID.
@@ -127,6 +133,10 @@ You need to follow few steps to change your Apple ID password.
 **Step 3:** Select the “Password and Security” option.
 
 ![unlock apple id without phone number](https://images.wondershare.com/drfone/article/2021/04/unlock-apple-id-without-phone-number-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Opt for “Change Password” shown on the phone screen.
 
@@ -161,6 +171,10 @@ You can find a lot of new features to break in an Apple ID. This will help you u
 ### 1) Bypass Using DNS
 
 Well, DNS can be used to unlock a few features on your Apple iPhone XS or iPad. DNS basically stands for Domain Name Service and it can help bypass the iCloud on temporary basis. By doing the DNS method you will be doing a tweak with the Apple iPhone XS settings making it believe that it is connected with the fake activation server. This can be done by simply choosing the Wi-Fi network while you setup your device. You need to manually change the DNS server.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2) Ask Apple to Remove Lock
 
@@ -204,6 +218,10 @@ Open the application and connect your Apple iPhone XS using a USB cable. Once yo
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 On the new screen, click on “Unlock Apple ID” to get started.
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
@@ -212,9 +230,6 @@ On the new screen, click on “Unlock Apple ID” to get started.
 
 After that step, you will be asked to unlock your Apple iPhone XS. Once you do it, a new pop up message will appear. Click on “trust” and move on to the next step. With accepting, your data on your phone will be removed permanently.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![trust computer](https://images.wondershare.com/drfone/drfone/trust-computer.jpg)
 
 **Step 3: Reset Settings and Reboot your Device**
@@ -222,6 +237,10 @@ After that step, you will be asked to unlock your Apple iPhone XS. Once you do i
 Go to the “Settings”, open “General” and search for “Reset”. Enter your passcode and it will clear all your data and reset your device. Create a backup of all your data in your PC or MAC if there is anything important you want to save.
 
 ![interface](https://images.wondershare.com/drfone/drfone/interface.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4: Continue unlocking Apple ID**
 
@@ -281,6 +300,10 @@ So, in this guide, we’re going to share some insight into how to delete iCloud
 
 If you have an iPhone at the moment, here are three different ways to delete an iCloud account using your phone itself.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1.1 Remove iCloud from settings on iPhone
 
 Follow these instructions to delete the iCloud account from the “Settings” menu on your Apple iPhone XS.
@@ -302,6 +325,10 @@ Follow these instructions to delete the iCloud account from the “Settings” m
 ![select delete account](https://images.wondershare.com/drfone/article/2020/05/select-delete-account.jpg)
 
 That’s how to delete iCloud account without password directly from “Settings” on your Apple iPhone XS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.2 Delete iCloud account via iTunes
 
@@ -328,6 +355,10 @@ Here’s how to delete iCloud account without password by creating a new passwor
 **Step 1:** Visit the Apple ID Account page and select “Forgot Apple ID or Password”.
 
 ![forgot apple id or password](https://images.wondershare.com/drfone/article/2020/05/forgot-apple-id-or-password.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Now, enter your Apple ID and tap “Continue”. Select “I Need to Reset My Password” to initiate the password resetting process.
 
@@ -385,9 +416,6 @@ Now, to successfully establish the connection between the two devices, enter the
 
 Once the two devices are successfully connected, tap “Unlock Now” on your computer screen. This will trigger a warning message. Click “Unlock” to continue with the process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![attention](https://images.wondershare.com/drfone/drfone/attention.jpg)
 
 At this point, you’ll be asked to enter recovery mode. You can follow the on-screen instructions to successfully enter recovery mode.
@@ -398,9 +426,6 @@ At this point, you’ll be asked to enter recovery mode. You can follow the on-s
 
 After entering the recovery mode, Dr.Fone will automatically initiate the unlocking process. Do not disconnect the iDevice from your computer as this can cause damage to the Apple iPhone XS device itself.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![process of unlocking](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
 
 As soon as your Apple ID gets unlocked, a confirmation message will pop up on your screen. Simply reboot your smartphone and you’ll be able to sign in with a new Apple ID without any hassle.
@@ -409,13 +434,9 @@ As soon as your Apple ID gets unlocked, a confirmation message will pop up on yo
 
 It doesn’t matter if you’re using Windows or Mac, Dr.Fone – Screen Unlock for iOS will make it extremely easy to delete the iCloud account without the password. So, if you are looking for a reliable and convenient way to remove an iCloud account, make sure to use Dr.Fone – Screen Unlock.
 
-
 ## Conclusion
 
 That’s the entire guide on how to delete iCloud account without password. Even though iCloud is an exceptional feature, one is likely to forget the password to his iCloud account. If you’re stuck in a similar situation and want to create a new iCloud account, make sure to use the above tactics to delete the previous iCloud account, even if you don’t remember the password.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -429,9 +450,26 @@ That’s the entire guide on how to delete iCloud account without password. Even
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-unlock-the-power-of-personal-branding-insider-secrets-for-flawless-biographies/"><u>[New] Unlock the Power of Personal Branding Insider Secrets for Flawless Biographies</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-effortlessly-download-every-tiktok-video/"><u>[Updated] 2024 Approved Effortlessly Download Every TikTok Video</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-build-funny-images-kapwings-meme-studio-for-2024/"><u>[Updated] Build Funny Images Kapwing’s Meme Studio for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-video-to-audio-quickly-create-mp3-from-youtube-on-mac/"><u>[Updated] In 2024, From Video to Audio Quickly Create MP3 From YouTube on Mac</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-boosting-windows-file-audit-with-precision/"><u>2024 Approved Boosting Windows File Audit with Precision</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-14-pro-max-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-8-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 8</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Infinix Note 30? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-apple-iphone-6-by-drfone-ios/"><u>How to Fix when Apple Account Locked On Apple iPhone 6?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-14-pro-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone 14 Pro without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-8-plus-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-14-ultra-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 14 Ultra to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-iphone-12-pro-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect iPhone 12 Pro and iPad</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-xs-max-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off Apple iPhone XS Max without Password</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-apple-iphone-7-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On Apple iPhone 7? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-iphone-14-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From iPhone 14 Pro Max without Password?</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-games-secret-on-steam-platforms/"><u>Keep Games Secret on Steam Platforms</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-14-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 14</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-big-thing-in-mobile-os-in-depth-look-at-android-16-pricing-rumors-features-and-arrival-date-revealed/"><u>The Next Big Thing in Mobile OS: In-Depth Look at Android 16 - Pricing Rumors, Features, and Arrival Date Revealed</u></a></li>
+</ul></div>
 

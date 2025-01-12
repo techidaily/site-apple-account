@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Delete iCloud Account On iPhone XS without Password?
-date: 2024-07-14T12:45:31.152Z
-updated: 2024-07-15T12:45:31.152Z
+date: 2025-01-06T16:35:54.490Z
+updated: 2025-01-12T16:34:31.943Z
 tags: 
   - unlock
   - remove apple account
@@ -26,6 +26,10 @@ So, in this guide, we’re going to share some insight into how to delete iCloud
 
 If you have an iPhone at the moment, here are three different ways to delete an iCloud account using your phone itself.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1.1 Remove iCloud from settings on iPhone
 
 Follow these instructions to delete the iCloud account from the “Settings” menu on your Apple iPhone XS.
@@ -48,9 +52,6 @@ Follow these instructions to delete the iCloud account from the “Settings” m
 
 That’s how to delete iCloud account without password directly from “Settings” on your Apple iPhone XS.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1.2 Delete iCloud account via iTunes
 
 Another convenient way to delete the iCloud account is to use iTunes on your Apple iPhone XS. Let’s walk you through the process of deleting an iCloud account using iTunes.
@@ -62,6 +63,10 @@ Another convenient way to delete the iCloud account is to use iTunes on your App
 **Step 2:** Now, go back to the “Settings” window and click “iTunes & App Store”.
 
 ![itunes and app store](https://images.wondershare.com/drfone/article/2020/05/itunes-and-app-store.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Tap on your “Account” at the top. A pop-up will appear on your screen. Here, click “Sign Out” and the iCloud account will be removed from your iDevice.
 
@@ -85,6 +90,10 @@ Here’s how to delete iCloud account without password by creating a new passwor
 
 ![enter recovery key](https://images.wondershare.com/drfone/article/2020/05/enter-recovery-key.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** In the next window, you can reset the password. Simply, add the new password and click the “Reset Password” button.
 
 Once the password is changed, you can easily delete your iCloud account by going to “Settings” > “iCloud” > “Delete Account”. Enter the new password and your iCloud account will be deleted permanently.
@@ -96,6 +105,10 @@ In case you haven’t enabled two-way verification for your iCloud account, ther
 **Step 2:** You’ll be redirected to a new window displaying two different methods, i.e., “Answer Security Questions” an “Get an Email.” Choose a suitable method and follow the further steps to reset your password.
 
 ![recovery email](https://images.wondershare.com/drfone/article/2020/05/recovery-email.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to delete iCloud account without password on computer using Dr.Fone - Screen Unlock (iOS)?
 
@@ -145,12 +158,19 @@ After entering the recovery mode, Dr.Fone will automatically initiate the unlock
 
 ![process of unlocking](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As soon as your Apple ID gets unlocked, a confirmation message will pop up on your screen. Simply reboot your smartphone and you’ll be able to sign in with a new Apple ID without any hassle.
 
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
 It doesn’t matter if you’re using Windows or Mac, Dr.Fone – Screen Unlock for iOS will make it extremely easy to delete the iCloud account without the password. So, if you are looking for a reliable and convenient way to remove an iCloud account, make sure to use Dr.Fone – Screen Unlock.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -195,9 +215,6 @@ After the installation is done completely, launch the tool and select the “Scr
 
 You now have to boot your Apple iPhone XS or iPad device into Recovery mode or DFU mode so that the software can recognize your device for further process. For your convenience, Dr. Fone Screen Unlock (iOS) has a built-in instruction facility that helps you to follow the steps.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ios unlock 2 2](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 4: Confirm the information and download firmware**
@@ -212,18 +229,6 @@ Once the download is complete, you can get started with erasing an iPhone withou
 
 ![ios unlock 4](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. Erase an iPhone without Apple ID via iTunes
 
 Sometimes your phone might ask for an Apple ID and password to confirm your authority. In such cases, you may get stuck as either you have forgotten the password to it, or you don’t remember the Apple ID in the first place. For that matter, where it needs immediate help, we have listed down a set of steps that can help you erase an iPhone without Apple ID via iTunes –
@@ -258,6 +263,10 @@ Erasing an iPhone without Apple ID becomes necessary when we happen to use a sec
 
 ![erase a iphone without apple id 3](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Tip you may need to erase Apple ID
 
 Now, just in case you wish to delete your Apple ID completely, you need to perform a simple practice of removing any devices associated with your Apple ID.
@@ -286,6 +295,10 @@ Now let’s get started with erasing an Apple ID via Apple’s Data and Privacy 
 
 ![erase a iphone without apple id 6](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Before everything, make sure you back up your data and follow the instructions steps prompted by Apple’s website. This will lead you to choose a reason for deletion from the click-down option and click “Continue.”
 
 **Message –** You will get the details of the entire process for a quick review before you can submit for the final deletion of the policies
@@ -295,6 +308,10 @@ Now let’s get started with erasing an Apple ID via Apple’s Data and Privacy 
 **Step 6:** This submission will give you your access code which you can later use for clarification and, now you can click on the “Delete Account” option
 
 ![erase a iphone without apple id 7](https://images.wondershare.com/drfone/article/2020/11/erase-a-iphone-without-apple-id-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -336,12 +353,13 @@ After adding the AirTag to any object, it instantly syncs with the Apple ID of t
 
 **Step 4:** Choose the selected items and swipe upwards on the screen. Then, find the Remove Item button and press it.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![find the remove item button](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-airtag-from-apple-id-4.jpg)
 
 **Step 5:** Following this, select and press the Remove button. Repeat for confirmation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Version 2: Removing AirTag on iPad
 
@@ -374,7 +392,6 @@ The process of bypassing Apple ID as a feature is available for iOS 14.0 or its 
 3. Works to bypass Apple ID account locking without a password within seconds.
 4. It allows Apple ID lock removal even with the active Find My iPhone feature on the smartphone.
 
-
 **How to use it?**
 
 **Step 1:** Install the Dr.Fone app and launch it on the computer. Choose Screen Unlock.
@@ -397,7 +414,6 @@ The process of bypassing Apple ID as a feature is available for iOS 14.0 or its 
 
 ![verify on your device](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
-
 ## Part 4. FAQs about AirTag
 
 1. **How to Set Up and Add an AirTag on Your Apple iPhone XS?**
@@ -412,15 +428,9 @@ You can access the Items tab on the Find My application and choose the AirTagged
 
 With the Bluetooth connection switched on, one can track Apple AirTag for approximately 100 feet.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conclusion
 
 The added AirTag stays connected with one Apple ID account until you reset it. So, use the process mentioned to remove the AirTag via iPhone or iPad. If the iPad or iPhone you are using has locked the Apple ID, you can use another software [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/), to access it without data loss securely. Then, follow the steps mentioned to reset the AirTag here.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -434,9 +444,18 @@ The added AirTag stays connected with one Apple ID account until you reset it. S
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-voice-clarity-overcoming-skype-noise-issues-for-2024/"><u>[New] Voice Clarity Overcoming Skype Noise Issues for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-how-to-captivate-audiences-in-youtube-live-with-tiny-subscriber-counts/"><u>[Updated] In 2024, How to Captivate Audiences in YouTube Live with Tiny Subscriber Counts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-best-10-firefox-capture-tools/"><u>2024 Approved Best 10 Firefox Capture Tools</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-x-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone X Apple ID and Apple Pay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-cut-ties-with-microsofts-onedrive-on-pc/"><u>How to Cut Ties with Microsoft's OneDrive on PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-11-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 11</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-uncovering-resources-for-realistic-bellow-and-exasperation-effects/"><u>In 2024, Uncovering Resources for Realistic Bellow and Exasperation Effects</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-14-pro-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-ranking-waterproof-smartwatches-comprehensive-testing-and-reviews-by-tech-experts/"><u>Top-Ranking Waterproof Smartwatches - Comprehensive Testing & Reviews by Tech Experts</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-apple-iphone-15-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From Apple iPhone 15? 5 Tips You Must Know</u></a></li>
+</ul></div>
 

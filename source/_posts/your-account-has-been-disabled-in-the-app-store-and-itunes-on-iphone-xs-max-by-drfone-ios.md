@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes On iPhone XS Max?
-date: 2024-07-14T12:49:05.336Z
-updated: 2024-07-15T12:49:05.336Z
+date: 2025-01-11T16:41:45.640Z
+updated: 2025-01-12T16:03:40.446Z
 tags: 
   - unlock
   - remove apple account
@@ -29,6 +29,10 @@ The following are some reasons why you may see this error message popup on your 
 - Any billing issues such as unpaid iTunes and App Store orders
 - Safety and security reasons like when Apple suspects your account may be hacked
 - When there are charging disputes on your credit card
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. How to fix “Your account has been disabled in App store and iTunes”?
 
@@ -59,6 +63,10 @@ If you just forget the password and cannot remember it, you can follow the steps
 
 ![reset password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3** Enter the phone number that you use with your Apple ID.
 
 ![reset apple id password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id-2.jpg)
@@ -71,8 +79,6 @@ Note that if you are changing your Apple ID password on an iPhone or iPad, you w
 
 Forgetting the password is particularly troublesome, but there is good news. That is, you can use [Password Manager](https://drfone.wondershare.com/iphone-password-manager.html) to find your passwords on your Apple iPhone XS Max/iPad without spending too much time remembering them!
 
-
-
 ### Dr.Fone - Password Manager (iOS)
 
 Recover and keep all your passwords in one place
@@ -83,6 +89,10 @@ Recover and keep all your passwords in one place
 - The installation of Dr.Fone on your device won't take much space, without any disturbing ads.
 
 **3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2. View Your Payment Methods and Update Them
 
@@ -120,6 +130,10 @@ If you see a message that says, “Your account has been disabled in the App Sto
 
 ![disabled in the app store and itunes 2](https://images.wondershare.com/drfone/article/2023/05/getsupport-apple.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. What does it influence when “Your account has been disabled in the App Store and iTunes”?
 
 When you see the error message “Your account has been disabled in the App Store and iTunes” it often means the following:
@@ -142,8 +156,6 @@ After you see these errors, you will not be able to access some of the features 
 Sometimes the only way to [fix “Apple ID Disabled”](https://drfone.wondershare.com/apple-account/how-to-unlock-apple-id-disabled-activation-lock.html) is to remove the Apple ID from the Apple iPhone XS Max device. This may become a viable solution if you lost or forgot the Apple ID password or ID and you have no way to recover them. It is also one of the best solutions when you purchased a second-hand device, and you don’t know the Apple ID password for the account associated with the Apple iPhone XS Max device.
 
 One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This third-party unlocking software is designed to easily and effectively remove the Apple ID password from any device. The following are some things it can do;
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -209,9 +221,6 @@ There are situations where users feel the need to safeguard their personal infor
 
 For a variety of reasons, including changes within an organization or a desire for a clean slate, individuals may opt to transition to a new Apple ID. By deleting the previous Apple ID from the iPad, the transition to the fresh account can occur smoothly, minimizing any potential conflicts or overlaps.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### 4\. Resolving Apple ID-Related Issues
 
 There are instances where an Apple ID is causing technical issues. It can prevent the smooth operation of the iPad, requiring the removal of the existing Apple ID. This can serve as a troubleshooting measure to resolve any persistent problems.
@@ -232,6 +241,10 @@ A simple way to eliminate your Apple ID from your iPad involves accessing the Ap
 
 ![tap on sign out option](https://images.wondershare.com/drfone/article/2023/11/remove-apple-id-ipad-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 2: From the iCloud Website
 
 Another effective method to remove your Apple ID from your iPad is by accessing the iCloud website. This method allows you to manage your devices remotely, making it convenient if your iPad is unavailable or lost. Follow these steps on **how to remove Apple ID from an iPad** using iCloud:
@@ -251,6 +264,10 @@ You can also eliminate an Apple ID from your iPad by utilizing the App Store. Th
 **Instructions:** Access the App Store on your iPad and tap on the “Profile” image from the top right corner to access the updates and settings options. Then, scroll down to the end of the options and choose the “Sign Out” option to remove the Apple ID from the iPad.
 
 ![proceed with sign out option](https://images.wondershare.com/drfone/article/2023/11/remove-apple-id-ipad-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 4: From iTunes
 
@@ -276,16 +293,11 @@ In case your Apple ID is currently in use on other devices, the Find My service 
 
 ![choose erase this device for ipad](https://images.wondershare.com/drfone/article/2023/11/remove-apple-id-ipad-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Remove Apple ID Without Password by a Powerful Tool - Wondershare Dr.Fone
 
 If the problem of removing Apple ID from your iPad is not resolved, your iPad is not of particular use. This is because an Apple ID is responsible for all the basic functions, and you don't even know the password. There is a need for a more effective and powerful solution in order to maximally utilize your iPad. This is where the feature of [<u>Wondershare Dr.Fone – Screen Unlock (iOS)</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) comes out with its extraordinary ability to resolve such issues.
 
 This software is an easy-to-implement solution in answer to the nonfunctioning of all the remedies mentioned above. It removes screen passcodes face ID and bypasses the iCloud activation lock effectively in no time.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -295,6 +307,10 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - Unlock screen passwords from all iPhone and iPad.
 - No tech knowledge required, everybody can handle it.
 - Supports the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,395,216** people have downloaded it
 
@@ -314,7 +330,6 @@ Wondershare Dr.Fone provides you with simple steps to remove Apple ID effectivel
 The first thing you need to do is download and install Wondershare Dr.Fone on your computer from the official site. Then, launch it, click "Toolbox" from the left side, and choose "Screen Unlock" from the available options. The next part includes identifying your device as "iOS" and moving on to tap "Remove Apple ID.”
 
 ![proceed with remove apple id](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 - Step 2: Enable Screen Lock and Two-Factor Authentication
 
@@ -372,11 +387,12 @@ Follow these instructions to delete the iCloud account from the “Settings” m
 
 ![select delete account](https://images.wondershare.com/drfone/article/2020/05/select-delete-account.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That’s how to delete iCloud account without password directly from “Settings” on your Apple iPhone XS Max.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1.2 Delete iCloud account via iTunes
 
 Another convenient way to delete the iCloud account is to use iTunes on your Apple iPhone XS Max. Let’s walk you through the process of deleting an iCloud account using iTunes.
@@ -387,17 +403,15 @@ Another convenient way to delete the iCloud account is to use iTunes on your App
 
 **Step 2:** Now, go back to the “Settings” window and click “iTunes & App Store”.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![itunes and app store](https://images.wondershare.com/drfone/article/2020/05/itunes-and-app-store.jpg)
 
 **Step 3:** Tap on your “Account” at the top. A pop-up will appear on your screen. Here, click “Sign Out” and the iCloud account will be removed from your iDevice.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![apple id itunes](https://images.wondershare.com/drfone/article/2020/05/apple-id-itunes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.3 Create a new password
 
@@ -408,6 +422,10 @@ Here’s how to delete iCloud account without password by creating a new passwor
 **Step 1:** Visit the Apple ID Account page and select “Forgot Apple ID or Password”.
 
 ![forgot apple id or password](https://images.wondershare.com/drfone/article/2020/05/forgot-apple-id-or-password.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Now, enter your Apple ID and tap “Continue”. Select “I Need to Reset My Password” to initiate the password resetting process.
 
@@ -483,13 +501,9 @@ As soon as your Apple ID gets unlocked, a confirmation message will pop up on yo
 
 It doesn’t matter if you’re using Windows or Mac, Dr.Fone – Screen Unlock for iOS will make it extremely easy to delete the iCloud account without the password. So, if you are looking for a reliable and convenient way to remove an iCloud account, make sure to use Dr.Fone – Screen Unlock.
 
-
 ## Conclusion
 
 That’s the entire guide on how to delete iCloud account without password. Even though iCloud is an exceptional feature, one is likely to forget the password to his iCloud account. If you’re stuck in a similar situation and want to create a new iCloud account, make sure to use the above tactics to delete the previous iCloud account, even if you don’t remember the password.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -503,9 +517,23 @@ That’s the entire guide on how to delete iCloud account without password. Even
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-best-free-downloaders-download-youtube-thumbnail-for-freeonlinewinmac/"><u>[New] 2024 Approved Best Free Downloaders Download YouTube Thumbnail for Free [Online/Win/Mac]</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-bring-out-the-vibes-using-radial-blurs-in-your-projects/"><u>[New] 2024 Approved Bring Out the Vibes Using Radial Blurs in Your Projects</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-ensure-clarity-leading-downloader-software-for-youtubers/"><u>2024 Approved Ensure Clarity Leading Downloader Software for YouTubers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lg-vr-360-review-a-new-dimension-of-gaming/"><u>2024 Approved LG VR 360 Review A New Dimension of Gaming</u></a></li>
+<li><a href="https://ai-video.techidaily.com/2024-approved-step-by-step-guide-how-to-translate-tiktok-videos/"><u>2024 Approved Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-apple-iphone-8-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For Apple iPhone 8</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-and-update-your-pcs-serial-connection-drivers-the-pl2303-upgrade/"><u>How to Install and Update Your PC's Serial Connection Drivers: The PL2303 Upgrade</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-iphone-13-pro-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From iPhone 13 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-14-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your iPhone 14</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-apple-iphone-7-plus-by-drfone-ios/"><u>How To Unlink Apple ID From Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-elevate-your-presence-the-best-5-practices-for-max-viewers/"><u>In 2024, Elevate Your Presence The Best 5 Practices for Max Viewers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-apple-iphone-se-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From Apple iPhone SE</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-corsairs-latest-gem-the-creative-gamers-dream-pc/"><u>In-Depth Analysis of Corsair's Latest Gem - The Creative Gamer’s Dream PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-xs-max-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone XS Max</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-the-potential-of-your-iphone-with-top-podcast-tips-for-2024/"><u>Unlock the Potential of Your iPhone with Top Podcast Tips for 2024</u></a></li>
+</ul></div>
 

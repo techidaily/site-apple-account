@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways of How to Get Someones Apple ID Off iPhone 15 Pro Max without Password
-date: 2025-01-04T18:17:49.278Z
-updated: 2025-01-05T16:27:26.242Z
+date: 2025-01-06T16:06:51.609Z
+updated: 2025-01-12T16:41:30.003Z
 tags: 
   - unlock
   - remove apple account
@@ -53,6 +53,10 @@ Log out iPhone's Apple ID without Password
 **Step 4.** By following the on-screen guidance provided by Dr.fone, users need to enter the recovery mode. After successfully rebooting their iPhone, the process of unlocking the Apple ID automatically initiates.
 
 ![interface](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5.** The tool automatically starts the process of unlocking the Apple ID and finishes in a few seconds.
 
@@ -107,10 +111,6 @@ Dealing with a greyed-out Apple ID can undoubtedly lead to a frustrating experie
 
 One common reason for the Apple ID to appear greyed out is when it is actively signed in on another device. This often happens when users forget to log out of their account on a different Apple device. It leads to a conflict that prevents the smooth functioning of the Apple ID.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Incorrect Password Attempts
 
 Multiple [<u>failed attempts at entering the Apple ID password</u>](https://drfone.wondershare.com/icloud/how-to-recover-icloud-password.html) can trigger security measures. It can temporarily disable the account, causing it to grey out. This security measure is created to safeguard the account against unauthorized entry. Nevertheless, it may limit access to the Apple ID in the event of multiple incorrect password entries.
@@ -118,10 +118,6 @@ Multiple [<u>failed attempts at entering the Apple ID password</u>](https://drfo
 ### 3\. Network Connection Issues
 
 Fluctuating or unstable network connections can also contribute to the Apple ID greying out. When the Apple iPhone 15 Pro Max device is unable to establish a stable connection with Apple's servers, it may manifest as an unresponsive or greyed-out Apple ID. Thus restricting access to various Apple services and features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Software Glitches or Bugs
 
@@ -135,10 +131,6 @@ Periodic maintenance or unexpected server outages on Apple's end can disrupt the
 
 Encountering a greyed-out Apple ID can be a daunting experience. However, there exist many resolutions to this issue that can be implemented. This article aims to guide you through several effective remedies that can help resolve the problem. By following the solution outlined below, you can fix the **Apple ID greyed out on iPad**:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 1: Checking Screen Time Passcode Settings
 
 In some instances, the greying out of the Apple ID can be attributed to specific settings, such as the Screen Time passcode. Checking and [<u>adjusting the Screen Time passcode settings</u>](https://drfone.wondershare.com/unlock/how-to-disable-screen-time.html) can help ensure your Apple ID is not inadvertently restricted. Follow the steps below to check and manage your Screen Time passcode settings for fixing the **Apple ID that is greyed out in the settings** option:
@@ -150,10 +142,6 @@ In some instances, the greying out of the Apple ID can be attributed to specific
 - **Step 2:** Now, navigate to "Account Changes" and ensure it is set to "Allow." Afterward, check if the Apple ID is working normally again.
 
 ![enable the account changes](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 2: Checking Apple System Status Page
 
@@ -189,10 +177,6 @@ Performing a simple restart on your iOS device can resolve various software-rela
 
 Ensuring a consistent and reliable internet connection is crucial for the optimal performance of your Apple ID. If you're utilizing Wi-Fi, be sure to connect to a dependable network to guarantee seamless functionality. When utilizing cellular data, [<u>verify your signal strength</u>](https://drfone.wondershare.com/device-diagnostics/check-mobile-signal-stength.html) and confirm the availability of an active data plan. A stable internet connection is of utmost importance for the effective operation of your Apple ID.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 6: Reset All Settings Within iOS Device
 
 Resetting all settings on your iOS device can effectively resolve persistent software-related issues. This means if conflicts in settings where the root of **Apple ID is grayed out**, the problem would be resolved. Be aware that initiating this action will restore all settings to their original defaults while preserving your data. Follow the steps outlined below to reset all settings on your iOS device:
@@ -212,6 +196,14 @@ If the previous solutions have not resolved the issue of your Apple ID greying o
 By contacting Apple's customer support, you can receive expert help. The support team can offer tailored solutions and further guidance. This can help you regain access to your Apple ID and associated services.
 
 ![contact the apple support team](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Advanced Solution: Try Wondershare Dr.Fone Screen Unlock if the Previous Solutions Are Ineffective
 
@@ -264,10 +256,6 @@ Throughout this article, we have explored the perplexing issue of the **Apple ID
 
 We recommend that users diligently follow the steps provided in each solution. So that they can identify and rectify the specific cause of the problem. However, in cases where the issue persists, we highlighted the significance of using Wondershare Dr.Fone. It offers a specialized Screen Time Passcode Unlock feature. Moreover, this ensures the smooth operation of Apple ID and associated services.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Protecting Your Privacy: How To Remove Apple ID From Apple iPhone 15 Pro Max
 
 Protecting your privacy is crucial in today's digital age. Learning **how to remove an Apple ID from an iPhone** is necessary to safeguard your data. With easy access to emails, photos, and sensitive information, it's a gateway to your private world. Aside from your Apple ID, read how to [<u>remove your iCloud account </u>](https://drfone.wondershare.com/icloud/how-to-remove-icloud-account.html) from your Apple iPhone 15 Pro Max.
@@ -276,11 +264,19 @@ Doing so ensures your device is no longer linked to your personal information. I
 
 ![person holding an iphone](https://images.wondershare.com/drfone/article/2023/11/remove-apple-id-from-iphone-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part I. When Consider to Remove an Apple ID From an iPhone
 
 **Removing an Apple ID from an iPhone** is crucial for various reasons. Here are some important scenarios when removing an Apple ID is essential.
 
 ![man using iphone at night](https://images.wondershare.com/drfone/article/2023/11/remove-apple-id-from-iphone-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Resale**. Unlinking your Apple ID is essential to protect your personal data when selling or giving away your Apple iPhone 15 Pro Max. It prevents the new owner from accessing your photos, messages, and accounts. It safeguards your privacy and reduces the risk of data breaches.
 - **Switching Apple ID**. Removing the old one ensures a smooth transition if you're using a new Apple ID. If you use a different account, it also avoids confusion. That is vital for managing apps, media, and subscriptions associated with the new ID.
@@ -313,6 +309,10 @@ The method below erases all data on your Apple iPhone 15 Pro Max, including the 
 
 - **Step 2**: Go to **Reset** > **Erase All Content and Settings**. Then, enter your passcode and confirm.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Contact Apple Support
 
 If you can't access the Apple ID password and can't sign out from the Apple iPhone 15 Pro Max device, contact Apple Support. They may assist you in verifying your identity for account recovery or removal.
@@ -325,10 +325,6 @@ If the Apple iPhone 15 Pro Max was previously used or gifted, try contacting the
 
 ![couple sharing an iphone](https://images.wondershare.com/drfone/article/2023/11/remove-apple-id-from-iphone-06.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apple's Account Recovery
 
 Apple offers an account recovery process if you forget your Apple ID password. It involves verifying your identity and resetting your password. It can indirectly help in removing the Apple ID from your device. Here's how:
@@ -337,17 +333,21 @@ Apple offers an account recovery process if you forget your Apple ID password. I
 
 ![apple id account page main website](https://images.wondershare.com/drfone/article/2023/11/remove-apple-id-from-iphone-07.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2:** Enter your Apple ID and click **Continue**. You'll be presented with two options: **Email** **authentication** or **Answer** **security** **questions**. Choose the method you prefer or the one you have set up.
 
 ![apple id email authentication page](https://images.wondershare.com/drfone/article/2023/11/remove-apple-id-from-iphone-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Follow the on-screen instructions to verify your identity. The step might involve answering security questions, providing a recovery email, or using [<u>two-factor authentication </u>](https://drfone.wondershare.com/remove-apple-account/remove-apple-two-factor-authentication.html) if set up.
 
 Once your identity is verified, you can set a new Apple ID password. After resetting the password, use the new password to sign in on your Apple iPhone 15 Pro Max. This process indirectly helps in removing the Apple ID from the Apple iPhone 15 Pro Max device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Local Apple Store for In-Store Assistance
 
@@ -369,20 +369,20 @@ Dr.Fone - Screen Unlock is a reliable choice to help you remove an Apple ID. Her
 
 ![removing apple id window](https://images.wondershare.com/drfone/guide/bypass-activation-lock-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Follow the on-screen instructions provided by Dr.Fone - Screen Unlock. It will [<u>download the respective iOS firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html) when the app starts the Apple ID removal process.
 
 ![downloading ios firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 4:** If the Apple ID is removed, there should be a screen prompt upon completion. Click **Done** to Try Again to repeat the process if unsuccessful.
 
 ![apple id removal done](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part IV. Pro Tip-Simplifying All Your Apple ID Concerns With a Reliable Solution
@@ -413,16 +413,16 @@ Whether you're reselling your device, switching Apple IDs, or facing security co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-giggle-galore-curating-the-funniest-10-short-form-web-series-ideas/"><u>[New] In 2024, Giggle Galore Curating the Funniest 10 Short-Form Web Series Ideas</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-windows-11-pro-prime-video-cameras-for-pcs/"><u>2024 Approved Windows 11 Pro Prime Video Cameras for PCs</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-oneplus-12-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on OnePlus 12</u></a></li>
-<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-13-mini-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone 13 mini without the Previous Owner?</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-camon-20-pro-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-apple-iphone-13-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your Apple iPhone 13 Pro Max Apple ID and Apple Pay</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-iphone-14-plus-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On iPhone 14 Plus</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 13 Pro?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007687525-the-awaited-launch-of-immortals-fenyx-rising-problem-solved-and-game-is-live/"><u>The Awaited Launch of Immortals: Fenyx Rising – Problem Solved and Game Is Live</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-expert-guide-to-leveraging-obs-in-android/"><u>[New] In 2024, Expert Guide to Leveraging OBS in Android</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-simple-routines-for-documenting-digital-dialogues-on-os-xpc/"><u>[Updated] 2024 Approved Simple Routines for Documenting Digital Dialogues on OS X/PC</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mastering-the-art-of-tinder-profiles-top-tricks-for-instant-love-interest/"><u>[Updated] In 2024, Mastering the Art of Tinder Profiles Top Tricks for Instant Love Interest</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-15-pro-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone 15 Pro without the Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-iphone-15-pro-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From iPhone 15 Pro? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-apple-iphone-14-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On Apple iPhone 14 in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-iphone-se-2022-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your iPhone SE (2022) without Security Questions?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-samsungs-opponent-the-finest-non-gear-360-cameras/"><u>In 2024, Samsung's Opponent The Finest Non-Gear 360 Cameras</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-spotlight-techniques-for-android-videography/"><u>In 2024, Spotlight Techniques for Android Videography</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ling-the-seven-best-youtube-live-streaming-tools-for-iphoneandroid/"><u>Unveiling The Seven Best YouTube Live Streaming Tools for iPhone/Android</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-12-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 12?</u></a></li>
 </ul></div>
 

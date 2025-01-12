@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix when Apple Account Locked From Apple iPhone XS?
-date: 2024-07-14T12:44:58.246Z
-updated: 2024-07-15T12:44:58.246Z
+date: 2025-01-05T16:00:22.796Z
+updated: 2025-01-12T16:43:57.938Z
 tags: 
   - unlock
   - remove apple account
@@ -74,6 +74,10 @@ When the process finishes, a pop-up message will notify you. It will point out t
 
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 2. Use iTunes to Unlock Apple Account
 
 Apple also offers the services of its built-in utilities such as iTunes to unlock Apple account. Here before doing anything else, you will need to get your Apple iPhone XS into recovery mode. For added convenience, we have listed how to get into recovery mode with iPhone so you can smoothly proceed with the process.
@@ -98,6 +102,10 @@ Now that you have entered into recovery mode, the next step is to restore the iP
 
 ![apple account locked 1](https://images.wondershare.com/drfone/article/2020/11/apple-account-locked-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 3. Recover Your Apple ID via Apple (Reset Password)
 
 If you have forgotten your Apple device’s password, it’s recommended not to input your password more than one time. It would lead to a 24-hour shutdown. It cannot be lifted even if you know your password, so proceed wisely. The recommended solution instead is to reset your password.
@@ -114,9 +122,6 @@ Here are the steps to reset the password for any of your Apple devices, provided
 
 ![apple account locked 2](https://images.wondershare.com/drfone/article/2020/11/apple-account-locked-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. How to Change Apple ID on an iPhone?
 
 If you have purchased a refurbished iPhone and the previous owner’s Apple ID added to it, it is wise to change the Apple ID. You can add your own or add the ID of someone you know. Apple provides simple steps for you to change your account on iPhone.
@@ -137,6 +142,10 @@ If you have purchased a refurbished iPhone and the previous owner’s Apple ID a
 
 Getting your Apple account can ruin your day and hinder your work. Luckily, there are suitable methods to fix the Apple Account Locked issue quickly and without any damage. Here, we have discussed the top techniques to unlock the Apple account. Hopefully, these tips have helped you can access the contents of your Apple iPhone XS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Remove Apple ID from Apple iPhone XS without Password?
 
 _**“Is it possible to remove the Apple ID of an old iPhone without entering the password? I have purchased an iPhone from someone and forgot to remove his Apple ID from the Apple iPhone XS device, and now I am unable to use it. Can I still go past the password? If yes, then what is the best method available?”**_
@@ -148,6 +157,10 @@ However, there might come a scenario when the iPhone’s rightful owner wouldn�
 Still, it is possible to remove the Apple ID from the Apple iPhone XS without the password. There’s no need to worry, though, as we have assembled a guide to get your Apple iPhone XS unlocked in no time. Three methods are offered here on how to remove Apple ID from the Apple iPhone XS without the password.
 
 ![remove apple id from iphone 1](https://images.wondershare.com/drfone/article/2020/11/remove-apple-id-from-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Remove Apple ID from iPhone without Password using Dr.Fone
 
@@ -211,6 +224,10 @@ That’s it! Once you complete the steps mentioned above, the account will be re
 
 ![remove apple id from iphone 2](https://images.wondershare.com/drfone/article/2020/11/remove-apple-id-from-iphone-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. Remove Apple ID by Restoring the Apple iPhone XS in iTunes
 
 In the case that neither of the above methods works for you, you can try removing the Apple ID from the Apple iPhone XS without a password through Apple’s popular platform, iTunes. It is better to remember that this method will not work if the Apple iPhone XS has iCloud enabled.
@@ -243,6 +260,10 @@ This process is often necessary when you sell or give away your Apple iPhone XS 
 
 ![back and front of iphone 15](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: A Checklist on What To Do Before Erasing an iPhone
 
 If you're looking at **how to erase an iPhone without an Apple ID** or account password, you've come to the right place. Before you begin, preparing your device and ensuring you have all the necessary information is crucial. Here's a checklist of what to do before erasing your Apple iPhone XS:
@@ -267,11 +288,19 @@ If you own an Apple Watch, unpair it from your Apple iPhone XS. It ensures a smo
 
 ![unpair apple watch on iphone](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Cancel Your AppleCare Plan
 
 If you have an active AppleCare plan for your Apple iPhone XS, cancel it on your Apple iPhone XS before erasing the Apple iPhone XS device. You can cancel your AppleCare plan by phone by calling AppleCare customer support. It will prevent any unnecessary charges after the erasing process.
 
 ![cancel an applecare plan](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sign Out of iCloud
 
@@ -307,6 +336,10 @@ Activation lock is a security feature. It prevents anyone from activating an iPh
 Go to **Settings** > **\[your name\]** > **Find My** or **Find My iPhone** to check.
 
 ![find my iphone settings](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you want to **erase an iPhone without Apple ID** password on your computer, you can do so as long as you turn off the Find My. However, you'll need to put your Apple iPhone XS into Recovery Mode first.
 
@@ -345,9 +378,6 @@ To start this request, follow these steps:
 - **Step 1:** Head to Apple's Activation Lock support page. (al-support.apple.com)
 - **Step 2:** Scroll down the page, select the agreement checkbox, click **Continue**, and it will redirect you to a new page.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![apple activation lock support page](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-11.jpg)
 
 - **Step 3:** Enter your email address and other required information, then click **Continue**.
@@ -367,12 +397,8 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 - **Step 1:** Download and install Dr.Fone on your desktop. Launch the app and connect your Apple iPhone XS using a USB cable.
 
-
 - **Step 2:** From the **Toolbox** homepage, select **Screen Unlock**, then choose **iOS**.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone toolbox interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 3:** Select **Remove AppleID** to delete iPhone contents, including the Apple ID.
@@ -389,9 +415,6 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 - **Step 6:** Click **Yes** to verify you have enabled [<u>two-factor authentication</u>](https://drfone.wondershare.com/remove-apple-account/how-to-get-apple-id-verification-code.html) on your Apple iPhone XS.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![confirm two-factor authentication enabled](https://images.wondershare.com/drfone/guide/remove-apple-id-4.png)
 
 - **Step 7:** Follow the in-app instructions to put your device in Recovery Mode.
@@ -406,11 +429,12 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 ![downloading ios firmware in progress](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 10:** Once downloaded, click **Unlock Now** to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ios firmware downloaded](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 - **Step 11:** Enter the code in the dialogue box and click **Unlock**.
@@ -431,9 +455,6 @@ It can be challenging to **erase an iPhone without an Apple ID** password, but i
 
 If you're seeking a straightforward method on "**how to erase an iPhone without Apple ID**," Dr.Fone Screen Unlock tool is a good solution. With its user-friendly interface and efficient operation, Dr.Fone simplifies the process, making it accessible to users of all technical levels. Don't let a forgotten Apple ID password hinder your device's functionality. Try Dr.Fone Screen Unlock and reclaim control of your Apple iPhone XS.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -446,9 +467,22 @@ If you're seeking a straightforward method on "**how to erase an iPhone without 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-increase-fb-engagement-and-sales-the-15-most-effective-analyzers/"><u>[New] 2024 Approved Increase FB Engagement & Sales The 15 Most Effective Analyzers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-how-to-record-the-screen-with-adobe-captive/"><u>[Updated] 2024 Approved How To Record The Screen With Adobe Captive</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-ultimate-guide-to-mobizens-screen-capture-tool-for-2024/"><u>[Updated] Ultimate Guide to Mobizen's Screen Capture Tool for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-inexpensive-pcs-revealed-by-best-obs-setup/"><u>2024 Approved Inexpensive PCs Revealed by Best OBS Setup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-review-of-the-drop-grell-tws1x-wireless-earbuds-unrivaled-audio-quality-despite-packaging-issues/"><u>Comprehensive Review of the Drop Grell TWS1X Wireless Earbuds - Unrivaled Audio Quality Despite Packaging Issues</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/excessive-use-of-antifreeze-admixtures-or-other-chemicals-may-lead-to-durability-issues-and-should-be-avoided/"><u>Excessive Use of Antifreeze Admixtures or Other Chemicals May Lead to Durability Issues and Should Be Avoided.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-official-nvidia-drivers-for-your-geforce-rtx-3070-ti-on-microsofts-win-1087-platforms/"><u>Get Official NVIDIA Drivers for Your GeForce RTX 3070 Ti on Microsoft's Win 10/8/7 Platforms</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-se-2020-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone SE (2020) without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-apple-iphone-8-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From Apple iPhone 8</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-iphone-12-pro-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From iPhone 12 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-6-plus-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On iPhone 6 Plus?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From iPhone SE (2020)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-12-mini-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone 12 mini Making It Possible</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/secure-mobile-video-calls-best-10-safe-and-free-applications-for-phones-for-2024/"><u>Secure Mobile Video Calls Best 10 Safe and Free Applications for Phones for 2024</u></a></li>
+</ul></div>
 

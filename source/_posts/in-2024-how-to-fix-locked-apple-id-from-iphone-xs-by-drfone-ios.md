@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix Locked Apple ID from iPhone XS
-date: 2024-07-14T12:46:27.681Z
-updated: 2024-07-15T12:46:27.681Z
+date: 2025-01-10T16:46:15.404Z
+updated: 2025-01-12T16:03:43.173Z
 tags: 
   - unlock
   - remove apple account
@@ -32,9 +32,6 @@ In short, Apple ID Lock is about a user's account with Apple, akin to how Google
 
 ## Part II: Checking If Your Apple ID Is Locked
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the message of apple id locked](https://images.wondershare.com/drfone/article/2021/10/unlock-apple-id-on-iphone-13-4.jpg)
 
 A locked Apple ID is rather unmistakable. Your device would keep telling you that your Apple ID is locked for your security. Your Apple ID could be locked or disabled altogether if someone has tried to gain access to your account (and, obviously, failed). Apple would disable access to the Apple ID unless you are able to prove rightful ownership and reset the password successfully.
@@ -46,6 +43,10 @@ There can be a few reasons why your Apple ID is locked. You forgot the password 
 Apple does a lot to ensure that your Apple ID remains safe. You trust Apple with a lot of your data, including financial data by way of your credit cards associated with Apple ID to make purchases on the App Store and iTunes Store. Therefore, some of the time, Apple preempts issues by proactively locking up your Apple ID or even disabling it. It goes without saying that sometimes it is something so simple as a software error that is believed to have locked up Apple IDs for many users around the world a while ago. It is also entirely possible that it was some malicious actor probing the servers for accounts.
 
 All of these will result in a locked Apple ID that users will have to reset their password to in order to gain access back.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part IV: How to Unlock Apple ID on Apple iPhone XS
 
@@ -69,9 +70,6 @@ Step 3: Confirm your mobile number associated with the Apple ID.
 
 If you have another device associated with the Apple ID and it is a trusted device, you can now receive instructions to proceed with a two-factor code on that device.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![using iforgot support page to unlock](https://images.wondershare.com/drfone/article/2021/10/unlock-apple-id-on-iphone-13-7.jpg)
 
 Step 4: Use that code to unlock your Apple ID using two-factor authentication.
@@ -108,6 +106,10 @@ Step 6: Follow the on-screen instructions to reset all your settings on the Appl
 
 Dr.Fone - Screen Unlock (iOS) will notify you when the process is complete.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part V: Conclusion
 
 Considering how much the Apple ID is pivotal to our Apple experience, it can be incredibly unnerving to realize that it is locked or disabled, due to any reason. We use our Apple ID for iCloud services on Apple devices, to make purchases on iTunes Store and App Store and payments using Apple Pay. Apple knows this and has checked in place to make sure that only you are in possession of your Apple ID account at all times. It can cause a little hassle at times, since if someone makes multiple failed attempts to gain access to your account, Apple will lock your Apple ID until you can unlock it with proper verifications and reset your password.
@@ -119,6 +121,10 @@ Has the latest iPhone taken your attention lately? With a new Apple device in us
 This leads to removing unwanted devices from the Apple ID. If you are about to sell out or close down a device in the future, it is best to **remove the Apple iPhone XS device from Apple ID.** This will help you save yourselves from the complicated conditions created by having multiple devices on the same Apple ID.
 
 ![apple id featured image](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-a-device-from-apple-id-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Should I Remove Old Devices From My Apple ID?
 
@@ -148,9 +154,6 @@ The first and most straightforward technique of removing devices from Apple ID i
 
 ![hit the remove account button](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-a-device-from-apple-id-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Using a Mac
 
 You can also try using your Mac to remove a particular device from your Apple ID. To do that perfectly, it is best to use the following steps as a guide for removing the Apple iPhone XS device:
@@ -167,20 +170,25 @@ You can also try using your Mac to remove a particular device from your Apple ID
 
 ![press the remove from account button](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-a-device-from-apple-id-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Using the Apple ID Account Page on the Web
 
 This process can also be performed using the Apple ID account page from the web browser. For that, you will have to access the webpage from this [link](https://appleid.apple.com/).
 
 **Step 1:** As you access the webpage and log into it with your Apple ID, continue to the homepage. Lead to the "Devices" section on the left panel to open a new screen.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on the Apple iPhone XS devices option](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-a-device-from-apple-id-8.jpg)
 
 **Step 2:** Following this, select the Apple iPhone XS device that you want to remove from the Apple ID. As a new window opens, select "Remove from Account" and continue to execute this process.
 
 ![click on remove from account](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-a-device-from-apple-id-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Using the iCloud
 
@@ -190,9 +198,17 @@ iCloud can be another source to **remove devices from Apple ID.** To know how th
 
 ![sign in with apple id](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-a-device-from-apple-id-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** As you get into the homepage of your iCloud, select the "Thumbnail" button on the top-right of the screen. After that, choose the "Find My" feature from the available options in the list.
 
 ![access find my feature](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-a-device-from-apple-id-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** You will find yourselves on a new screen where you have to click the "All Devices" option. Select the Apple iPhone XS device that you wish to remove to open a new screen. Select the "Remove from Account" option to remove the Apple iPhone XS device from the Apple ID.
 
@@ -211,7 +227,6 @@ It is great to learn more about the tool to process the method perfectly. For th
 - It provides support for the latest iOS version and Apple devices.
 - The tool supports removing all kinds of locks, including Face ID, Touch ID, screen time passcode, etc.
 - It can also remove Apple ID from the Apple iPhone XS device without requiring iTunes.
-
 
 ### Steps For Unlocking Apple ID From Apple Device with Dr.Fone - Screen Unlock (iOS)
 
@@ -241,7 +256,6 @@ Put your Apple device into the Recovery Mode by following the on-screen instruct
 
 ![activate the recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
-
 ## Part 4: FAQs about Apple ID
 
 1. **How to create a new Apple ID on an iPhone?**
@@ -263,6 +277,10 @@ If you are unable to create a new Apple ID, it is possible that you would have e
 5. **How can I Find My Apple ID password?**
 
 There is no way to find your Apple ID password on your devices. If that is the case, you will have to reset the password or remember it so that you can use it for a purpose.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -298,9 +316,6 @@ Follow these instructions to delete the iCloud account from the “Settings” m
 
 **Step 5:** Again, tap on iCloud and scroll down till the end. Tap “Delete Account” and again click “Delete” to confirm your action.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select delete account](https://images.wondershare.com/drfone/article/2020/05/select-delete-account.jpg)
 
 That’s how to delete iCloud account without password directly from “Settings” on your Apple iPhone XS.
@@ -371,6 +386,10 @@ Now, in the main interface of Dr. Fone Screen Unlock, select “Screen Unlock”
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Choose the Option**
 
 In the next window, you’ll see three different options. Select “Remove Apple ID” as we want to delete the iCloud account.
@@ -405,13 +424,13 @@ As soon as your Apple ID gets unlocked, a confirmation message will pop up on yo
 
 It doesn’t matter if you’re using Windows or Mac, Dr.Fone – Screen Unlock for iOS will make it extremely easy to delete the iCloud account without the password. So, if you are looking for a reliable and convenient way to remove an iCloud account, make sure to use Dr.Fone – Screen Unlock.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
 That’s the entire guide on how to delete iCloud account without password. Even though iCloud is an exceptional feature, one is likely to forget the password to his iCloud account. If you’re stuck in a similar situation and want to create a new iCloud account, make sure to use the above tactics to delete the previous iCloud account, even if you don’t remember the password.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -425,9 +444,21 @@ That’s the entire guide on how to delete iCloud account without password. Even
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-essential-tips-for-film-saving-and-trimming-in-adobe-connect/"><u>[New] 2024 Approved Essential Tips for Film Saving and Trimming in Adobe Connect</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-record-review-repeat-unveiling-top-5-browser-screen-recorders/"><u>[New] Record, Review, Repeat Unveiling Top 5 Browser Screen Recorders</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-apowersofts-technology-insightfully-analyzed-with-comparisons/"><u>2024 Approved Apowersoft's Technology Insightfully Analyzed with Comparisons</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/find-the-greatest-free-video-viewing-apps-on-windows-11-top-picks-leaderboard/"><u>Find the Greatest FREE Video Viewing Apps on Windows 11 - Top Picks [Leaderboard]</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-iphone-x-by-drfone-ios/"><u>How to Fix when Apple Account Locked On iPhone X?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-13-pro-max-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 13 Pro Max? How to Fix it?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-apple-iphone-se-2020-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your Apple iPhone SE (2020) Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from Apple iPhone XS Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/rapid-acquisition-of-polska-skills/"><u>Rapid Acquisition of Polska Skills</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/secure-movavi-the-ultimate-software-solution-for-multimedia-security/"><u>Secure Movavi: The Ultimate Software Solution for Multimedia Security</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-iphone-13-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From iPhone 13 Making It Possible</u></a></li>
+</ul></div>
 

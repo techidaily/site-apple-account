@@ -1,7 +1,7 @@
 ---
 title: How to Fix Locked Apple ID on Apple iPhone XS Max
-date: 2024-07-14T12:47:08.158Z
-updated: 2024-07-15T12:47:08.158Z
+date: 2025-01-06T16:35:59.195Z
+updated: 2025-01-12T16:02:22.848Z
 tags: 
   - unlock
   - remove apple account
@@ -100,13 +100,15 @@ Step 6: Follow the on-screen instructions to reset all your settings on the Appl
 
 ![unlock apple id successfully](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Dr.Fone - Screen Unlock (iOS) will notify you when the process is complete.
 
 ## Part V: Conclusion
 
 Considering how much the Apple ID is pivotal to our Apple experience, it can be incredibly unnerving to realize that it is locked or disabled, due to any reason. We use our Apple ID for iCloud services on Apple devices, to make purchases on iTunes Store and App Store and payments using Apple Pay. Apple knows this and has checked in place to make sure that only you are in possession of your Apple ID account at all times. It can cause a little hassle at times, since if someone makes multiple failed attempts to gain access to your account, Apple will lock your Apple ID until you can unlock it with proper verifications and reset your password.
-
-
 
 ## How to Reset Apple ID and Apple Password On Apple iPhone XS Max
 
@@ -161,8 +163,6 @@ Also Read: [How to Remove iCloud Account with or without Password >>](https://dr
 
 If you want to try a 100% working technique to reset Apple ID, then use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). The application would get rid of the Apple ID linked to the Apple iPhone XS Max device without any related details like email id or password. Though, you should know that this will cause the loss of stored data on your device. You can reset Apple ID using Dr.Fone – Screen Unlock (iOS) easily, but make sure that you don't use it for any illegal activity.
 
-
-
 ### Dr.Fone - Screen Unlock
 
 Unlock Disabled iPhone in 5 Minutes.
@@ -171,6 +171,10 @@ Unlock Disabled iPhone in 5 Minutes.
 - Removes the Apple iPhone XS Max lock screen without relying on iTunes.
 - Works for all models of iPhone, iPad and iPod touch.
 - Fully compatible with the latest iOS/iPadOS version.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,395,216** people have downloaded it
 
@@ -181,6 +185,10 @@ Firstly, connect your iOS device to the system using a working lightning cable. 
 Now, you will be given an option to either unlock an Android or an iOS device. Simply select the option to unlock Apple ID of the Apple iPhone XS Max device.
 
 ![new-interface](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Trust the computer**
 
@@ -197,6 +205,10 @@ To proceed, the application would require erasing the Apple iPhone XS Max device
 As the Apple iPhone XS Max device restarted, the application would follow the needed process to reset its Apple ID. You can wait for a few minutes for the process to be completed.
 
 ![process-of-unlocking](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When the Apple ID is unlocked, you will be notified. You can now safely remove the Apple iPhone XS Max device and use it the way you like.
 
@@ -240,6 +252,10 @@ Now if you happen to lose any two of the above at the same time, there is no way
 
 Also Read: [How to Factory Reset iPhone without Passcode >>](https://drfone.wondershare.com/reset-iphone/factory-reset-iphone-without-passcode.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 7: Using Apple's Two-Factor Authentication (Forgot Apple ID Password)
 
 This is a new account recovery option that is built into iOS 9 and OS X El Capitan. If you have enabled it for your account, you can change or reset Apple password from [iforgot.apple.com](http://iforgot.apple.com/) or from any trusted iPad, iPhone, or iPod touch if you forgot your Apple ID password. The trusted device, however, only works if it has a passcode enabled.
@@ -275,8 +291,6 @@ If you can't log into your Apple account even after all this hassle, and if you'
 
 Because the iCloud and Apple passwords are the same, you would also lose all the data that you've kept in your iCloud. However, you can retrieve it all using third-party software called [Dr.Fone - Data Recovery (iOS)](https://drfone.wondershare.com/data-recovery-iphone.html).
 
-
-
 ### Dr.Fone - Data Recovery (iOS)
 
 World's 1st iPhone and iPad data recovery software.
@@ -289,9 +303,6 @@ World's 1st iPhone and iPad data recovery software.
 
 **3,680,398** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 With this guide, we now hope that you have been reunited with your estranged Apple account. To save yourself this hassle in the future, create a password close to your heart and pops up in your head every time you see a password field.
@@ -328,9 +339,6 @@ Frequently updating your Apple ID can enhance your online privacy and security. 
 
 If you're part of a Family Sharing group, changing your Apple ID can simplify sharing purchases, subscriptions, and iCloud storage with family members. Each family member can have their own Apple ID while still enjoying the benefits of shared content.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How To Change the Apple ID on MacBook Through the Settings
 
 In summary, there are many advantages to updating your Apple ID on your MacBook. Let's now proceed to the actionable steps for accomplishing this task. Below is a comprehensive, step-by-step tutorial on how to **change your Apple ID on a MacBook**with the help of System Settings:
@@ -345,8 +353,9 @@ In summary, there are many advantages to updating your Apple ID on your MacBook.
 ![login with new apple id](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Other Ways To Change the Apple ID With Ease
 
 Changing your Apple ID on your MacBook through Settings is a straightforward process. There are scenarios where some adjustments may be necessary and some may not. For instance, in the case of purchasing a used MacBook, it's conceivable that the prior owner's Apple ID could still be linked to the Apple iPhone XS Max device.
@@ -365,6 +374,10 @@ The first way the previous owner can remove the Apple ID from your MacBook is by
 
 ![choose remove from account option](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 2: Using Find My App
 
 Another way to remove the Apple ID is by asking the previous owner to use the Find My service. The steps for removing Apple ID using the Find My app are given below:
@@ -375,14 +388,15 @@ Another way to remove the Apple ID is by asking the previous owner to use the Fi
 
 - **Step 2:**Here, select "Continue" to confirm your choice, and follow on-screen instructions to erase the Apple iPhone XS Max device. After this, provide your Apple ID password to complete the process, and when the Apple iPhone XS Max device eraser is done, the Apple ID will be removed from your MacBook.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![press the continue button](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-6.jpg)
 
 ## Bonus Part: How To Fix Unable To Logout (Change) the Old Apple ID on Mac
 
 Although changing your Apple ID on your Mac is usually a swift procedure, there may be instances where you find it challenging. It's essential to resolve this matter promptly. The reason is that many essential procedures and services are directly linked to your Apple ID. Here are some common reasons why you might face difficulty logging out of the old Apple ID and their solutions:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Ongoing iCloud Backup
 
@@ -402,10 +416,11 @@ Occasionally, macOS may encounter bugs or glitches that prevent you from logging
 
 To resolve the bugs and glitches within the MacBook, the best option is to update macOS to its latest version. For that, access "System Settings" through Dock and move to the "General" tab. Here, select "[<u>Software Update</u>](https://drfone.wondershare.com/iphone-data-recovery/recover-lost-date-after-ios-17-update.html)" to verify if an update is available and if an update is available, use “Update Now” to update the macOS.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![press the update now button](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Apple Server Inactivity
 
@@ -429,6 +444,9 @@ Click "Toolbox" from the left sidebar after launching Wondershare Dr.Fone. From 
 
 ![click on remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Step 2: Enable Recovery Mode on Your Device
 
@@ -448,8 +466,6 @@ In conclusion, this article has provided you with valuable insights into the pro
 
 The other included alternative approaches for scenarios like purchasing a second-hand MacBook. We also addressed the issue of forgetting your Apple ID password on iOS devices. For it, we used the specialized software Wondershare Dr.Fone to remove Apple ID without needing a password.
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -462,9 +478,22 @@ The other included alternative approaches for scenarios like purchasing a second
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-screen-capture-essentials-the-finest-zero-cost-apps-for-win-10-users/"><u>[New] 2024 Approved Screen Capture Essentials The Finest Zero-Cost Apps for Win 10 Users</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-experts-guide-to-interactive-instagram-stories-polling-for-2024/"><u>[New] The Expert's Guide to Interactive Instagram Stories Polling for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-leading-edge-webcams-the-best-on-windows-10/"><u>[Updated] In 2024, Leading Edge Webcams The Best on Windows 10</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/guida-completa-a-backup-e-ripristino-in-3-modi-per-windows-11-su-nuovo-hard-disk/"><u>Guida Completa a Backup E Ripristino in 3 Modi per Windows 11 Su Nuovo Hard Disk</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-apple-iphone-12-mini-by-drfone-ios/"><u>How to Fix when Apple Account Locked On Apple iPhone 12 mini?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-12-pro-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone 12 Pro?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-7-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone 7</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-x-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your Apple iPhone X</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-iphone-xs-max-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing iPhone XS Max Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-iphone-6s-plus-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From iPhone 6s Plus without Password?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-path-to-higher-rankings-a-podcast-seo-guidebook/"><u>In 2024, The Path to Higher Rankings A Podcast SEO Guidebook</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-youtube-to-mpeg-format-change/"><u>Mastering YouTube to MPEG Format Change</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-ultimate-compendium-of-basic-russian-dialogues/"><u>The Ultimate Compendium of Basic Russian Dialogues</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-guide-setting-up-a-thunderbolt-3-dock-for-your-lenovo-laptop/"><u>The Ultimate Guide: Setting Up a Thunderbolt 3 Dock for Your Lenovo Laptop</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-6s-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone 6s Making It Possible</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effortless Solution for NBA 2K20 Stability Issues - Get Back to Gaming!
-date: 2025-01-04T20:25:19.918Z
-updated: 2025-01-05T17:52:16.441Z
+date: 2025-01-08T16:04:57.126Z
+updated: 2025-01-12T16:21:06.575Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/1e6fd3a5a3ea0e5e8f5fb33cf394d624bcb419dee
 **DayZ keeps crashing on your PC?**  Don’t worry! You’re not alone. Many DayZ users have reported this issue. But the good news is you can fix it on your own. You should be able to fix the problem quite easily using one of the solutions we’ve listed below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -68,7 +68,7 @@ Below are the minimum and recommended system requirements for DayZ:
  If your PC fails to meet DayZ minimum system requirements, you may not be able to run the game properly on your PC. In such a case, you need to **upgrade your hardware first** . If you don’t know how to check the DirectX version on your PC, you can refer to the first step in the post: [ Download DirectX 12 for Windows 10 \[SOLVED\]](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Install the latest DayZ patch
@@ -89,6 +89,10 @@ Below are the minimum and recommended system requirements for DayZ:
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen-1.png)
 3. Click **Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-network-driver.png)
 
@@ -115,20 +119,16 @@ Below are the minimum and recommended system requirements for DayZ:
 2. Navigate to the**In-Game** tab, then_**untick**_ **Enable the Steam Overlay while in-game** . Click**OK** to save the change.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-Settings2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Run DayZ again after you disabled Steam Overlay to see if you can play the game without crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Add DayZ as an exception to your third-party antivirus application
 
@@ -171,18 +171,19 @@ Below are the minimum and recommended system requirements for DayZ:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-photographers-favorites-iosandroid-writing-apps/"><u>[Updated] 2024 Approved Photographers' Favorites IOS/Android Writing Apps</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-share-worthiness-creator/"><u>2024 Approved Ultimate Share Worthiness Creator</u></a></li>
-<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-8-plus-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By Apple iPhone 8 Plus without the Previous Owner?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/code-b200-resolution-achieved/"><u>Code B200 Resolution Achieved</u></a></li>
-<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-apple-iphone-15-pro-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-insignia-ns-pcy5bma2-device-running-smoothly-with-official-windows-driver-downloads/"><u>Get Your Insignia NS-PCY5BMA2 Device Running Smoothly with Official Windows Driver Downloads</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-se-2022-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone SE (2022) without Password?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-apple-iphone-7-plus-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On Apple iPhone 7 Plus How to Bypass?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-iphone-6s-plus-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On iPhone 6s Plus in the Best Ways</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-disable-repetitive-sign-in-requests-in-teams/"><u>Techniques to Disable Repetitive Sign-In Requests in Teams</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ower-of-stories-in-youtube-expansion-for-2024/"><u>The Power of Stories in YouTube Expansion for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-iphone-14-plus-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On iPhone 14 Plus</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-key-differences-between-an-ipad-and-standard-tablets/"><u>Unveiling Key Differences Between an iPad and Standard Tablets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experts-picks-for-the-best-no-cost-virtual-private-networks-of-2024-in-depth-analysis-on-zdnet/"><u>Experts' Picks for the Best No-Cost Virtual Private Networks of 2024 - In-Depth Analysis on ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-8-plus-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-iphone-15-pro-by-drfone-ios/"><u>How to Fix Locked Apple ID from iPhone 15 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-realme-narzo-n55-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Realme Narzo N55 Face Lock?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-15-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix iPhone 15 Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On Apple iPhone 6 Plus?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 13 mini?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mov-in-mp4-libero-di-convertire-sul-tuo-macpc-con-windows-metodi-online-fai-da-te/"><u>MOV in MP4 Libero Di Convertire Sul Tuo Mac/PC Con Windows - Metodi Online Fai-Da-Te</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/reliable-methods-to-overcome-iphones-ios-14-upgrade-hiccups-dealing-with-errors-and-interruptions/"><u>Reliable Methods to Overcome iPhone's iOS 14 Upgrade Hiccups: Dealing with Errors & Interruptions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/transforming-your-videos-first-impression-fb-cover-makeover-techniques/"><u>Transforming Your Videos' First Impression FB Cover Makeover Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-resolve-overwatch-voip-problems-instantly/"><u>Troubleshoot and Resolve Overwatch VOIP Problems Instantly</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-8-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From iPhone 8</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From Apple iPhone 13 Pro Max</u></a></li>
 </ul></div>
 

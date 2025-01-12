@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix Locked Apple ID on Apple iPhone XS Max
-date: 2024-07-14T12:50:02.622Z
-updated: 2024-07-15T12:50:02.622Z
+date: 2025-01-11T16:04:18.238Z
+updated: 2025-01-12T16:39:48.823Z
 tags: 
   - unlock
   - remove apple account
@@ -51,8 +51,9 @@ All of these will result in a locked Apple ID that users will have to reset thei
 It is unfortunate you are facing a locked Apple ID. Apple tries its best to make users aware of safety protocols they need to follow to minimize and mitigate such unfortunate occurrences, such as using two-factor authentication, trusted devices, trusted phone numbers, passwords, passcodes, etc. that serve as deterrents to prevent unauthorized access to devices and accounts. Yet, when the unfortunate happens, what to do?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### IV.I: Unlock Apple ID Via Two-Factor Authentication
 
 Apple implemented two-factor authentication a long time ago to prevent unauthorized access to Apple ID accounts. If you have it enabled, you would be able to use two-factor authentication to unlock your Apple ID again.
@@ -65,16 +66,10 @@ Step 2: Key in your Apple ID and proceed.
 
 Step 3: Confirm your mobile number associated with the Apple ID.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![apple id iforgot support](https://images.wondershare.com/drfone/article/2021/10/unlock-apple-id-on-iphone-13-6.jpg)
 
 If you have another device associated with the Apple ID and it is a trusted device, you can now receive instructions to proceed with a two-factor code on that device.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![using iforgot support page to unlock](https://images.wondershare.com/drfone/article/2021/10/unlock-apple-id-on-iphone-13-7.jpg)
 
 Step 4: Use that code to unlock your Apple ID using two-factor authentication.
@@ -97,9 +92,6 @@ Step 3: Click Unlock Apple ID to start the process.
 
 Step 4: Connect your device to the computer and wait for Dr.Fone - Screen Unlock (iOS) to detect it. You must know the passcode of your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![trust this computer](https://images.wondershare.com/drfone/drfone/trust-computer.jpg)
 
 You will be asked on your Apple iPhone XS Max to Trust the computer, and then you will need to enter the passcode.
@@ -108,9 +100,17 @@ Step 5: Unlocking Apple ID via Dr.Fone - Screen Unlock (iOS) will erase the cont
 
 ![type six zeroes](https://images.wondershare.com/drfone/drfone/attention.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 6: Follow the on-screen instructions to reset all your settings on the Apple iPhone XS Max and then reboot to start the unlocking process.
 
 ![unlock apple id successfully](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dr.Fone - Screen Unlock (iOS) will notify you when the process is complete.
 
@@ -182,8 +182,9 @@ If you still need to remember your Apple ID Passcode, following the steps in the
 These are some ways to recover your Apple ID passcode:
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Use the Forgot Your Password Option
 
 Start by going to the Apple ID account page or using the "Forgot Your Apple ID or Password?" link on your Apple iPhone XS Max's login screen. You must enter your Apple ID and follow the steps provided to reset your passcode. Apple will guide you through resetting your Apple ID passcode, often requiring you to verify your identity via email or other security questions.
@@ -204,6 +205,9 @@ If, for instance, you find yourself in a situation where you really can't recove
 
 ![dr.fone homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 One of Dr.Fone's standout features is the Screen Unlock feature. It is an invaluable tool when facing challenges like an inaccessible iPhone due to a forgotten Apple ID passcode or a device that has been reformatted without unlinking the Apple ID. With Dr.Fone – Screen Unlock, you can learn **how to unpair iPhones** from the previous Apple ID, ensuring you can use it effectively.
 
@@ -212,7 +216,6 @@ One of Dr.Fone's standout features is the Screen Unlock feature. It is an invalu
 Before anything, be warned that this method removes all data from an iPhone. Creating a backup of your phone before performing the steps below is best.
 
 - **Step 1:** Launch Dr.Fone. Click **Toolbox** and then select **Screen Unlock (iOS).**
-
 
 - **Step 2:** Click **Remove Apple ID.**
 
@@ -234,6 +237,10 @@ Before anything, be warned that this method removes all data from an iPhone. Cre
 
 ![recovery mode tutorial](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7:** Verify your device details**.** Edit manually for any discrepancies. Click **Start** once done.
 
 ![verify device model page](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
@@ -249,6 +256,10 @@ Before anything, be warned that this method removes all data from an iPhone. Cre
 - **Step 10:** Input the code "000000" on the appearing prompt and click **Unlock**.
 
 ![unlock confirmation prompt](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 11**: Avoid any disconnection during the unlocking process.
 
@@ -272,6 +283,9 @@ Out of these problems, users aren't able to update or download applications that
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jmU_WBObOEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to get someone else's Apple ID off iPhone without a password using Dr. Fone – Screen Unlock (iOS)
 
@@ -305,6 +319,10 @@ Log out iPhone's Apple ID without Password
 
 ![interface](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5.** The tool automatically starts the process of unlocking the Apple ID and finishes in a few seconds.
 
 ![process of unlocking](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
@@ -312,7 +330,6 @@ Log out iPhone's Apple ID without Password
 **Step 6.** Another screen comes on the front after the completion of the task, which tells the users to check whether their Apple ID has been unlocked or not.
 
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
-
 
 ## Part 2: How to get rid of someone’s Apple ID off iPhone with the previous owner’s help?
 
@@ -322,6 +339,10 @@ Signing out of the Apple ID on your Apple iPhone XS Max is very easy if you are 
 
 - The associated person needs to sign themselves into icloud.com and the Apple iPhone XS Max from their account. After signing in, they can easily access the Apple iPhone XS Max by hitting "Find iPhone."
 - After successfully finding the iPhone, they need to click "All Devices," followed by the Apple iPhone XS Max from which the account is to be removed and select "Erase iPhone."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2nd Method
 
@@ -343,9 +364,6 @@ There might be a case where your subordinates or relative might have downloaded 
 
 Having another Apple ID logged in doesn't mean that everything is long lost. Several ways and scenarios help users to counter this problem easily. It's easy to bypass Apple ID without a password remotely if you have the right tool. In that case, [Dr.Fone - Screen Unlock (iOS)](https://download.wondershare.com/drfone_unlock_full3372.exe) can definitely be your right choice. This article is a complete guide on how to combat the issue of having someone else's Apple ID logged in to your Apple iPhone XS Max.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -358,9 +376,21 @@ Having another Apple ID logged in doesn't mean that everything is long lost. Sev
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/astering-the-art-of-locating-concealed-youtube-media/"><u>[New] Mastering the Art of Locating Concealed YouTube Media</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-how-youtubes-creative-commons-shapes-video-production/"><u>[Updated] 2024 Approved How YouTube's Creative Commons Shapes Video Production</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-exclusive-look-at-zooms-prime-transcription-software-choices/"><u>[Updated] Exclusive Look at Zoom's Prime Transcription Software Choices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/create-enhance-and-share-with-top-10-free-drawing-programs-on-mac-for-2024/"><u>Create, Enhance & Share With Top 10 Free Drawing Programs on Mac for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-steelseries-game-controllers-upgraded-windows-10-compatible-driver-pack-available-now/"><u>Get Your SteelSeries Game Controllers Upgraded: Windows 10 Compatible Driver Pack Available Now</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-8-plus-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 8 Plus without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-13-pro-max-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-13-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone 13</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-magic-v2-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-breakthrough-vids-the-titans-of-100-million-youtube-views/"><u>In 2024, Breakthrough Vids The Titans of 100 Million YouTube Views</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-6-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an Apple iPhone 6 Without Apple ID Password?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-snapsnatcher-live-stream-repository/"><u>In 2024, SnapSnatcher - Live Stream Repository</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-iphone-12-pro-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From iPhone 12 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-iphone-14-plus-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From iPhone 14 Plus Making It Possible</u></a></li>
+</ul></div>
 
