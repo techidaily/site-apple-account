@@ -1,7 +1,7 @@
 ---
 title: In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your iPhone 8
-date: 2024-07-14T12:39:39.824Z
-updated: 2024-07-15T12:39:39.824Z
+date: 2025-01-11T00:32:50.886Z
+updated: 2025-01-18T05:29:52.660Z
 tags: 
   - unlock
   - remove apple account
@@ -67,9 +67,6 @@ Here's how to locate your Apple ID on a Mac device:
 
 - **Step 1:** If you're on a Mac, click the "Apple logo" in the top-left corner of the screen. From the drop-down menu, select **System Preferences**.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![mac system preferences](https://images.wondershare.com/drfone/article/2023/11/finding-your-apple-id-05.jpg)
 
 - **Step 3:** In the **System Preferences** window, click on **Apple ID**.
@@ -79,6 +76,10 @@ Here's how to locate your Apple ID on a Mac device:
 - **Step 4:** Your Apple ID is now right in front of you, under your profile picture. Jot it down or take a screenshot – just in case.
 
 ![mac apple id settings](https://images.wondershare.com/drfone/article/2023/11/finding-your-apple-id-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### On Windows PC
 
@@ -110,6 +111,9 @@ So, what is Dr.Fone - Screen Unlock? It's a nifty tool designed to simplify unlo
 
 ![drfone v13 home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features and Benefits
 
@@ -130,6 +134,10 @@ Unlocking your Apple device with Dr.Fone - Screen Unlock is as easy as 1-2-3. He
 
 ![drfone unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** To begin unlocking the iOS device, tap **Start** on the following screen. Check to see if your gadget has adequate battery life.
 
 ![drfone remove ios screen lock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
@@ -138,9 +146,17 @@ Unlocking your Apple device with Dr.Fone - Screen Unlock is as easy as 1-2-3. He
 
 ![drfone enters dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** The platform automatically recognizes the **Device Model** after users successfully enter **Recovery Mode** on their iDevice. Make any necessary adjustments to the model and pick the **System Version**. After that, tap the **Start** button to continue the screen unlocking process.
 
 ![drfone recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** The next screen will show you where your device's iOS firmware download stands. If you want to cancel the operation, just hit the **Stop** button. If the iOS firmware takes a long time to download on your platform, you can copy the download link by clicking the **Copy** option.
 
@@ -149,6 +165,10 @@ Unlocking your Apple device with Dr.Fone - Screen Unlock is as easy as 1-2-3. He
 - **Step 7:** Once the iOS firmware has been downloaded and verified, it will be displayed on the following screen. Continue by clicking the **Unlock Now** button.
 
 ![drfone unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 8:** A dialog box asking for confirmation of the action will pop up on the screen. Enter the unlock code and select **Unlock** to continue.
 
@@ -165,9 +185,6 @@ It's important to note that Dr.Fone - Screen Unlock is a trusted solution that p
 
 While this guide has covered the basics of finding your Apple ID and using Dr.Fone - Screen Unlock, there are some common issues that Apple users might encounter. Here are some tips and troubleshooting solutions to help you navigate these problems:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![apple id tips and troubleshooting](https://images.wondershare.com/drfone/article/2023/11/finding-your-apple-id-18.jpg)
 
 ### Forgotten Apple ID Password
@@ -258,9 +275,6 @@ You can also try using your Mac to remove a particular device from your Apple ID
 
 **Step 1:** Launch your Mac and click on the "Apple" icon displayed on the top-left of the screen. Next, you have to tap on the "System Settings" option from the drop-down menu.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose the system settings](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-a-device-from-apple-id-5.jpg)
 
 **Step 2:** As a new window opens, continue by clicking on your name to access your Apple ID details. With the screen displaying all options, scroll down to find the respective device.
@@ -313,6 +327,9 @@ It is great to learn more about the tool to process the method perfectly. For th
 - The tool supports removing all kinds of locks, including Face ID, Touch ID, screen time passcode, etc.
 - It can also remove Apple ID from the Apple iPhone 8 device without requiring iTunes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps For Unlocking Apple ID From Apple Device with Dr.Fone - Screen Unlock (iOS)
 
@@ -328,9 +345,6 @@ To start the process, it is best to download and install the latest version of W
 
 You will have to continue to the option of "Remove Apple ID" from the list to unlock the Apple ID.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose the remove apple id option](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 3: Trust Computer and Start Unlocking**
@@ -344,7 +358,6 @@ Turn on your Apple device and continue to trust the Apple iPhone 8 device it is 
 Put your Apple device into the Recovery Mode by following the on-screen instructions on the computer's screen. As it is done, the unlocking process starts automatically. The process will be completed in a few seconds, and the prompt will display the completion of the method.
 
 ![activate the recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
-
 
 ## Part 4: FAQs about Apple ID
 
@@ -378,9 +391,6 @@ Have you ever wondered what happens when you erase the content of your Apple iPh
 
 This process is often necessary when you sell or give away your Apple iPhone 8 to ensure your personal information remains secure. But, you may encounter a situation where you should learn **how to erase an iPhone without an Apple ID**. While this may seem challenging, you can use a few methods to achieve this goal. This article will show you how to do it with or without an Apple ID password.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![back and front of iphone 15](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-01.jpg)
 
 ## Part 1: A Checklist on What To Do Before Erasing an iPhone
@@ -406,6 +416,10 @@ Unpair Apple Watch
 If you own an Apple Watch, unpair it from your Apple iPhone 8. It ensures a smooth disconnection and prevents complications when erasing the Apple iPhone 8 device.
 
 ![unpair apple watch on iphone](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Cancel Your AppleCare Plan
 
@@ -447,6 +461,10 @@ Activation lock is a security feature. It prevents anyone from activating an iPh
 Go to **Settings** > **\[your name\]** > **Find My** or **Find My iPhone** to check.
 
 ![find my iphone settings](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you want to **erase an iPhone without Apple ID** password on your computer, you can do so as long as you turn off the Find My. However, you'll need to put your Apple iPhone 8 into Recovery Mode first.
 
@@ -504,7 +522,6 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 - **Step 1:** Download and install Dr.Fone on your desktop. Launch the app and connect your Apple iPhone 8 using a USB cable.
 
-
 - **Step 2:** From the **Toolbox** homepage, select **Screen Unlock**, then choose **iOS**.
 
 ![dr.fone toolbox interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -520,6 +537,10 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 - **Step 5:** Click **Yes** to confirm you have set up a screen lock.
 
 ![validate iphone screen lock set up](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Click **Yes** to verify you have enabled [<u>two-factor authentication</u>](https://drfone.wondershare.com/remove-apple-account/how-to-get-apple-id-verification-code.html) on your Apple iPhone 8.
 
@@ -559,9 +580,6 @@ It can be challenging to **erase an iPhone without an Apple ID** password, but i
 
 If you're seeking a straightforward method on "**how to erase an iPhone without Apple ID**," Dr.Fone Screen Unlock tool is a good solution. With its user-friendly interface and efficient operation, Dr.Fone simplifies the process, making it accessible to users of all technical levels. Don't let a forgotten Apple ID password hinder your device's functionality. Try Dr.Fone Screen Unlock and reclaim control of your Apple iPhone 8.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -574,9 +592,17 @@ If you're seeking a straightforward method on "**how to erase an iPhone without 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-funimate-video-downloader-review/"><u>[New] Funimate Video Downloader Review</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-shoppers-ultimate-list-of-top-rated-webcams/"><u>[Updated] In 2024, Shopper’s Ultimate List of Top-Rated Webcams</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-satire-skills-video-comedy-mastery-tips/"><u>[Updated] Satire Skills Video Comedy Mastery Tips</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-unlock-potential-expert-tips-for-youtube-video-trimming-for-2024/"><u>[Updated] Unlock Potential Expert Tips for YouTube Video Trimming for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tial-tools-for-youtube-live-broadcasting-reveal-the-7-key-apps/"><u>Essential Tools for YouTube LIVE Broadcasting Reveal the 7 Key Apps</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-6s-plus-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone 6s Plus Without Apple ID Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-iphone-xs-max-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From iPhone XS Max in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-15-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your Apple iPhone 15?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-12-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On iPhone 12</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-windows-blue-screens-solutions-to-error-code-0x0000001e/"><u>Troubleshooting Windows Blue Screens - Solutions to Error Code 0X0000001E</u></a></li>
+</ul></div>
 

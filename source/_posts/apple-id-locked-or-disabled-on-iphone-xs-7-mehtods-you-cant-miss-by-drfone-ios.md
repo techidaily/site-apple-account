@@ -1,7 +1,7 @@
 ---
 title: Apple ID Locked or Disabled On iPhone XS? 7 Mehtods You Cant-Miss
-date: 2024-07-14T12:42:26.356Z
-updated: 2024-07-15T12:42:26.356Z
+date: 2025-01-16T19:58:25.759Z
+updated: 2025-01-17T19:18:35.035Z
 tags: 
   - unlock
   - remove apple account
@@ -35,8 +35,6 @@ If you frequently change your Apple ID or passcode on the Apple iPhone XS device
 
 If you have forgotten your Apple ID password, you are suggested not to enter the wrong passcode in a row. That may lead to data loss. You can download the Dr.Fone– Screen Unlock, which is compatible with different lock screens and will **unlock Apple ID easily**. [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) helps remove almost all sorts of iPhone passwords without the requirement of technical knowledge.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone ID.
@@ -52,9 +50,6 @@ Unlock iPhone ID.
 
 **Step 1:**Click on the “Screen Unlock” module and a new interface will appear.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 To unlock your Apple ID, you have to click on the “Unlock Apple ID” option.
@@ -64,6 +59,10 @@ To unlock your Apple ID, you have to click on the “Unlock Apple ID” option.
 **Step 2:** You must know the passcode of the Apple iPhone XS to unlock the phone screen, which trusts the computer system for scanning the data available in the phone.
 
 ![trust this pc](https://images.wondershare.com/drfone/drfone/trust-computer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** This process determines that all data will be erased when you initiate to unlock the Apple ID. (If your device didn't activate dual authentication, then you can unlock Apple ID without data loss.) It is recommended to create a backup of your data before proceeding to the next step.
 
@@ -107,6 +106,10 @@ If your Apple ID is disabled, follow these simple steps listed below:
 
 ![enter apple id](https://images.wondershare.com/drfone/article/2022/03/unlock-disabled-apple-id.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2**: You have to enter the registered E-mail address in the box available on the screen.
 
 ![confirm phone number](https://images.wondershare.com/drfone/article/2022/03/unlock-disabled-apple-id2.png)
@@ -116,6 +119,10 @@ If your Apple ID is disabled, follow these simple steps listed below:
 **Step 4:** Enter the code you have received on your device and confirm it to unlock your account and allow resetting the password. (You will be asked to answer the security question to confirm your identity).
 
 ![enter verification code](https://images.wondershare.com/drfone/article/2022/03/unlock-disabled-apple-id3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5**: Successfully, you have unlocked your Apple ID.
 
@@ -184,6 +191,10 @@ You have to select the DNS from the option available according to your region.
 
 ![iclouddnsbypass home](https://images.wondershare.com/drfone/article/2022/03/dns-bypass-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 8:** Once you are connected to the DNS server successfully, you can then use apps and features available on your Apple iPhone XS in an alternative way.
 
 ![browse youtube](https://images.wondershare.com/drfone/article/2022/03/dns-bypass-4.png)
@@ -203,6 +214,10 @@ From this article, you can know how to unlock your Apple ID and reset your passw
 Apple's ecosystem offers convenience with services like Apple ID and Apple Pay. Managing your digital life has never been more convenient. In this interconnected system, your credit card plays a crucial role. It's essential to understand that your credit card details can be associated with both your Apple ID and Apple Pay, each serving unique functions.
 
 In this comprehensive guide, we'll learn how to **change the credit card on Apple** ID and Apple Pay. Additionally, we will introduce you to a helpful tool for [<u>unlocking your Apple ID</u>](https://drfone.wondershare.com/reset-iphone/reset-iphone-without-apple-id.html) if you ever encounter access issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: 3 Ways To Change the Credit Card on Apple ID
 
@@ -244,6 +259,10 @@ Now, we shift our focus to those who prefer managing their payment information o
 
 ![click the delete button](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 3: Update the Credit Card Details on Windows PC
 
 To update the credit card information linked to your Apple ID, we'll now provide instructions specifically tailored for Windows PC users. This approach offers flexibility for individuals looking to maintain accurate payment details. With the help of the simplified steps given below, you can easily **change the credit card on the Apple account**:
@@ -265,8 +284,6 @@ To update the credit card information linked to your Apple ID, we'll now provide
 While learning **how to change a credit card on your Apple Account**, you encounter an unexpected hurdle - your Apple ID has become locked. This can undoubtedly be a frustrating and troublesome scenario, considering the crucial role your Apple ID plays within the Apple ecosystem. Nevertheless, there's no cause for alarm, as we've got a solution ready to promptly unlock your Apple ID and have you back on course.
 
 The solution is [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/), a tool that is able to [<u> remove Apple ID from your iOS devices without needing the password</u>](https://drfone.wondershare.com/unlock/how-to-get-someones-apple-id-off-iphone-without-password.html). It is a comprehensive tool that has the ability to remove your Apple ID from your device permanently. This tool works its magic in removing Apple ID, whereas other tools fail when the Find My feature is enabled.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -293,20 +310,7 @@ Following are the steps to unlock and [<u>remove old Apple ID from your iOS devi
 
 To initiate the Apple ID unlocking process, you will need to install and launch Wondershare Dr.Fone. Then, choose "Toolbox" from the left bar and go on to click "Screen Unlock." Select "iPhone" as your device type, and since we are removing Apple ID, click "Remove Apple ID.”
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access the screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 - Step 2: Proceed to Activate Recovery Mode
 
@@ -332,9 +336,6 @@ We start by exploring how to change the default credit card on Apple Pay using y
 
 ![change apple pay default card iphone](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Method 2: Set New Card as Default on iPad or Mac
 
 Whether you prefer using your iPad for managing your payment methods or you're on your Mac, you can easily set a new card as the default option. Use the following instructions to set a credit card as the default card on Apple Pay:
@@ -387,6 +388,10 @@ Follow these instructions to delete the iCloud account from the “Settings” m
 
 ![enter random password](https://images.wondershare.com/drfone/article/2020/05/enter-random-password.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** iCloud will tell you the password is incorrect. Tap “Ok” and you’ll be prompted back to the iCloud screen.
 
 **Step 4:** Now, click on “Account” and erase everything from “Description”. Click “Done” and you’ll again go back to the iCloud screen. This will disable the “Find My iPhone” feature and you’ll be able to [remove the iCloud account](https://drfone.wondershare.com/icloud/how-to-remove-icloud-account.html) easily.
@@ -398,6 +403,10 @@ Follow these instructions to delete the iCloud account from the “Settings” m
 ![select delete account](https://images.wondershare.com/drfone/article/2020/05/select-delete-account.jpg)
 
 That’s how to delete iCloud account without password directly from “Settings” on your Apple iPhone XS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.2 Delete iCloud account via iTunes
 
@@ -411,13 +420,14 @@ Another convenient way to delete the iCloud account is to use iTunes on your App
 
 ![itunes and app store](https://images.wondershare.com/drfone/article/2020/05/itunes-and-app-store.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Tap on your “Account” at the top. A pop-up will appear on your screen. Here, click “Sign Out” and the iCloud account will be removed from your iDevice.
 
 ![apple id itunes](https://images.wondershare.com/drfone/article/2020/05/apple-id-itunes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1.3 Create a new password
 
 If you have enabled two-way verification on your Apple iPhone XS, you can also delete the iCloud account by resetting the password. In this case, however, you’ll have to visit the [Apple ID Account Page](https://appleid.apple.com/) and use it to reset the password.
@@ -434,18 +444,6 @@ Here’s how to delete iCloud account without password by creating a new passwor
 
 **Step 4:** Enter the recovery key and tap “Continue”. Now, select a trusted device where you want to receive the verification code. Enter this verification code to continue with the process.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enter recovery key](https://images.wondershare.com/drfone/article/2020/05/enter-recovery-key.jpg)
 
 **Step 5:** In the next window, you can reset the password. Simply, add the new password and click the “Reset Password” button.
@@ -486,6 +484,10 @@ In the next window, you’ll see three different options. Select “Remove Apple
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Trust the Apple iPhone XS device**
 
 Now, to successfully establish the connection between the two devices, enter the passcode on your iDevice and tap the “Trust” button to confirm the connection.
@@ -514,13 +516,9 @@ As soon as your Apple ID gets unlocked, a confirmation message will pop up on yo
 
 It doesn’t matter if you’re using Windows or Mac, Dr.Fone – Screen Unlock for iOS will make it extremely easy to delete the iCloud account without the password. So, if you are looking for a reliable and convenient way to remove an iCloud account, make sure to use Dr.Fone – Screen Unlock.
 
-
 ## Conclusion
 
 That’s the entire guide on how to delete iCloud account without password. Even though iCloud is an exceptional feature, one is likely to forget the password to his iCloud account. If you’re stuck in a similar situation and want to create a new iCloud account, make sure to use the above tactics to delete the previous iCloud account, even if you don’t remember the password.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -534,9 +532,22 @@ That’s the entire guide on how to delete iCloud account without password. Even
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-bridging-games-and-friends-xbox-live-to-facebook-broadcasting/"><u>[New] 2024 Approved Bridging Games and Friends Xbox Live to Facebook Broadcasting</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-in-game-sound-transformation-the-no-cost-pathway-in-free-fire/"><u>[Updated] In 2024, In-Game Sound Transformation The No-Cost Pathway in Free Fire</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hear-the-difference-change-your-playstation-sound/"><u>2024 Approved Hear the Difference Change Your PlayStation Sound</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-12-pro-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone 12 Pro? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-iphone-xr-by-drfone-ios/"><u>Guide on How To Remove Apple ID From iPhone XR</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/how-amazon-halo-reinvents-personal-health-tracking-with-its-distinctively-intimate-approach/"><u>How Amazon Halo Reinvents Personal Health Tracking With Its Distinctively Intimate Approach</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-se-2022-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone SE (2022) Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-iphone-13-pro-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From iPhone 13 Pro without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-apple-iphone-6-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From Apple iPhone 6 How to Bypass?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-samsung-galaxy-s24plus-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Samsung Galaxy S24+ Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-iphone-11-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your iPhone 11 From Your Apple ID</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/mp3wav/"><u>MP3およびWAVフォーマットに最適化された音声だけで記述可能なプレミアプロの方法</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-galaxy-a25-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Galaxy A25 5G</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-14-pro-max-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-game-access-issues-windows-and-xbox-edition/"><u>Tackling Game Access Issues - Windows and Xbox Edition</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Erase an Apple iPhone 8 Without Apple ID Password?
-date: 2024-07-14T12:35:25.987Z
-updated: 2024-07-15T12:35:25.987Z
+date: 2025-01-12T19:02:55.308Z
+updated: 2025-01-18T03:12:16.446Z
 tags: 
   - unlock
   - remove apple account
@@ -22,9 +22,6 @@ This process is often necessary when you sell or give away your Apple iPhone 8 t
 
 ![back and front of iphone 15](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: A Checklist on What To Do Before Erasing an iPhone
 
 If you're looking at **how to erase an iPhone without an Apple ID** or account password, you've come to the right place. Before you begin, preparing your device and ensuring you have all the necessary information is crucial. Here's a checklist of what to do before erasing your Apple iPhone 8:
@@ -82,9 +79,6 @@ However, if you've forgotten your Apple ID password, don't fret. Follow the guid
 - **Step 5:** Input your Apple ID password or your passcode when prompted.
 - **Step 6:** Click **Continue** to confirm. Then, wait while the contents are being removed from your Apple iPhone 8 device.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How To Erase iPhone Without Apple ID Password on Computer?
 
 Activation lock is a security feature. It prevents anyone from activating an iPhone without your Apple ID password. If you try to factory reset your Apple iPhone 8 without turning off Find My iPhone, the [<u>activation lock </u>](https://drfone.wondershare.com/icloud/unlock-icloud-activation.html) will be in place. It means you need to enter your Apple ID password to activate the Apple iPhone 8 again. To turn it off, also ensure to turn off Find My on your device.
@@ -149,7 +143,6 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 - **Step 1:** Download and install Dr.Fone on your desktop. Launch the app and connect your Apple iPhone 8 using a USB cable.
 
-
 - **Step 2:** From the **Toolbox** homepage, select **Screen Unlock**, then choose **iOS**.
 
 ![dr.fone toolbox interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -161,6 +154,10 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 - **Step 4:** The next screen shows the connected device. Click **Unlock Now**.
 
 ![unlock connected ios device](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Click **Yes** to confirm you have set up a screen lock.
 
@@ -192,9 +189,6 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 - **Step 12:** Keep your Apple iPhone 8 connected to your computer while the process progresses.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlocking apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
 
 - **Step 13:** Click **Done** and check that your Apple iPhone 8's data and Apple ID have been removed.
@@ -238,6 +232,10 @@ The process of removing Apple ID from a Mac is easy and quick. Before removing t
 
 ![access the apple id settings](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-apple-id-from-your-mac-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Press the "Sign Out" button to remove your Apple ID from the Mac. A prompt will appear asking if you want to keep a copy of your passwords and contacts on your laptop. Select them according to your needs.
 
 ![select the data to copy](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-apple-id-from-your-mac-3.jpg)
@@ -247,8 +245,13 @@ The process of removing Apple ID from a Mac is easy and quick. Before removing t
 ![add the apple id password](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-apple-id-from-your-mac-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tip: How to Remove Apple ID from iPhone/iPad Without Knowing the Password?
 
 Forgetting your Apple ID credentials is also a common reason for wanting to remove your Apple ID from your Apple iPhone 8. Another such case is buying a second-hand iPhone with a logged-in Apple ID without knowing the password. You need a specialized tool like [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) to remove Apple ID in these cases.
@@ -261,7 +264,6 @@ With Dr.Fone - Screen Unlock (iOS), you can remove the Apple ID from your Apple 
 - With the help of this tool, you can remove the encryption of your iTunes backup. It will also help you restore your iTunes backup to your new iPhone even if you changed your Apple ID.
 - If you have forgotten the username or password of your Apple iPhone 8 MDM, this tool allows you to bypass or remove MDM to access the Apple iPhone 8 device.
 - It can also unlock SM Lock or Carrier Lock on your Apple iPhone 8. That allows you to use your Apple iPhone 8 freely if you want to travel internationally.
-
 
 ### Steps to use Dr.Fone - Screen Unlock (iOS) for Removing Apple ID
 
@@ -279,19 +281,21 @@ You are required to put your Apple iPhone 8 into Recovery Mode before you can re
 
 ![enable the recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Remove Your Apple ID from the iPhone**
 
 Wait for the program to complete the process of removing your Apple ID from your phone. Once it is completed, check if the old Apple ID is removed, and you can enter your new Apple ID. Otherwise, you can select "Try Again" to restart the process.
 
 ![check the apple id status](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
-
 ### Conclusion
 
 The answer to **how to remove Apple ID from MacBook** is a straightforward process that can be completed in just a few steps. By following the instructions outlined in this article, you can easily sign out of your account and remove it from your Mac.
 
 Removing the Apple ID with forgotten credentials is complex, but [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) has also made it easier. It is an excellent and must-have toolbox to deal with all password-related iPhone problems.
-
 
 ## Protecting Your Privacy: How To Remove Apple ID From Apple iPhone 8
 
@@ -300,7 +304,6 @@ Protecting your privacy is crucial in today's digital age. Learning **how to rem
 Doing so ensures your device is no longer linked to your personal information. It reduces the risk of unauthorized access and data breaches. Don't underestimate the importance of this security measure. Explore the article below to learn more.
 
 ![person holding an iphone](https://images.wondershare.com/drfone/article/2023/11/remove-apple-id-from-iphone-01.jpg)
-
 
 ## Part I. When Consider to Remove an Apple ID From an iPhone
 
@@ -325,12 +328,17 @@ If you need to **remove an Apple ID from your Apple iPhone 8**, there are severa
 
 - **Step 1**: Open **Settings** application on your Apple iPhone 8. Next, scroll down and tap your name at the top (Apple ID, iCloud, iTunes & App Store).
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone settings interface](https://images.wondershare.com/drfone/article/2023/11/remove-apple-id-from-iphone-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2**: Scroll down and select Sign Out. Your'll see your device asks you to enter your Apple ID password. Enter your credentials and tap **Turn** **Off**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Restoring to Factory Settings
 
@@ -370,6 +378,10 @@ Apple offers an account recovery process if you forget your Apple ID password. I
 
 Once your identity is verified, you can set a new Apple ID password. After resetting the password, use the new password to sign in on your Apple iPhone 8. This process indirectly helps in removing the Apple ID from the Apple iPhone 8 device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Local Apple Store for In-Store Assistance
 
 You can visit a local Apple Store for in-person assistance. They may help with Apple ID issues and guide you through removal.
@@ -386,6 +398,9 @@ Dr.Fone - Screen Unlock is a reliable choice to help you remove an Apple ID. Her
 
 ![dr.fone main interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Connect your Apple iPhone 8 to the computer using a USB cable. Next, choose **Remove** **AppleID**.
 
@@ -394,6 +409,10 @@ Dr.Fone - Screen Unlock is a reliable choice to help you remove an Apple ID. Her
 - **Step 3:** Follow the on-screen instructions provided by Dr.Fone - Screen Unlock. It will [<u>download the respective iOS firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html) when the app starts the Apple ID removal process.
 
 ![downloading ios firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** If the Apple ID is removed, there should be a screen prompt upon completion. Click **Done** to Try Again to repeat the process if unsuccessful.
 
@@ -413,10 +432,6 @@ Knowing **how to remove your Apple ID from your Apple iPhone 8** is important in
 
 Whether you're reselling your device, switching Apple IDs, or facing security concerns, taking action **to remove your Apple ID from an iPhone** is the key to safeguarding your data. For added convenience, consider Dr.Fone - Screen Unlock. It's a great alternative when other methods fall short. Don't wait; take control of your data security today.
 
-
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -429,9 +444,23 @@ Whether you're reselling your device, switching Apple IDs, or facing security co
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-boosting-webcam-quality-with-ease-and-precision/"><u>[Updated] 2024 Approved Boosting WebCam Quality with Ease and Precision</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-androids-compendium-for-synchronized-and-curved-videography/"><u>[Updated] Android's Compendium for Synchronized & Curved Videography</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-best-online-fun-girl-games-for-kids/"><u>[Updated] Best Online Fun Girl Games for Kids</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-channel-image-makeovers-on-the-house-for-2024/"><u>[Updated] Channel Image Makeovers on the House for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-obs-studio-mastery-top-5-editing-techniques-for-2024/"><u>[Updated] OBS Studio Mastery Top 5 Editing Techniques for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-6-plus-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From Apple iPhone 13 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-iphone-12-pro-max-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From iPhone 12 Pro Max in the Best Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-apple-iphone-11-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your Apple iPhone 11 From Your Apple ID</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-11-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On Apple iPhone 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-apple-iphone-x-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your Apple iPhone X? How to Fix</u></a></li>
+<li><a href="https://win-premium.techidaily.com/la-revitalisation-des-films-adt-effaces-un-manuel-complet-et-facile-a-suivre/"><u>La Revitalisation Des Films ADT Effacés : Un Manuel Complet Et Facile À Suivre</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mirthful-methods-building-humor-in-a-click-for-2024/"><u>Mirthful Methods Building Humor in a Click for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-15-pro-max-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 15 Pro Max</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-mlb-the-show-19-an-attractive-sports-sim-with-hidden-rpg-twists/"><u>Review of MLB The Show 19: An Attractive Sports Sim with Hidden RPG Twists</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/simple-effective-bouncie-navigation-assistance-an-affordable-choice-for-tracking-your-drive/"><u>Simple, Effective Bouncie Navigation Assistance - An Affordable Choice for Tracking Your Drive</u></a></li>
+</ul></div>
 

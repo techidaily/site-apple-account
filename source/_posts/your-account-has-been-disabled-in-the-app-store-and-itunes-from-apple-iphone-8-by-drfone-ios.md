@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 8?
-date: 2024-07-14T12:36:34.271Z
-updated: 2024-07-15T12:36:34.271Z
+date: 2025-01-15T22:27:18.463Z
+updated: 2025-01-18T08:26:29.044Z
 tags: 
   - unlock
   - remove apple account
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 You may see the error message, “**Your account has been disabled in the App Store and iTunes**” when you try to log in. This is often an indication that for some reason your Apple ID is not working as it should. When you consider that you will not be able to download or update apps or even make a purchase using Apple Pay without your Apple ID, it is easy to see why this error message can be a problem.
 
 Why is my account disabled in the App store? Here, we take a look at the reasons why you may see the error messages and what you can do to fix them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Why has my account been disabled in the App Store and iTunes?
 
@@ -65,16 +69,11 @@ If you just forget the password and cannot remember it, you can follow the steps
 
 - **Step 4:** Look for the notification on iPhone, Mac, or iPad and follow the instructions to reset the password.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![reset password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id-3.jpg)
 
 Note that if you are changing your Apple ID password on an iPhone or iPad, you will need to enter your device's six-digit passcode, then reset a new password.
 
 Forgetting the password is particularly troublesome, but there is good news. That is, you can use [Password Manager](https://drfone.wondershare.com/iphone-password-manager.html) to find your passwords on your Apple iPhone 8/iPad without spending too much time remembering them!
-
-
 
 ### Dr.Fone - Password Manager (iOS)
 
@@ -113,9 +112,6 @@ Signing out of your account and then signing back in may help if this issue is c
 - On your iOS device, go to Settings > \[Your Name\] > iTunes & App Store and Sign Out. Then sign in again.
 - On your Mac, open the App Store (Store > Sign Out) and iTunes (Account > Sign Out. Then sign in again.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 5. Try Contacting Apple Support Directly
 
 If you see a message that says, “Your account has been disabled in the App Store and iTunes,” contact Apple Support for help. You can follow these simple steps to contact Apple support:
@@ -125,6 +121,10 @@ If you see a message that says, “Your account has been disabled in the App Sto
 - **Step 3:** Or schedule a call with Apple Support, and they should be able to help you fix your account disabled in App store.
 
 ![disabled in the app store and itunes 2](https://images.wondershare.com/drfone/article/2023/05/getsupport-apple.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. What does it influence when “Your account has been disabled in the App Store and iTunes”?
 
@@ -141,6 +141,10 @@ No. The error message “Your account has been disabled in the App Store and iTu
 
 ![apple id disabled](https://images.wondershare.com/drfone/article/2023/05/apple-id-disabled.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After you see these errors, you will not be able to access some of the features and apps that require your Apple ID for access.
 
 ## Part 5. How to fix Apple ID disabled by removing Apple ID?
@@ -148,8 +152,6 @@ After you see these errors, you will not be able to access some of the features 
 Sometimes the only way to [fix “Apple ID Disabled”](https://drfone.wondershare.com/apple-account/how-to-unlock-apple-id-disabled-activation-lock.html) is to remove the Apple ID from the Apple iPhone 8 device. This may become a viable solution if you lost or forgot the Apple ID password or ID and you have no way to recover them. It is also one of the best solutions when you purchased a second-hand device, and you don’t know the Apple ID password for the account associated with the Apple iPhone 8 device.
 
 One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This third-party unlocking software is designed to easily and effectively remove the Apple ID password from any device. The following are some things it can do;
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -173,9 +175,6 @@ To begin, download the Dr.Fone Toolkit from the program’s main website. Instal
 
 On the next screen, you should see three options. Choose “Remove Apple ID” since we want to remove the Apple ID from the Apple iPhone 8 device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
 - **Step 3: Connect the iOS Device**
@@ -183,6 +182,10 @@ On the next screen, you should see three options. Choose “Remove Apple ID” s
 Connect the iOS device to the computer using its lightning cable. Then enter the Apple iPhone 8 device’s passcode and, when prompted, tap “Trust” to allow the computer to detect the Apple iPhone 8 device. The program should detect the Apple iPhone 8 device and display information about it. Then click “Unlock Now”.
 
 ![trust computer](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4: Apple ID Removal will Begin**
 
@@ -195,8 +198,6 @@ You should then be able to sign in to another Apple ID or create a new Apple ID 
 ## Conclusion
 
 In conclusion, encountering a disabled Apple account in the App Store and iTunes can be a frustrating experience. However, by understanding the reasons behind it, following the recommended steps to resolve the issue, and considering the broader impact on your digital life, you can navigate this situation effectively. Remember, prompt action and patience are key to restoring your account and getting back to enjoying the Apple ecosystem hassle-free.
-
-
 
 ## Top-Notch Solutions for Disabled Apple ID On Apple iPhone 8: Making It Possible
 
@@ -238,6 +239,10 @@ With **Apple ID disabled**, one of its primary solutions involves resetting the 
 
 ![choose sign in and security option](https://images.wondershare.com/drfone/article/2023/11/fix-apple-id-disabled-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Now, tap the "Change Password" option and follow it by entering your iOS device passcode. Then, enter and confirm the new password and press "Change Password" to finalize it.
 
 ![tap on change password feature](https://images.wondershare.com/drfone/article/2023/11/fix-apple-id-disabled-2.jpg)
@@ -278,13 +283,15 @@ In instances where conventional methods fail, using the iForgot website can offe
 
 ![allow resetting the password](https://images.wondershare.com/drfone/article/2023/11/fix-apple-id-disabled-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5. Wondershare Dr.Fone - Screen Unlock (iOS): A Comprehensive Solution To Solve Apple ID Disabled Issues
 
 No need to worry if you're experiencing difficulties accessing iCloud and other Apple services due to a forgotten Apple ID password. [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) can bypass the Apple ID lock completely. This tool allows users to regain access to their iCloud services and other Apple ID features. Otherwise, your Apple ID would lose its functionality within your iOS devices.
 
 Furthermore, this capability of Wondershare Dr.Fone remains effective even if the Find My iPhone feature is activated on the Apple iPhone 8 device. This tool can also bypass the Screen Time Passcode if you have forgotten your password. By utilizing this feature, you will be able to resolve your disabled Apple ID issue.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -297,18 +304,12 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 **4,395,217** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Features of Wondershare Dr.Fone
 
 1. Wondershare Dr.Fone allows users to unlock their iDevices screen, which enables them to regain access to their devices.
 2. You can also use this robust iPhone unlock tool to remove the SIM carrier lock to use your device internationally.
 3. This iDevice screen unlock software provides multiple tools like data eraser, data recovery, phone transfer, WhatsApp transfer, system repair, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Instructions Involved To Solve Apple ID Disabled Issues via Wondershare Dr.Fone
 
 Wondershare Dr.Fone is specially designed for users with various technical experiences. It presents an easy-to-follow guide with its user-friendly interface to assist its users in every way possible. Here is how to Solve Apple ID disabled issues via Wondershare Dr.Fone - Screen Unlock (iOS):
@@ -318,7 +319,6 @@ Wondershare Dr.Fone is specially designed for users with various technical exper
 You will have to start by opening Wondershare Dr.Fone on your system and accessing the "Toolbox" section present in the left panel. Then, continue with the "Screen Unlock" feature and select the "iOS" device. Proceed with the "Remove Apple ID" option among different options from the next window.
 
 ![continue with remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
-
 
 - Step 2. Begin Unlocking the Apple ID
 
@@ -337,6 +337,10 @@ You need to put your Apple iPhone 8 in Recovery Mode by following the on-screen 
 The relevant firmware will start downloading, and you will have to proceed with the “Unlock Now” button after the downloading. You will have to enter a code for confirmation, and after that, you can view the removal progress. Move forward by hitting the “Done” button if the Apple ID gets unlocked.
 
 ![click the unlock now button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -373,6 +377,10 @@ The ID can also get locked when Apple senses a potential security breach, which 
 ### 5\. Incorrect Security Questions
 
 It may be due to the security questions you or someone else has entered incorrectly too many times. This is another common reason because, most often, the security questions are forgotten by the user. Ultimately, this leads to your Apple ID being locked for security reasons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Resolving the Apple ID Locked Out For Security Reasons by Resetting The Password
 
@@ -426,6 +434,10 @@ It is specifically designed to tackle the intricacies of iOS device management. 
 2. You can also manage your Apple iPhone 8 data transfer or fix iDevice system issues with the help of Wondershare Dr.Fone.
 3. This tool can also help its users to remove the Screen Time Passcode and [<u>SIM lock</u>](https://drfone.wondershare.com/sim-unlock/sim-unlock-code.html).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How To Use Wondershare Dr.Fone To Unlock Locked Apple ID for Security Reasons
 
 Summarized below is the detailed step-by-step process of using Wondershare Dr.Fone to unlock your Apple ID:
@@ -436,6 +448,9 @@ With Wondershare Dr.Fone launched, move to the “Toolbox” tab and access “S
 
 ![continue with remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Step 2: Enable 2FA on Your iOS Device
 
@@ -455,7 +470,6 @@ To conclude, there are scenarios that can lead to the **Apple ID being locked fo
 
 This robust iOS toolkit feature performs this recovery in seconds, saving you time. Also, it has a simple interface for its users with various technical exposure. In short, it is the best solution if your Apple ID has been locked for security reasons.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -468,9 +482,24 @@ This robust iOS toolkit feature performs this recovery in seconds, saving you ti
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-building-your-hyperlapse-filmmaking-toolkit/"><u>[New] Building Your Hyperlapse Filmmaking Toolkit</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-facebook-short-videos-and-everything-about-them/"><u>[New] In 2024, Facebook Short Videos and Everything About Them</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-colorists-companion-top-11-tools-for-hue-harmony/"><u>[Updated] 2024 Approved The Colorist's Companion Top 11 Tools for Hue Harmony</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-tecno-spark-20-proplus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-14-pro-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your iPhone 14 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-apple-iphone-x-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From Apple iPhone X? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-15-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 15 Pro Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-y28-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo Y28 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-apple-iphone-8-plus-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your Apple iPhone 8 Plus Apple ID on MacBook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone 13 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your Apple iPhone SE (2020)?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-iphone-xr-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From iPhone XR without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-12-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 12?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-google-maps-app-on-ios-devices/"><u>In-Depth Analysis: Google Maps App on iOS Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rectify-windows-7-dell-pad-connection-issues/"><u>Rectify Windows 7 Dell Pad Connection Issues</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-nord-n30-se-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Nord N30 SE</u></a></li>
+</ul></div>
 

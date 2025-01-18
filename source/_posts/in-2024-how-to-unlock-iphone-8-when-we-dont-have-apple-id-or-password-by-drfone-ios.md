@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone 8 When We Dont Have Apple ID or Password?
-date: 2024-07-14T12:40:08.821Z
-updated: 2024-07-15T12:40:08.821Z
+date: 2025-01-16T18:15:05.457Z
+updated: 2025-01-17T18:17:31.578Z
 tags: 
   - unlock
   - remove apple account
@@ -41,9 +41,6 @@ This method is good for you if you are fortunate to have another iOS device, lik
 - Go to the Settings app and tap your name. Then go to the "Password and Security" tab and click the "Change Password" option.
 - When asked, enter your Apple iPhone 8 password. Then, at that point, you can reset your Apple ID password.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![id on iphone](https://images.wondershare.com/drfone/article/2022/10/unlock-ipad-without-apple-id-password-2.jpg)
 
 ### Method 2. Enter Recovery Mode and Use iTunes
@@ -74,6 +71,10 @@ Another strategy to unlock an iPad without Mac ID is to set it to DFU Mode. It i
 
 ![dfu mode](https://images.wondershare.com/drfone/article/2022/10/unlock-ipad-without-apple-id-password-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The following steps will help you to **unlock iPad without Apple ID** by setting DFU mode:
 
 - Go to the Settings application and open the General tab. Then click Reset.
@@ -87,7 +88,6 @@ Methods in today's market will generally delete your whole data from your iPad, 
 As a one-stop iOS unlocker, Dr.Fone can unlock an iPhone/iPad without too much professional knowledge. Not simply unlock the iPad with a Mac ID password, Dr.Fone can unlock or bypass practically every one of the passwords. For instance, you can utilize it to unlock iPhone backup encryption, fingerprint or limitations password, etc. In addition, it offers a ton of extra features for ease of use. Here's how you can use it to **unlock iPad without Apple ID:**
 
 **Step 1.** Install and open the Dr.Fone program and choose Screen Unlock > iOS.
-
 
 **Step 2.** Pick the "iCloud Activation Lock Removal" tool.
 
@@ -106,7 +106,6 @@ As a one-stop iOS unlocker, Dr.Fone can unlock an iPhone/iPad without too much p
 ![remove the activation lock immediately](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
 Your iPad will start with no activation lock. So, you can access and utilize the tablet now. However, you must remember that you can't use your new ID's call, cellular, and iCloud feature after the bypass.
-
 
 ## Conclusion
 
@@ -133,8 +132,6 @@ If you frequently change your Apple ID or passcode on the Apple iPhone 8 device,
 
 If you have forgotten your Apple ID password, you are suggested not to enter the wrong passcode in a row. That may lead to data loss. You can download the Dr.Fone– Screen Unlock, which is compatible with different lock screens and will **unlock Apple ID easily**. [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) helps remove almost all sorts of iPhone passwords without the requirement of technical knowledge.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone ID.
@@ -154,9 +151,6 @@ Unlock iPhone ID.
 
 To unlock your Apple ID, you have to click on the “Unlock Apple ID” option.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screen unlock home](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 2:** You must know the passcode of the Apple iPhone 8 to unlock the phone screen, which trusts the computer system for scanning the data available in the phone.
@@ -179,6 +173,10 @@ To unlock your Apple ID, you have to click on the “Unlock Apple ID” option.
 
 ![unlock completed](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/jmU_WBObOEA" frameborder="0"></iframe>
 
 ## Method 2: Reset Password to Unlock Your Apple ID
@@ -196,6 +194,14 @@ In order to [unlock iPhone](https://drfone.wondershare.com/unlock/unlock-disable
 **Step 3:** Reset the password now. Write down the password and follow the prompts. Your password will be reset now!
 
 ![reset apple id link](https://images.wondershare.com/drfone/article/2022/03/reset-apple-id-password2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Fix Apple ID Locked Via iforgot
 
@@ -269,6 +275,10 @@ If you want to unlock **iPhone 13 Apple ID** and don't remember the password**,*
 
 ![configure dns server](https://images.wondershare.com/drfone/article/2022/03/dns-bypass-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You have to select the DNS from the option available according to your region.
 
 - USA/North America: 104.154.51.7
@@ -292,11 +302,13 @@ You have to select the DNS from the option available according to your region.
 
 We are positive that the solutions above will get your issue resolved. However, just in case, if you're still stuck with the same issue and are unable to unlock Apple ID on iPhone, then we would suggest you get in touch with Apple Customer Support to help you with the best. You can either directly walk into your nearest Apple Support Center or simply visit [https://support.apple.com/](https://support.apple.com/) to get in touch with one of the customer support executives.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 From this article, you can know how to unlock your Apple ID and reset your password. There are different ways available that will resolve your **unlock iPhone issue**. However, Dr.Fone is the most recommended tool as it provides a screen lock solution and recognizes it as a one-stop solution for all iPhone problems. You can also share the effective methods in this article with your families and friends.
-
-
 
 ## Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 8?
 
@@ -343,22 +355,21 @@ If you just forget the password and cannot remember it, you can follow the steps
 
 ![reset password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3** Enter the phone number that you use with your Apple ID.
 
 ![reset apple id password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id-2.jpg)
 
 - **Step 4:** Look for the notification on iPhone, Mac, or iPad and follow the instructions to reset the password.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id-3.jpg)
 
 Note that if you are changing your Apple ID password on an iPhone or iPad, you will need to enter your device's six-digit passcode, then reset a new password.
 
 Forgetting the password is particularly troublesome, but there is good news. That is, you can use [Password Manager](https://drfone.wondershare.com/iphone-password-manager.html) to find your passwords on your Apple iPhone 8/iPad without spending too much time remembering them!
-
-
 
 ### Dr.Fone - Password Manager (iOS)
 
@@ -370,6 +381,10 @@ Recover and keep all your passwords in one place
 - The installation of Dr.Fone on your device won't take much space, without any disturbing ads.
 
 **3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2. View Your Payment Methods and Update Them
 
@@ -385,8 +400,9 @@ If you think that your account has been disabled because of a payment issue, it 
 If the payment method was the issue, your account will be re-enabled after these steps.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3. Settle Any Unpaid Charges
 
 Do you have any unpaid purchases or subscriptions?
@@ -409,6 +425,10 @@ If you see a message that says, “Your account has been disabled in the App Sto
 - **Step 3:** Or schedule a call with Apple Support, and they should be able to help you fix your account disabled in App store.
 
 ![disabled in the app store and itunes 2](https://images.wondershare.com/drfone/article/2023/05/getsupport-apple.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. What does it influence when “Your account has been disabled in the App Store and iTunes”?
 
@@ -433,8 +453,6 @@ Sometimes the only way to [fix “Apple ID Disabled”](https://drfone.wondersha
 
 One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This third-party unlocking software is designed to easily and effectively remove the Apple ID password from any device. The following are some things it can do;
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Remove iCloud Account without Password in Minutes
@@ -442,9 +460,6 @@ Remove iCloud Account without Password in Minutes
 - Remove Apple ID/iCloud Account efficiently.
 - Save your Apple iPhone 8 quickly from the disabled state.
 - Free your sim out of any carrier worldwide.
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - Bypass iCloud activation lock and enjoy all iCloud services.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Works for all models of iPhone, iPad, and iPod touch.
 
@@ -480,7 +495,6 @@ You should then be able to sign in to another Apple ID or create a new Apple ID 
 
 In conclusion, encountering a disabled Apple account in the App Store and iTunes can be a frustrating experience. However, by understanding the reasons behind it, following the recommended steps to resolve the issue, and considering the broader impact on your digital life, you can navigate this situation effectively. Remember, prompt action and patience are key to restoring your account and getting back to enjoying the Apple ecosystem hassle-free.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -493,9 +507,26 @@ In conclusion, encountering a disabled Apple account in the App Store and iTunes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-clear-screen-strategy-effortless-background-management-in-digital-gatherings/"><u>[New] 2024 Approved Clear Screen Strategy Effortless Background Management in Digital Gatherings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-best-in-storytelling-eight-film-genre-showcase/"><u>[Updated] The Best in Storytelling Eight Film Genre Showcase</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-humor-harvesters-making-memes-without-a-price-tag/"><u>2024 Approved Humor Harvesters Making Memes Without a Price Tag</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-iphone-13-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From iPhone 13? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-iphone-8-plus-by-drfone-ios/"><u>Guide on How To Remove Apple ID From iPhone 8 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-15-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone 15 Pro Max Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-apple-iphone-15-pro-by-drfone-ios/"><u>How to Fix Locked Apple ID on Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-savings-alert-samsungs-latest-55-inch-oled-monitor-hits-lowest-price-ever/"><u>Huge Savings Alert: Samsung's Latest 55-Inch OLED Monitor Hits Lowest Price Ever!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-15-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone 15 Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-effortlessly-transform-youtube-tunes-to-mp3-with-mac/"><u>In 2024, Effortlessly Transform YouTube Tunes to MP3 with Mac</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-iphone-14-plus-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From iPhone 14 Plus? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-iphone-13-pro-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On iPhone 13 Pro in the Best Ways</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/simultaneous-video-documentation/"><u>Simultaneous Video Documentation</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-nova-y91-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Nova Y91</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-talks-with-overlooked-gpt-capabilities/"><u>Transforming Talks with Overlooked GPT Capabilities</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-craft-unique-invites-with-these-top-video-maker-apps/"><u>Updated In 2024, Craft Unique Invites with These Top Video Maker Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-you-need-to-know-about-microsofts-creators-updates-diving-into-kb4103429-and-kb4013418-changes/"><u>What You Need to Know About Microsoft's Creators Updates: Diving Into KB4103429 and KB4013418 Changes</u></a></li>
+</ul></div>
 

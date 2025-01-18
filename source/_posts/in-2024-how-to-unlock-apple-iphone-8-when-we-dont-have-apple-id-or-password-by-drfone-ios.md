@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone 8 When We Dont Have Apple ID or Password?
-date: 2024-07-14T12:38:41.560Z
-updated: 2024-07-15T12:38:41.560Z
+date: 2025-01-11T17:01:26.800Z
+updated: 2025-01-18T06:18:36.070Z
 tags: 
   - unlock
   - remove apple account
@@ -34,9 +34,6 @@ This method is good for you if you are fortunate to have another iOS device, lik
 - Go to "Apple ID" and click the "Password and Security" option. From there, click the "Change Password" option.
 - When asked, enter your Mac screen password and click "Allow" afterward.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![id on mac](https://images.wondershare.com/drfone/article/2022/10/unlock-ipad-without-apple-id-password-1.jpg)
 
 **If your Apple ID is signed in on your Apple iPhone 8:**
@@ -46,9 +43,6 @@ This method is good for you if you are fortunate to have another iOS device, lik
 
 ![id on iphone](https://images.wondershare.com/drfone/article/2022/10/unlock-ipad-without-apple-id-password-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2. Enter Recovery Mode and Use iTunes
 
 Windows customers can bypass the activation page utilizing the iTunes application on their PC. If you've connected the iPad to your Windows PC previously, adhere to the beneath guidelines:
@@ -83,6 +77,10 @@ The following steps will help you to **unlock iPad without Apple ID** by setting
 - Tap the "Erase All Content and Settings" option.
 - Finally, enter your iPad screen password to affirm that you must erase your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4. Dr.Fone - Screen Unlock (iOS)
 
 Methods in today's market will generally delete your whole data from your iPad, which is not good. If you would rather try an easier one, you might utilize an expert tool. Here we suggest [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) by Wondershare, an all-in iOS tool.
@@ -90,7 +88,6 @@ Methods in today's market will generally delete your whole data from your iPad, 
 As a one-stop iOS unlocker, Dr.Fone can unlock an iPhone/iPad without too much professional knowledge. Not simply unlock the iPad with a Mac ID password, Dr.Fone can unlock or bypass practically every one of the passwords. For instance, you can utilize it to unlock iPhone backup encryption, fingerprint or limitations password, etc. In addition, it offers a ton of extra features for ease of use. Here's how you can use it to **unlock iPad without Apple ID:**
 
 **Step 1.** Install and open the Dr.Fone program and choose Screen Unlock > iOS.
-
 
 **Step 2.** Pick the "iCloud Activation Lock Removal" tool.
 
@@ -100,16 +97,23 @@ As a one-stop iOS unlocker, Dr.Fone can unlock an iPhone/iPad without too much p
 
 ![unlock activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4.** Now it's removing the lock and wait. Then, the Apple iPhone 8 device will become a normal one with no activation lock.
 
 ![removing the lock and wait](https://images.wondershare.com/drfone/guide/bypass-activation-lock-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5.** That will remove the activation lock immediately. At present, your Apple iPhone 8 has no activation lock.
 
 ![remove the activation lock immediately](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
 Your iPad will start with no activation lock. So, you can access and utilize the tablet now. However, you must remember that you can't use your new ID's call, cellular, and iCloud feature after the bypass.
-
 
 ## Conclusion
 
@@ -123,7 +127,6 @@ Out of these problems, users aren't able to update or download applications that
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jmU_WBObOEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-
 ## Part 1: How to get someone else's Apple ID off iPhone without a password using Dr. Fone – Screen Unlock (iOS)
 
 There are many prompt notifications you would receive when trying to log into the Apple ID. In many cases, we might see that the users either would have [forgotten their Apple ID passwords](https://drfone.wondershare.com/icloud/forgot-icloud-password.html) or couldn’t find the password of someone else’s Apple ID. But here’s the kicker, with [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) your ID can be unlocked by keenly following a few steps as described below:
@@ -131,8 +134,9 @@ There are many prompt notifications you would receive when trying to log into th
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Dr.Fone - Screen Unlock (iOS)
 
 Log out iPhone's Apple ID without Password
@@ -167,7 +171,6 @@ Log out iPhone's Apple ID without Password
 
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
-
 ## Part 2: How to get rid of someone’s Apple ID off iPhone with the previous owner’s help?
 
 Signing out of the Apple ID on your Apple iPhone 8 is very easy if you are in contact with the previous owner. There are a few methods that are available for understanding how to remove the Apple ID from the Apple iPhone 8 with their help.
@@ -189,15 +192,25 @@ There is another alternative method available to check if the previous owner has
 - The screen on the Apple iPhone 8 should be black. Following this, a message would appear on the desktop screen showing an iPhone in recovery mode.
 - By clicking "Ok," the restoration of the Apple iPhone 8 shall start.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to get rid of someone’s Apple ID off iPhone on the App Store?
 
 There might be a case where your subordinates or relative might have downloaded an app on your Apple iPhone 8 from the App Store by using their IDs and would have forgotten to sign themselves out of it. For understanding the method on how to sign out of the Apple ID without passwords and credentials, users need to follow a few simple steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
 Having another Apple ID logged in doesn't mean that everything is long lost. Several ways and scenarios help users to counter this problem easily. It's easy to bypass Apple ID without a password remotely if you have the right tool. In that case, [Dr.Fone - Screen Unlock (iOS)](https://download.wondershare.com/drfone_unlock_full3372.exe) can definitely be your right choice. This article is a complete guide on how to combat the issue of having someone else's Apple ID logged in to your Apple iPhone 8.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can I Remove the Apple Watch Activation Lock By Apple iPhone 8 without the Previous Owner?
 
@@ -207,14 +220,15 @@ If your Apple Watch doesn't appear to move beyond the activation lock screen, yo
 
 This post portrays what the activation lock on an Apple Watch means and shows a portion of the strategies you can use to [remove the lock from your Apple Watch](https://drfone.wondershare.com/icloud/apple-watch-activation-lock-bypass.html). Whether you have unlocked the activation lock previously or you have not, you will, in any case, find the techniques to be not difficult to follow.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What is Activation Lock on Apple Watch?
 
 Before you attempt and eliminate the activation Lock on your Apple Watch, you need to know what this lock is and why it got actuated on your Apple Watch. Without knowing this fundamental data, you cannot comprehend **how to remove Apple ID from Apple Watch without password**.
 
 ![apple watch](https://images.wondershare.com/drfone/article/2022/10/remove-activation-lock-without-previous-owner-apple-watch-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 An activation lock is a lock that safeguards your Apple gadgets from being utilized by unapproved clients. This lock becomes effective when the Find My feature is turned on on your Apple Watch and your Watch is reset to the default settings.
 
@@ -260,6 +274,10 @@ To dispose of Activation Lock on Apple Watch with a past user, you can:
 
 Your Apple Watch will be cleared off and taken out from the first user's record. It can then be related to your own Apple ID.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tip: How to Easily Unlock Other iOS Devices, like iPhone or iPad?
 
 This section focuses on how you can unlock an iPhone or iPad using an expert recovery tool. Here, we will introduce you to [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). Dr.Fone is a professional unlocking tool that can remove the activation lock, screen locks, and any other lock from your iOS device. So, if you are struggling with an iOS lock, download it immediately and follow these steps:
@@ -267,6 +285,10 @@ This section focuses on how you can unlock an iPhone or iPad using an expert rec
 **Step 1.** Open Dr.Fone on your PC and select "Screen Unlock" among all the tools.
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Connect your device to the PC through a lightning connector. Then click the "iCloud Activation Lock Removal" on the program.
 
@@ -278,9 +300,6 @@ Connect your device to the PC through a lightning connector. Then click the "iCl
 
 **Step 3.** After the phone in the "start" page, Dr.Fone will bypass the activation lock according to 2 sorts of iPhone devices, GSM and CDMA.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start page](https://images.wondershare.com/drfone/guide/bypass-activation-lock-4.png)
 
 _(GSM with all normal functions)_
@@ -303,11 +322,9 @@ And with this image, you will know the activation lock is bypassed.
 
 ![activation lock is bypassed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
-
 ## Conclusion
 
 Bypassing the Apple Watch activation lock could appear to be unthinkable at first. However, there are strategies to bypass this lock on your Watch. We trust the above strategies will unlock your Watch, and you can utilize it with your Apple account. If you want to remove the activation lock on your Apple iPhone 8 or iPad, free download Dr.Fone - Screen Unlock (iOS) to have an attempt.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -321,9 +338,22 @@ Bypassing the Apple Watch activation lock could appear to be unthinkable at firs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fb-hd-downloader-how-to-download-hd-facebook-videos/"><u>[New] In 2024, FB HD Downloader | How to Download HD Facebook Videos?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-upgrade-webcam-videos-with-simple-editing-techniques/"><u>[New] Upgrade WebCam Videos with Simple Editing Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-accessible-video-ideas-the-simplest-10-concepts-everyone-can-learn-to-make/"><u>[Updated] 2024 Approved Accessible Video Ideas The Simplest 10 Concepts Everyone Can Learn to Make</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-blend-mp3s-with-presentation-content-in-ppt/"><u>[Updated] Blend MP3s with Presentation Content in PPT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-non-lenovonon-dell-top-picks-for-your-buy-ahead-of-prime-day-shopping-expert-recommendations-from-zdnet/"><u>Affordable Non-Lenovo/Non-Dell Top Picks for Your Buy-Ahead of Prime Day Shopping - Expert Recommendations From ZDNet</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/diagnosing-and-resolving-pc-driver-errors-with-yl-computings-guide/"><u>Diagnosing and Resolving PC Driver Errors with YL Computing's Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-iphone-se-2020-by-drfone-ios/"><u>How to Fix when Apple Account Locked On iPhone SE (2020)?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-6s-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone 6s How to Bypass?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-apple-iphone-se-2022-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On Apple iPhone SE (2022) without Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-infinix-note-30-vip-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Infinix Note 30 VIP Phone Now with These Tips</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-6-plus-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 6 Plus</u></a></li>
+<li><a href="https://article-helps.techidaily.com/three-tricks-for-transforming-videos-on-iphone-by-merging-melodies-for-2024/"><u>Three Tricks for Transforming Videos on iPhone by Merging Melodies for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-iphone-6s-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On iPhone 6s</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-truth-behind-ai-delusions-strategies-to-spot-faulty-data-interpretation/"><u>Unveiling the Truth Behind AI Delusions: Strategies to Spot Faulty Data Interpretation</u></a></li>
+</ul></div>
 

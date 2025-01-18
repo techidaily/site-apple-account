@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Your Apple ID Password and Email From iPhone 8 Plus? Heres the Best Fixes
-date: 2024-07-14T12:34:57.000Z
-updated: 2024-07-15T12:34:57.000Z
+date: 2025-01-16T20:44:44.049Z
+updated: 2025-01-18T00:10:27.648Z
 tags: 
   - unlock
   - remove apple account
@@ -32,9 +32,6 @@ One of the quickest remedies for a misplaced Apple ID password involves starting
 
 - **Step 2.** Opt for "Change Password," input your current iDevice password, and enter your new Apple ID password. Confirm the new password and finalize the process by tapping "Change Password."
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose the change password option](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-2.jpg)
 
 ### For MacBook
@@ -67,13 +64,14 @@ The official Apple Support app is another way to reset your Apple ID password. I
 
 ![proceed with reset password](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** When it comes to selecting the Apple ID, tap "Help Someone Else." Then, enter your Apple ID, press "Continue," and follow the on-screen instructions to complete the process.
 
 ![tap on the continue button](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 4: Reset Apple ID Password Using Account Recovery Contact
 
 You are in luck if you have added an account recovery contact before losing your Apple ID password. To guarantee that you never face lockouts on your Apple ID or devices, Apple permits the addition of up to 5 recovery contacts. Simply contact your account recovery contact for assistance. Here are the steps they can follow to aid you:
@@ -96,9 +94,6 @@ You are in luck if you have added an account recovery contact before losing your
 
 - **Step 2:** Select the contact who has asked you for help recovering their account. Then, tap "Get Recovery Code" to receive a code that you need to share with the targeted person.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on get recovery code](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-12.jpg)
 
 ## Way 5: Reset Apple ID Password Through Requesting Account Recovery
@@ -116,8 +111,6 @@ If you have been trying all the solutions and the Apple ID account has not yet r
 That's why it's necessary to recover your Apple ID as soon as possible. [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a robust feature to unlock your Apple ID and resolve this problem permanently. This software can also bypass your Screen Time Passcode if you have forgotten your password. You will be able to use your Apple ID effectively after using this iOS screen unlock toolkit.
 
 ### Key Features of Wondershare Dr.Fone
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -144,7 +137,6 @@ At first, you will have to launch Wondershare Dr.Fone on your system and access 
 
 ![proceed with remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
-
 - Step 2: Get Your Apple iPhone 8 Plus into the Recovery Mode
 
 In the next step, proceed with unlocking your Apple iPhone 8 Plus and selecting the "Trust" option for system authentication. After doing this, you need to press the "Unlock Now" icon and follow the on-screen instructions to confirm the status of Screen Lock and [<u>Two-Factor Authentication</u>](https://drfone.wondershare.com/remove-apple-account/remove-apple-two-factor-authentication.html). Next, you will be required to enable Recovery Mode on your iDevice.
@@ -162,8 +154,6 @@ When your Apple iPhone 8 Plus has entered [<u>Recovery Mode</u>](https://drfone.
 In summary, the Apple ID serves as the fundamental key to unlocking a world of apps and services. Yet, the experience of forgetting the Apple ID password and email can be frustrating as it restricts users' access to their cherished accounts and services. Throughout this guide, we have explored a range of solutions on **how to retrieve the Apple ID**.
 
 It ensures that users regain control over their accounts within the Apple ecosystem. Furthermore, for more intricate and robust solutions, Wondershare Dr.Fone stands as the best choice. It offers a dedicated Unlock Apple ID feature. This presents an invaluable help to resolve Apple ID-related issues swiftly.
-
-
 
 ## How To Unlink Apple ID From Apple iPhone 8 Plus
 
@@ -224,7 +214,6 @@ The tool guides you through the process, ensuring a seamless experience with a u
 
 - **Step 1:** Download, set up, then launch Dr.Fone on your desktop. Use a USB cable to establish a connection between your Apple iPhone 8 Plus and desktop.
 
-
 - **Step 2:** From the **Toolbox** homepage, select **Screen Unlock** and choose **iOS**.
 
 ![dr.fone toolbox homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -261,9 +250,17 @@ The tool guides you through the process, ensuring a seamless experience with a u
 
 ![ios firmware ready to use](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 11:** Read the note in the dialogue box and enter the code in the confirmation box. Then, click **Unlock** to continue.
 
 ![warning dialogue box](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 12:** Wait while the app is unlocking the Apple ID. Refrain from using your device while connected to your desktop.
 
@@ -273,6 +270,9 @@ The tool guides you through the process, ensuring a seamless experience with a u
 
 ![apple id unlocked on iphone](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How To Unlink iPhone From Apple ID if the Apple iPhone 8 Plus device Was Lost?
 
@@ -288,6 +288,10 @@ Follow these steps and explore **how to unlink Apple ID from iPhone** and other 
 
 ![list of associated devices](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-23.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Click **Remove from account** and click **Remove** again to confirm.
 
 ![remove associated device from account](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-24.jpg)
@@ -299,6 +303,10 @@ Here is how to unpair your Apple ID on a device you sold or gave away via the Fi
 - **Step 1:** Open the **Find My** app and go to the **Devices** tab at the lower navigation pane. Next, select the name of your Apple iPhone 8 Plus you want to unpair.
 
 ![connected devices on find my app](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-25.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Tap **Erase This Device**, then tap **Continue**.
 
@@ -339,6 +347,10 @@ Follow the unpairing process on the paired Apple iPhone 8 Plus to remove the Act
 
 ![enter apple id password to unpair](https://images.wondershare.com/drfone/article/2023/11/unlink-iphone-from-apple-id-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 8:** Tap **Unpair** to confirm your action.
 
 How To Unlink Apple Watch From Apple ID Without Your Apple iPhone 8 Plus?
@@ -370,6 +382,10 @@ Sometimes, you might need help with the issue of the **Apple ID verification cod
 
 Before diving into solutions, it’s essential to understand the various scenarios that can trigger the “**Apple Verification ID Failed**” prompt. Recognizing the cause of the problem is the first step toward the right fix. Let’s explore the common reasons you might encounter this issue:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Wrong Password Input
 
 One of the most straightforward reasons for a failed verification is entering the wrong password. This could be a simple typing error or misremembering your password. Repeated wrong attempts can also lead to your account being temporarily disabled as a security measure.
@@ -379,6 +395,10 @@ One of the most straightforward reasons for a failed verification is entering th
 At times, the problem may not be on your end. Apple’s servers can experience downtime or technical glitches like any other online service. During such instances, verification processes might fail, as the server cannot authenticate your credentials.
 
 ![apple server status page](https://images.wondershare.com/drfone/article/2024/01/apple-id-verification-not-working-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Slow Internet or Intermittent Connection
 
@@ -414,9 +434,6 @@ Incorrect date and time settings can influence Apple ID verification. Go to **Se
 
 ![date & time settings ios](https://images.wondershare.com/drfone/article/2024/01/apple-id-verification-not-working-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Signing Out/In Your Apple ID
 
 Sometimes, simply signing out and back into your Apple ID can resolve verification issues. Navigate to **Settings**, tap your name at the top, scroll down, and select **Sign Out**. After signing out, sign back in and check if the issue persists.
@@ -447,7 +464,6 @@ Here’s how to use powerful Dr.Fone’s - Screen Unlock (iOS) to remove Apple I
 
 - **Step 1:** Download, install, and launch Wondershare Dr.Fone.
 
-
 - **Step 2:** Go to **Toolbox > Screen Unlock > iOS**.
 
 ![dr.fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -464,15 +480,16 @@ Here’s how to use powerful Dr.Fone’s - Screen Unlock (iOS) to remove Apple I
 
 ![screen lock verify](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 6:** Put your device into Recovery Mode or DFU Mode by following the on-screen instructions. Then, confirm the correct system version of your device.
 
 ![recovery mode instructions](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
 - **Step 7:** Wait for the download to finish on your software.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone download process](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
 
 - **Step 8:** After the firmware is confirmed, click **Unlock Now**. Then, type in “000000” on the appearing text box and click **Unlock**.
@@ -491,7 +508,6 @@ For those rare instances where conventional methods fall short, Dr.Fone emerges 
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -504,9 +520,26 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-avoiding-youtube-copyright-claims-understanding-the-rules/"><u>[New] Avoiding YouTube Copyright Claims Understanding the Rules</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-unveiling-the-secrets-to-effective-video-capturing-with-vsdc-and-others/"><u>[New] In 2024, Unveiling the Secrets to Effective Video Capturing with VSDC & Others</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-the-potential-of-slug-line-formats-in-screenplays/"><u>[New] Unlocking the Potential of Slug Line Formats in Screenplays</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-crafting-hashtags-that-capture-attention-and-drive-engagement-on-fb-for-2024/"><u>[Updated] Crafting Hashtags that Capture Attention and Drive Engagement on FB for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-can-you-safely-charge-your-iphone-while-driving-top-picks-and-reviews-for-the-best-car-chargers-based-on-rigorous-testing-zdnet/"><u>1. Can You Safely Charge Your iPhone While Driving? Top Picks & Reviews for the Best Car Chargers Based on Rigorous Testing - ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-the-new-tesla-robotaxi-price-speculations-and-debut-date/"><u>All You Need to Know About the New Tesla Robotaxi – Price Speculations and Debut Date</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-tips-for-superior-4k-visual-quality-with-gear/"><u>Expert Tips for Superior 4K Visual Quality with Gear</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-se-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your iPhone SE Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-apple-iphone-14-pro-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-14-pro-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone 14 Pro? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-x-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By Apple iPhone X without the Previous Owner?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From iPhone 6s Plus?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On Apple iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-iphone-15-pro-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove iPhone 15 Pro Device from iCloud</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-iphone-12-mini-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From iPhone 12 mini? 5 Tips You Must Know</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Will iSpoofer update On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-ultimate-amazon-prime-series-most-liked-and-watched-on-twitter-for-2024/"><u>The Ultimate Amazon Prime Series Most Liked & Watched on Twitter for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-apple-iphone-15-plus-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On Apple iPhone 15 Plus? 5 Tips You Must Know</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-chatgpts-shared-link-functionality-a-detailed-guide/"><u>Understanding ChatGPT's Shared Link Functionality: A Detailed Guide</u></a></li>
+</ul></div>
 

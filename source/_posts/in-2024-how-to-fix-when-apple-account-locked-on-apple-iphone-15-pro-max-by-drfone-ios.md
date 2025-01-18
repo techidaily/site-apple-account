@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix when Apple Account Locked On Apple iPhone 15 Pro Max?
-date: 2025-01-11T16:25:32.622Z
-updated: 2025-01-12T16:07:23.434Z
+date: 2025-01-11T17:17:40.864Z
+updated: 2025-01-18T00:48:34.256Z
 tags: 
   - unlock
   - remove apple account
@@ -27,6 +27,10 @@ Several Apple device users face this problem, and one of these messages might be
 Getting your Apple account locked can be frustrating and might hinder the performance of your phone. In this article, we will discuss the various tips to solve the Apple account locked issue.
 
 ![fix-when-apple-accunt-locked](https://images.wondershare.com/drfone/article/2020/11/apple-account-locked-0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Why is Apple Account Locked?
 
@@ -98,6 +102,14 @@ Now that you have entered into recovery mode, the next step is to restore the iP
 
 ![apple account locked 1](https://images.wondershare.com/drfone/article/2020/11/apple-account-locked-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 3. Recover Your Apple ID via Apple (Reset Password)
 
 If you have forgotten your Apple device’s password, it’s recommended not to input your password more than one time. It would lead to a 24-hour shutdown. It cannot be lifted even if you know your password, so proceed wisely. The recommended solution instead is to reset your password.
@@ -142,10 +154,6 @@ This article will take you on a journey to discover your Apple ID. The mission? 
 
 ![apple id password](https://images.wondershare.com/drfone/article/2023/11/finding-your-apple-id-01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part I. A Brief Introduction to Apple ID?
 
 At the heart of your Apple experience is an Apple ID. But what exactly is it, and why is it so important?
@@ -155,6 +163,10 @@ At the heart of your Apple experience is an Apple ID. But what exactly is it, an
 ### What Is My Apple ID?
 
 Think of your Apple ID as your unique passkey to the entire Apple ecosystem. It's a combination of your email address and a secure password that you use to sign in to all things Apple. Whether it's your cherished iPhone, trusty iPad, or reliable Mac, your Apple ID ties them all together, making your digital life seamless.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why Is Your Apple ID Significant?
 
@@ -168,17 +180,9 @@ Your Apple ID plays a crucial role in your digital journey. Here are some key po
 
 In a nutshell, your Apple ID is the gateway to a world of digital convenience and security. It makes your life easier, keeps your data safe, and ensures your Apple devices work seamlessly together. Now that you understand the importance of your Apple ID let's move on to the exciting part: finding it!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part II. How Do I Find My Apple ID on iPhone/iPad/Mac/Windows?
 
 Knowing your Apple ID is the key to unlocking your Apple world. You'll need your Apple ID if you're an iPhone aficionado, a Mac enthusiast, or a Windows user dipping into the Apple ecosystem. Let's explore **how to find Apple ID** on various devices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### On iPhone or iPad
 
@@ -192,10 +196,6 @@ The following steps are for finding your Apple ID on an iPhone or an iPad:
 - **Step 3:** There it is! Your Apple ID is displayed at the top of the screen, just beneath your name. Write it down or take a screenshot for safekeeping.
 
 ![iphone apple id settings](https://images.wondershare.com/drfone/article/2023/11/finding-your-apple-id-04.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### On Mac
 
@@ -212,10 +212,6 @@ Here's how to locate your Apple ID on a Mac device:
 - **Step 4:** Your Apple ID is now right in front of you, under your profile picture. Jot it down or take a screenshot – just in case.
 
 ![mac apple id settings](https://images.wondershare.com/drfone/article/2023/11/finding-your-apple-id-07.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### On Windows PC
 
@@ -240,6 +236,10 @@ Your Apple ID is the key to a world of apps, services, and secure data. Knowing 
 ## Part III. Want a Quicker Way To Unlock Your Apple Devices?
 
 Have you ever found yourself locked out of your Apple device, desperately seeking a solution to regain access? If so, you're not alone. For those times when you need a quick and reliable way to unlock your Apple device, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Screen Unlock is here to the rescue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Introduction to Dr.Fone - Screen Unlock
 
@@ -267,7 +267,7 @@ Unlocking your Apple device with Dr.Fone - Screen Unlock is as easy as 1-2-3. He
 ![drfone unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 3:** To begin unlocking the iOS device, tap **Start** on the following screen. Check to see if your gadget has adequate battery life.
@@ -290,10 +290,6 @@ Unlocking your Apple device with Dr.Fone - Screen Unlock is as easy as 1-2-3. He
 
 ![drfone unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 8:** A dialog box asking for confirmation of the action will pop up on the screen. Enter the unlock code and select **Unlock** to continue.
 
 ![drfone unlock code](https://images.wondershare.com/drfone/guide/unlock-ios-screen-7.png)
@@ -302,10 +298,6 @@ Unlocking your Apple device with Dr.Fone - Screen Unlock is as easy as 1-2-3. He
 - **Step 10:** To complete unlocking your iDevice, tap the **Done** button once you're done. If you're still stuck with a locked iOS device, tap the **Try Again** button to try again.
 
 ![drfone screen unlock done](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 It's important to note that Dr.Fone - Screen Unlock is a trusted solution that prioritizes data security and ease of use. So, if you ever find yourself locked out of your Apple device and need a quick and reliable way to unlock it, Dr.Fone - Screen Unlock should be your first choice.
 
@@ -321,6 +313,10 @@ While this guide has covered the basics of finding your Apple ID and using Dr.Fo
 
 - Visit the **Forgot Apple ID or password**link on the Apple website.
 - Enter your Apple ID and follow the prompts to reset your password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Two-Factor Authentication Issues
 
@@ -354,6 +350,10 @@ While this guide has covered the basics of finding your Apple ID and using Dr.Fo
 - Try signing in using a different device.
 
 With these additional tips and troubleshooting solutions, you'll be better prepared to handle any hiccups related to your Apple ID and password. We hope this information helps you make the most of your Apple experience!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -417,10 +417,6 @@ After adding the AirTag to any object, it instantly syncs with the Apple ID of t
 
 ![click remove](https://images.wondershare.com/drfone/article/2023/01/how-to-remove-airtag-from-apple-id-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3. Bonus Tips: How to Unlock an Apple ID That's Locked?
 
 Typically, it is impossible to use a PC or Mac to access and **remove AirTag from Apple ID**. One has to use the Apple iPhone 15 Pro Max or iPad device only. But what if the smartphone screen or Apple ID is locked?
@@ -455,12 +451,16 @@ The process of bypassing Apple ID as a feature is available for iOS 14.0 or its 
 ![put the Apple iPhone 15 Pro Max device in recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5:** Verify on your device that the Apple ID is unlocked. Then, go to the Find My app and remove the AirTag feature as detailed previously.
 
 ![verify on your device](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. FAQs about AirTag
 
@@ -494,22 +494,20 @@ The added AirTag stays connected with one Apple ID account until you reset it. S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-your-selection-of-affordable-iosandroid-live-streamers-for-2024/"><u>[New] Your Selection of Affordable iOS/Android Live Streamers for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-ultimate-list-low-cost-high-definition-cameras/"><u>[Updated] Ultimate List Low-Cost, High Definition Cameras</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-creative-possibilities-anime-subscribe-buttons-for-your-youtube-channel-filmora/"><u>[Updated] Unveiling Creative Possibilities Anime Subscribe Buttons for Your YouTube Channel (Filmora)</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-13-mini-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone 13 mini? How to Fix it?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/embracing-the-trusty-ps4-why-upgrading-to-the-ps5-pro-isnt-a-must-yet/"><u>Embracing the Trusty PS4: Why Upgrading to the PS5 Pro Isn't a Must Yet</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/g-income-optimization-tips/"><u>Gaming Income Optimization Tips</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-y27s-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo Y27s Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-x-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone X?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-xs-max-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your iPhone XS Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-apple-iphone-12-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On Apple iPhone 12? Heres the Best Fixes</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your iPhone 11 Pro?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-apple-iphone-12-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On Apple iPhone 12</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-max-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Max When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-options-picking-right-nvidia-driver-type-for-you/"><u>Navigating Options, Picking Right Nvidia Driver Type For You</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/picture-to-motion-transformation-with-music-elements-for-2024/"><u>Picture-to-Motion Transformation with Music Elements for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-installation-of-corsair-icue-on-windows-11-and-windows-10-systems/"><u>Step-by-Step Installation of Corsair iCUE on Windows 11 and Windows 10 Systems</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-13-mini-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 13 mini</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-maximizing-your-dslr-footage-with-pc-or-mac-for-social-media-for-2024/"><u>[New] Maximizing Your DSLR Footage with PC or Mac for Social Media for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-decoding-instagrams-trends-reels-and-stories-comparison/"><u>[Updated] Decoding Instagram's Trends Reels & Stories Comparison</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-solving-sound-disconnection-on-live-feeds/"><u>2024 Approved Solving Sound Disconnection on Live Feeds</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-apple-iphone-13-mini-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On Apple iPhone 13 mini How to Bypass?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-apple-iphone-6-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On Apple iPhone 6 Plus? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/compress-to-caption-zip-to-srt-for-video-editors-for-2024/"><u>Compress to Caption ZIP-to-SRT for Video Editors for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-tips-for-securely-leveraging-chatgpt-in-psychological-support/"><u>Essential Tips for Securely Leveraging ChatGPT in Psychological Support</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-8-plus-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From iPhone 8 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On Apple iPhone 14 Pro Max?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-xr-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From iPhone XR</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/m2-meets-m1-showdown-apples-mac-mini-and-mac-studio-compared/"><u>M2 Meets M1 Showdown: Apple's Mac Mini and Mac Studio Compared</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975652901-steal-the-show-top-steelseries-drivers-and-settings-for-windows-11-get-it-here/"><u>Steal the Show: Top SteelSeries Drivers & Settings for Windows 11 - Get It Here!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-13-pro-max-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone 13 Pro Max Making It Possible</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/triple-methods-for-engaging-with-wolframalpha-via-chatgpt/"><u>Triple Methods for Engaging with WolframAlpha via ChatGPT</u></a></li>
 </ul></div>
 
