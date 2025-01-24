@@ -1,7 +1,7 @@
 ---
 title: How To Erase an iPhone 8 Plus Without Apple ID Password?
-date: 2024-07-14T12:31:05.910Z
-updated: 2024-07-15T12:31:05.910Z
+date: 2025-01-19T16:01:01.751Z
+updated: 2025-01-24T16:01:23.522Z
 tags: 
   - unlock
   - remove apple account
@@ -51,6 +51,10 @@ Cancel Your AppleCare Plan
 If you have an active AppleCare plan for your Apple iPhone 8 Plus, cancel it on your Apple iPhone 8 Plus before erasing the Apple iPhone 8 Plus device. You can cancel your AppleCare plan by phone by calling AppleCare customer support. It will prevent any unnecessary charges after the erasing process.
 
 ![cancel an applecare plan](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sign Out of iCloud
 
@@ -113,6 +117,10 @@ If you want to **erase an iPhone without Apple ID** password on your computer, y
 
 - **Step 8:** Once the restore is complete, the Apple iPhone 8 Plus will restart.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Erase an iPhone Without Apple ID via Activation Lock Support Request
 
 You can request to unlock Activation Lock support from Apple if your device is not in Lost Mode or if you need to **erase an iPhone without an** Apple ID password. To do this, you need to provide proof of purchase of the iPhone. It can be in the form of a receipt, invoice, or credit card statement.
@@ -143,12 +151,8 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 - **Step 1:** Download and install Dr.Fone on your desktop. Launch the app and connect your Apple iPhone 8 Plus using a USB cable.
 
-
 - **Step 2:** From the **Toolbox** homepage, select **Screen Unlock**, then choose **iOS**.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone toolbox interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 3:** Select **Remove AppleID** to delete iPhone contents, including the Apple ID.
@@ -173,9 +177,6 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 - **Step 8:** Select an option from the **System Version** drop-down list, then click **Start**.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select system version for the iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 - **Step 9:** Wait while the iOS firmware downloads.
@@ -189,6 +190,10 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 - **Step 11:** Enter the code in the dialogue box and click **Unlock**.
 
 ![enter confirmation code](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 12:** Keep your Apple iPhone 8 Plus connected to your computer while the process progresses.
 
@@ -238,9 +243,6 @@ Follow these instructions to delete the iCloud account from the “Settings” m
 
 That’s how to delete iCloud account without password directly from “Settings” on your Apple iPhone 8 Plus.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1.2 Delete iCloud account via iTunes
 
 Another convenient way to delete the iCloud account is to use iTunes on your Apple iPhone 8 Plus. Let’s walk you through the process of deleting an iCloud account using iTunes.
@@ -251,9 +253,6 @@ Another convenient way to delete the iCloud account is to use iTunes on your App
 
 **Step 2:** Now, go back to the “Settings” window and click “iTunes & App Store”.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![itunes and app store](https://images.wondershare.com/drfone/article/2020/05/itunes-and-app-store.jpg)
 
 **Step 3:** Tap on your “Account” at the top. A pop-up will appear on your screen. Here, click “Sign Out” and the iCloud account will be removed from your iDevice.
@@ -269,6 +268,10 @@ Here’s how to delete iCloud account without password by creating a new passwor
 **Step 1:** Visit the Apple ID Account page and select “Forgot Apple ID or Password”.
 
 ![forgot apple id or password](https://images.wondershare.com/drfone/article/2020/05/forgot-apple-id-or-password.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Now, enter your Apple ID and tap “Continue”. Select “I Need to Reset My Password” to initiate the password resetting process.
 
@@ -289,6 +292,10 @@ In case you haven’t enabled two-way verification for your iCloud account, ther
 **Step 2:** You’ll be redirected to a new window displaying two different methods, i.e., “Answer Security Questions” an “Get an Email.” Choose a suitable method and follow the further steps to reset your password.
 
 ![recovery email](https://images.wondershare.com/drfone/article/2020/05/recovery-email.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to delete iCloud account without password on computer using Dr.Fone - Screen Unlock (iOS)?
 
@@ -342,14 +349,19 @@ As soon as your Apple ID gets unlocked, a confirmation message will pop up on yo
 
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
-It doesn’t matter if you’re using Windows or Mac, Dr.Fone – Screen Unlock for iOS will make it extremely easy to delete the iCloud account without the password. So, if you are looking for a reliable and convenient way to remove an iCloud account, make sure to use Dr.Fone – Screen Unlock.
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
+It doesn’t matter if you’re using Windows or Mac, Dr.Fone – Screen Unlock for iOS will make it extremely easy to delete the iCloud account without the password. So, if you are looking for a reliable and convenient way to remove an iCloud account, make sure to use Dr.Fone – Screen Unlock.
 
 ## Conclusion
 
 That’s the entire guide on how to delete iCloud account without password. Even though iCloud is an exceptional feature, one is likely to forget the password to his iCloud account. If you’re stuck in a similar situation and want to create a new iCloud account, make sure to use the above tactics to delete the previous iCloud account, even if you don’t remember the password.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Unlink Your Apple iPhone 8 Plus From Your Apple ID
 
@@ -370,6 +382,10 @@ Here are ways that it protects your device.
 - **Other ways.**Apple ID helps you find your lost iPhone and secures your payments and personal info.
 
 Remembering your Apple ID passcode is an intelligent move. It makes managing your Apple iPhone 8 Plus more accessible and safer. Forgetting it can make things tricky, especially when you want to unlink your Apple iPhone 8 Plus from your Apple ID. But don't worry, there are solutions for that, too!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. How To Unlink Your Apple iPhone 8 Plus Normally
 
@@ -414,6 +430,10 @@ If you still need to remember your Apple ID Passcode, following the steps in the
 
 These are some ways to recover your Apple ID passcode:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Use the Forgot Your Password Option
 
 Start by going to the Apple ID account page or using the "Forgot Your Apple ID or Password?" link on your Apple iPhone 8 Plus's login screen. You must enter your Apple ID and follow the steps provided to reset your passcode. Apple will guide you through resetting your Apple ID passcode, often requiring you to verify your identity via email or other security questions.
@@ -434,7 +454,6 @@ If, for instance, you find yourself in a situation where you really can't recove
 
 ![dr.fone homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 One of Dr.Fone's standout features is the Screen Unlock feature. It is an invaluable tool when facing challenges like an inaccessible iPhone due to a forgotten Apple ID passcode or a device that has been reformatted without unlinking the Apple ID. With Dr.Fone – Screen Unlock, you can learn **how to unpair iPhones** from the previous Apple ID, ensuring you can use it effectively.
 
 ### How To Unlink Apple ID With Wondershare Dr.Fone – Screen Unlock
@@ -442,7 +461,6 @@ One of Dr.Fone's standout features is the Screen Unlock feature. It is an invalu
 Before anything, be warned that this method removes all data from an iPhone. Creating a backup of your phone before performing the steps below is best.
 
 - **Step 1:** Launch Dr.Fone. Click **Toolbox** and then select **Screen Unlock (iOS).**
-
 
 - **Step 2:** Click **Remove Apple ID.**
 
@@ -470,18 +488,6 @@ Before anything, be warned that this method removes all data from an iPhone. Cre
 
 - **Step 8:** The firmware will start downloading. If it is slow, click **Copy for** a direct download link of the firmware.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download in process page](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
 
 - **Step 9:** Click **Unlock Now** once downloading is done.
@@ -500,12 +506,15 @@ Before anything, be warned that this method removes all data from an iPhone. Cre
 
 ![Apple ID unlocked page](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In summary, this guide has navigated you on **how to unlink iPhones** from their Apple ID, covering both the normal process and what to do when you've forgotten your passcode. However, the critical lesson here is remembering your Apple ID passcode to avoid unnecessary complications.
 
 Should you ever find yourself locked out of your device, Wondershare Dr.Fone - Screen Unlock emerges as your go-to solution. The all-around phone management tool can rescue you from tricky situations and help you unlink your device effortlessly. Remember to keep your Apple ID passcode safe and handy, but know that Dr.Fone has your back when you need it.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -519,9 +528,21 @@ Should you ever find yourself locked out of your device, Wondershare Dr.Fone - S
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-harness-the-power-of-hashtags-in-instagram-marketing-strategies/"><u>[New] In 2024, Harness the Power of Hashtags in Instagram Marketing Strategies</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-unleash-creativity-pivotal-pixlr-editing-strategies/"><u>[New] Unleash Creativity Pivotal Pixlr Editing Strategies</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-complete-blueprint-for-optimizing-data-in-adobes-cloud-realm/"><u>[Updated] In 2024, The Complete Blueprint for Optimizing Data in Adobe's Cloud Realm</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-12-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone 12? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-11-pro-max-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 11 Pro Max without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-6-plus-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 6 Plus</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-y27-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo Y27 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-apple-iphone-14-pro-max-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On Apple iPhone 14 Pro Max in the Best Ways</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-iphone-zoom-videography/"><u>In 2024, IPhone Zoom Videography</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/reviewing-escorts-latest-innovation-multi-functional-radar-detector-with-cutting-edge-gps-features/"><u>Reviewing Escort's Latest Innovation: Multi-Functional Radar Detector with Cutting-Edge GPS Features</u></a></li>
+<li><a href="https://fox-info.techidaily.com/smart-strategies-to-procure-photo-and-video-borders/"><u>Smart Strategies to Procure Photo & Video Borders</u></a></li>
+<li><a href="https://article-helps.techidaily.com/tiktok-bgs-exploring-affordable-eye-catching-visuals-for-2024/"><u>TikTok BGs Exploring Affordable, Eye-Catching Visuals for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-oneplus-nord-n30-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from OnePlus Nord N30 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-iphone-13-pro-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From iPhone 13 Pro</u></a></li>
+</ul></div>
 

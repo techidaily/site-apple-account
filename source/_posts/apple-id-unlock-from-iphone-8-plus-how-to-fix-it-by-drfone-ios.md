@@ -1,7 +1,7 @@
 ---
 title: Apple ID Unlock From iPhone 8 Plus? How to Fix it?
-date: 2024-07-14T12:31:44.856Z
-updated: 2024-07-15T12:31:44.856Z
+date: 2025-01-18T16:00:17.970Z
+updated: 2025-01-24T16:00:31.621Z
 tags: 
   - unlock
   - remove apple account
@@ -118,6 +118,14 @@ Whenever your ID gets locked in your Apple iPhone 8 Plus or iPad, you can also u
 
 ![apple id unlock how to fix it 1](https://images.wondershare.com/drfone/article/2020/11/apple-id-unlock-how-to-fix-it-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: Apple ID unlock by finding it back
 
 If you end up getting your Apple id locked, then this is the best way to get it back. Iforgot is an online tool by Apple to provide some best ways to unlock Apple ID. All you have to do is log into the website using the email id.
@@ -195,6 +203,10 @@ However, if you've forgotten your Apple ID password, don't fret. Follow the guid
 
 ![change apple id password](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Follow the on-screen instructions to reset your Apple ID password.
 - **Step 4:** Go to **General** > **Reset** from the **Settings** app, then tap **Erase All Content and Settings**.
 
@@ -203,9 +215,6 @@ However, if you've forgotten your Apple ID password, don't fret. Follow the guid
 - **Step 5:** Input your Apple ID password or your passcode when prompted.
 - **Step 6:** Click **Continue** to confirm. Then, wait while the contents are being removed from your Apple iPhone 8 Plus device.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How To Erase iPhone Without Apple ID Password on Computer?
 
 Activation lock is a security feature. It prevents anyone from activating an iPhone without your Apple ID password. If you try to factory reset your Apple iPhone 8 Plus without turning off Find My iPhone, the [<u>activation lock </u>](https://drfone.wondershare.com/icloud/unlock-icloud-activation.html) will be in place. It means you need to enter your Apple ID password to activate the Apple iPhone 8 Plus again. To turn it off, also ensure to turn off Find My on your device.
@@ -233,12 +242,20 @@ If you want to **erase an iPhone without Apple ID** password on your computer, y
 
 ![restore iphone on mac device](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - For macOS 10.14 or earlier or Windows: Click the Apple iPhone 8 Plus in the top left window, click **Summary**, then click **Restore iPhone**.
 - **Step 7:** Click **Restore** in the dialogue box. iTunes or Finder will download your Apple iPhone 8 Plus's latest iOS software and restore the Apple iPhone 8 Plus to its factory settings.
 
 ![restore iphone to factory settings](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-10.jpg)
 
 - **Step 8:** Once the restore is complete, the Apple iPhone 8 Plus will restart.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Erase an iPhone Without Apple ID via Activation Lock Support Request
 
@@ -255,10 +272,11 @@ To start this request, follow these steps:
 
 - **Step 3:** Enter your email address and other required information, then click **Continue**.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![request activation lock support online](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: How To Erase an iPhone Without an Apple ID Password in Minutes?
 
@@ -273,7 +291,6 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 - **Step 1:** Download and install Dr.Fone on your desktop. Launch the app and connect your Apple iPhone 8 Plus using a USB cable.
 
-
 - **Step 2:** From the **Toolbox** homepage, select **Screen Unlock**, then choose **iOS**.
 
 ![dr.fone toolbox interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -285,6 +302,10 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 - **Step 4:** The next screen shows the connected device. Click **Unlock Now**.
 
 ![unlock connected ios device](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Click **Yes** to confirm you have set up a screen lock.
 
@@ -304,9 +325,6 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 - **Step 9:** Wait while the iOS firmware downloads.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![downloading ios firmware in progress](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
 
 - **Step 10:** Once downloaded, click **Unlock Now** to proceed.
@@ -340,8 +358,9 @@ A strong password is the key to safeguarding your digital kingdom. Dive in and u
 ![apple id password](https://images.wondershare.com/drfone/article/2024/01/apple-id-password-requirements-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part I. Apple ID Password Requirements: What You Need To Know
 
 Your Apple ID is the gatekeeper to a world of digital wonders, and a sturdy password is your first line of defense. Let's unravel the secrets of crafting unbreakable **Apple ID passwords with requirements examples** that keep your account secure and your mind at ease.
@@ -359,6 +378,10 @@ To truly fortify your Apple ID, embrace diversity in your password creation. Inc
 Beware of the password pitfalls! Apple urges users to steer clear of common patterns and dictionary words. Craft a password that is uniquely yours, steering away from easily guessable choices. You create a password that stands tall against potential threats by dodging the usual suspects.
 
 ![apple id password criteria](https://images.wondershare.com/drfone/article/2024/01/apple-id-password-requirements-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Apple ID Password Criteria
 
@@ -425,7 +448,6 @@ Dr.Fone - Screen Unlock (iOS) isn't just a tool confined to Apple's realm; it's 
 
 ![drfone home interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 ### Key Features and Benefits
 
 Dr.Fone - Screen Unlock (iOS) is a user-friendly and efficient tool that goes beyond simple unlocking. Check out its key features and benefits below:
@@ -455,15 +477,16 @@ The easy-to-follow steps provided below will make the unlocking process stress-f
 
 - **Step 5:** The platform automatically detects the **Device Model** and shows it in the corresponding section after the user successfully puts their iDevice into Recovery Mode. Adjust the model and choose the **System Version** to meet your needs. After that, hit **Start** to unlock your phone's screen.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone system version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 - **Step 6:** The following screen shows how far along the iOS firmware download is. To cancel out of it all, just hit the **Stop** button. If the platform's iOS firmware download is taking too long, you can manually copy the URL to download the firmware by clicking the **Copy** button.
 - **Step 7:** The next page will show the verification and installation of the iOS firmware if the download is successful. Press the **Unlock Now** button again to initiate the unlocking procedure.
 
 ![drfone unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 8:** A confirmation window pops up on the screen to confirm the action. To proceed, enter the code and hit **Unlock**. You can see the iOS device's progress bar on the following screen as it unlocks. Remember that the gadget must remain connected; otherwise, it will brick.
 
@@ -481,9 +504,6 @@ Dr.Fone - Screen Unlock (iOS) is the bridge that connects your commitment to sec
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -496,9 +516,21 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-excellent-ears-in-scholarly-spaces/"><u>[New] Excellent Ears in Scholarly Spaces</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-efficient-recording-capture-your-dell-display-swiftly/"><u>[New] In 2024, Efficient Recording Capture Your Dell Display Swiftly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-intuitive-methods-to-log-your-google-voice-conversations-for-2024/"><u>[New] Intuitive Methods to Log Your Google Voice Conversations for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-art-of-creating-compelling-youtube-video-outlines/"><u>[New] The Art of Creating Compelling YouTube Video Outlines</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unveiling-secrets-for-instagram-chat-success/"><u>[Updated] Unveiling Secrets for Instagram Chat Success</u></a></li>
+<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/comment-migrate-en-douce-de-windows-10-a-windows-11/"><u>Comment Migrate en Douce De Windows 10 À Windows 11 ?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-apple-iphone-11-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For Apple iPhone 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-xiaomi-redmi-note-12-4g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Xiaomi Redmi Note 12 4G Safely | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-7-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off Apple iPhone 7 without Password</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-apple-iphone-xs-max-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your Apple iPhone XS Max Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On Apple iPhone XS Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-iphone-12-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On iPhone 12 Making It Possible</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-wisdom/"><u>Navigating the World of Electronics with Tom's Hardware Wisdom</u></a></li>
+</ul></div>
 

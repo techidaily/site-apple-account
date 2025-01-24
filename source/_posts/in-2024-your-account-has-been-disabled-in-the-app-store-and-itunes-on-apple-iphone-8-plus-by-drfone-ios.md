@@ -1,7 +1,7 @@
 ---
 title: In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 8 Plus?
-date: 2024-07-14T12:33:06.800Z
-updated: 2024-07-15T12:33:06.800Z
+date: 2025-01-18T16:00:09.720Z
+updated: 2025-01-24T16:00:14.492Z
 tags: 
   - unlock
   - remove apple account
@@ -71,8 +71,6 @@ Note that if you are changing your Apple ID password on an iPhone or iPad, you w
 
 Forgetting the password is particularly troublesome, but there is good news. That is, you can use [Password Manager](https://drfone.wondershare.com/iphone-password-manager.html) to find your passwords on your Apple iPhone 8 Plus/iPad without spending too much time remembering them!
 
-
-
 ### Dr.Fone - Password Manager (iOS)
 
 Recover and keep all your passwords in one place
@@ -83,6 +81,10 @@ Recover and keep all your passwords in one place
 - The installation of Dr.Fone on your device won't take much space, without any disturbing ads.
 
 **3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2. View Your Payment Methods and Update Them
 
@@ -118,9 +120,6 @@ If you see a message that says, “Your account has been disabled in the App Sto
 - **Step 2:** Then click “Start a chat” to chat with someone in Apple Support now.
 - **Step 3:** Or schedule a call with Apple Support, and they should be able to help you fix your account disabled in App store.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disabled in the app store and itunes 2](https://images.wondershare.com/drfone/article/2023/05/getsupport-apple.png)
 
 ## Part 3. What does it influence when “Your account has been disabled in the App Store and iTunes”?
@@ -138,18 +137,21 @@ No. The error message “Your account has been disabled in the App Store and iTu
 
 ![apple id disabled](https://images.wondershare.com/drfone/article/2023/05/apple-id-disabled.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After you see these errors, you will not be able to access some of the features and apps that require your Apple ID for access.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 5. How to fix Apple ID disabled by removing Apple ID?
 
 Sometimes the only way to [fix “Apple ID Disabled”](https://drfone.wondershare.com/apple-account/how-to-unlock-apple-id-disabled-activation-lock.html) is to remove the Apple ID from the Apple iPhone 8 Plus device. This may become a viable solution if you lost or forgot the Apple ID password or ID and you have no way to recover them. It is also one of the best solutions when you purchased a second-hand device, and you don’t know the Apple ID password for the account associated with the Apple iPhone 8 Plus device.
 
 One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This third-party unlocking software is designed to easily and effectively remove the Apple ID password from any device. The following are some things it can do;
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -181,6 +183,10 @@ Connect the iOS device to the computer using its lightning cable. Then enter the
 
 ![trust computer](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4: Apple ID Removal will Begin**
 
 Dr.Fone will immediately begin removing the Apple ID from the Apple iPhone 8 Plus device. You should see a progress bar indicating how long the process will take. Ordinarily, the removal should take just a few seconds. When the process is complete, you will see a notification on the screen letting you know that the Apple ID has been removed.
@@ -193,7 +199,9 @@ You should then be able to sign in to another Apple ID or create a new Apple ID 
 
 In conclusion, encountering a disabled Apple account in the App Store and iTunes can be a frustrating experience. However, by understanding the reasons behind it, following the recommended steps to resolve the issue, and considering the broader impact on your digital life, you can navigate this situation effectively. Remember, prompt action and patience are key to restoring your account and getting back to enjoying the Apple ecosystem hassle-free.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Change Your Apple iPhone 8 Plus Apple ID on MacBook
 
@@ -221,9 +229,6 @@ Your Apple ID is closely linked with iCloud, Apple's cloud storage service. Chan
 
 Frequently updating your Apple ID can enhance your online privacy and security. It enhances the challenge for unauthorized parties to acquire your personal information. This, consequently, reduces the risk of accessing your MacBook's sensitive information.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Family Sharing
 
 If you're part of a Family Sharing group, changing your Apple ID can simplify sharing purchases, subscriptions, and iCloud storage with family members. Each family member can have their own Apple ID while still enjoying the benefits of shared content.
@@ -236,6 +241,10 @@ In summary, there are many advantages to updating your Apple ID on your MacBook.
 - **Step 2:**Here, scroll down to find and tap "Sign Out." The option is located at the bottom near the left corner. Afterward, tap "Sign Out" again to confirm your choice, and then, if your device asks, provide your Apple ID password to move ahead.
 
 ![press the sign out button](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:**After logging out of your Apple ID, reboot your device, and when it is done, go back to System Settings. From there, hit the "Sign in to with your Apple ID" option so that you can quickly log in with a new Apple ID.
 
@@ -259,6 +268,14 @@ The first way the previous owner can remove the Apple ID from your MacBook is by
 
 ![choose remove from account option](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 2: Using Find My App
 
 Another way to remove the Apple ID is by asking the previous owner to use the Find My service. The steps for removing Apple ID using the Find My app are given below:
@@ -269,18 +286,6 @@ Another way to remove the Apple ID is by asking the previous owner to use the Fi
 
 - **Step 2:**Here, select "Continue" to confirm your choice, and follow on-screen instructions to erase the Apple iPhone 8 Plus device. After this, provide your Apple ID password to complete the process, and when the Apple iPhone 8 Plus device eraser is done, the Apple ID will be removed from your MacBook.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![press the continue button](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-6.jpg)
 
 ## Bonus Part: How To Fix Unable To Logout (Change) the Old Apple ID on Mac
@@ -296,6 +301,10 @@ While the data is backed up on the iCloud from your Mac, you cannot log out from
 Wait for the iCloud backup to complete before attempting to log out. You can access the backup information through “iCloud” within your Apple ID settings of System Settings. Here, tap “iCloud Drive” and stop syncing to stop the ongoing iCloud backup process.
 
 ![stop icloud backup process](https://images.wondershare.com/drfone/article/2023/10/change-apple-id-on-mac-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Bug in macOS
 
@@ -329,7 +338,6 @@ Click "Toolbox" from the left sidebar after launching Wondershare Dr.Fone. From 
 
 ![click on remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
-
 - Step 2: Enable Recovery Mode on Your Device
 
 Tap “Unlock Now” and proceed to confirm that your device has setup screen lock and 2FA is enabled. These are necessary steps for the removal process of Apple ID. Next, put your device into Recovery Mode following the guidelines available on-screen.
@@ -348,10 +356,6 @@ In conclusion, this article has provided you with valuable insights into the pro
 
 The other included alternative approaches for scenarios like purchasing a second-hand MacBook. We also addressed the issue of forgetting your Apple ID password on iOS devices. For it, we used the specialized software Wondershare Dr.Fone to remove Apple ID without needing a password.
 
-
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Erase an Apple iPhone 8 Plus without Apple ID?
 
 Our generation is all about high-performance gadgets and, a phone is one of the most important of it all. But with the concept of a smartphone, things have changed. iPhone/iPad has emerged as an important fashion quotient for a long now.
@@ -386,6 +390,10 @@ The first thing to do is download and install the Dr.Fone – Screen Unlock (iOS
 After the installation is done completely, launch the tool and select the “Screen Unlock” option on the software’s home interface. A new screen interface will appear, you will have three different options. You need to select the “Unlock iOS Screen” option and, this will start the entire process of unlocking.
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Boot your device into Recovery/DFU Mode**
 
@@ -481,7 +489,6 @@ Now let’s get started with erasing an Apple ID via Apple’s Data and Privacy 
 
 Coming towards the end of the topic, we now are fully sure that you fully understand how to erase an iPhone without an Apple ID. Just in case you have any doubts, please feel free to comment below. And do remember to share this with your friends and family if you find it useful.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -494,9 +501,22 @@ Coming towards the end of the topic, we now are fully sure that you fully unders
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-unleashing-potential-mastering-advertising-partnerships-with-famebit/"><u>[New] 2024 Approved Unleashing Potential Mastering Advertising Partnerships with FameBit</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-insta-turn-techniques-flipping-your-photos-and-gaining-followers/"><u>[New] Insta-Turn Techniques Flipping Your Photos and Gaining Followers</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-samsung-galaxy-f34-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Samsung Galaxy F34 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/effortlessly-record-macos-content-and-display-for-2024/"><u>Effortlessly Record macOS Content & Display for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-6-plus-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 6 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-15-pro-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-iphone-xs-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From iPhone XS</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-apple-iphone-12-pro-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From Apple iPhone 12 Pro? How to Fix it?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-electronics-with-toms-insider-knowledge/"><u>Navigating the World of Electronics with Tom’s Insider Knowledge</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-canon-printer-f4770n-drivers-for-windows-oses/"><u>New Canon Printer F4770N Drivers for Windows OSes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-ai-engagement-explore-the-top-5-tailored-gpt-commands-for-success/"><u>Revolutionizing AI Engagement: Explore the Top 5 Tailored GPT Commands for Success</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-iphone-14-pro-max-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On iPhone 14 Pro Max</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-apps-para-remocao-de-individuos-em-fotografias/"><u>Top Apps Para Remoção De Indivíduos Em Fotografias</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-iphone-x-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From iPhone X Making It Possible</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-15-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 15? 5 Tips You Must Know</u></a></li>
+</ul></div>
 

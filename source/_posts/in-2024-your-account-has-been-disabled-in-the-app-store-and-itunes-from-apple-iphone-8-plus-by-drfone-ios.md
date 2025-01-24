@@ -1,7 +1,7 @@
 ---
 title: In 2024, Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 8 Plus?
-date: 2024-07-14T12:33:39.833Z
-updated: 2024-07-15T12:33:39.833Z
+date: 2025-01-20T07:37:10.711Z
+updated: 2025-01-24T15:10:49.341Z
 tags: 
   - unlock
   - remove apple account
@@ -65,16 +65,11 @@ If you just forget the password and cannot remember it, you can follow the steps
 
 - **Step 4:** Look for the notification on iPhone, Mac, or iPad and follow the instructions to reset the password.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![reset password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id-3.jpg)
 
 Note that if you are changing your Apple ID password on an iPhone or iPad, you will need to enter your device's six-digit passcode, then reset a new password.
 
 Forgetting the password is particularly troublesome, but there is good news. That is, you can use [Password Manager](https://drfone.wondershare.com/iphone-password-manager.html) to find your passwords on your Apple iPhone 8 Plus/iPad without spending too much time remembering them!
-
-
 
 ### Dr.Fone - Password Manager (iOS)
 
@@ -100,6 +95,10 @@ If you think that your account has been disabled because of a payment issue, it 
 
 If the payment method was the issue, your account will be re-enabled after these steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3. Settle Any Unpaid Charges
 
 Do you have any unpaid purchases or subscriptions?
@@ -123,6 +122,10 @@ If you see a message that says, “Your account has been disabled in the App Sto
 
 ![disabled in the app store and itunes 2](https://images.wondershare.com/drfone/article/2023/05/getsupport-apple.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. What does it influence when “Your account has been disabled in the App Store and iTunes”?
 
 When you see the error message “Your account has been disabled in the App Store and iTunes” it often means the following:
@@ -140,16 +143,11 @@ No. The error message “Your account has been disabled in the App Store and iTu
 
 After you see these errors, you will not be able to access some of the features and apps that require your Apple ID for access.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5. How to fix Apple ID disabled by removing Apple ID?
 
 Sometimes the only way to [fix “Apple ID Disabled”](https://drfone.wondershare.com/apple-account/how-to-unlock-apple-id-disabled-activation-lock.html) is to remove the Apple ID from the Apple iPhone 8 Plus device. This may become a viable solution if you lost or forgot the Apple ID password or ID and you have no way to recover them. It is also one of the best solutions when you purchased a second-hand device, and you don’t know the Apple ID password for the account associated with the Apple iPhone 8 Plus device.
 
 One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This third-party unlocking software is designed to easily and effectively remove the Apple ID password from any device. The following are some things it can do;
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -199,9 +197,6 @@ Searching "**How to delete iCloud account**?" If you want to delete an iCloud ac
 
 Deleting your Apple ID is a significant decision that should not be taken lightly. Proceeding with Apple ID deletion is a final decision. Once initiated, there's no turning back. If you're certain about it, refer to this article for a step-by-step guide on **how to delete iCloud account** and explore alternative options if you need it.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![delete apple id account](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-01.jpg)
 
 ## Part 1: Deleting iCloud Account? Essential Preparations Before You Proceed
@@ -225,6 +220,10 @@ Review Your Active Subscriptions
 Also, to "**delete iCloud account**," first review any active subscriptions you may have, such as Apple Music, Apple TV+, or iCloud+ storage. If you don't want to continue these subscriptions, cancel them before deleting your account.
 
 ![apple id subscriptions on iphone](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Download Backups of Your Apps, Games, Music, Movies, TV Shows, Books, and Audiobooks
 
@@ -258,10 +257,11 @@ Here's "**how to remove iCloud account**" from your Apple iPhone 8 Plus without 
 - **Step 1:** Open the **Settings** app, then tap the **Apple ID** at the top of the Apple iPhone 8 Plus screen.
 - **Step 2:** Scroll down, tap on **Sign Out**, enter your Apple ID password, and tap on **Turn Off**.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![sign out apple id on iphone](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Tap on **Sign Out** to verify.
 
@@ -308,6 +308,10 @@ If you are sure of your decision and have prepared for the consequences, here's 
 
 ![enter access code](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7:** Review the summary of your deletion request, ensuring all details are accurate. Next, click **Delete Account** to finalize the deletion process.
 
 ![verify account deletion](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-12.jpg)
@@ -324,7 +328,6 @@ You're not alone if you've forgotten your Apple ID password or bought a used iPh
 Here's a step-by-step guide on how to use Dr.Fone to [<u>remove an iCloud account</u>](https://drfone.wondershare.com/icloud/how-to-remove-icloud-account.html) without a password:
 
 - **Step 1:** Download and install Dr.Fone on your desktop.
-
 
 - **Step 2:** Launch the software and go to **My Device**. Follow the in-app instructions to connect your Apple iPhone 8 Plus to your computer using a USB cable.
 
@@ -372,6 +375,10 @@ If you continue to "**remove iCloud account**", this will erase all data from yo
 
 ![unlock using downloaded firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 12:** Enter the code given in the dialogue box and click **Unlock** to continue.
 
 ![warning dialogue box](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
@@ -379,6 +386,10 @@ If you continue to "**remove iCloud account**", this will erase all data from yo
 - **Step 13:** Dr.Fone will then begin removing the iCloud account. Do not disconnect or use your device while the process is ongoing to avoid device issues.
 
 ![unlocking apple id status bar](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 14:** To finalize the Apple ID removal process, please check your device and click **Done** once you've verified it.
 
@@ -418,8 +429,6 @@ As you've learned, deleting an iCloud account is a permanent decision you cannot
 
 Apps like Dr.Fone provide a comprehensive solution for backing up your data and removing an iCloud account without a password. Its user-friendly interface and streamlined processes make it an ideal choice for those seeking a quick and hassle-free experience. Whether you're looking for an answer on "**how to delete iCloud account**" or "**remove iCloud account**," Dr.Fone is the ultimate tool to guide you through the process.
 
-
-
 ## Apple ID Locked or Disabled On Apple iPhone 8 Plus? 7 Mehtods You Can't-Miss
 
 Apple ID refers to the authentication method available for the Apple iPhone 8 Plus device to compromise users' personal information and settings. The Apple iPhone 8 Plus Apple ID will allow you to store and control data available on the Apple iPhone 8 Plus device; however, you need to re-generate the Apple iPhone 8 Plus passcode if you have forgotten the Apple iPhone 8 Plus passcode. Suppose, if you have forgotten the passcode and entered the wrong passcode six times, your Apple iPhone 8 Plus gets locked or has been disabled. According to your settings, if you have entered the wrong passcode too much time could even make your Apple iPhone 8 Plus delete all the data available.
@@ -429,6 +438,10 @@ This article will discuss how you can **unlock Apple ID** and remain secure. If
 ## Why Is Your Apple ID Locked or Disabled?
 
 ![apple id locked](https://images.wondershare.com/drfone/article/2022/03/apple-id-locked.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Some of the reasons causing your Apple ID locked or disabled are listed below:
 
@@ -440,8 +453,6 @@ If you frequently change your Apple ID or passcode on the Apple iPhone 8 Plus de
 ## Method 1: Professional iPhone Apple ID Lock Removal Tool \[Recommended\]
 
 If you have forgotten your Apple ID password, you are suggested not to enter the wrong passcode in a row. That may lead to data loss. You can download the Dr.Fone– Screen Unlock, which is compatible with different lock screens and will **unlock Apple ID easily**. [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) helps remove almost all sorts of iPhone passwords without the requirement of technical knowledge.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -463,6 +474,10 @@ Unlock iPhone ID.
 To unlock your Apple ID, you have to click on the “Unlock Apple ID” option.
 
 ![screen unlock home](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** You must know the passcode of the Apple iPhone 8 Plus to unlock the phone screen, which trusts the computer system for scanning the data available in the phone.
 
@@ -572,9 +587,6 @@ If you want to unlock **iPhone 13 Apple ID** and don't remember the password**,*
 
 **Step 5:** Now, when you tap on the “i” icon next to any Wi-Fi network (not connected), you need to look for the “Configure DNS” server option. Click on it and then select “Manual”, then click “Add Server.”
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![configure dns server](https://images.wondershare.com/drfone/article/2022/03/dns-bypass-2.png)
 
 You have to select the DNS from the option available according to your region.
@@ -596,6 +608,10 @@ You have to select the DNS from the option available according to your region.
 
 **Note:** This method is just a hack to use your device without the need for Apple ID. This method doesn't unlock your Apple ID.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 7: Ask Apple Support
 
 We are positive that the solutions above will get your issue resolved. However, just in case, if you're still stuck with the same issue and are unable to unlock Apple ID on iPhone, then we would suggest you get in touch with Apple Customer Support to help you with the best. You can either directly walk into your nearest Apple Support Center or simply visit [https://support.apple.com/](https://support.apple.com/) to get in touch with one of the customer support executives.
@@ -603,7 +619,6 @@ We are positive that the solutions above will get your issue resolved. However, 
 ## Conclusion
 
 From this article, you can know how to unlock your Apple ID and reset your password. There are different ways available that will resolve your **unlock iPhone issue**. However, Dr.Fone is the most recommended tool as it provides a screen lock solution and recognizes it as a one-stop solution for all iPhone problems. You can also share the effective methods in this article with your families and friends.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -617,9 +632,23 @@ From this article, you can know how to unlock your Apple ID and reset your passw
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-infusing-homes-with-suns-invisible-light/"><u>[New] Infusing Homes with Sun's Invisible Light</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-windows-screen-capture-top-5-applications-reviewed/"><u>[Updated] Free Windows Screen Capture Top 5 Applications Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-online-meetings-zoom-tips-for-chromebooks/"><u>2024 Approved Mastering Online Meetings Zoom Tips for Chromebooks</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-13-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off Apple iPhone 13 without Password</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-s18-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo S18 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/descargar-y-convertir-videos-de-ogv-a-formato-mpeg-completamente-libres-desde-la-web/"><u>Descargar Y Convertir Videos De OGV a Formato MPEG Completamente Libres Desde La Web</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-to-download-and-transform-bbc-iplayer-broadcasts-into-high-quality-mp3-audio/"><u>How to Download and Transform BBC iPlayer Broadcasts Into High-Quality MP3 Audio</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-13-pro-without-apple-id-password-by-drfone-ios/"><u>How To Erase an Apple iPhone 13 Pro Without Apple ID Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-13-pro-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From Apple iPhone 13 Pro?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-frequent-outlook-app-crashes-and-improve-stability/"><u>How to Stop Frequent Outlook App Crashes & Improve Stability</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-apple-iphone-7-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect Apple iPhone 7 and iPad</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-se-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone SE</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-11-pro-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 11 Pro? How to Fix it?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-captivating-book-video-tours/"><u>In 2024, Captivating Book Video Tours</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From iPhone 13 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-8-occasions-when-fully-charging-electronics-is-essential/"><u>Top 8 Occasions When Fully Charging Electronics Is Essential</u></a></li>
+</ul></div>
 

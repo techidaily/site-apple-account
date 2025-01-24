@@ -1,7 +1,7 @@
 ---
 title: "Successful Solution: Overcoming Sound Capture Hurdles in Discord for Games"
-date: 2025-01-16T02:23:39.023Z
-updated: 2025-01-18T04:49:54.200Z
+date: 2025-01-23T16:01:32.734Z
+updated: 2025-01-24T16:02:55.460Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * [2. Change sound settings](https://tools.techidaily.com/drivereasy/download/)
 * [3. Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Update audio drivers
 
  A properly working audio driver can make sure your device is working normally. If your Discord picks up the game audio, it might be caused by a malfunctioning audio driver. To make sure your audio works fine, you should update your audio driver:
@@ -51,10 +55,6 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 
  4) Once the driver is updated, reboot your PC for the changes to take effect.
@@ -71,7 +71,7 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Go to the**Recording** tab.
@@ -86,14 +86,10 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Reinstall Discord
@@ -107,12 +103,16 @@ There’re mainly two ways for you to update an audio driver:
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click Discord, and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once complete, you can download[**the latest Discord client**](https://discord.com/brand-new) and check if the issues persist in the new version.
 
@@ -137,19 +137,22 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-premiere-20-unlicensed-pubg-picture-collections/"><u>[Updated] Premiere 20 Unlicensed PUBG Picture Collections</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-top-ranked-5-backdrop-change-apps-for-iphones-x-8-7/"><u>[Updated] Top-Ranked 5 Backdrop Change Apps for iPhones (X, 8, 7)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-steps-for-downloading-and-setting-up-your-own-auto-gpt-system/"><u>Easy Steps for Downloading and Setting up Your Own Auto-GPT System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-pcs-solutions-for-no-audio-issue-on-windows-11/"><u>Fixing Silent PCs: Solutions for 'No Audio' Issue on Windows 11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-11-pro-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 11 Pro</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-15-pro-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-xr-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone XR?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-13-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 13</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-pop-7-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Pop 7 Pro to Outlook | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-6s-plus-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone 6s Plus and iPad</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Lava Storm 5G? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/pairing-bluetooth-audio-with-ps5-console/"><u>Pairing Bluetooth Audio with PS5 Console</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unboxing-the-epitome-of-mobile-tech-an-in-depth-review-of-samsung-galaxy-note-9s-stellar-big-display-features/"><u>Unboxing the Epitome of Mobile Tech: An In-Depth Review of Samsung Galaxy Note 9'S Stellar Big Display Features</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unraveling-the-concept-of-wi-fi-calling-for-beginners/"><u>Unraveling the Concept of Wi-Fi Calling for Beginners</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-how-to-download-youtube-videos-without-any-software-13-proven-ways/"><u>[Updated] In 2024, How to Download YouTube Videos without Any Software [13 Proven Ways]</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/10-essential-methods-to-record-virtual-seminars-at-no-expense-for-2024/"><u>10 Essential Methods to Record Virtual Seminars at No Expense for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-unveiling-the-ultimate-action-cam-max-360-vs-hero-11-gopro-showdown/"><u>2024 Approved Unveiling the Ultimate Action Cam Max 360 vs Hero 11 GoPro Showdown</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-15-plus-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 15 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-apple-iphone-12-mini-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On Apple iPhone 12 mini How to Bypass?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-iphone-11-pro-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On iPhone 11 Pro? Find the Best Solution Here</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/eye-movement-mastery-discovering-apples-groundbreaking-accessibility-updates-for-iphoneipad-control-detailed-by-zdnet/"><u>Eye Movement Mastery: Discovering Apple's Groundbreaking Accessibility Updates for iPhone/iPad Control Detailed by ZDNET</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-discord-installation-has-failed-error-on-windows-10-and-11/"><u>How to Fix the Discord “Installation Has Failed” Error on Windows 10 & 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-apple-iphone-se-2022-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On Apple iPhone SE (2022)? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-apple-iphone-11-pro-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your Apple iPhone 11 Pro From Your Apple ID</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-apple-iphone-se-2022-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your Apple iPhone SE (2022) without Security Questions?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-iphone-11-pro-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From iPhone 11 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On iPhone 13 Pro Max</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-turbocharged-windows-content-assessment/"><u>In 2024, Turbocharged Windows Content Assessment</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-roundup-post-vlc-media-players/"><u>The Ultimate Roundup Post-VLC Media Players</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-infinix-note-30-vip-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Infinix Note 30 VIP Users</u></a></li>
 </ul></div>
 

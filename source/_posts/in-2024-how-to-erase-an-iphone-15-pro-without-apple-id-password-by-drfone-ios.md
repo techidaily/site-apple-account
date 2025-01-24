@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Erase an iPhone 15 Pro Without Apple ID Password?
-date: 2024-12-13T06:03:56.958Z
-updated: 2024-12-20T06:22:11.610Z
+date: 2025-01-22T16:05:19.924Z
+updated: 2025-01-24T16:12:18.641Z
 tags: 
   - unlock
   - remove apple account
@@ -21,6 +21,10 @@ Have you ever wondered what happens when you erase the content of your Apple iPh
 This process is often necessary when you sell or give away your Apple iPhone 15 Pro to ensure your personal information remains secure. But, you may encounter a situation where you should learn **how to erase an iPhone without an Apple ID**. While this may seem challenging, you can use a few methods to achieve this goal. This article will show you how to do it with or without an Apple ID password.
 
 ![back and front of iphone 15](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: A Checklist on What To Do Before Erasing an iPhone
 
@@ -79,10 +83,6 @@ However, if you've forgotten your Apple ID password, don't fret. Follow the guid
 - **Step 5:** Input your Apple ID password or your passcode when prompted.
 - **Step 6:** Click **Continue** to confirm. Then, wait while the contents are being removed from your Apple iPhone 15 Pro device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How To Erase iPhone Without Apple ID Password on Computer?
 
 Activation lock is a security feature. It prevents anyone from activating an iPhone without your Apple ID password. If you try to factory reset your Apple iPhone 15 Pro without turning off Find My iPhone, the [<u>activation lock </u>](https://drfone.wondershare.com/icloud/unlock-icloud-activation.html) will be in place. It means you need to enter your Apple ID password to activate the Apple iPhone 15 Pro again. To turn it off, also ensure to turn off Find My on your device.
@@ -102,6 +102,10 @@ If you want to **erase an iPhone without Apple ID** password on your computer, y
 
 ![iphone in recovery mode](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Switch on your Apple iPhone 15 Pro. Then, connect it to a Mac or Windows computer using a USB cable.
 - **Step 5:** When prompted, follow the on-screen instructions to enter your device passcode or click **Trust This Computer**.
 - **Step 6:** Depending on your computer, open Finder or iTunes. Then, do either of the following:
@@ -114,10 +118,6 @@ If you want to **erase an iPhone without Apple ID** password on your computer, y
 - **Step 7:** Click **Restore** in the dialogue box. iTunes or Finder will download your Apple iPhone 15 Pro's latest iOS software and restore the Apple iPhone 15 Pro to its factory settings.
 
 ![restore iphone to factory settings](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 8:** Once the restore is complete, the Apple iPhone 15 Pro will restart.
 
@@ -176,16 +176,12 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 ![put iphone into recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 8:** Select an option from the **System Version** drop-down list, then click **Start**.
 
 ![select system version for the iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 9:** Wait while the iOS firmware downloads.
 
@@ -202,6 +198,10 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 - **Step 12:** Keep your Apple iPhone 15 Pro connected to your computer while the process progresses.
 
 ![unlocking apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 13:** Click **Done** and check that your Apple iPhone 15 Pro's data and Apple ID have been removed.
 
@@ -231,21 +231,17 @@ Apple locks your Apple ID mainly when you or someone else has entered the passwo
 
 If there are unauthorized purchases or suspicious transactions on your ID, Apple may consider locking it to prevent that activity. It happens to protect the user's financial information and to avoid any fraudulent activity from being done on that Apple ID.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Using Third-Party Tools
 
 Sometimes, when using third-party tools based on open-source iCloud sources, the Apple ID could get locked. Developers can integrate iCloud features into their applications to provide users with improved accessibility to their iCloud data.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Security Breach Reasons
 
 The ID can also get locked when Apple senses a potential security breach, which could lead to the exposure of your credentials. It may occur when someone tries to hack your ID to get some information, especially when it is being used in multiple areas.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Incorrect Security Questions
 
@@ -275,6 +271,10 @@ You have tried to resolve the problematic message indicating, "This Apple ID has
 
 ![tap on reset password](https://images.wondershare.com/drfone/article/2023/11/fix-apple-id-locked-for-security-reasons-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** In the next stage, you need to reset your password, and for that, you need to go through a verification process sent to your trusted device. You can reset the Apple ID password by tapping the "Allow" button. Following this, you must provide the trusted device passcode to initiate the password reset process.
 
 ![iphone to change apple id password](https://images.wondershare.com/drfone/article/2023/11/fix-apple-id-locked-for-security-reasons-4.jpg)
@@ -287,13 +287,13 @@ If your Apple ID is still inaccessible after implementing the methods, you can t
 
 ![proceed with reset password option](https://images.wondershare.com/drfone/article/2023/11/fix-apple-id-locked-for-security-reasons-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Choose the "Help Someone Else" option to continue. Then, give your Apple ID and hit the "Continue" button. There, you have to follow the on-screen instructions to reset your password and get access to it.
 
 ![press the continue button](https://images.wondershare.com/drfone/article/2023/11/fix-apple-id-locked-for-security-reasons-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 5. No Solution Yet? Try Wondershare Dr.Fone – Screen Unlock (iOS) To Unlock Locked Apple ID for Security Reasons
 
@@ -306,10 +306,6 @@ It is specifically designed to tackle the intricacies of iOS device management. 
 1. Using Wondershare Dr.Fone, you can also remove the Apple ID or screen lock from the latest iPhone 15 models.
 2. You can also manage your Apple iPhone 15 Pro data transfer or fix iDevice system issues with the help of Wondershare Dr.Fone.
 3. This tool can also help its users to remove the Screen Time Passcode and [<u>SIM lock</u>](https://drfone.wondershare.com/sim-unlock/sim-unlock-code.html).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How To Use Wondershare Dr.Fone To Unlock Locked Apple ID for Security Reasons
 
@@ -379,6 +375,10 @@ By understanding these scenarios, you can diagnose better why you’re facing th
 
 Encountering an “**Apple ID Verification Failed**” error can be frustrating. Here are some practical solutions that correspond to the common reasons for this issue. These steps should help you regain access to your Apple ID.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Connecting to a Stabler Internet Connection
 
 A stable internet connection is crucial. If you’re encountering issues, switch to a more reliable Wi-Fi network. Alternatively, toggling your Wi-Fi or mobile data off and back on can refresh your connection.
@@ -389,15 +389,19 @@ If you’re facing troubles due to password errors or 2FA issues, resetting your
 
 ![change password 2-factor authentication](https://images.wondershare.com/drfone/article/2024/01/apple-id-verification-not-working-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Check iPhone’s Date & Time Settings
 
 Incorrect date and time settings can influence Apple ID verification. Go to **Settings**, select **General**, and tap on **Date & Time**. Ensure **Set Automatically** is enabled, allowing your Apple iPhone 15 Pro to adjust these settings according to your time zone.
 
 ![date & time settings ios](https://images.wondershare.com/drfone/article/2024/01/apple-id-verification-not-working-04.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Signing Out/In Your Apple ID
 
@@ -453,10 +457,6 @@ Here’s how to use powerful Dr.Fone’s - Screen Unlock (iOS) to remove Apple I
 
 ![dr.fone download process](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 8:** After the firmware is confirmed, click **Unlock Now**. Then, type in “000000” on the appearing text box and click **Unlock**.
 
 ![remove apple id confirm](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
@@ -487,19 +487,20 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-broadcasting-vimeo-content-efficiently/"><u>[New] 2024 Approved Broadcasting Vimeo Content Efficiently</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-expert-techniques-for-streaming-facebook-live-2023/"><u>[New] 2024 Approved Expert Techniques for Streaming Facebook Live, 2023</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/udiovisual-symphony-adding-music-to-your-youtube-masterpieces-for-2024/"><u>[New] Audiovisual Symphony Adding Music to Your YouTube Masterpieces for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluation-of-viewing-seconds-in-a-20mb-videography/"><u>2024 Approved Evaluation of Viewing Seconds in a 20MB Videography</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-what-to-pick-for-your-youtube-videos-ideal-formats-explored/"><u>2024 Approved What to Pick for Your YouTube Videos? Ideal Formats Explored</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/crafting-virtual-laughter-the-metaverse-meme-journey-for-2024/"><u>Crafting Virtual Laughter The Metaverse Meme Journey for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/elite-gear-choosing-the-best-steadicams-for-drones-and-video-for-2024/"><u>Elite Gear Choosing the Best Steadicams for Drones and Video for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-apple-iphone-8-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From Apple iPhone 8 without Password?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone 12 Pro Max?</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Reasons why Pokémon GPS does not Work On Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-oppo-reno-8t-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Oppo Reno 8T for Streaming | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-iphone-6-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From iPhone 6? 5 Tips You Must Know</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-no-charge-subtitle-makers-srt/"><u>[New] The Ultimate Guide to No-Charge Subtitle Makers (SRT)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-beginners-guide-to-elevating-auditory-experiences-on-youtube/"><u>[Updated] 2024 Approved A Beginner's Guide to Elevating Auditory Experiences on YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-seamless-skype-call-recordings-a-cross-platform-approach/"><u>[Updated] Seamless Skype Call Recordings A Cross-Platform Approach</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-se-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone SE without the Previous Owner?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/dz-bank/"><u>DZ Bank</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-apple-iphone-15-by-drfone-ios/"><u>How to Fix when Apple Account Locked On Apple iPhone 15?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-apple-iphone-12-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From Apple iPhone 12? Find the Best Solution Here</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-iphone-se-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From iPhone SE? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For iPhone 11 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From iPhone 14 Pro Max</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/msi-sound-drivers-download-for-windows/"><u>MSI Sound Drivers Download for Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-ultimate-visual-experience-big-picture/"><u>Steam’s Ultimate Visual Experience: Big Picture</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-smartphone-photographers-handbook-for-2024/"><u>The Smartphone Photographer's Handbook for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-apple-iphone-12-mini-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your Apple iPhone 12 mini? How to Fix</u></a></li>
 </ul></div>
 

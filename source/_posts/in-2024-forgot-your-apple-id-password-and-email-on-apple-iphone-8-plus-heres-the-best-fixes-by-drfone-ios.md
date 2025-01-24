@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Your Apple ID Password and Email On Apple iPhone 8 Plus? Heres the Best Fixes
-date: 2024-07-14T12:32:54.682Z
-updated: 2024-07-15T12:32:54.682Z
+date: 2025-01-20T16:00:00.418Z
+updated: 2025-01-24T16:00:18.664Z
 tags: 
   - unlock
   - remove apple account
@@ -34,6 +34,10 @@ One of the quickest remedies for a misplaced Apple ID password involves starting
 
 ![choose the change password option](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### For MacBook
 
 - **Step 1.** Navigate to the top left corner of your Mac and select the Apple logo. From the dropdown menu, choose "System Settings." Inside "System Settings," click on your name and select "Sign-in & Security."
@@ -55,6 +59,10 @@ Have resetting the Apple ID password from the settings on your iOS device or Mac
 - **Step 2.** You will receive a confirmation code on one of your trusted Apple devices by proceeding to the next screen. Tap “Allow” on the confirmation pop-up, and you will be redirected to enter your trusted Apple device passcode. This will allow you to set a new password for your Apple ID.
 
 ![enter idevice old password](https://images.wondershare.com/drfone/article/2023/11/reset-apple-id-password-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 3: Reset Apple ID Password Using the Apple Support App
 
@@ -100,6 +108,10 @@ All you need to do is contact Apple support and request resetting your Apple ID 
 
 You can further shorten the process by using the verification code sent to your primary email. As far as the progress of the procedure is concerned, you can view it on the iForgot website by adding your Apple ID.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 6: Make Apple ID Account Recovery Easy With Wondershare Dr.Fone
 
 If you have been trying all the solutions and the Apple ID account has not yet recovered, then you need a more solid solution. Your Apple ID is the main aspect of your Apple devices to get your operations done smoothly. Without having access to it, you will be unable to utilize the services of the App Store, iCloud, and others.
@@ -107,8 +119,6 @@ If you have been trying all the solutions and the Apple ID account has not yet r
 That's why it's necessary to recover your Apple ID as soon as possible. [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a robust feature to unlock your Apple ID and resolve this problem permanently. This software can also bypass your Screen Time Passcode if you have forgotten your password. You will be able to use your Apple ID effectively after using this iOS screen unlock toolkit.
 
 ### Key Features of Wondershare Dr.Fone
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -135,7 +145,6 @@ At first, you will have to launch Wondershare Dr.Fone on your system and access 
 
 ![proceed with remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
-
 - Step 2: Get Your Apple iPhone 8 Plus into the Recovery Mode
 
 In the next step, proceed with unlocking your Apple iPhone 8 Plus and selecting the "Trust" option for system authentication. After doing this, you need to press the "Unlock Now" icon and follow the on-screen instructions to confirm the status of Screen Lock and [<u>Two-Factor Authentication</u>](https://drfone.wondershare.com/remove-apple-account/remove-apple-two-factor-authentication.html). Next, you will be required to enable Recovery Mode on your iDevice.
@@ -153,8 +162,6 @@ When your Apple iPhone 8 Plus has entered [<u>Recovery Mode</u>](https://drfone.
 In summary, the Apple ID serves as the fundamental key to unlocking a world of apps and services. Yet, the experience of forgetting the Apple ID password and email can be frustrating as it restricts users' access to their cherished accounts and services. Throughout this guide, we have explored a range of solutions on **how to retrieve the Apple ID**.
 
 It ensures that users regain control over their accounts within the Apple ecosystem. Furthermore, for more intricate and robust solutions, Wondershare Dr.Fone stands as the best choice. It offers a dedicated Unlock Apple ID feature. This presents an invaluable help to resolve Apple ID-related issues swiftly.
-
-
 
 ## How to Reset Apple ID and Apple Password On Apple iPhone 8 Plus
 
@@ -190,8 +197,9 @@ However, this process will only work if you know either your Apple ID, or your P
 You May Like: [How to Reset iPhone Without Apple ID >>](https://drfone.wondershare.com/reset-iphone/reset-iphone-without-apple-id.html)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Recover/Reset Apple Password via Email or Security Questions
 
 This method only works if you have a verified recovery email for your Apple account or a set of security questions that you set up. The recovery instructions can be sent to your recovery email or you can answer the security questions on the Apple website. Here is a step-by-step guide:
@@ -211,8 +219,6 @@ Also Read: [How to Remove iCloud Account with or without Password >>](https://dr
 ## Part 4: Reset Apple ID with no need to remember Password and Email
 
 If you want to try a 100% working technique to reset Apple ID, then use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). The application would get rid of the Apple ID linked to the Apple iPhone 8 Plus device without any related details like email id or password. Though, you should know that this will cause the loss of stored data on your device. You can reset Apple ID using Dr.Fone – Screen Unlock (iOS) easily, but make sure that you don't use it for any illegal activity.
-
-
 
 ### Dr.Fone - Screen Unlock
 
@@ -263,9 +269,6 @@ Like your password, Apple can help you recover your Apple ID or username as well
 4. You also have the option of entering up to 3 email addresses that you have used in the past.
 5. Click the "Next" button after which you will be presented with two other options. Click "Reset By Email" to receive the account reset instructions on your recovery email. Alternatively, click on "Answer Security Questions" to recover your Apple account right there on the website.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Forgot Apple ID](https://images.wondershare.com/drfone/others/14594014948787.jpg)
 
 Also Read: [3 Ways to Recover iCloud Password >>](https://drfone.wondershare.com/icloud/how-to-recover-icloud-password.html)
@@ -298,12 +301,20 @@ Also Read: [How to Factory Reset iPhone without Passcode >>](https://drfone.wond
 
 This is a new account recovery option that is built into iOS 9 and OS X El Capitan. If you have enabled it for your account, you can change or reset Apple password from [iforgot.apple.com](http://iforgot.apple.com/) or from any trusted iPad, iPhone, or iPod touch if you forgot your Apple ID password. The trusted device, however, only works if it has a passcode enabled.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to reset Apple password on Your own iPhone
 
 1. Open [iforgot.apple.com](http://iforgot.apple.com/) on any web browser and enter your Apple ID.
 2. You can now choose to "Reset from another device," or you can "Use trusted phone number." Choose either option, then click "Continue."
 
 ![check forgot apple id](https://images.wondershare.com/drfone/others/appleid-password-recovery-two-factor-screens-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. It would help if you now waited for prompt requesting access to the trusted device or phone number. Click "Allow." You can now reset your password.
 
@@ -323,13 +334,15 @@ If you can't access the trusted device, you can recover your password on any oth
 
 Now, if none of these methods work and you're completely locked out and completely frustrated, then you should [contact Apple](http://support.apple.com/en-us/HT5699) and seek their help to regain access to your account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 8: Recover lost data (Forgot Apple ID or Apple Password)
 
 If you can't log into your Apple account even after all this hassle, and if you're permanently locked out of your iCloud and Apple accounts, then you can try to [recover iCloud password](https://drfone.wondershare.com/icloud/how-to-recover-icloud-password.html), but your biggest concern should be to save and recover as much data as possible.
 
 Because the iCloud and Apple passwords are the same, you would also lose all the data that you've kept in your iCloud. However, you can retrieve it all using third-party software called [Dr.Fone - Data Recovery (iOS)](https://drfone.wondershare.com/data-recovery-iphone.html).
-
-
 
 ### Dr.Fone - Data Recovery (iOS)
 
@@ -411,9 +424,6 @@ Here's "**how to remove iCloud account**" from your Apple iPhone 8 Plus without 
 - **Step 1:** Open the **Settings** app, then tap the **Apple ID** at the top of the Apple iPhone 8 Plus screen.
 - **Step 2:** Scroll down, tap on **Sign Out**, enter your Apple ID password, and tap on **Turn Off**.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![sign out apple id on iphone](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-05.jpg)
 
 - **Step 3:** Tap on **Sign Out** to verify.
@@ -425,9 +435,6 @@ Follow these steps below to remove an iCloud account from your macOS Ventura or 
 - **Step 1:** Click on the Apple logo in the top left corner of your screen, then choose **System Settings**.
 - **Step 2:** Click on the **Apple ID** icon and click **Sign Out**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![sign out apple id on mac](https://images.wondershare.com/drfone/article/2023/11/how-to-delete-icloud-account-06.jpg)
 
 - **Step 3:** Select the data files you want to save, then click **Keep a Copy**.
@@ -481,7 +488,6 @@ Here's a step-by-step guide on how to use Dr.Fone to [<u>remove an iCloud accoun
 
 - **Step 1:** Download and install Dr.Fone on your desktop.
 
-
 - **Step 2:** Launch the software and go to **My Device**. Follow the in-app instructions to connect your Apple iPhone 8 Plus to your computer using a USB cable.
 
 I**mage name: how-to-delete-icloud-account-13.png**
@@ -490,9 +496,6 @@ I**mage name: how-to-delete-icloud-account-13.png**
 
 - **Step 3:** Go to Toolbox from the left navigation pane and select **Screen Unlock** > **iOS**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone toolbox interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 4:** Select **Remove AppleID** on the next window.
@@ -511,9 +514,17 @@ If you continue to "**remove iCloud account**", this will erase all data from yo
 
 ![confirm screen lock set up](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7:** Click **Yes** if you have already enabled [<u>Two-Factor Authentication</u>](https://drfone.wondershare.com/remove-apple-account/remove-apple-two-factor-authentication.html) on your Apple iPhone 8 Plus.
 
 ![confirm 2fa set up](https://images.wondershare.com/drfone/guide/remove-apple-id-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 8:** Follow the on-screen instructions to put your device into Recovery Mode.
 
@@ -571,12 +582,15 @@ Keep the unique alphanumeric access code you'll receive. You'll need it to react
 
 [<u>iOS 16: Best Ways to Bypass iCloud Activation Lock on iPhone/iPad</u>](https://drfone.wondershare.com/ios-16/how-to-bypass-icloud-activation-lock-screen-on-ios-16.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 As you've learned, deleting an iCloud account is a permanent decision you cannot reverse. Once deleted, your account and all associated data will be permanently erased from Apple's servers. Thus, it's crucial to back up your data before proceeding.
 
 Apps like Dr.Fone provide a comprehensive solution for backing up your data and removing an iCloud account without a password. Its user-friendly interface and streamlined processes make it an ideal choice for those seeking a quick and hassle-free experience. Whether you're looking for an answer on "**how to delete iCloud account**" or "**remove iCloud account**," Dr.Fone is the ultimate tool to guide you through the process.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -590,9 +604,18 @@ Apps like Dr.Fone provide a comprehensive solution for backing up your data and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-bridging-the-gap-incorrancing-youtube-links-within-presentation-software-for-2024/"><u>[Updated] Bridging the Gap Incorrancing YouTube Links Within Presentation Software for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-deciding-between-30fps-and-60fps-whats-best-for-video-in-2024/"><u>[Updated] Deciding Between 30Fps and 60Fps What's Best For Video, In 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>2024 Approved HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/aiseesoft-screen-recorder-review-for-2024/"><u>Aiseesoft Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-apple-iphone-se-2022-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your Apple iPhone SE (2022) Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-14-pro-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone 14 Pro without Password?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-30-groundbre-writers-making-metaverse-memes-thrive/"><u>In 2024, 30 Groundbre Writers Making Metaverse Memes Thrive</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-se-2020-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an Apple iPhone SE (2020) Without Apple ID Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-apple-iphone-6-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from Apple iPhone 6 without Password?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/smart-image-management-adjusting-iphone-photo-sizes/"><u>Smart Image Management Adjusting iPhone Photo Sizes</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-3gp-trimmer-cut-edit-and-save-for-2024/"><u>The Ultimate 3GP Trimmer Cut, Edit, and Save for 2024</u></a></li>
+</ul></div>
 

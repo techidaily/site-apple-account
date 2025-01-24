@@ -1,7 +1,7 @@
 ---
 title: Your Account Has Been Disabled in the App Store and iTunes On iPhone 8 Plus?
-date: 2024-07-14T12:31:40.131Z
-updated: 2024-07-15T12:31:40.131Z
+date: 2025-01-18T16:00:53.963Z
+updated: 2025-01-24T16:01:41.722Z
 tags: 
   - unlock
   - remove apple account
@@ -63,6 +63,10 @@ If you just forget the password and cannot remember it, you can follow the steps
 
 ![reset apple id password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Look for the notification on iPhone, Mac, or iPad and follow the instructions to reset the password.
 
 ![reset password](https://images.wondershare.com/drfone/article/2022/04/reset-apple-id-3.jpg)
@@ -71,7 +75,9 @@ Note that if you are changing your Apple ID password on an iPhone or iPad, you w
 
 Forgetting the password is particularly troublesome, but there is good news. That is, you can use [Password Manager](https://drfone.wondershare.com/iphone-password-manager.html) to find your passwords on your Apple iPhone 8 Plus/iPad without spending too much time remembering them!
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Password Manager (iOS)
 
@@ -137,16 +143,11 @@ No. The error message “Your account has been disabled in the App Store and iTu
 
 After you see these errors, you will not be able to access some of the features and apps that require your Apple ID for access.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5. How to fix Apple ID disabled by removing Apple ID?
 
 Sometimes the only way to [fix “Apple ID Disabled”](https://drfone.wondershare.com/apple-account/how-to-unlock-apple-id-disabled-activation-lock.html) is to remove the Apple ID from the Apple iPhone 8 Plus device. This may become a viable solution if you lost or forgot the Apple ID password or ID and you have no way to recover them. It is also one of the best solutions when you purchased a second-hand device, and you don’t know the Apple ID password for the account associated with the Apple iPhone 8 Plus device.
 
 One of the best ways to remove the Apple ID from an iOS device is to use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This third-party unlocking software is designed to easily and effectively remove the Apple ID password from any device. The following are some things it can do;
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -196,14 +197,15 @@ An Apple ID functions as a vital passageway to a diverse array of Apple services
 
 One such problem is the daunting phenomenon of the **Apple ID being greyed out**. It also prevents users from accessing essential features and services. Thankfully, solutions to these issues do exist. Understanding the root cause and implementing the appropriate solution is crucial. This article aims to delve into one of the most effective methods to tackle the troubling problem of the Apple ID greyed-out issue.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Part 1: Why Did the Apple ID Greyed Out? Coming to the Reasons
 
 Dealing with a greyed-out Apple ID can undoubtedly lead to a frustrating experience. It also hinders your access to essential Apple services. Before delving into the solutions, understanding **why Apple ID is grayed out** is essential. Several factors can contribute to the greying out of your Apple ID, and some of these are given below:
 
 ![reasons for apple id greyed out](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Apple ID Signed In on Another Device
 
@@ -217,13 +219,25 @@ Multiple [<u>failed attempts at entering the Apple ID password</u>](https://drfo
 
 Fluctuating or unstable network connections can also contribute to the Apple ID greying out. When the Apple iPhone 8 Plus device is unable to establish a stable connection with Apple's servers, it may manifest as an unresponsive or greyed-out Apple ID. Thus restricting access to various Apple services and features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Software Glitches or Bugs
 
 Software inconsistencies within the Apple iPhone 8 Plus device's operating system can lead to temporary malfunctions. That results in the greying out of the Apple ID. Such glitches can arise due to software updates or incomplete installations. It can also happen due to conflicts between different applications.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Apple Server Maintenance or Outage
 
 Periodic maintenance or unexpected server outages on Apple's end can disrupt the functionality of the Apple ID. As a result, you experience temporary Apple ID grey-out issues. During such occurrences, users may experience difficulties accessing their Apple ID.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Finding the Proper Solutions to Apple ID Greyed Out \[Highly Effective\]
 
@@ -262,6 +276,10 @@ This simple solution can help restore full access to your Apple ID and associate
 
 ![turn off the screen time passcode](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 4: Restarting the iOS Device
 
 Performing a simple restart on your iOS device can resolve various software-related glitches. It also includes glitches behind the greying out of the Apple ID. By restarting your iOS device, you can refresh the system's processes. This simple yet effective solution can help restore normal functionality to your device. Follow these steps to restart your iOS device to fix the **Apple ID grayed-out** problem:
@@ -283,11 +301,12 @@ Resetting all settings on your iOS device can effectively resolve persistent sof
 
 ![choose transfer or reset iphone](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Navigate to the next screen and tap "Reset." From there, choose the option for "Reset All Settings." A prompt will appear, requesting your device passcode for verification. Once entered, proceed with the "Reset All Settings" to finalize the process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset all iphone settings](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-8.jpg)
 
 ### Solution 7: Contact Apple Customer Support
@@ -306,8 +325,6 @@ Dr.Fone does this resolving procedure through its powerful Screen Time Passcode 
 
 ### Key Features of Wondershare Dr.Fone
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
@@ -323,9 +340,6 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - It can also bypass the MDM or remove the MDM profiles to allow you to use your Apple iPhone 8 Plus normally.
 - You can unlock your Apple iPhone 8 Plus or iPad screen lock without a password if you can't remember it.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix Apple ID Greyed Out Issues by Unlocking Forgotten Screen Time Passcode
 
 Wondershare Dr.Fone is an easy-to-use software with a simple guide to fix your Apple device issues. Here is how to fix Apple ID greyed-out issues with Wondershare Dr.Fone - Screen Unlock (iOS):
@@ -335,7 +349,6 @@ Wondershare Dr.Fone is an easy-to-use software with a simple guide to fix your A
 You need to start the process by opening Wondershare Dr.Fone and moving towards the “Toolbox” section. At that location, select “Screen Unlock” from the options provided. Then, select the “iOS” option from the window to define the type of your device.
 
 ![choose the screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 - Step 2: Start the Unlocking Process and Connect Your iDevice
 
@@ -355,9 +368,6 @@ Throughout this article, we have explored the perplexing issue of the **Apple ID
 
 We recommend that users diligently follow the steps provided in each solution. So that they can identify and rectify the specific cause of the problem. However, in cases where the issue persists, we highlighted the significance of using Wondershare Dr.Fone. It offers a specialized Screen Time Passcode Unlock feature. Moreover, this ensures the smooth operation of Apple ID and associated services.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Apple Account Disabled On your Apple iPhone 8 Plus? How to Fix
 
 Apple is one of the leading smartphone developing enterprises that has introduced the world to a contemporary set of features that are not common among other leading smartphone companies. One of the major distinguishing characteristics of Apple has been displayed in its present security protocols. Apple Account is regarded as one of the most significant credentials of the Apple iPhone 8 Plus and iPad that is responsible for connecting and holding the applications and the assorted data. Many users have generally reported unusual situations that got their Apple Account disabled. There are several reasons that can be associated with the Apple account getting disabled. The major repercussion that is associated with it is unnecessary data loss following the suspension of all products that have been bought with the account over time. This article provides you an impressive overview of the major reasons that lead to your Apple Account getting disabled, followed by the associated mechanisms that can be tested to secure the account.
@@ -386,6 +396,10 @@ Even though Apple accounts can be generally disabled overpayment issues, there a
 
 As this article provides you a detailed overview of the reasons that lead to your Apple Account getting disabled, this article also considers providing you a few tips and tricks that would guide you in efficiently unlocking your Apple Account and use it with ease.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Unlock disabled Apple account with Dr. Fone
 
 The first remedy that can be effectively tested across such situations that involve disabled Apple accounts is relating a third-party platform. Dedicated third-party tools are quite common in the market and provide users with adequate services that allow them to unlock their devices with ease. Out of this uncountable list of platforms, this article introduces you to a specific platform that offers you unique features with a user-interface that can be easily apprehended. [Dr. Fone – Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) offers you the perfect environment that would lead you in reversing the disabling of your Apple Account easily. There are several reasons that make this platform the first choice of users all around the globe, which are declared as follows:
@@ -408,6 +422,10 @@ Initially, it is significant to download the platform and install it by followin
 With the home window on your front, you are required to tap on the 'Screen Unlock' tool from the list of options to open a new screen. On the new screen, you are required to select the last option of "Unlock Apple ID" to initiate the process.
 
 ![select-the-option-of-screen-unlock](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Trust the Computer and Access Device Settings**
 
@@ -447,9 +465,6 @@ The platform will send a verification code that would allow you to unlock your d
 
 This article has provided you a detailed guide over the existing reasons that would have your Apple account disabled, followed by different tips that can be followed to cover your assorted problems efficiently.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -462,9 +477,24 @@ This article has provided you a detailed guide over the existing reasons that wo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-depth-analysis-complete-overhaul-of-facetune-app/"><u>[Updated] In-Depth Analysis Complete Overhaul of Facetune App</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-pureimage-the-backdrop-cutter-for-2024/"><u>[Updated] PureImage The Backdrop Cutter for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-revolutionizing-video-creation-with-magix-video-pro-x/"><u>2024 Approved Revolutionizing Video Creation with Magix Video Pro X</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-rooting-in-cities-cultivating-urban-biodiversity/"><u>2024 Approved Rooting in Cities Cultivating Urban Biodiversity</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-oneplus-ace-3-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from OnePlus Ace 3 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-14-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone 14 How to Bypass?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-apple-iphone-8-plus-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On Apple iPhone 8 Plus How to Bypass?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beyond-the-screen-arvr-infused-inspirational-sayings-for-2024/"><u>Beyond the Screen AR/VR-Infused Inspirational Sayings for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-6s-plus-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-13-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone 13?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-14-plus-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-apple-iphone-13-pro-max-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On Apple iPhone 13 Pro Max? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-iphone-11-pro-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 11 Pro Device from iCloud</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-iphone-11-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On iPhone 11 Making It Possible</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nt-subscriber-tally-software/"><u>Instant Subscriber Tally Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/selective-cinematic-forecast-collection-for-2024/"><u>Selective Cinematic Forecast Collection for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-techniques-for-crafting-breathtakingly-long-lasting-time-movies-using-photo-apps-and-online-services-for-2024/"><u>Step by Step Techniques for Crafting Breathtakingly Long Lasting Time Movies Using Photo Apps & Online Services for 2024</u></a></li>
+</ul></div>
 

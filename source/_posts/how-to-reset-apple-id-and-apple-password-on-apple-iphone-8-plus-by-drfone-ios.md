@@ -1,7 +1,7 @@
 ---
 title: How to Reset Apple ID and Apple Password On Apple iPhone 8 Plus
-date: 2024-07-14T12:29:32.389Z
-updated: 2024-07-15T12:29:32.390Z
+date: 2025-01-19T16:01:40.280Z
+updated: 2025-01-24T16:04:04.655Z
 tags: 
   - unlock
   - remove apple account
@@ -59,6 +59,10 @@ This method only works if you have a verified recovery email for your Apple acco
 
 ![check forgot apple id](https://images.wondershare.com/drfone/others/reset-appleid-password-screens-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** Having a recovery email for your Apple account is probably the easiest method for future recovery. If you however prefer security questions, avoid obvious questions and instead use questions that only you can get.
 
 Also Read: [How to Remove iCloud Account with or without Password >>](https://drfone.wondershare.com/icloud/how-to-remove-icloud-account.html)
@@ -66,8 +70,6 @@ Also Read: [How to Remove iCloud Account with or without Password >>](https://dr
 ## Part 4: Reset Apple ID with no need to remember Password and Email
 
 If you want to try a 100% working technique to reset Apple ID, then use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). The application would get rid of the Apple ID linked to the Apple iPhone 8 Plus device without any related details like email id or password. Though, you should know that this will cause the loss of stored data on your device. You can reset Apple ID using Dr.Fone – Screen Unlock (iOS) easily, but make sure that you don't use it for any illegal activity.
-
-
 
 ### Dr.Fone - Screen Unlock
 
@@ -108,6 +110,10 @@ When the Apple ID is unlocked, you will be notified. You can now safely remove t
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: Forgot Apple ID? How to Reset Apple ID
 
 Like your password, Apple can help you recover your Apple ID or username as well. Just follow this concise guide:
@@ -146,6 +152,10 @@ Now if you happen to lose any two of the above at the same time, there is no way
 
 Also Read: [How to Factory Reset iPhone without Passcode >>](https://drfone.wondershare.com/reset-iphone/factory-reset-iphone-without-passcode.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 7: Using Apple's Two-Factor Authentication (Forgot Apple ID Password)
 
 This is a new account recovery option that is built into iOS 9 and OS X El Capitan. If you have enabled it for your account, you can change or reset Apple password from [iforgot.apple.com](http://iforgot.apple.com/) or from any trusted iPad, iPhone, or iPod touch if you forgot your Apple ID password. The trusted device, however, only works if it has a passcode enabled.
@@ -156,6 +166,10 @@ This is a new account recovery option that is built into iOS 9 and OS X El Capit
 2. You can now choose to "Reset from another device," or you can "Use trusted phone number." Choose either option, then click "Continue."
 
 ![check forgot apple id](https://images.wondershare.com/drfone/others/appleid-password-recovery-two-factor-screens-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. It would help if you now waited for prompt requesting access to the trusted device or phone number. Click "Allow." You can now reset your password.
 
@@ -175,13 +189,15 @@ If you can't access the trusted device, you can recover your password on any oth
 
 Now, if none of these methods work and you're completely locked out and completely frustrated, then you should [contact Apple](http://support.apple.com/en-us/HT5699) and seek their help to regain access to your account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 8: Recover lost data (Forgot Apple ID or Apple Password)
 
 If you can't log into your Apple account even after all this hassle, and if you're permanently locked out of your iCloud and Apple accounts, then you can try to [recover iCloud password](https://drfone.wondershare.com/icloud/how-to-recover-icloud-password.html), but your biggest concern should be to save and recover as much data as possible.
 
 Because the iCloud and Apple passwords are the same, you would also lose all the data that you've kept in your iCloud. However, you can retrieve it all using third-party software called [Dr.Fone - Data Recovery (iOS)](https://drfone.wondershare.com/data-recovery-iphone.html).
-
-
 
 ### Dr.Fone - Data Recovery (iOS)
 
@@ -221,6 +237,10 @@ One common reason for the Apple ID to appear greyed out is when it is actively s
 
 Multiple [<u>failed attempts at entering the Apple ID password</u>](https://drfone.wondershare.com/icloud/how-to-recover-icloud-password.html) can trigger security measures. It can temporarily disable the account, causing it to grey out. This security measure is created to safeguard the account against unauthorized entry. Nevertheless, it may limit access to the Apple ID in the event of multiple incorrect password entries.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Network Connection Issues
 
 Fluctuating or unstable network connections can also contribute to the Apple ID greying out. When the Apple iPhone 8 Plus device is unable to establish a stable connection with Apple's servers, it may manifest as an unresponsive or greyed-out Apple ID. Thus restricting access to various Apple services and features.
@@ -244,6 +264,10 @@ In some instances, the greying out of the Apple ID can be attributed to specific
 - **Step 1:** Access the Settings app on your Apple iPhone 8 Plus and tap "Screen Time." Here, select "Content & Privacy Restrictions" and move down to the "Allow Changes" section.
 
 ![choose content and privacy restrictions](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Now, navigate to "Account Changes" and ensure it is set to "Allow." Afterward, check if the Apple ID is working normally again.
 
@@ -289,9 +313,6 @@ Resetting all settings on your iOS device can effectively resolve persistent sof
 
 - **Step 1:** To start, you access the Settings app and navigate to the "General" settings tab. There, scroll to the bottom till the last option and tap on "Transfer or Reset iPhone."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose transfer or reset iphone](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-7.jpg)
 
 - **Step 2:** Navigate to the next screen and tap "Reset." From there, choose the option for "Reset All Settings." A prompt will appear, requesting your device passcode for verification. Once entered, proceed with the "Reset All Settings" to finalize the process.
@@ -307,17 +328,24 @@ By contacting Apple's customer support, you can receive expert help. The support
 ![contact the apple support team](https://images.wondershare.com/drfone/article/2023/11/apple-id-greyed-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Advanced Solution: Try Wondershare Dr.Fone Screen Unlock if the Previous Solutions Are Ineffective
 
 You have implemented all the methods mentioned above, and your **Apple ID greyed-out** issue is not resolved. It means you need a more efficient solution. [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is one of the most effective and solid solutions to fix the Apple ID greyed-out issue. Without resolving this problem, your Apple ID would be of no use; that is the main functional unit in your iOS devices.
 
 Dr.Fone does this resolving procedure through its powerful Screen Time Passcode unlock feature. It is also a primary remedy to unlock the locked screen of your Apple devices. Moreover, this tool can [<u>bypass the iCloud activation lock</u>](https://drfone.wondershare.com/icloud/unlock-icloud-activation.html) and Apple ID without any password requirement. Through this Screen Unlock tool, you will be able to resolve your issue quickly and without any technical knowledge.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Features of Wondershare Dr.Fone
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -344,7 +372,6 @@ You need to start the process by opening Wondershare Dr.Fone and moving towards 
 
 ![choose the screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - Step 2: Start the Unlocking Process and Connect Your iDevice
 
 You will find yourself in a list of options from where you need to continue with the "Unlock Screen Time Passcode" option. Next, connect your iOS device to the computer via a USB cable. Then, wait for Wondershare Dr.Fone to detect your Apple iPhone 8 Plus.
@@ -357,9 +384,6 @@ After the connection, select the "Unlock Now" button to unlock your screen time 
 
 ![press the unlock now button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Final Words
 
 Throughout this article, we have explored the perplexing issue of the **Apple ID grayed out in settings**. It can hinder the smooth functioning of your iOS device and access to various Apple services. By going through the root causes behind this problem, we have outlined several solutions. These can help users address the issue and regain access to their Apple ID.
@@ -374,28 +398,12 @@ Out of these problems, users aren't able to update or download applications that
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jmU_WBObOEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-
 ## Part 1: How to get someone else's Apple ID off iPhone without a password using Dr. Fone – Screen Unlock (iOS)
 
 There are many prompt notifications you would receive when trying to log into the Apple ID. In many cases, we might see that the users either would have [forgotten their Apple ID passwords](https://drfone.wondershare.com/icloud/forgot-icloud-password.html) or couldn’t find the password of someone else’s Apple ID. But here’s the kicker, with [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) your ID can be unlocked by keenly following a few steps as described below:
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (iOS)
 
 Log out iPhone's Apple ID without Password
@@ -430,7 +438,6 @@ Log out iPhone's Apple ID without Password
 
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
-
 ## Part 2: How to get rid of someone’s Apple ID off iPhone with the previous owner’s help?
 
 Signing out of the Apple ID on your Apple iPhone 8 Plus is very easy if you are in contact with the previous owner. There are a few methods that are available for understanding how to remove the Apple ID from the Apple iPhone 8 Plus with their help.
@@ -460,9 +467,6 @@ There might be a case where your subordinates or relative might have downloaded 
 
 Having another Apple ID logged in doesn't mean that everything is long lost. Several ways and scenarios help users to counter this problem easily. It's easy to bypass Apple ID without a password remotely if you have the right tool. In that case, [Dr.Fone - Screen Unlock (iOS)](https://download.wondershare.com/drfone_unlock_full3372.exe) can definitely be your right choice. This article is a complete guide on how to combat the issue of having someone else's Apple ID logged in to your Apple iPhone 8 Plus.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -475,9 +479,21 @@ Having another Apple ID logged in doesn't mean that everything is long lost. Sev
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-streamlining-your-screen-share-experience-with-meet/"><u>[New] Streamlining Your Screen Share Experience with Meet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-speedy-scripts-top-1-written-game-experiences-on-devices/"><u>[Updated] 2024 Approved Speedy Scripts Top 1 Written Game Experiences on Devices</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-masterful-sound-setup-ultimate-tips-and-gear-list-for-2024/"><u>[Updated] Masterful Sound Setup Ultimate Tips & Gear List for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-essential-tips-building-an-instagram-money-machine/"><u>2024 Approved Essential Tips Building an Instagram Money Machine</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-lava-blaze-2-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Lava Blaze 2 Pro Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-15-plus-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone 15 Plus Apple ID on MacBook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-iphone-15-plus-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On iPhone 15 Plus</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-lava-blaze-pro-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Lava Blaze Pro 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-iphone-8-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From iPhone 8</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-iphone-12-mini-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From iPhone 12 mini</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/m3-macbook-pro-upgrade-experience-seamless-multi-display-support-just-as-the-air-version/"><u>M3 Macbook Pro Upgrade: Experience Seamless Multi-Display Support Just as the Air Version!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-art-of-recording-your-online-fb-conversations/"><u>The Art of Recording Your Online FB Conversations</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unlocking-your-potential-in-free-youtube-transcription-techniques/"><u>Unlocking Your Potential in Free YouTube Transcription Techniques</u></a></li>
+</ul></div>
 

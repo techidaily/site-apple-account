@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Apple ID From your iPhone 8 Plus without Security Questions?
-date: 2024-07-14T12:32:02.969Z
-updated: 2024-07-15T12:32:02.969Z
+date: 2025-01-23T16:00:16.129Z
+updated: 2025-01-24T16:00:08.870Z
 tags: 
   - unlock
   - remove apple account
@@ -101,9 +101,6 @@ In this comprehensive guide, we'll learn how to **change the credit card on Appl
 
 We'll explore 3 different methods to change the credit card details associated with your Apple ID in this section. These methods allow you to update your payment information effortlessly, ensuring uninterrupted access to Apple services.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Way 1: Update Credit Card on iPhone/iPad
 
 The first method involves updating your payment information directly from your Apple iPhone 8 Plus or iPad's settings. This method is convenient for those who prefer managing their Apple ID details on their iOS devices. Here is **how to change your credit card on Apple ID** via iPhone or iPad:
@@ -150,9 +147,6 @@ To update the credit card information linked to your Apple ID, we'll now provide
 
 - **Step 2:** Following this, click on "Manage Payments," and your current payment methods that are listed will be shown to you. There, click on "Add Payment" to add a new payment method quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hit the add payment button](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-9.jpg)
 
 - **Step 3:** After clicking on this option, you can enter details of your new payment method. Once the details are entered successfully, click "Done" to save the changes, and you are good to go. Tap the "Edit" option in front of the old credit card and choose "Remove Payment Method" to remove it from your Apple ID.
@@ -164,8 +158,6 @@ To update the credit card information linked to your Apple ID, we'll now provide
 While learning **how to change a credit card on your Apple Account**, you encounter an unexpected hurdle - your Apple ID has become locked. This can undoubtedly be a frustrating and troublesome scenario, considering the crucial role your Apple ID plays within the Apple ecosystem. Nevertheless, there's no cause for alarm, as we've got a solution ready to promptly unlock your Apple ID and have you back on course.
 
 The solution is [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/), a tool that is able to [<u> remove Apple ID from your iOS devices without needing the password</u>](https://drfone.wondershare.com/unlock/how-to-get-someones-apple-id-off-iphone-without-password.html). It is a comprehensive tool that has the ability to remove your Apple ID from your device permanently. This tool works its magic in removing Apple ID, whereas other tools fail when the Find My feature is enabled.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -192,11 +184,7 @@ Following are the steps to unlock and [<u>remove old Apple ID from your iOS devi
 
 To initiate the Apple ID unlocking process, you will need to install and launch Wondershare Dr.Fone. Then, choose "Toolbox" from the left bar and go on to click "Screen Unlock." Select "iPhone" as your device type, and since we are removing Apple ID, click "Remove Apple ID.”
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access the screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 - Step 2: Proceed to Activate Recovery Mode
 
@@ -208,14 +196,15 @@ Now is the time to connect your iOS device to the computer using a respective ca
 
 Wondershare Dr.Fone will detect your device model once it is in Recovery Mode. Choose a system version to download by clicking “Start.” Once it has been downloaded and verified, tap "Unlock Now." It will lead to a prompt warning about data loss. Here, enter "000000" to confirm your choice and click "Unlock." Dr.Fone will go on to remove Apple ID from your device.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![add the confirmation code](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
 
 ## Part 2: 3 Methods To Change the Default Credit Card on Apple Pay
 
 In our exploration of managing your credit card within the Apple ecosystem, we now focus on changing the default credit card linked to your Apple Pay. Apple Pay stands as a robust digital wallet solution, and understanding the process of updating your payment details is crucial for ensuring a secure user experience. Here, we will explore three approaches on **how to change credit card on Apple Pay**:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Change the Default Card on the iPhone
 
@@ -224,6 +213,10 @@ We start by exploring how to change the default credit card on Apple Pay using y
 **Instructions:** On your Apple iPhone 8 Plus, access and open the Wallet app. Inside the app, locate the payment card you wish to set as your default. Touch and hold the selected payment card. Drag the card to the forefront, positioning it ahead of your other cards.
 
 ![change apple pay default card iphone](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Set New Card as Default on iPad or Mac
 
@@ -241,6 +234,10 @@ Whether you prefer using your iPad for managing your payment methods or you're o
 
 ![choose the default card option](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Use Apple Watch to Change Default Card
 
 The last stop on our journey to manage your default credit card on Apple Pay is the Apple Watch. If you are an Apple Watch user, then these instructions can assist you in **how to change your credit card on Apple Pay**:
@@ -248,6 +245,10 @@ The last stop on our journey to manage your default credit card on Apple Pay is 
 **Instructions:** Access and launch the Apple Watch app on your Apple iPhone 8 Plus and navigate the "My Watch" tab. There, tap on "Wallet & Apple Pay" within My Watch tab and scroll down in it to find the section labeled "Transaction Defaults." In this section, you'll find the "Default Card" option. Simply tap on it to select the card you wish to set as the default.
 
 ![tap on the default card](https://images.wondershare.com/drfone/article/2023/10/change-credit-card-on-apple-id-and-apple-pay-17.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -272,6 +273,10 @@ Backup Your Apple iPhone 8 Plus
 You can [<u>back up to iCloud</u>](https://drfone.wondershare.com/iphone-backup-and-restore.html) or use Finder on macOS 10.15 or later. Remember that iCloud backups are stored on Apple's servers and always encrypts backups. On the other hand, computer backups are stored on your computer's hard drive and require a connection to the backup computer. Consider what your needs and preferences are when choosing between these two backup options.
 
 ![several ways to backup iphone](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Prepare Your Apple iPhone 8 Plus Passcode
 
@@ -310,9 +315,6 @@ However, if you've forgotten your Apple ID password, don't fret. Follow the guid
 - **Step 1:** Open the **Settings** application, then tap **\[name\]**.
 - **Step 2:** Go to **Sign-In & Security** > **Change Password**.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change apple id password](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-05.jpg)
 
 - **Step 3:** Follow the on-screen instructions to reset your Apple ID password.
@@ -355,6 +357,10 @@ If you want to **erase an iPhone without Apple ID** password on your computer, y
 
 ![restore iphone to factory settings](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 8:** Once the restore is complete, the Apple iPhone 8 Plus will restart.
 
 ## Part 4: Erase an iPhone Without Apple ID via Activation Lock Support Request
@@ -370,9 +376,17 @@ To start this request, follow these steps:
 
 ![apple activation lock support page](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Enter your email address and other required information, then click **Continue**.
 
 ![request activation lock support online](https://images.wondershare.com/drfone/article/2023/11/erase-an-iphone-without-apple-id-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: How To Erase an iPhone Without an Apple ID Password in Minutes?
 
@@ -386,7 +400,6 @@ The time it takes to process an unlock Activation Lock support request can take 
 Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest iOS models. Follow these steps to remove the Apple ID from your Apple iPhone 8 Plus and erase all its contents within minutes:
 
 - **Step 1:** Download and install Dr.Fone on your desktop. Launch the app and connect your Apple iPhone 8 Plus using a USB cable.
-
 
 - **Step 2:** From the **Toolbox** homepage, select **Screen Unlock**, then choose **iOS**.
 
@@ -403,6 +416,10 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 - **Step 5:** Click **Yes** to confirm you have set up a screen lock.
 
 ![validate iphone screen lock set up](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Click **Yes** to verify you have enabled [<u>two-factor authentication</u>](https://drfone.wondershare.com/remove-apple-account/how-to-get-apple-id-verification-code.html) on your Apple iPhone 8 Plus.
 
@@ -436,14 +453,15 @@ Dr.Fone Screen Unlock is a simple, easy-to-use tool compatible with the latest i
 
 ![iphone apple id unlocked](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 It can be challenging to **erase an iPhone without an Apple ID** password, but it's achievable by following the right steps. Remember to weigh the security implications and back up your data beforehand.
 
 If you're seeking a straightforward method on "**how to erase an iPhone without Apple ID**," Dr.Fone Screen Unlock tool is a good solution. With its user-friendly interface and efficient operation, Dr.Fone simplifies the process, making it accessible to users of all technical levels. Don't let a forgotten Apple ID password hinder your device's functionality. Try Dr.Fone Screen Unlock and reclaim control of your Apple iPhone 8 Plus.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -457,9 +475,24 @@ If you're seeking a straightforward method on "**how to erase an iPhone without 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-precision-narrative-craftsmanship-how-to-write-impressive-docu-scripts/"><u>[New] 2024 Approved Precision Narrative Craftsmanship How to Write Impressive Docu-Scripts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-all-inclusive-screen-recorder-azs-app-analysis/"><u>[New] All-Inclusive Screen Recorder - AZ's App Analysis</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ffortless-guide-to-adding-banners-on-gaming-channels-for-2024/"><u>[New] Effortless Guide to Adding Banners on Gaming Channels for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ranking-9-premier-video-call-and-meeting-apps-ios-vs-android-reviewed/"><u>[Updated] In 2024, Ranking 9 Premier Video Call & Meeting Apps iOS vs Android Reviewed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-tech-savvy-tips-for-recording-quality-movies-on-any-device/"><u>[Updated] Tech-Savvy Tips for Recording Quality Movies on Any Device</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-15-pro-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone 15 Pro? How to Fix it?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-versatility-of-claude-2-features-and-capabilities-unveiled/"><u>Exploring the Versatility of Claude 2: Features & Capabilities Unveiled</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-15-without-apple-id-password-by-drfone-ios/"><u>How To Erase an Apple iPhone 15 Without Apple ID Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-12-pro-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone 12 Pro without Apple ID?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-14-plus-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone 14 Plus without Apple ID?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-iphone-11-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From iPhone 11? 5 Tips You Must Know</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-apple-iphone-7-plus-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On Apple iPhone 7 Plus? 5 Tips You Must Know</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-se-2020-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone SE (2020)?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rotating-videos-using-windows-movie-maker-a-step-by-step-guide-and-other-options/"><u>Rotating Videos Using Windows Movie Maker: A Step-by-Step Guide and Other Options</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-halo-infinite-audio-glitch-no-more-stutters/"><u>Solving the Halo Infinite Audio Glitch: No More Stutters</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transform-your-journey-both-in-business-and-adventure-discover-the-new-superior-features-of-premier-xr-vision-gear/"><u>Transform Your Journey, Both in Business and Adventure - Discover the New Superior Features of Premier XR Vision Gear!</u></a></li>
+</ul></div>
 
