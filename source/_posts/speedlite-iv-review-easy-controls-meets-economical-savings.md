@@ -1,7 +1,7 @@
 ---
 title: "Speedlite IV Review: Easy Controls Meets Economical Savings"
-date: 2025-01-30T02:05:10.107Z
-updated: 2025-01-31T18:36:39.862Z
+date: 2025-02-13T20:54:41.589Z
+updated: 2025-02-14T17:29:38.373Z
 categories:
   - BestProducts
 description: "This Article Describes Speedlite IV Review: Easy Controls Meets Economical Savings"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 ## GoPro HERO7 Black
 
 ![GoPro HERO7 Black](https://www.lifewire.com/thmb/-ao16__RvzZ8ftZrr0-WWsV13Lk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_02LW4158963-1-2553e26bad2246dea19f86f8fb2c3714.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeff Dojillo
 
@@ -39,10 +43,6 @@ Lifewire / Jeff Dojillo
 [View On Amazon $374](https://www.amazon.com/dp/B07GDGZCCH?tag=lifewire-onsite-prod-20&ascsubtag=4705929%7Cnde50fad4b8a24784badd8dc01044b4ab22%7CB07GDGZCCH) [View On Best Buy $250](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2F6283807.p) [View On Musiciansfriend.com](https://www.musiciansfriend.com/pro-audio/gopro-hero7-black/l43176000000000?slfpid=3)
 
 4.3
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## GoPro HERO7 Black
 
@@ -80,7 +80,7 @@ Lifewire / Jeff Dojillo
  Lifewire / Jeff Dojillo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Classic action camera design**
@@ -100,7 +100,7 @@ Lifewire / Jeff Dojillo
  Lifewire / Jeff Dojillo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup: Updates out of the box**
@@ -120,16 +120,12 @@ Lifewire / Jeff Dojillo
  It makes your footage impressively stable even when filming handheld or while riding on rough terrain.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Lens: Great for video**
 
  The fixed lens on the GoPro HERO7 Black shoots wide or in SuperView mode, the latter of which is an extra-wide field of view and can sometimes give a kind of distorted fisheye effect to your footage. This distortion can be frustrating, but there are ways to work around it during editing, including using video editing software to correct. And when shooting at a lower resolution, the camera can shoot with a linear field of view which reduces the distortion of the lens. The SuperView is not available when shooting in a 4:3 aspect ratio.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Video Quality: Amazing 4K quality with variable frame rates**
 
@@ -178,7 +174,7 @@ Lifewire / Jeff Dojillo
  Another option to extend shooting time would be to connect the GoPro HERO7 Black to an external battery pack via the[USB port.](https://www.lifewire.com/what-is-a-usb-port-818166)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Fairly priced for what you get**
@@ -210,6 +206,10 @@ Lifewire / Jeff Dojillo
  **A rugged and compact action camera with fantastic video stabilization.**
 
  Between the amazing video quality and the enhanced HyperSmooth electronic image stabilization, the GoPro HERO7 Black is perfect for adventurers who want to record or even live-stream their most rugged expeditions. It produces beautiful videos with enhanced color and sharpness and is small enough to wear or mount somewhere without it getting in the way.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -248,21 +248,22 @@ Lifewire / Jeff Dojillo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-10-basic-blocks-house-concepts-for-mc-players/"><u>[New] 10 Basic Blocks House Concepts for MC Players</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-maximize-meeting-success-top-recording-tools-for-2024/"><u>[New] Maximize Meeting Success Top Recording Tools for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-ultimate-guide-to-top-6-video-downloader-software-on-facebook/"><u>[Updated] In 2024, The Ultimate Guide to Top 6 Video Downloader Software on Facebook</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-mastering-format-conversion-for-mac-screenshots/"><u>2024 Approved Mastering Format Conversion for Mac Screenshots</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-respecting-copyrights-when-converting-youtube-to-mp4/"><u>2024 Approved Respecting Copyrights When Converting YouTube to MP4</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-online-emporiums-where-boxes-reflect-your-style/"><u>2024 Approved Superior Online Emporiums Where Boxes Reflect Your Style</u></a></li>
-<li><a href="https://windows11.techidaily.com/accelerate-your-typing-on-win-1011-top-7-tricks-revealed/"><u>Accelerate Your Typing on WIN 10/11: Top 7 Tricks Revealed</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-iphone-7-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From iPhone 7? Find the Best Solution Here</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/frozen-frenzy-2022s-ultimate-showdown-on-snowy-olympic-rivers-for-2024/"><u>Frozen Frenzy 2022'S Ultimate Showdown on Snowy Olympic Rivers for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-13-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 13</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-apple-iphone-15-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From Apple iPhone 15? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-apple-iphone-8-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On Apple iPhone 8? Heres the Best Fixes</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-x-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your Apple iPhone X?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-iphone-x-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From iPhone X? 5 Tips You Must Know</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-apple-iphone-7-plus-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your Apple iPhone 7 Plus? How to Fix</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/leveraging-tiktok-to-mirror-your-best-features/"><u>Leveraging TikTok to Mirror Your Best Features</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-cutting-edge-tools-for-igtv-content-creation-and-editing/"><u>[New] In 2024, Cutting-Edge Tools for IGTV Content Creation and Editing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-master-video-editing-on-a-shoestring-budget-top-9-picks/"><u>[Updated] 2024 Approved Master Video Editing on a Shoestring Budget - Top 9 Picks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/180-video-rotation-techniques-how-to-flip-videos-completely/"><u>180° Video Rotation Techniques - How to Flip Videos Completely</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-iphone-15-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From iPhone 15? How to Fix it?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-the-leading-computers-of-202-expert-analysis-on-brands-like-apple-dell-by-tech-gurus-at-zdnet/"><u>Comparing the Leading Computers of 202#: Expert Analysis on Brands Like Apple, Dell by Tech Gurus at ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dissecting-the-conceptual-equivalence-between-the-internet-and-an-inclusive-non-commercialized-library-system/"><u>Dissecting the Conceptual Equivalence Between the Internet and an Inclusive, Non-Commercialized Library System</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fine-tuning-the-small-scenes-of-minecraft-for-2024/"><u>Fine-Tuning the Small Scenes of Minecraft for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-create-a-self-extracting-sfx-archive-in-windows-11/"><u>How to Create a Self-Extracting SFX Archive in Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-8-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 8</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-iphone-12-pro-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect iPhone 12 Pro and iPad</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-apple-iphone-7-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On Apple iPhone 7? How to Fix it?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-apple-iphone-13-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On Apple iPhone 13 Pro Max without Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-a2-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Oppo A2 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-se-2020-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone SE (2020) and iPad</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-14-pro-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-14-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 14</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-tutorial-mastering-the-art-of-android-screen-captures/"><u>Ultimate Tutorial: Mastering the Art of Android Screen Captures</u></a></li>
 </ul></div>
 

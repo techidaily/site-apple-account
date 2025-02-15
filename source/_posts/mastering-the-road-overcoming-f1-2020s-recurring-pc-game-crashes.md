@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Road: Overcoming F1 2020'S Recurring PC Game Crashes"
-date: 2025-01-26T22:14:37.516Z
-updated: 2025-02-01T01:35:04.624Z
+date: 2025-02-09T23:30:25.682Z
+updated: 2025-02-14T21:11:01.852Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 **[Fix 6: Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Verify if your PC meets the system requirements for PoE
 
@@ -93,15 +89,15 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  Check to see if PoE continues to crash. If it does, please try out the next method, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Verify the integrity of game files
 
@@ -111,13 +107,13 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-16-1024x218.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-click **Path of Exile** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-17.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Go to the **LOCAL FILES** tab and select **VERIFY INTEGRITY OF GAME FILES…** . Then wait for the process to be complete.
 
@@ -128,10 +124,6 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 In case this fix didn’t help, please move on to Fix 4.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Run RoE as an administrator
 
@@ -149,7 +141,7 @@ In case this fix didn’t help, please move on to Fix 4.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-19.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you should be able to run RoE under administrator privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
@@ -158,6 +150,10 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Change certain in-game configurations
 
  According to many players, turning off**Engine Multithreading** and**VSync** under Graphics settings has cleared up the crashing problem for them. Here’s how to do it:
@@ -165,6 +161,10 @@ Still unable to solve the problem? If yes, proceed to the next fix.
  1) On the Log-in screen, click**OPTIONS** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-13.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On the**Graphics** tab, disable**Engine Multithreading** and**VSync** .
 
@@ -177,7 +177,7 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Stop overclocking
@@ -208,24 +208,24 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-reviving-your-stream-tackling-facebook-live-glitches/"><u>[New] Reviving Your Stream Tackling Facebook Live Glitches</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-analyzing-toolwiz-a-photographers-digital-arsenal/"><u>[Updated] Analyzing Toolwiz A Photographer’s Digital Arsenal</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-rising-to-the-top-essential-youtube-video-seo-techniques-for-success/"><u>[Updated] In 2024, Rising to the Top Essential YouTube Video SEO Techniques for Success</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unleashing-your-camera-roll-in-a-snap-a-snapchat-tutorial-for-2024/"><u>[Updated] Unleashing Your Camera Roll in a Snap A Snapchat Tutorial for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-adding-narrative-milestones-a-youtube-video-guide/"><u>2024 Approved Adding Narrative Milestones A YouTube Video Guide</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-tecno-spark-20-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Tecno Spark 20 Pro without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversion-gratuite-de-fichiers-mp3-vers-mkv-en-ligne-avec-movavi-guide-complet/"><u>Conversion Gratuite De Fichiers MP3 Vers MKV en Ligne Avec Movavi - Guide Complet</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-14-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 14? Heres the Best Fixes</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-iphone-7-plus-by-drfone-ios/"><u>How To Create an Apple Developer Account From iPhone 7 Plus</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-apple-iphone-xs-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On Apple iPhone XS in the Best Ways</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-x-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone X?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-effortless-voice-memo-creation-on-apple-devices/"><u>In 2024, Effortless Voice Memo Creation on Apple Devices</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/05681873-in-2024-free-end-credits-maker-the-1-video-closers-guide/"><u>In 2024, Free End Credits Maker - The #1 Video Closers Guide!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-iphone-6-plus-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From iPhone 6 Plus?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-iphone-se-2022-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On iPhone SE (2022)</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-apple-iphone-14-pro-max-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From Apple iPhone 14 Pro Max Making It Possible</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-apple-iphone-11-pro-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your Apple iPhone 11 Pro? How to Fix</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-nubia-red-magic-9-proplus-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Nubia Red Magic 9 Pro+ Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-se-2020-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/levating-youtube-live-with-high-quality-webcam-cameras/"><u>[New] Elevating YouTube Live with High-Quality Webcam Cameras</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-humorous-highlights-create-with-kapwing-meme-maker/"><u>[New] Humorous Highlights Create with Kapwing Meme Maker</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-revolutionize-your-workflow-with-lenovos-screen-capture-tools/"><u>[New] Revolutionize Your Workflow with Lenovo's Screen Capture Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-from-script-to-screen-magix-video-pro-xs-production-journey/"><u>2024 Approved From Script to Screen Magix Video Pro X's Production Journey</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/5aac5l2v5pyj5pwi5zyw5rif55cg5zkm6yen5bu65l2g55qe6loh5rqq5zue5ps25qg2ic0g5q2l6amf5oyh5y2x/"><u>如何有效地清理和重建你的資源回收桶 - 步驟指南</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-xr-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone XR How to Bypass?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-apple-iphone-6s-plus-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On Apple iPhone 6s Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cambia-tus-archivos-mp4-a-formato-de-video-mov-sin-coste-con-el-convertidor-mas-rapido-y-facil-online-movavi/"><u>Cambia Tus Archivos MP4 a Formato De Vídeo MOV Sin Coste Con El Convertidor Más Rápido Y Fácil Online: Movavi</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-xs-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By Apple iPhone XS without the Previous Owner?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/deciphering-instagrams-video-snippet-size/"><u>Deciphering Instagram's Video Snippet Size</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-14-pro-max-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 14 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-13-pro-max-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 13 Pro Max From Your Apple ID</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-11-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-11-pro-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone 11 Pro How to Bypass?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-apple-iphone-7-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On Apple iPhone 7? Find the Best Solution Here</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-mastering-the-art-of-shorts-imagery-quick-smart-updates/"><u>In 2024, Mastering the Art of Shorts Imagery Quick, Smart Updates</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-rejuvenate-non-responding-windows-download-folder/"><u>Steps to Rejuvenate Non-Responding Windows Download Folder</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-tecno-pop-8-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Tecno Pop 8 IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
 
